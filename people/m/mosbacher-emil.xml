@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>mosbacher-emil</id>
+    <persName>
+        <surname>Mosbacher</surname>
+        <forename>Emil</forename>
+        <genName>Jr.</genName>
+    </persName>
+    <birth>1922</birth>
+    <death>1997</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>ny</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

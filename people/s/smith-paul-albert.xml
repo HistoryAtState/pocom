@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>smith-paul-albert</id>
+    <persName>
+        <surname>Smith</surname>
+        <forename>Paul Albert</forename>
+        <altname>Paul A. Smith</altname>
+    </persName>
+    <birth>1901</birth>
+    <death>1978</death>
+    <career-type>appointee</career-type>
+    <residence><state-id/></residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2013-04-13</last-modified-date>
+</person>

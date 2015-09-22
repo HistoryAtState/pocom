@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>still-living-code</name>
+    <description>A list of codes to indicate if a person is still living.</description>
+    <items>
+        <item>
+            <label>Select a Still Living Code...</label>
+            <value/>
+            <definition>Null Value.</definition>
+        </item>
+        <item>
+            <label>Still Living</label>
+            <value>still-living</value>
+            <definition>This person is still living so no death date is specified.</definition>
+        </item>
+        <item>
+            <label>Known Date</label>
+            <value>known</value>
+            <definition>The death date is known.</definition>
+        </item>
+        <item>
+            <label>Unknown Date</label>
+            <value>unknown</value>
+            <definition>This person is no longer living but the death date is unknown.</definition>
+        </item>
+    </items>
+</code-table>

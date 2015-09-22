@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>career-appointee-code</name>
+    <description>A list of codes to indicate if a person is non-career appointee or a Foreign Service officer.</description>
+    <items>
+        <item>
+            <label>Selecte a value...</label>
+            <value/>
+            <definition/>
+        </item>
+        <item>
+            <label>Non-career appointee</label>
+            <value>appointee</value>
+            <definition>Put definition here.</definition>
+        </item>
+        <item>
+            <label>Foreign Service Officer</label>
+            <value>fso</value>
+            <definition>Put definition here.</definition>
+        </item>
+        <item>
+            <label>Foreign Service Officer and Non-career appointee</label>
+            <value>both</value>
+            <definition>Put definition here.</definition>
+        </item>
+    </items>
+</code-table>

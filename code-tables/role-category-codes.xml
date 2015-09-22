@@ -1,0 +1,65 @@
+<code-table>
+    <name>role-category-code</name>
+    <hint>Role category codes.  Used to group roles.</hint>
+    <items>
+        <item>
+            <label>Select a role category...</label>
+            <value/>
+        </item>
+        <item>
+            <label>Secretaries</label>
+            <value>secretary</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Assistant Secretaries</label>
+            <value>assistant-secretary</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Deputy Secretaries of State</label>
+            <value>deputy-secretary</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Under Secretaries of State with Functional Titles</label>
+            <value>under-secretary</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Ambassadors at Large</label>
+            <value>ambassador-at-large</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Assistant Secretaries of State for Geographic Areas</label>
+            <value>assistant-secretary-geo</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Assistant Secretaries of State or Equivalents with Functional Designations</label>
+            <value>assistant-secretary-or-equiv</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Heads of Other Foreign Assistance Agencies, 1948-1997</label>
+            <value>foreign-assistance-agencies</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Discontinued Positions</label>
+            <value>discontinued</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Chiefs of Mission to International Organizations</label>
+            <value>international-organization</value>
+            <definition>None.</definition>
+        </item>
+        <item>
+            <label>Country</label>
+            <value>country</value>
+            <definition>None.</definition>
+        </item>
+    </items>
+</code-table>

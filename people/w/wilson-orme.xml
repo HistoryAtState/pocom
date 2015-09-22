@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>wilson-orme</id>
+    <persName>
+        <surname>Wilson</surname>
+        <forename>Orme</forename>
+        <genName>Jr.</genName>
+    </persName>
+    <birth>1885</birth>
+    <death>1966</death>
+    <career-type>fso</career-type>
+    <residence>
+        <state-id>ny</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

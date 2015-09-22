@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>hare-raymond-arthur</id>
+    <persName>
+        <surname>Hare</surname>
+        <forename>Raymond Arthur</forename>
+        <altname>Raymond A. Hare</altname>
+    </persName>
+    <birth>1901</birth>
+    <death>1994</death>
+    <career-type>fso</career-type>
+    <residence>
+        <state-id>ia</state-id>
+        <state-id>wv</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

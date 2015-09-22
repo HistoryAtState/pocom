@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<principal-position>
+    <id>director-foreign-operations-administration</id>
+    <class>principal</class>
+    <category>foreign-assistance-agencies</category>
+    <names>
+        <singular>Director of the Foreign Operations Administration</singular>
+        <plural>Directors of the Foreign Operations Administration</plural>
+    </names>
+    <start accuracy="yyyy">1953</start>
+    <end accuracy="yyyy">1955</end>
+    <ongoing>false</ongoing>
+    <description>
+        <div>
+            <p>Reorganization Plan No. 7 of 1953 (67 Stat. 639) established the Foreign Operations Administration to oversee foreign assistance programs previously administered by the Mutual Security Agency and the Technical Cooperation Administration. The Director was appointed by the President with the advice and consent of the Senate. Executive Order 10610 of May 9, 1955, abolished the Foreign Operations Administration, after which its economic assistance passed to the International Cooperation Administration and its military assistance function to the Department of Defense.</p>
+        </div>
+    </description>
+    <is-dirty>false</is-dirty>
+    <principals>
+        <principal>
+            <id>admi-1953-stas</id>
+            <person-id>stassen-harold-e</person-id>
+            <role-title-id>director-foreign-operations-administration</role-title-id>
+            <appointed>
+                <date>1953-08-03</date>
+                <note/>
+            </appointed>
+            <started subtype="see-note">
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1955-03-19</date>
+                <note/>
+            </ended>
+            <note>Had formerly served as Director of the Mutual Security Agency; authorized by the President on Aug 1, 1953, to occupy the new position of Director of the Foreign Operations Administration, pending Senate confirmation of his appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2013-04-30</last-modified-date>
+        </principal>
+    </principals>
+    <other-appointees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-18</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-18</last-modified-date>
+</principal-position>

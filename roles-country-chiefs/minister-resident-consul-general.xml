@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<role mode="active">
+    <id>minister-resident-consul-general</id>
+    <class>chief</class>
+    <category>country</category>
+    <names>
+        <singular>Minister Resident/Consul General</singular>
+        <plural>Ministers Resident/Consuls General</plural>
+    </names>
+    <description>
+        <div>
+            <p/>
+        </div>
+    </description>
+</role>

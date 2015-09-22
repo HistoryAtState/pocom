@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>role-chief-event-code</name>
+    <description>Event types for chief roles.</description>
+    <items>
+        <item>
+            <label>Select a Chief Event...</label>
+            <class>chief</class>
+            <value/>
+        </item>
+        <item>
+            <label>Appointed</label>
+            <value>appointed</value>
+            <class>chief</class>
+            <definition>The date a person is appointed to this position.</definition>
+        </item>
+        <item>
+            <label>Credentialed</label>
+            <value>credentialed</value>
+            <class>chief</class>
+            <definition>The date a person is credentialed for this position.</definition>
+        </item>
+        <item>
+            <label>Mission Terminated</label>
+            <value>missionterminated</value>
+            <class>chief</class>
+            <definition>The date the mission is terminated for this role.</definition>
+        </item>
+    </items>
+</code-table>

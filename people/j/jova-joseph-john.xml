@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>jova-joseph-john</id>
+    <persName>
+        <surname>Jova</surname>
+        <forename>Joseph John</forename>
+        <altname>Joseph J. Jova</altname>
+    </persName>
+    <birth>1916</birth>
+    <death>1993</death>
+    <career-type>fso</career-type>
+    <residence>
+        <state-id>fl</state-id>
+        <state-id>ny</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2011-05-26</last-modified-date>
+</person>

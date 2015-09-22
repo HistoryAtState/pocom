@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>crocker-ryan-clark</id>
+    <persName>
+        <surname>Crocker</surname>
+        <forename>Ryan Clark</forename>
+        <altname>Ryan C. Crocker</altname>
+    </persName>
+    <birth>1949</birth>
+    <death/>
+    <career-type>fso</career-type>
+    <residence>
+        <state-id>dc</state-id>
+        <state-id>wa</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2013-11-26</last-modified-date>
+</person>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>warren-charles-beecher</id>
+    <persName>
+        <surname>Warren</surname>
+        <forename>Charles Beecher</forename>
+        <altname>Charles Warren Hostler</altname>
+    </persName>
+    <birth>1870</birth>
+    <death>1936</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>ca</state-id>
+        <state-id>mi</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

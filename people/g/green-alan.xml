@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>green-alan</id>
+    <persName>
+        <surname>Green</surname>
+        <forename>Alan</forename>
+        <genName>Jr.</genName>
+    </persName>
+    <birth>1925</birth>
+    <death>2001</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>or</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

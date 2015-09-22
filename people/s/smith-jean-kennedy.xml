@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>smith-jean-kennedy</id>
+    <persName>
+        <surname>Smith</surname>
+        <forename>Jean Kennedy</forename>
+    </persName>
+    <birth>1928</birth>
+    <death/>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>ny</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>good-robert-crocker</id>
+    <persName>
+        <surname>Good</surname>
+        <forename>Robert Crocker</forename>
+        <altname>Robert C. Good</altname>
+        <altname>Robert F. Goodwin</altname>
+    </persName>
+    <birth>1924</birth>
+    <death>1984</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>dc</state-id>
+        <state-id>md</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

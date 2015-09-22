@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>wine-james-wilmer</id>
+    <persName>
+        <surname>Wine</surname>
+        <forename>James Wilmer</forename>
+        <altname>James Wine</altname>
+    </persName>
+    <birth>1918</birth>
+    <death>1990</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>ct</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2012-03-05</last-modified-date>
+</person>

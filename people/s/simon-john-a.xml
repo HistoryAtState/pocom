@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>simon-john-a</id>
+    <persName>
+        <surname>Simon</surname>
+        <forename>John A.</forename>
+    </persName>
+    <birth>1968</birth>
+    <death/>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>md</state-id>
+    </residence>
+    <created-by>marrsaw</created-by>
+    <created-date>2013-07-09</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2015-03-04</last-modified-date>
+</person>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<role mode="active">
+    <id>deputy-ambassador</id>
+    <class>chief</class>
+    <category>country</category>
+    <names>
+        <singular>Deputy Ambassador</singular>
+        <plural>Deputy Ambassadors</plural>
+    </names>
+    <description>
+        <div>
+            <p/>
+        </div>
+    </description>
+</role>

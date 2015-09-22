@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>fowler-wyche</id>
+    <persName>
+        <surname>Fowler</surname>
+        <forename>Wyche</forename>
+        <genName>Jr.</genName>
+    </persName>
+    <birth>1940</birth>
+    <death/>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>ga</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

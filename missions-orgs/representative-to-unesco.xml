@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org-mission>
+    <id>representative-to-unesco</id>
+    <category>international-organization</category>
+    <names>
+        <singular>U.S. Permanent Representative to the United Nations Educational,
+            Scientific and Cultural Organization</singular>
+        <plural>U.S. Permanent Representatives to the United Nations Educational,
+            Scientific and Cultural Organization</plural>
+    </names>
+    <description>
+        <div>
+            <p>The Chief of Mission has the title of U.S. Permanent Representatives to the United Nations Educational, Scientific and Cultural Organization. Representatives from Morrow to Wade served with the personal rank of Minister. All Representatives to UNESCO have been designated, not commissioned.</p>
+        </div>
+    </description>
+    <chiefs>
+        <chief>
+            <id>unes-1961-morr</id>
+            <person-id>morrow-john-howard</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed subtype="bracketed">
+                <date>1961-04-02</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1963-02-16</date>
+                <note/>
+            </ended>
+            <note>Served with the personal rank of Minister. Designated, not commissioned.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes-1962-haus</id>
+            <person-id>haussamen-crane</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed subtype="bracketed">
+                <date>1962-01-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1964-09-13</date>
+                <note/>
+            </ended>
+            <note>Served with the personal rank of Minister. Designated, not commissioned.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes-1964-wade</id>
+            <person-id>wade-robert-hirsch-beard</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed subtype="bracketed">
+                <date>1964-08-21</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1969-09-20</date>
+                <note/>
+            </ended>
+            <note>Served with the personal rank of Minister. Designated, not commissioned.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2013-05-02</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes-1969-grah</id>
+            <person-id>graham-pierre-robert</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed subtype="bracketed">
+                <date>1969-09-07</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1973-09-15</date>
+                <note/>
+            </ended>
+            <note>Designated, not commissioned.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes-1973-jone</id>
+            <person-id>jones-william-bowdoin</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed subtype="bracketed">
+                <date>1973-09-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1977-08-03</date>
+                <note/>
+            </ended>
+            <note>Designated, not commissioned.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes-1978-torr</id>
+            <person-id>torres-esteban-edward</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed subtype="bracketed">
+                <date>1978-10-12</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1979-09-08</date>
+                <note/>
+            </ended>
+            <note>Designated, not commissioned.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes-1979-newe</id>
+            <person-id>newell-barbara-warne</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed subtype="bracketed">
+                <date>1979-09-26</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1981-02-16</date>
+                <note/>
+            </ended>
+            <note>Designated, not commissioned.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes-1981-gera</id>
+            <person-id>gerard-jean-broward-shevlin</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed subtype="bracketed">
+                <date>1981-11-06</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1984-12-31</date>
+                <note>The United States withdrew from UNESCO, effective</note>
+            </ended>
+            <note>Designated, not commissioned.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2014-01-13</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes-2004-oliv</id>
+            <person-id>oliver-louise-v</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed>
+                <date>2004-02-12</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>2009-01-20</date>
+                <note/>
+            </ended>
+            <note>The United States announced its intention to rejoin UNESCO on September 12, 2002, but no Permanent Representative was nominated until 2004.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2014-01-13</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2014-01-13</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes-2009-kill</id>
+            <person-id>killion-david</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed>
+                <date>2009-08-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>2013-12-16</date>
+                <note/>
+            </ended>
+            <created-by>marrsaw</created-by>
+            <created-date>2014-01-13</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2014-01-13</last-modified-date>
+        </chief>
+        <chief>
+            <id>unes--nix-</id>
+            <person-id>nix-hines-crystal</person-id>
+            <role-title-id>representative-to-unesco</role-title-id>
+            <appointed>
+                <date>2014-07-08</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2014-01-13</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-05-05</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-appointees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-17</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-17</last-modified-date>
+</org-mission>

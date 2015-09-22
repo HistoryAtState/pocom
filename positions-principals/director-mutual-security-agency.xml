@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<principal-position>
+    <id>director-mutual-security-agency</id>
+    <class>principal</class>
+    <category>foreign-assistance-agencies</category>
+    <names>
+        <singular>Director of the Mutual Security Agency</singular>
+        <plural>Directors of the Mutual Security Agency</plural>
+    </names>
+    <start accuracy="yyyy">1951</start>
+    <end accuracy="yyyy">1953</end>
+    <ongoing>false</ongoing>
+    <description>
+        <div>
+            <p>In the Mutual Security Act of 1951 (Oct 10, 1951; 65 Stat. 378), Congress established the Mutual Security Agency, which superseded the Economic Cooperation Administration. The Mutual Security Agency was responsible for the development and administration of military assistance as well as economic assistance programs other than those administered by the Technical Cooperation Administration. The Director was appointed by the President, with the advice and consent of the Senate. Reorganization Plan No. 7 1953 (67 Stat. 641) abolished the Mutual Security Agency and transferred its functions to the Foreign Operations Administration, effective Aug 1, 1953.</p>
+        </div>
+    </description>
+    <is-dirty>false</is-dirty>
+    <principals>
+        <principal>
+            <id>agen-1951-harr</id>
+            <person-id>harriman-william-averell</person-id>
+            <role-title-id>director-mutual-security-agency</role-title-id>
+            <appointed>
+                <date>1951-10-19</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1951-10-31</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1953-01-20</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+        <principal>
+            <id>agen-1953-stas</id>
+            <person-id>stassen-harold-e</person-id>
+            <role-title-id>director-mutual-security-agency</role-title-id>
+            <appointed>
+                <date>1953-01-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1953-01-28</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1953-08-01</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2013-04-30</last-modified-date>
+        </principal>
+    </principals>
+    <other-appointees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-18</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-18</last-modified-date>
+</principal-position>

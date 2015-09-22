@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>erwin-john-draper</id>
+    <persName>
+        <surname>Erwin</surname>
+        <forename>John Draper</forename>
+        <altname>John D. Erwin</altname>
+    </persName>
+    <birth>1883</birth>
+    <death>1983</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>tn</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2013-04-08</last-modified-date>
+</person>

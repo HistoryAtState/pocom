@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>barrett-john</id>
+    <persName>
+        <surname>Barrett</surname>
+        <forename>John</forename>
+    </persName>
+    <birth>1866</birth>
+    <death>1938</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>or</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2013-11-26</last-modified-date>
+</person>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<principal-position>
+    <id>coordinator-intl-communications-information-policy</id>
+    <class>principal</class>
+    <category>discontinued</category>
+    <names>
+        <singular>Coordinator for International Communications and Information Policy</singular>
+        <plural>Coordinators for International Communications and Information Policy</plural>
+    </names>
+    <start accuracy="yyyy">1984</start>
+    <end accuracy="yyyy">1993</end>
+    <ongoing>false</ongoing>
+    <description>
+        <div>
+            <p>On Nov 22, 1983, Congress, in the Department of State Authorization Act for Fiscal Years 1984 and 1985 (P.L. 98-164; 97 Stat. 1025), made the Coordinator for International Communications and Information Policy a Presidential appointee subject to the advice and consent of the Senate. The Department of State had established the position on Dec 29, 1981, and made the incumbent responsible to the Under Secretary of State for Security Assistance, Science, and Technology. The coordinator acquired a rank equivalent to an Assistant Secretary of State and the personal rank of Ambassador in Apr 15, 1983, and became head of a new Bureau of International Communications and Information Policy on Jun 4, 1985. This Bureau was incorporated into the Bureau of Economic and Business Affairs under the Reorganization Plan of Feb 5, 1993. The merger took place May 12, 1994. Richard C. Beaird served as Acting Coordinator Feb 1993-May 1994.</p>
+        </div>
+    </description>
+    <is-dirty>false</is-dirty>
+    <principals>
+        <principal>
+            <id>poli-1984-doug</id>
+            <person-id>dougan-diana-lady</person-id>
+            <role-title-id>coordinator-intl-communications-information-policy</role-title-id>
+            <appointed>
+                <date>1984-08-03</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1984-10-04</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1988-01-29</date>
+                <note/>
+            </ended>
+            <note>Date of commission. Had been serving in this capacity, with the personal rank of Ambassador since Apr 15, 1983.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+        <principal>
+            <id>poli-1988-land</id>
+            <person-id>landau-sonia</person-id>
+            <role-title-id>coordinator-intl-communications-information-policy</role-title-id>
+            <appointed>
+                <date>1988-11-22</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1988-11-23</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1989-11-20</date>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-05-12</last-modified-date>
+        </principal>
+        <principal>
+            <id>poli-1989-holm</id>
+            <person-id>holmes-bradley-paul</person-id>
+            <role-title-id>coordinator-intl-communications-information-policy</role-title-id>
+            <appointed>
+                <date>1989-11-21</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1989-11-22</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1993-02-05</date>
+                <note>Position eliminated</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+        <principal>
+            <id>poli-2013-sepu</id>
+            <person-id>sepulveda-daniel-alejandro</person-id>
+            <role-title-id>coordinator-intl-communications-information-policy</role-title-id>
+            <appointed>
+                <date>2013-08-06</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2014-07-15</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2014-07-15</last-modified-date>
+        </principal>
+    </principals>
+    <other-appointees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-18</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-18</last-modified-date>
+</principal-position>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<role mode="active">
+    <id>director</id>
+    <class>chief</class>
+    <category>country</category>
+    <names>
+        <singular>Director</singular>
+        <plural>Directors</plural>
+    </names>
+    <description>
+        <div>
+            <p>Used for certain liaison offices, such as Luanda.</p>
+        </div>
+    </description>
+</role>

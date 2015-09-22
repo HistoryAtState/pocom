@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>date-known-code</name>
+    <description>A list of codes to indicate if the date is known or unknown.</description>
+    <items>
+        <item>
+            <label>Select a value...</label>
+            <value/>
+        </item>
+        <item>
+            <label>Known Date</label>
+            <value>known</value>
+            <definition>The date is known.</definition>
+        </item>
+        <item>
+            <label>Unknown Date</label>
+            <value>unknown</value>
+            <definition>The date is unknown.</definition>
+        </item>
+    </items>
+</code-table>

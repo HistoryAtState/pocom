@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>hartman-arthur-adair</id>
+    <persName>
+        <surname>Hartman</surname>
+        <forename>Arthur Adair</forename>
+        <altname>Arthur A. Hartman</altname>
+    </persName>
+    <birth>1926</birth>
+    <death>2015</death>
+    <career-type>fso</career-type>
+    <residence>
+        <state-id>md</state-id>
+        <state-id>nj</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2015-07-20</last-modified-date>
+</person>

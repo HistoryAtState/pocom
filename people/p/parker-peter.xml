@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>parker-peter</id>
+    <persName>
+        <surname>Parker</surname>
+        <forename>Peter</forename>
+    </persName>
+    <birth>1804</birth>
+    <death>1888</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>ma</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

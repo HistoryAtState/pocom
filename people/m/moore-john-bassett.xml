@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>moore-john-bassett</id>
+    <persName>
+        <surname>Moore</surname>
+        <forename>John Bassett</forename>
+        <altname>John B. Moore</altname>
+    </persName>
+    <birth>1860</birth>
+    <death>1947</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>de</state-id>
+        <state-id>ny</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

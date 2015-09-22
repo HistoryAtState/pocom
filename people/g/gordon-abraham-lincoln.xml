@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>gordon-abraham-lincoln</id>
+    <persName>
+        <surname>Gordon</surname>
+        <forename>Abraham Lincoln</forename>
+        <altname>Lincoln Gordon</altname>
+    </persName>
+    <birth>1913</birth>
+    <death>2009</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>ma</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2011-05-23</last-modified-date>
+</person>

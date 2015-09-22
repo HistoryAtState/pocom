@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>gray-david-jr</id>
+    <persName>
+        <surname>Gray</surname>
+        <forename>David</forename>
+        <genName>Jr.</genName>
+        <altname>David Gray</altname>
+    </persName>
+    <birth>1870</birth>
+    <death>1968</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>fl</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

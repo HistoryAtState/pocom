@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concurrent-appointments>
+    <id>2013-cost-01</id>
+    <person-id>costos-james</person-id>
+    <resident-at>
+        <locale-id>madrid</locale-id>
+        <contemporary-territory-id>spain</contemporary-territory-id>
+    </resident-at>
+    <chief-id>ad-2013-cost-01</chief-id>
+    <chief-id>es-2013-cost-01</chief-id>
+    <created-by>marrsaw</created-by>
+    <created-date>2015-06-10</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2015-06-10</last-modified-date>
+</concurrent-appointments>

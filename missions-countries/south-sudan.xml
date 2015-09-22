@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country-mission>
+    <territory-id>south-sudan</territory-id>
+    <chiefs>
+        <chief>
+            <id>ss-2011-page-01</id>
+            <person-id>page-susan</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>south-sudan</contemporary-territory-id>
+            <appointed>
+                <date>2011-10-19</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2011-12-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2014-08-23</date>
+                <note>Left post.</note>
+            </ended>
+            <note>The United States recognized the independence of South Sudan on July 9, 2011. Consulate General Juba became an Embassy on July 9, with R. Barrie Walkley as Chargé d’Affaires ad interim.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2012-09-24</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2012-09-24</last-modified-date>
+        </chief>
+        <chief>
+            <id>ss--phee-01</id>
+            <person-id>phee-mary-catherine</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>south-sudan</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date></date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note>Nomination of November 12, 2014, not acted upon by the Senate. Re-nominated February 12, 2015.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-07-13</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-07-13</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-17</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-17</last-modified-date>
+</country-mission>

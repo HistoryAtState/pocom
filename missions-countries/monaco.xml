@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country-mission>
+    <territory-id>monaco</territory-id>
+    <chiefs>
+        <chief>
+            <id>mc-2006-stap-01</id>
+            <person-id>stapleton-craig-roberts</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>monaco</contemporary-territory-id>
+            <appointed>
+                <date>2006-11-22</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2006-12-13</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2009-01-29</date>
+                <note>Left Paris</note>
+            </ended>
+            <note>Ambassadors from Stapleton to the present are also accredited to France; resident at Paris.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2012-04-03</last-modified-date>
+        </chief>
+        <chief>
+            <id>mc-2009-rivk-01</id>
+            <person-id>rivkin-charles-hammerman</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>monaco</contemporary-territory-id>
+            <appointed>
+                <date>2009-06-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2009-10-02</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2013-11-20</date>
+                <note>Left post.</note>
+            </ended>
+            <note>Also accredited to France; resident at Paris</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2012-04-03</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2014-07-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>mc-2014-hart-01</id>
+            <person-id>hartley-jane-dorothy</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>monaco</contemporary-territory-id>
+            <appointed>
+                <date>2014-09-26</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2014-11-05</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-07-13</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-07-13</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-17</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-17</last-modified-date>
+</country-mission>

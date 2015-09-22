@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>mclane-louis</id>
+    <persName>
+        <surname>McLane</surname>
+        <forename>Louis</forename>
+    </persName>
+    <birth>1786</birth>
+    <death>1857</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>de</state-id>
+        <state-id>md</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

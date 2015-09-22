@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org-mission>
+    <id>representative-to-unafa</id>
+    <category>international-organization</category>
+    <names>
+        <singular>U.S. Representative to the United Nations Agencies for Food and
+            Agriculture (Rome)</singular>
+        <plural>U.S. Representatives to the United Nations Agencies for Food and
+            Agriculture (Rome)</plural>
+    </names>
+    <description>
+        <div>
+            <p>The Chief of Mission has the title of U.S. Representative to the U.N. Agencies for Food and Agriculture, with the rank of Ambassador.</p>
+        </div>
+    </description>
+    <chiefs>
+        <chief>
+            <id>unaf-1983-fenw</id>
+            <person-id>fenwick-millicent</person-id>
+            <role-title-id>representative-to-unafa</role-title-id>
+            <appointed>
+                <date>1983-06-13</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1987-03-20</date>
+                <note/>
+            </ended>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>unaf-2009-cous</id>
+            <person-id>cousin-ertharin</person-id>
+            <role-title-id>representative-to-unafa</role-title-id>
+            <appointed>
+                <date>2009-08-17</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>2012-04-04</date>
+                <note/>
+            </ended>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2012-09-24</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2012-09-24</last-modified-date>
+        </chief>
+        <chief>
+            <id>unaf-2012-lane</id>
+            <person-id>lane-david-j</person-id>
+            <role-title-id>representative-to-unafa</role-title-id>
+            <appointed>
+                <date>2012-06-04</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2012-09-24</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2012-09-24</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-appointees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-17</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-17</last-modified-date>
+</org-mission>

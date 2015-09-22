@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>moose-george-edward</id>
+    <persName>
+        <surname>Moose</surname>
+        <forename>George Edward</forename>
+        <altname>George E. Moose</altname>
+    </persName>
+    <birth>1944</birth>
+    <death/>
+    <career-type>fso</career-type>
+    <residence>
+        <state-id>co</state-id>
+        <state-id>md</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

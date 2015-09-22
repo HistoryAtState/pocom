@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<principal-position>
+    <id>comptroller-director-global-financial-services</id>
+    <class>principal</class>
+    <category>assistant-secretary-or-equiv</category>
+    <names>
+        <singular>Comptroller and Director of the Bureau of Global Financial Services</singular>
+        <plural>Comptrollers and Directors of the Bureau of Global Financial Services</plural>
+    </names>
+    <start accuracy="yyyy">2012</start>
+    <end accuracy="yyyy"/>
+    <ongoing>true</ongoing>
+    <description>
+        <div>
+            <p>The Department of State divided the Bureau of Resource
+        Management into the Bureau of Budget and Planning and the Bureau of the Comptroller and of
+        Global Financial Services on June 29, 2012.</p>
+        </div>
+    </description>
+    <is-dirty>false</is-dirty>
+    <principals>
+        <principal>
+            <id>serv-2012-mill</id>
+            <person-id>millette-james-l</person-id>
+            <role-title-id>comptroller-director-global-financial-services</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2012-06-29</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>New position. Designated, not commissioned. Had served as Acting Assistant Secretary for Resource Management and Chief Financial Officer from Jan. 20, 2009.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2013-10-01</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2013-10-01</last-modified-date>
+        </principal>
+    </principals>
+    <other-appointees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-18</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-18</last-modified-date>
+</principal-position>

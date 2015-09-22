@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>smith-robert-solwin</id>
+    <persName>
+        <surname>Smith</surname>
+        <forename>Robert Solwin</forename>
+        <altname>Robert S. Smith</altname>
+    </persName>
+    <birth>1924</birth>
+    <death>2013</death>
+    <career-type>appointee</career-type>
+    <residence>
+        <state-id>dc</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2013-09-27</last-modified-date>
+</person>

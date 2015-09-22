@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<principal-position>
+    <id>director-bureau-german-affairs</id>
+    <class>principal</class>
+    <category>discontinued</category>
+    <names>
+        <singular>Director of the Bureau of German Affairs</singular>
+        <plural>Directors of the Bureau of German Affairs</plural>
+    </names>
+    <start accuracy="yyyy">1950</start>
+    <end accuracy="yyyy">1952</end>
+    <ongoing>false</ongoing>
+    <description>
+        <div>
+            <p>The Bureau of German Affairs was organized on Nov 1, 1949, superseding the Office of German and Austrian Affairs. Its Director held rank equivalent to an Assistant Secretary of State. The first incumbent was commissioned by the President and the second designated by the Secretary of State. The Bureau was abolished and its functions transferred to the Bureau of European Affairs on Nov 2, 1953.</p>
+        </div>
+    </description>
+    <is-dirty>false</is-dirty>
+    <principals>
+        <principal>
+            <id>affa-1950-byro</id>
+            <person-id>byroade-henry-alfred</person-id>
+            <role-title-id>director-bureau-german-affairs</role-title-id>
+            <appointed>
+                <date>1950-09-22</date>
+                <note/>
+            </appointed>
+            <started subtype="see-note">
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1952-04-13</date>
+                <note/>
+            </ended>
+            <note>Had been serving since Nov 1, 1949, under an appointment by the Secretary of State.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+        <principal>
+            <id>affa-1952-ridd</id>
+            <person-id>riddleberger-james-williams</person-id>
+            <role-title-id>director-bureau-german-affairs</role-title-id>
+            <appointed subtype="bracketed">
+                <date>1952-05-14</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1952-07-31</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+    </principals>
+    <other-appointees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-18</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-18</last-modified-date>
+</principal-position>

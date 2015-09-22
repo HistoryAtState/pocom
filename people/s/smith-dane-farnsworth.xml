@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>smith-dane-farnsworth</id>
+    <persName>
+        <surname>Smith</surname>
+        <forename>Dane Farnsworth</forename>
+        <genName>Jr.</genName>
+        <altname>Dane Farnswoth Smith Jr.</altname>
+    </persName>
+    <birth>1940</birth>
+    <death/>
+    <career-type>fso</career-type>
+    <residence>
+        <state-id>nm</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2010-05-20</last-modified-date>
+</person>

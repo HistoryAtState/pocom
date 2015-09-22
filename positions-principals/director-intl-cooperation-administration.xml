@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<principal-position>
+    <id>director-intl-cooperation-administration</id>
+    <class>principal</class>
+    <category>foreign-assistance-agencies</category>
+    <names>
+        <singular>Director of the International Cooperation Administration</singular>
+        <plural>Directors of the International Cooperation Administration</plural>
+    </names>
+    <start accuracy="yyyy">1955</start>
+    <end accuracy="yyyy">1961</end>
+    <ongoing>false</ongoing>
+    <description>
+        <div>
+            <p>State Department Delegation of Authority No. 85 of Jun 30, 1955, established the International Cooperation Administration pursuant to Executive Order 10610 of May 9, 1955, under the authority of the Mutual Security Act of 1954 (68 Stat. 857). The International Cooperation Administration was responsible for all U.S. foreign assistance programs, except for military assistance, programs involving refugees, and contributions to international organizations. The Director was appointed by the President with the advice and consent of the Senate. The Foreign Assistance Act of 1961 (Sep 4, 1961; 75 Stat. 445) abolished the ICA and transferred its functions to the Agency for International Development.</p>
+        </div>
+    </description>
+    <is-dirty>false</is-dirty>
+    <principals>
+        <principal>
+            <id>admi-1955-holl</id>
+            <person-id>hollister-john-baker</person-id>
+            <role-title-id>director-intl-cooperation-administration</role-title-id>
+            <appointed>
+                <date>1955-07-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1955-07-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1957-09-13</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+        <principal>
+            <id>admi-1957-smit</id>
+            <person-id>smith-james-hopkins</person-id>
+            <role-title-id>director-intl-cooperation-administration</role-title-id>
+            <appointed>
+                <date>1957-10-04</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1957-10-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1959-01-31</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+        <principal>
+            <id>admi-1959-ridd</id>
+            <person-id>riddleberger-james-williams</person-id>
+            <role-title-id>director-intl-cooperation-administration</role-title-id>
+            <appointed>
+                <date>1959-03-09</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1959-03-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1961-02-22</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+    </principals>
+    <other-appointees/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-18</created-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2014-09-18</last-modified-date>
+</principal-position>
