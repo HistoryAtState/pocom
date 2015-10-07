@@ -3,27 +3,50 @@
     <territory-id>bangladesh</territory-id>
     <chiefs>
         <chief>
-            <id>bd-1972-eilt-01</id>
-            <person-id>eilts-hermann-frederick</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
+            <id>bd-1972-spiv-01</id>
+            <person-id>spivack-herbert-daniel</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
             <appointed>
-                <date>1972-09-11</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1972-05</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1972-10</date>
                 <note/>
             </ended>
-            <note>Declined appointment.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-09-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>bd-1972-newb-01</id>
+            <person-id>newberry-daniel-oliver</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>bangladesh</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1972-10</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1974-04</date>
+                <note/>
+            </ended>
+            <note></note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-09-23</last-modified-date>
         </chief>
         <chief>
             <id>bd-1974-bost-01</id>
@@ -292,14 +315,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2007-06-23</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2015-09-23</last-modified-date>
         </chief>
         <chief>
             <id>bd-2008-mori-01</id>
@@ -370,54 +393,32 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief>
-            <id>bd--newb-01</id>
-            <person-id>newberry-daniel-oliver</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>bangladesh</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Oct 1972-Apr 1974.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-15</last-modified-date>
-        </chief>
-        <chief>
-            <id>bd--spiv-01</id>
-            <person-id>spivack-herbert-daniel</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>bangladesh</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Dacca (now Dhaka) was established May 18, 1972, with Herbert D. Spivack as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-30</last-modified-date>
-        </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>bd-1972-eilt-01</id>
+            <person-id>eilts-hermann-frederick</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>bangladesh</contemporary-territory-id>
+            <appointed>
+                <date>1972-09-11</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-09-23</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>
