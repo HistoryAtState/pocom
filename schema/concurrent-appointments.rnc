@@ -1,0 +1,15 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+element concurrent-appointments {
+    element id { text },
+    element person-id { text },
+    element resident-at {
+        element locale-id { text },
+        element contemporary-territory-id { text }
+    },
+    element chief-id { text }+,
+    element created-by { text },
+    element created-date { xsd:date },
+    element last-modified-by { text },
+    element last-modified-date { xsd:date }
+}

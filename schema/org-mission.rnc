@@ -1,0 +1,67 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+element org-mission { 
+    element id { text },
+    element category { text },
+    element names {
+        element singular { text },
+        element plural { text }
+    },
+    element description {
+        element div {
+            element p { text }
+        }
+    },
+    element chiefs {
+        element chief {
+            element id { text },
+            element person-id { text },
+            element role-title-id { text },
+            element appointed {
+                element date { text },
+                element note { text }
+            },
+            element started {
+                element date { text },
+                element note { text }
+            },
+            element ended {
+                element date { text },
+                element note { text }
+            },
+            element note { text }*,
+            element created-by { text },
+            element created-date { text },
+            element last-modified-by { text },
+            element last-modified-date { text }
+        }+
+    },
+    element other-appointees { 
+        element chief {
+            element id { text },
+            element person-id { text },
+            element role-title-id { text },
+            element appointed {
+                element date { text },
+                element note { text }
+            },
+            element started {
+                element date { text },
+                element note { text }
+            },
+            element ended {
+                element date { text },
+                element note { text }
+            },
+            element note { text }*,
+            element created-by { text },
+            element created-date { text },
+            element last-modified-by { text },
+            element last-modified-date { text }
+        }*
+    },
+    element created-by { text },
+    element created-date { text },
+    element last-modified-by { text },
+    element last-modified-date { text }
+}
