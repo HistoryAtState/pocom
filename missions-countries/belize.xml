@@ -5,6 +5,29 @@
         <chief>
             <id>bz-1983-barn-01</id>
             <person-id>barnebey-malcolm-r</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>belize</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1981-10-29</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1983-06-23</date>
+                <note/>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-08</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-08</last-modified-date>
+        </chief>
+        <chief>
+            <id>bz-1983-barn-01</id>
+            <person-id>barnebey-malcolm-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
             <appointed>
@@ -19,11 +42,34 @@
                 <date>1985-07-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>Consulate General Belize was raised to Embassy status on Oct 29, 1981, with Principal Officer Malcolm R. Barnebey serving as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-08</last-modified-date>
+        </chief>
+        <chief>
+            <id>bz-1985-guth-01</id>
+            <person-id>guthrie-donald-keith</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>belize</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1985-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1987-09</date>
+                <note/>
+            </ended>
+            <note></note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-08</last-modified-date>
         </chief>
         <chief>
             <id>bz-1987-rich-01</id>
@@ -187,52 +233,6 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>bz--guth-01</id>
-            <person-id>guthrie-donald-keith</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>belize</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Jul 1985-Sep. 1987.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bz--malo-01</id>
-            <person-id>malone-james-l</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>belize</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination withdrawn Oct 14, 1986. Keith Guthrie served as Chargé d’Affaires ad interim, Jul 1985-Sep. 1987.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>bz--more-01</id>
             <person-id>moreno-carlos-roberto</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -249,14 +249,38 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-21</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>bz-1986-malo-01</id>
+            <person-id>malone-james-l</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>belize</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of January 22, 1986, withdrawn on October 14, 1986.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-08</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

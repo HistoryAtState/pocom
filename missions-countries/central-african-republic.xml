@@ -3,6 +3,29 @@
     <territory-id>central-african-republic</territory-id>
     <chiefs>
         <chief>
+            <id>cf-1960-luke-01</id>
+            <person-id>lukens-alan-wood</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>central-african-republic</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-08-13</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
             <id>cf-1960-blan-01</id>
             <person-id>blancke-wilton-wendell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,14 @@
                 <date>1961-11-29</date>
                 <note>Superseded</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1961. Also accredited to Chad, Congo, and Gabon; resident at Brazzaville. Alan W. Lukens (resident at Brazzaville) presented credentials as Chargé d’Affaires ad interim Aug 13, 1960. During Blancke’s tenure as non-resident Ambassador to the Central African Republic, Embassy Bangui was established Feb 10, 1961, with Lukens as resident Chargé d’Affaires ad interim. Ambassador Cooke was commissioned to the Central African Empire.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 6, 1961,
+                after confirmation. During Blancke’s tenure as non-resident Ambassador, Embassy
+                Bangui was established February 10, 1961, with Alan W. Lukens as Chargé d’Affaires
+                ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-01-06</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>cf-1961-burn-01</id>
@@ -42,11 +68,12 @@
                 <date>1963-05-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 30, 1962.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 30, 1962,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>cf-1963-ross-01</id>
@@ -164,6 +191,29 @@
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
         <chief>
+            <id>cf-1979-fair-01</id>
+            <person-id>fairchild-albert-e</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>central-african-republic</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1979-12</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1981-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
             <id>cf-1978-cook-01</id>
             <person-id>cooke-goodwin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -180,11 +230,11 @@
                 <date>1980-07-13</date>
                 <note>Left post.</note>
             </ended>
-            <note>Albert E. Fairchild served as Chargé d’Affaires ad interim from Dec. 1979 to Jul 1981.</note>
+            <note>Commissioned to the Central African Empire.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>cf-1981-wood-01</id>
@@ -325,6 +375,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>cf-1997-phil-01</id>
+            <person-id>philo-william-h</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>central-african-republic</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>1997</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2012-09-24</last-modified-date>
+        </chief>
+                <chief>
             <id>cf-1998-perr-01</id>
             <person-id>perry-robert-cephas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -376,11 +449,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
             <appointed>
-                <date>2005-01</date>
+                <date></date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2005-01</date>
                 <note/>
             </started>
             <ended>
@@ -390,8 +463,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>cf-2007-cook-01</id>
@@ -433,34 +506,11 @@
                 <date>2013-08-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>David Brown is serving as Senior Adviser to the Central AFrican Republic (August 2013-)</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-21</last-modified-date>
-        </chief>
-        <chief>
-            <id>cf--phil-01</id>
-            <person-id>philo-william-h</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>central-african-republic</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>1997</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

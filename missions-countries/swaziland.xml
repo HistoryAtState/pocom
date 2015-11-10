@@ -3,6 +3,52 @@
     <territory-id>swaziland</territory-id>
     <chiefs>
         <chief>
+            <id>sz-1968-papp-01</id>
+            <person-id>pappas-christos-constantine</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>swaziland</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1968-09-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
+        </chief>
+        <chief>
+            <id>sz-1969-chas-01</id>
+            <person-id>chase-robert-willard</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>swaziland</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1969-04</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1971-08</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
+        </chief>
+        <chief>
             <id>sz-1971-nels-01</id>
             <person-id>nelson-charles-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +65,11 @@
                 <date>1974-03-02</date>
                 <note>Left Gaborone</note>
             </ended>
-            <note>Also accredited to Botswana and Lesotho; resident at Gaborone. The Embassy in Mbabane was established on Sep 6, 1968, with Chris C. Pappas, Jr., as Chargé d’Affaires ad interim. Robert W. Chase served in that capacity, Apr 1969-Aug 1971.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>sz-1974-bole-01</id>
@@ -42,11 +88,11 @@
                 <date>1976-08-11</date>
                 <note>Left Gaborone</note>
             </ended>
-            <note>Also accredited to Botswana and Lesotho; resident at Gaborone.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>sz-1976-norl-01</id>
@@ -65,11 +111,11 @@
                 <date>1979-09-08</date>
                 <note>Left Gaborone</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jun 24, 1977. Also accredited to Botswana and Lesotho; resident at Gaborone.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on June 24, 1977, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>sz-1979-math-01</id>
@@ -348,8 +394,8 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>sz-2012-jone-01</id>
-            <person-id>jones-malika</person-id>
+            <id>sz-2012-jame-01</id>
+            <person-id>james-malika</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
             <appointed>
@@ -361,60 +407,14 @@
                 <note/>
             </started>
             <ended>
-                <date>2013-09-20</date>
-                <note>Left post.</note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-22</last-modified-date>
-        </chief>
-        <chief>
-            <id>sz--papp-01</id>
-            <person-id>pappas-christos-constantine</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>swaziland</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>The Embassy in Mbabane was established on Sep 6, 1968, with Chris C. Pappas, Jr., as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>sz--chas-01</id>
-            <person-id>chase-robert-willard</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>swaziland</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Apr 1969-Aug 1971</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-28</last-modified-date>
+            <last-modified-date>2015-10-21</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

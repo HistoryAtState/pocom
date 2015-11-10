@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concurrent-appointments>
+    <id>2002-pric-01</id>
+    <person-id>price-john</person-id>
+    <resident-at>
+        <locale-id>port-louis</locale-id>
+        <contemporary-territory-id>mauritius</contemporary-territory-id>
+    </resident-at>
+    <chief-id>sc-2002-pric-01</chief-id>
+    <chief-id>mu-2002-pric-01</chief-id>
+    <chief-id>km-2002-pric-01</chief-id>
+    <created-by>marrsaw</created-by>
+    <created-date>2015-10-29</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2015-10-29</last-modified-date>
+</concurrent-appointments>

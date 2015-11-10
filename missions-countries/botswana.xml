@@ -3,6 +3,52 @@
     <territory-id>botswana</territory-id>
     <chiefs>
         <chief>
+            <id>bw-1966-plet-01</id>
+            <person-id>pletcher-charles-hutchinson</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>botswana</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1966-09-30</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1970-06</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-28</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
+        </chief>
+        <chief>
+            <id>bw-1970-crom-01</id>
+            <person-id>cromwell-william-kennedy</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>botswana</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1970-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1971-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-28</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
+        </chief>
+        <chief>
             <id>bw-1971-nels-01</id>
             <person-id>nelson-charles-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +65,11 @@
                 <date>1974-03-02</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Lesotho and Swaziland and resident at Gaborone. Embassy Gaberones (now Gaborone) was established Sep 30, 1966, with Charles H. Pletcher as Chargé d’Affaires ad interim. Pending the appointment of and presentation of credentials by the first Ambassador to Botswana, the following officers served as Chargé d’Affaires ad interim: Charles H. Pletcher (Sep. 1966-Jun 1970) and W. Kennedy Cromwell, 3rd, (Jun 1970-Sep 1971).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>bw-1974-bole-01</id>
@@ -42,11 +88,11 @@
                 <date>1976-08-11</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Lesotho and Swaziland; resident at Gaborone.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>bw-1976-norl-01</id>
@@ -65,11 +111,12 @@
                 <date>1979-10-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Lesotho and Swaziland; resident at Gaborone. Commissioned during a recess of the Senate; recommissioned after confirmation on Jun 24, 1977.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on June 24, 1977, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>bw-1979-daws-01</id>
@@ -361,7 +408,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>
@@ -370,77 +417,9 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief>
-            <id>bw--crom-01</id>
-            <person-id>cromwell-william-kennedy</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>botswana</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Jun 1970-Sep 1971)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-01</last-modified-date>
-        </chief>
-        <chief>
-            <id>bw--plet-01</id>
-            <person-id>pletcher-charles-hutchinson</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>botswana</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Gaberones (now Gaborone) was established Sep 30, 1966, with Charles H. Pletcher as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bw--skod-01</id>
-            <person-id>skodon-emil-m</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>botswana</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Note: Nomination not acted upon by the Senate</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

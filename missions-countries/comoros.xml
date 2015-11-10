@@ -3,6 +3,29 @@
     <territory-id>comoros</territory-id>
     <chiefs>
         <chief>
+            <id>km-1977-barr-01</id>
+            <person-id>barrett-robert-south</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>comoros</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1977-08-15</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note>Left Antananaraivo</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </chief>
+        <chief>
             <id>km-1982-rond-01</id>
             <person-id>rondon-fernando-enrique</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1983-05-25</date>
                 <note>Left Antananaraivo</note>
             </ended>
-            <note>Also accredited to Madagascar and resident at Antananarivo. The United States established diplomatic relations with the Comoros on Aug 15, 1977, when Robert S. Barrett IV, was appointed Chargé d’Affaires ad interim. Barrett was resident at Antananarivo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>km-1983-keat-01</id>
@@ -42,11 +65,12 @@
                 <date>1986-05-01</date>
                 <note>Left Antananarivo</note>
             </ended>
-            <note>Also accredited to Madagascar and resident at Antananarivo. Embassy Moroni was established Aug 26, 1985 with Edward Brynn as Chargé d’Affaires ad interim.</note>
+            <note>During Keating's tenure as non-resident Ambassador, Embassy Moroni was established
+                August 26, 1985 with Edward Brynn as Chargé d’Affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>km-1986-lync-01</id>
@@ -65,11 +89,11 @@
                 <date>1989-08-31</date>
                 <note>Left Antananarivo</note>
             </ended>
-            <note>Also accredited to Madagascar and resident Antananarivo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-12</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>km-1989-walk-01</id>
@@ -88,11 +112,11 @@
                 <date>1990-09-24</date>
                 <note>Superseded</note>
             </ended>
-            <note>Also accredited to Madagascar and resident Antananarivo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>km-1990-pelt-01</id>
@@ -134,12 +158,19 @@
                 <date>1996-04-14</date>
                 <note>Left Port Louis</note>
             </ended>
-            <note>Also accredited to Mauritius; resident at Port Louis. Embassy Moroni was closed Sep. 30, 1993.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Moroni was closed on September 30, 1993.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </mission-note>
         <chief>
             <id>km-1996-geis-01</id>
             <person-id>geisel-harold-w</person-id>
@@ -157,11 +188,11 @@
                 <date>1999-07-27</date>
                 <note>Left Port Louis</note>
             </ended>
-            <note>Also accredited to Mauritius; resident at Port Louis.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>km-1999-erwi-01</id>
@@ -178,36 +209,13 @@
             </started>
             <ended>
                 <date>2001-04-14</date>
-                <note>Left post.</note>
+                <note>Left Port Louis</note>
             </ended>
-            <note>Also accredited to Mauritius and the Seychelles; resident at Port Louis.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>km-2002-mcge-01</id>
-            <person-id>mcgee-james-d</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>comoros</contemporary-territory-id>
-            <appointed>
-                <date>2002-01-30</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment. Also accredited to Mauritius and the Seychelles; resident at Port Louis.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>km-2002-pric-01</id>
@@ -224,13 +232,36 @@
             </started>
             <ended>
                 <date>2005-06-17</date>
-                <note>Left post.</note>
+                <note>Left Port Louis</note>
             </ended>
-            <note>Also accredited to Mauritius and the Seychelles; resident at Port Louis.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>km-2005-schw-01</id>
+            <person-id>schwartz-stephen-m</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>comoros</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2005-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2006-10</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>km-2007-marq-01</id>
@@ -249,11 +280,11 @@
                 <date>2010-06-07</date>
                 <note>Left Antananarivo</note>
             </ended>
-            <note>Note: Also accredited to Madagascar; resident at Antananarivo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>km-2010-stro-01</id>
@@ -261,7 +292,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -270,9 +301,9 @@
             </started>
             <ended>
                 <date>2011-07</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -284,7 +315,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -293,9 +324,9 @@
             </started>
             <ended>
                 <date>2014-08</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -315,17 +346,41 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>km-2006-mcge-01</id>
+            <person-id>mcgee-james-d</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>comoros</contemporary-territory-id>
+            <appointed>
+                <date>2006-09-21</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note></note>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

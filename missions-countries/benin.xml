@@ -3,6 +3,30 @@
     <territory-id>benin</territory-id>
     <chiefs>
         <chief>
+            <id>bj-1960-norl-01</id>
+            <person-id>norland-donald-richard</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>benin</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-08-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Presented credentials as Chargé d’Affaires ad interim on July 31, 1960, to take
+                effect on August 1, 1960.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-02</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
+        </chief>
+        <chief>
             <id>bj-1960-ream-01</id>
             <person-id>reams-robert-borden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +43,14 @@
                 <date>1961-07-31</date>
                 <note>Superseded</note>
             </ended>
-            <note>Commissioned to Dahomey. Accredited also to Ivory Coast, Niger, and Upper Volta; resident at Abidjan. Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1961. Donald R. Norland (resident in Abidjan) presented credentials as Chargé d’Affaires ad interim, Aug 2, 1960, to take effect from Aug 3, 1960. During Reams’ tenure as non-resident Ambassador, the Embassy in Niamey was established Feb 3, 1961, with Joseph W. Schutz as Chargé d’Affaires ad interim.</note>
+            <note>Commissioned to Dahomey. Commissioned during a recess of the Senate;
+                recommissioned on February 6, 1961, after confirmation. During Reams’s tenure as
+                non-resident Ambassador, Embassy Cotonou was established on February 15, 1961, with
+                Converse Hettinger as Chargé d’Affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-03-05</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
             <id>bj-1961-mcil-01</id>
@@ -134,11 +161,103 @@
                 <date>1976-02-15</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to Dahomey. Note: From 1976 to 1983, each of the following officers served as Chargé d’Affaires ad interim for more than a year: W. Kenneth Thompson (Aug. 1976-Aug. 1978), John S. Davidson (Sep. 1978-May 1980), James R. Bullington (Jun 1980-Jul 1982), and Charles H. Twining, Jr. (Jul1982-Oct. 1983).</note>
+            <note>Commissioned to Dahomey.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>bj-1976-thom-01</id>
+            <person-id>thompson-w-kenneth</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>benin</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1976-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1978-08</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
+        </chief>
+        <chief>
+            <id>bj-1978-davi-01</id>
+            <person-id>davison-john-s</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>benin</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1978-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1980-05</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-02</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
+        </chief>
+        <chief>
+            <id>bj-1980-bull-01</id>
+            <person-id>bullington-james-richard</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>benin</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1980-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1982-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-02</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
+        </chief>
+        <chief>
+            <id>bj-1982-twin-01</id>
+            <person-id>twining-charles-h</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>benin</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1982-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1983-10</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-02</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
             <id>bj-1983-moos-01</id>
@@ -361,14 +480,14 @@
                 <note/>
             </started>
             <ended>
-                <date>2013-04-28</date>
+                <date>2012-04-28</date>
                 <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-02</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-21</last-modified-date>
+            <last-modified-date>2015-11-03</last-modified-date>
         </chief>
         <chief>
             <id>bj-2012-rayn-01</id>
@@ -392,52 +511,6 @@
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-25</last-modified-date>
-        </chief>
-        <chief>
-            <id>bj--hett-01</id>
-            <person-id>hettinger-converse</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>benin</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Cotonou was established Feb 15, 1961, with Converse Hettinger as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bj--thom-01</id>
-            <person-id>thompson-w-kenneth</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>benin</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Served as Charge d’Affaires ad interim from Aug 1976 until Aug 1978.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-30</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

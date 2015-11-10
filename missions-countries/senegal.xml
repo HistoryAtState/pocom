@@ -3,6 +3,29 @@
     <territory-id>senegal</territory-id>
     <chiefs>
         <chief>
+            <id>sn-1960-mccl-01</id>
+            <person-id>mcclelland-roswell-dunlop</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>senegal</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-09-24</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1960-10-31</date>
+                <note></note>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-09</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
+        </chief>
+        <chief>
             <id>sn-1960-vill-01</id>
             <person-id>villard-henry-serrano</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1961-04-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Mauritania; resident at Dakar.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 6, 1961, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-1961-kais-01</id>
@@ -42,11 +65,11 @@
                 <date>1964-05-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Mauritania; resident at Dakar.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-11</last-modified-date>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-1964-cook-01</id>
@@ -65,11 +88,11 @@
                 <date>1966-07-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to The Gambia; resident at Dakar.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-1966-rivk-01</id>
@@ -88,11 +111,11 @@
                 <date>1967-03-19</date>
                 <note>Died at post</note>
             </ended>
-            <note>Also accredited to The Gambia; resident at Dakar.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-1967-brow-01</id>
@@ -111,11 +134,11 @@
                 <date>1970-08-15</date>
                 <note>Left post.</note>
             </ended>
-            <note>Note: Also accredited to The Gambia; resident at Dakar.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-1970-clar-01</id>
@@ -134,11 +157,34 @@
                 <date>1973-10-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to The Gambia; resident at Dakar.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-29</last-modified-date>
+            <last-modified-date>2015-10-09</last-modified-date>
+        </chief>
+        <chief>
+            <id>sn-1973-aggr-01</id>
+            <person-id>aggrey-orison-rudolph</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>senegal</contemporary-territory-id>
+            <appointed>
+                <date>1973-11-23</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1974-01-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1977-07-10</date>
+                <note>Left post.</note>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-09</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-1977-cohe-01</id>
@@ -157,11 +203,11 @@
                 <date>1980-07-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to The Gambia; resident at Dakar.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-1980-carr-01</id>
@@ -364,11 +410,11 @@
                 <date>2005-08-04</date>
                 <note>Left Dakar</note>
             </ended>
-            <note>Note: Also accredited to Guinea-Bissau, resident at Dakar.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-2006-jaco-01</id>
@@ -391,7 +437,7 @@
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-2008-bern-01</id>
@@ -410,11 +456,11 @@
                 <date>2011-07-15</date>
                 <note>Left Dakar</note>
             </ended>
-            <note>Note: Also accredited to Guinea-Bissau, resident at Dakar.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-05</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-2011-luke-01</id>
@@ -433,11 +479,11 @@
                 <date>2014-06-04</date>
                 <note>Left post.</note>
             </ended>
-            <note>Note: Also accredited to Guinea-Bissau, resident at Dakar.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>sn-2014-zumw-01</id>

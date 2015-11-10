@@ -19,12 +19,58 @@
                 <date>2000-07-24</date>
                 <note>Left Manila</note>
             </ended>
-            <note>Also accredited to the Philippines; resident in Manila.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
         </chief>
+        <chief>
+            <id>pw-2002-ricc-01</id>
+            <person-id>ricciardone-francis-joseph</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>palau</contemporary-territory-id>
+            <appointed>
+                <date>2002-02-04</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2002-07-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2005-04-01</date>
+                <note>Left Manila</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-02</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-03</last-modified-date>
+        </chief>
+        <chief>
+            <id>pw-2005-bezn-01</id>
+            <person-id>bezner-mark-j</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>palau</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2005-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2009-10</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-02</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
+        </chief>        
         <chief>
             <id>pw-2010-reed-01</id>
             <person-id>reed-rowe-helen-patricia</person-id>
@@ -42,34 +88,11 @@
                 <date>2013-07-26</date>
                 <note>Left post.</note>
             </ended>
-            <note>From 1996 until 2005, Ambassadors to the Philippines were also accredited to Palau and resident in Manila. The following officers then served as Chargés d’Affaires: Mark J. Bezner (Aug. 2005-Oct. 2009), Michael A. Bradecamp (Oct.-Nov. 2009), Mark A. Caudill (Nov. 2009), Robert S. Hyams (Nov. 2009-Feb. 2010), William H. Bushkell (Feb.-June 2010), and A. James Panos (June-Sept. 2010).</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-03</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-22</last-modified-date>
-        </chief>
-        <chief>
-            <id>pw--burl-01</id>
-            <person-id>burleigh-albert-peter</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>palau</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of May 26, 1999, not acted upon by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-03</last-modified-date>
+            <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
             <id>pw-2013-dale-01</id>
@@ -77,7 +100,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -88,7 +111,7 @@
                 <date>2015-03</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -111,14 +134,38 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>pw-1999-burl-01</id>
+            <person-id>burleigh-albert-peter</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>palau</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of May 26, 1999, not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2012-04-03</last-modified-date>
+        </chief>
+            </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

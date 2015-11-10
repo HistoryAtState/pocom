@@ -3,6 +3,29 @@
     <territory-id>chad</territory-id>
     <chiefs>
         <chief>
+            <id>td-1960-luke-01</id>
+            <person-id>lukens-alan-wood</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>chad</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-08-11</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
             <id>td-1960-blan-01</id>
             <person-id>blancke-wilton-wendell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,14 @@
                 <date>1961-05-28</date>
                 <note>Superseded</note>
             </ended>
-            <note>Note: Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1961. Also accredited to the Central African Republic, Congo, and Gabon; resident at Brazzaville.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 6, 1961,
+                after confirmation. During Blancke’s tenure as non-resident Ambassador, Embassy Fort
+                Lamy (now N'Djamena) was established February 1, 1961, with Frederic L. Hapin as
+                Chargé d’Affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-01-06</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>td-1961-calh-01</id>
@@ -210,6 +236,29 @@
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
         <chief>
+            <id>td-1982-blan-01</id>
+            <person-id>blane-john-propst</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>chad</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1982-01-15</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
             <id>td-1983-moff-01</id>
             <person-id>moffat-jay-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -226,7 +275,7 @@
                 <date>1985-07-23</date>
                 <note>Left post.</note>
             </ended>
-            <note>Embassy N’Djamena was reopened Jan 15, 1982, with John Blane as Principal Officer and Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -461,29 +510,6 @@
             <created-date>2012-04-02</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
-        </chief>
-        <chief>
-            <id>td--chap-01</id>
-            <person-id>chapin-frederic-lincoln</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>chad</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Fort Lamy (now N’Djamena) was established Feb 1, 1961 with Frederic L. Chapin as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-28</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

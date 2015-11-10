@@ -3,6 +3,29 @@
     <territory-id>mauritius</territory-id>
     <chiefs>
         <chief>
+            <id>mu-1968-huss-01</id>
+            <person-id>hussey-william-bertrand</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mauritius</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1968-03-12</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </chief>
+        <chief>
             <id>mu-1968-king-01</id>
             <person-id>king-david-sjodahl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1969-08-16</date>
                 <note>Left Tananarive</note>
             </ended>
-            <note>Also accredited to Madagascar; resident at Tananarive. Embassy Port Louis was established Mar 12, 1968, with William B. Hussey as Chargé d’Affaires at interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-11</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mu-1970-brew-01</id>
@@ -226,11 +249,11 @@
                 <date>1996-04-14</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Comoros; resident at Port Louis.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mu-1996-geis-01</id>
@@ -249,11 +272,11 @@
                 <date>1999-07-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Comoros; resident at Port Louis.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mu-1999-erwi-01</id>
@@ -272,11 +295,11 @@
                 <date>2001-04-14</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Comoros and the Seychelles; resident at Port Louis.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mu-2002-pric-01</id>
@@ -295,11 +318,11 @@
                 <date>2005-06-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Comoros and the Seychelles; resident at Port Louis.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mu-2005-schw-01</id>
@@ -307,11 +330,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
             <appointed>
-                <date>2005-06</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2005-06</date>
                 <note/>
             </started>
             <ended>
@@ -321,8 +344,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mu-2006-cabr-01</id>
@@ -341,11 +364,11 @@
                 <date>2009-01-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Seychelles; resident at Port Louis. The following officers served as Chargés d’Affaires ad interim: Virginia M. Blaser (Jan.-Nov. 2009), and R. Barrie Walkley (Nov. 2009-Feb. 2010).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-05</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mu-2009-will-01</id>
@@ -364,11 +387,34 @@
                 <date>2011-02-26</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Seychelles; resident at Port Louis.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-03</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>mu-2011-fitr-01</id>
+            <person-id>fitrell-troy-d</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mauritius</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2011-02</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2012-11</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mu-2012-vill-01</id>
@@ -387,34 +433,11 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Also accredited to the Seychelles; resident at Port Louis. Troy D. Fitrell served as Charge d’Affaires ad interim, Feb. 2011-Nov. 2012.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
-        </chief>
-        <chief>
-            <id>mu--huss-01</id>
-            <person-id>hussey-william-bertrand</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>mauritius</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Port Louis was established Mar 12, 1968, with William B. Hussey as Chargé d’Affaires at interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

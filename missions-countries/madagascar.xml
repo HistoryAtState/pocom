@@ -3,6 +3,29 @@
     <territory-id>madagascar</territory-id>
     <chiefs>
         <chief>
+            <id>mg-1960-jaco-01</id>
+            <person-id>jacobs-john-roland</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>madagascar</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-06-26</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </chief>
+        <chief>
             <id>mg-1960-bart-01</id>
             <person-id>bartlett-frederic-pearson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,12 +42,11 @@
                 <date>1962-06-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to the Malagasy Republic. Embassy Tananarive (now Antananarivo) was
-                established Jun 26, 1960.</note>
+            <note>Commissioned to the Malagasy Republic.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1962-ferg-01</id>
@@ -43,12 +65,12 @@
                 <date>1966-05-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on
-                Mar 12, 1963. Commissioned to the Malagasy Republic.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 12, 1963,
+                after confirmation. Commissioned to the Malagasy Republic.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1967-king-01</id>
@@ -67,12 +89,11 @@
                 <date>1969-08-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to the Malagasy Republic. Also accredited to Mauritius; resident at
-                Tananarive.</note>
+            <note>Commissioned to the Malagasy Republic.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-11</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1969-mars-01</id>
@@ -92,11 +113,11 @@
                 <note>Left post.</note>
             </ended>
             <note>Commissioned to the Malagasy Republic. Departure requested by Government of the
-                Malagasy Republic, June 1, 1971.</note>
+                Malagasy Republic on June 1, 1971.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1972-mend-01</id>
@@ -115,13 +136,11 @@
                 <date>1975-05-11</date>
                 <note>Left post.</note>
             </ended>
-            <note>Between 1975 and 1980, the following officers served as Chargé d’Affaires ad
-                interim: Gilbert H. Sheinbaum (Nov. 1975-Mar. 1977) and Robert S. Barrett (Mar.
-                1977-Jun 1980).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1975-shei-01</id>
@@ -129,11 +148,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
             <appointed>
-                <date>1975-11</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1975-11</date>
                 <note/>
             </started>
             <ended>
@@ -143,8 +162,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1977-barr-01</id>
@@ -152,11 +171,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
             <appointed>
-                <date>1977-03</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1977-03</date>
                 <note/>
             </started>
             <ended>
@@ -167,7 +186,7 @@
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-18</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1980-rond-01</id>
@@ -186,11 +205,11 @@
                 <date>1983-05-25</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Comoros; resident in Antananarivo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1983-keat-01</id>
@@ -209,11 +228,11 @@
                 <date>1986-05-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Comoros; resident in Antananarivo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1986-lync-01</id>
@@ -232,11 +251,11 @@
                 <date>1989-08-31</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Comoros; resident in Antananarivo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-12</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1989-walk-01</id>
@@ -255,11 +274,11 @@
                 <date>1992-07-12</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Comoros; resident in Antananarivo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1992-barr-01</id>
@@ -301,11 +320,34 @@
                 <date>1996-07-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Howard T. Perlow served as Chargé d’Affaires ad interim, Jul 1996-Aug 1998.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>mg-1996-perl-01</id>
+            <person-id>perlow-howard-t</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>madagascar</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1996-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1998-08</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-1998-barn-01</id>
@@ -393,11 +435,11 @@
                 <date>2010-06-07</date>
                 <note>Left post.</note>
             </ended>
-            <note>Note: Also accredited to the Republic of the Comoros; resident in Antananarivo.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
+            <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
             <id>mg-2010-stro-01</id>
@@ -428,7 +470,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -437,9 +479,9 @@
             </started>
             <ended>
                 <date>2014-08</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -467,52 +509,6 @@
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>mg--jaco-01</id>
-            <person-id>jacobs-john-roland</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>madagascar</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>1960 Chargé d’Affaires ad interim, Malagasy Republic</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
-        </chief>
-        <chief>
-            <id>mg--perl-01</id>
-            <person-id>perlow-howard-t</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>madagascar</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Jul 1996-Aug 1998.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

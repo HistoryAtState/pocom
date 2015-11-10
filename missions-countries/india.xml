@@ -3,6 +3,29 @@
     <territory-id>india</territory-id>
     <chiefs>
         <chief>
+            <id>in-1946-merr-01</id>
+            <person-id>merrell-george-robert</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>india</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1946-11-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-27</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-27</last-modified-date>
+        </chief>
+        <chief>
             <id>in-1947-grad-01</id>
             <person-id>grady-henry-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1948-06-22</date>
                 <note>Left post.</note>
             </ended>
-            <note>Accredited also to Nepal; resident at New Delhi.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
             <id>in-1948-hend-01</id>
@@ -39,15 +62,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Reaccredited when India became a republic; presented new
-                credentials Feb 24, 1950; left post Sep 21, 1951</note>
+                <date>1951-09-21</date>
+                <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 2, 1949. Also accredited to Nepal; resident at New Delhi.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after confirmation. Reaccredited when India became a republic; presented new credentials on February 24, 1950.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
             <id>in-1951-bowl-01</id>
@@ -66,11 +88,11 @@
                 <date>1953-03-23</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Nepal; resident at new Delhi.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
             <id>in-1953-alle-01</id>
@@ -89,11 +111,11 @@
                 <date>1954-11-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Nepal; resident at new Delhi.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
             <id>in-1955-coop-01</id>
@@ -112,11 +134,11 @@
                 <date>1956-04-23</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Nepal; resident at New Delhi.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
             <id>in-1956-bunk-01</id>
@@ -135,11 +157,11 @@
                 <date>1961-03-23</date>
                 <note>Left India</note>
             </ended>
-            <note>Also accredited to Nepal; resident at New Delhi. Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 25, 1957.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 25, 1957, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2011-05-26</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
             <id>in-1961-galb-01</id>
@@ -388,11 +410,11 @@
                 <date>1993-03-23</date>
                 <note>Left post.</note>
             </ended>
-            <note>Kenneth Brill served as Chargé d’Affaires ad interim, Mar 1993-Aug 1994.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2011-05-26</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
             <id>in-1993-bril-01</id>
@@ -400,11 +422,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>india</contemporary-territory-id>
             <appointed>
-                <date>1993-03</date>
+                <date></date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1993-03</date>
                 <note/>
             </started>
             <ended>
@@ -414,8 +436,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
             <id>in-1994-wisn-01</id>
@@ -577,29 +599,6 @@
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>in--bloo-01</id>
-            <person-id>blood-archer-kent</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>india</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>1980</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

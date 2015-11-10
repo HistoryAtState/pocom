@@ -8,22 +8,23 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
             <appointed>
-                <date>1960-08-03</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1960-08-03</date>
                 <note/>
             </started>
             <ended>
-                <date>1961</date>
+                <date/>
                 <note/>
             </ended>
-            <note>Note: Donald R. Norland (resident in Abidjan) presented credentials as Chargé d’Affaires ad interim, Aug 2, 1960, to take effect from Aug 3, 1960. During Reams’ tenure as non-resident Ambassador, the Embassy in Niamey was established Feb 3, 1961, with Joseph W. Schutz as Chargé d’Affaires ad interim.</note>
+            <note>Presented credentials as Chargé d’Affaires ad interim on August 2, 1960, to take
+                effect on August 3, 1960.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
             <id>ne-1960-ream-01</id>
@@ -42,30 +43,10 @@
                 <date>1961-08-02</date>
                 <note>Superseded</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1961. Also accredited to Dahomey, Ivory Coast, and Upper Volta; resident at Abidjan.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-03-05</last-modified-date>
-        </chief>
-        <chief>
-            <id>ne-1960-ream-02</id>
-            <person-id>reams-robert-borden</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>niger</contemporary-territory-id>
-            <appointed>
-                <date>1960-10-14</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1960-11-26</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1961-07-31</date>
-                <note>Superseded</note>
-            </ended>
-            <note>Commissioned to Dahomey. Accredited also to Ivory Coast, Niger, and Upper Volta; resident at Abidjan. Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1961.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 6, 1961,
+                after confirmation. During Reams’s tenure as non-resident Ambassador, Embassy Niamey
+                was established on February 3, 1961, with Joseph W. Schutz as Chargé d’Affaires ad
+                interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -463,7 +444,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>ne--redd-01</id>
+            <id>ne-2014-redd-01</id>
             <person-id>reddick-eunice-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -479,34 +460,11 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>ne--schu-01</id>
-            <person-id>schutz-joseph-willard</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>niger</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>The Embassy in Niamey was established Feb 3, 1961, with Joseph W. Schutz as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

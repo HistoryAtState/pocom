@@ -3,6 +3,29 @@
     <territory-id>togo</territory-id>
     <chiefs>
         <chief>
+            <id>tg-1960-mack-01</id>
+            <person-id>macknight-jesse-mackenzie</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>togo</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-04-27</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
+        </chief>
+        <chief>
             <id>tg-1960-barr-01</id>
             <person-id>barrows-leland-judd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1961-06-27</date>
                 <note>Superseded</note>
             </ended>
-            <note>Also accredited to Cameroon; resident at Yaounde.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>tg-1961-poul-01</id>
@@ -88,11 +111,11 @@
                 <date>1970-03-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Equatorial Guinea; resident at Lome.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>tg-1970-dick-01</id>
@@ -387,11 +410,11 @@
                 <date>2008-06-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>No resident mission has been established at Nuku’alofa.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>tg-2008-hawk-01</id>
@@ -438,29 +461,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
-        </chief>
-        <chief>
-            <id>tg--mack-01</id>
-            <person-id>macknight-jesse-mackenzie</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>togo</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>The Embassy in Lome was established on Apr 27, 1960, with Jesse M. MacKnight as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-12</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

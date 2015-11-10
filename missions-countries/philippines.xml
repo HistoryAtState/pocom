@@ -180,11 +180,12 @@
                 <date>1961-12-08</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 21, 1960.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 21, 1960,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
             <id>ph-1961-stev-01</id>
@@ -203,11 +204,12 @@
                 <date>1964-06-14</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 30, 1962.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 30, 1962,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
             <id>ph-1964-blai-01</id>
@@ -502,11 +504,34 @@
                 <date>2000-07-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Palau.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
+        </chief>
+        <chief>
+            <id>ph-2000-mali-01</id>
+            <person-id>malinowski-michael-e</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>philippines</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2000-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2001-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-02</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
             <id>ph-2002-ricc-01</id>
@@ -514,22 +539,22 @@
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
             <appointed>
-                <date>2002-02-21</date>
+                <date>2002-02-04</date>
                 <note/>
             </appointed>
             <started>
-                <date>2005-05-15</date>
+                <date>2002-05-15</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2005-04-01</date>
                 <note/>
             </ended>
-            <note>Also accredited to Palau; resident at Manila.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-03</last-modified-date>
         </chief>
         <chief>
             <id>ph-2006-kenn-01</id>
@@ -548,11 +573,11 @@
                 <date>2009-07-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Palau; resident at Manila.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-10-01</last-modified-date>
+            <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
             <id>ph-2010-thom-01</id>
@@ -600,8 +625,10 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>ph--burl-01</id>
+            <id>ph-1999-burl-01</id>
             <person-id>burleigh-albert-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -617,14 +644,15 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of May 26, 1999, not acted upon by the Senate. The following officers served as Chargé d’Affaires ad interim: Michael E. Malinowski (Jul 2000-Sep 2001) and Robert W. Fitts (Sep 2001-Feb 2002).</note>
+            <note>Nomination of May 26, 1999, not acted upon by the Senate. The following officers
+                served as Chargé d’Affaires ad interim: Michael E. Malinowski (Jul 2000-Sep 2001)
+                and Robert W. Fitts (Sep 2001-Feb 2002).</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

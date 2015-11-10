@@ -3,6 +3,29 @@
     <territory-id>guinea</territory-id>
     <chiefs>
         <chief>
+            <id>gn-1959-rind-01</id>
+            <person-id>rinden-robert-watland</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>guinea</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1959-02-13</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
             <id>gn-1959-morr-01</id>
             <person-id>morrow-john-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1961-03-03</date>
                 <note>Left post.</note>
             </ended>
-            <note>Embassy Conakry was established Feb 13, 1959, with Robert W. Rinden as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>gn-1961-attw-01</id>
@@ -233,6 +256,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>gn-1986-mith-01</id>
+            <person-id>mithoefer-william-coleman</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>guinea</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1986-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1987-10</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
             <id>gn-1987-lupo-01</id>
             <person-id>lupo-samuel-eldred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -325,29 +371,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gn-1998-lede-01</id>
-            <person-id>ledesma-james-vela</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>guinea</contemporary-territory-id>
-            <appointed>
-                <date>1998-10-22</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1999-01-27</date>
-                <note/>
-            </started>
-            <ended>
-                <date>2001-06-18</date>
-                <note>Left Libreville</note>
-            </ended>
-            <note>Note: Also accredited to Sao Tome and Principe; resident at Libreville.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-18</last-modified-date>
-        </chief>
-        <chief>
             <id>gn-1999-lead-01</id>
             <person-id>leader-joyce-ellen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -410,7 +433,7 @@
                 <date>2007-04-02</date>
                 <note/>
             </ended>
-            <note>Embassy Bissau was established Jun 30, 1976, with Dean Curran as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -433,11 +456,11 @@
                 <date>2008-08-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers served as Chargés d’Affaires ad interim: Kent C. Brokenshire (Aug-Sept. 2008; June 2009-) and Elizabeth Raspolic (Sept. 2008-June 2009).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-10</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>gn-2009-moll-01</id>
@@ -485,31 +508,10 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>gn--mith-01</id>
-            <person-id>mithoefer-william-coleman</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>guinea</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Jul 1986-Oct 1987.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gn--rent-01</id>
+            <id>gn-1986-rent-01</id>
             <person-id>rentschler-james-malone</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea</contemporary-territory-id>
@@ -525,60 +527,14 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination withdrawn Sep 11, 1986, before the Senate acted upon it. William C. Mithoefer served as Chargé d’Affaires ad interim, Jul 1986-Oct 1987.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gn--rind-01</id>
-            <person-id>rinden-robert-watland</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>guinea</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Conakry was established Feb 13, 1959, with Robert W. Rinden as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gn--daug-01</id>
-            <person-id>daughton-thomas-frederick</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>guinea</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Note: served as Chargé d’Affaires ad interim June 2001-June 2002.</note>
+            <note>Nomination withdrawn on September 11, 1986, before the Senate acted upon
+                it.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-24</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

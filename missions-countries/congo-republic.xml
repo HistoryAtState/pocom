@@ -3,6 +3,29 @@
     <territory-id>congo-republic</territory-id>
     <chiefs>
         <chief>
+            <id>cg-1960-luke-01</id>
+            <person-id>lukens-alan-wood</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-08-15</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
             <id>cg-1960-blan-01</id>
             <person-id>blancke-wilton-wendell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,7 +42,8 @@
                 <date>1963-12-14</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1961. Also accredited to Chad, Central African Republic, and Gabon; resident at Brazzaville.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 6, 1961,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -42,11 +66,66 @@
                 <date>1965-08-04</date>
                 <note>Left post.</note>
             </ended>
-            <note>Lloyd M. Rives was serving as Chargé d’Affaires ad interim when all U.S. diplomatic personnel were withdrawn from Brazzaville, Aug 15, 1965.</note>
+            <note>Lloyd M. Rives was serving as Chargé d’Affaires ad interim when all U.S.
+                diplomatic personnel were withdrawn from Brazzaville, Aug 15, 1965.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
+        </chief>
+        <chief>
+            <id>cg-1965-rive-01</id>
+            <person-id>rives-lloyd-michael</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1960-08-15</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <mission-note>
+            <text>All U.S. diplomatic personnel were withdrawn from Brazzaville on August 15,
+                1965.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </mission-note>
+        <chief>
+            <id>cg-1977-katz-01</id>
+            <person-id>katzen-jay-kenneth</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1977-10-30</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>cg-1979-swin-01</id>
@@ -65,7 +144,7 @@
                 <date>1981-05-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Embassy Brazzaville was reestablished Oct 30, 1977, with Jay Katzen as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -272,11 +351,11 @@
                 <date>2008-03-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>The Embassy in Leopoldville (now Kinshasha) was established on Jun 30, 1960, with John D. Tomlinson as Chargé d’Affaires ad interim.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>cg-2008-east-01</id>
@@ -344,52 +423,6 @@
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-21</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
-        </chief>
-        <chief>
-            <id>cg--rive-01</id>
-            <person-id>rives-lloyd-michael</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>was serving as Chargé d’Affaires ad interim when all U.S. diplomatic personnel were withdrawn from Brazzaville, Aug 15, 1965.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
-        </chief>
-        <chief>
-            <id>cg--katz-01</id>
-            <person-id>katzen-jay-kenneth</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Brazzaville was reestablished Oct 30, 1977, with Jay Katzen as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>

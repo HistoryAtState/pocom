@@ -3,6 +3,29 @@
     <territory-id>gabon</territory-id>
     <chiefs>
         <chief>
+            <id>ga-1960-luke-01</id>
+            <person-id>lukens-alan-wood</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>gabon</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-08-17</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
             <id>ga-1960-blan-01</id>
             <person-id>blancke-wilton-wendell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,14 @@
                 <date>1961-10-10</date>
                 <note>Superseded</note>
             </ended>
-            <note>Also accredited to the Central African Republic, Chad, and Congo; resident at Brazzaville. Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1961. Alan W. Lukens (resident at Brazzaville) presented credentials as Chargé d’Affaires ad interim, Aug 17, 1960. During Blanke’s tenure as non-resident Ambassador, the Embassy in Libreville was established Mar 20, 1961, with Walker A. Diamanti as Chargé d’Affaires ad interim.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 6, 1961,
+                after confirmation. During Blancke’s tenure as non-resident Ambassador, Embassy
+                Libreville was established March 20, 1961, with Walker A. Diamanti as Chargé
+                d’Affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-01-06</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-1961-darl-01</id>
@@ -134,11 +160,11 @@
                 <date>1977-08-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Democratic Republic of Sao Tome and Principe; resident at Libreville.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-1978-tien-01</id>
@@ -157,11 +183,11 @@
                 <date>1981-07-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Democratic Republic of Sao Tome and Principe; resident at Libreville.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-1981-mcna-01</id>
@@ -180,11 +206,11 @@
                 <date>1984-08-03</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Democratic Republic of Sao Tome and Principe; resident at Libreville.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-1984-will-01</id>
@@ -203,11 +229,11 @@
                 <date>1987-08-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Democratic Republic of Sao Tome and Principe; resident at Libreville.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-1987-clar-01</id>
@@ -226,11 +252,11 @@
                 <date>1989-08-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Democratic Republic of Sao Tome and Principe; resident at Libreville.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-1989-wauc-01</id>
@@ -249,11 +275,11 @@
                 <date>1992-07-13</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Democratic Republic of Sao Tome and Principe; resident at Libreville.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-1992-wils-01</id>
@@ -272,11 +298,11 @@
                 <date>1995-08-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Democratic Republic of Sao Tome and Principe; resident at Libreville.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-1995-rasp-01</id>
@@ -295,11 +321,57 @@
                 <date>1998-07-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to the Democratic Republic of Sao Tome and Principe; resident at Libreville.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
+            <id>ga-1998-lede-01</id>
+            <person-id>ledesma-james-vela</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>gabon</contemporary-territory-id>
+            <appointed>
+                <date>1998-10-22</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>2001-06-18</date>
+                <note>Left post.</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <chief>
+            <id>ga-2001-daug-01</id>
+            <person-id>daughton-thomas-frederick</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>gabon</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2001-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2002-06</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-2002-moor-01</id>
@@ -318,11 +390,11 @@
                 <date>2004-07-31</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Sao Tome and Principe; resident at Libreville.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-06-01</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-2004-walk-01</id>
@@ -341,11 +413,11 @@
                 <date>2007-04-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Sao Tome and Principe; resident at Libreville.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-2007-redd-01</id>
@@ -364,11 +436,11 @@
                 <date>2010-07-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Sao Tome and Principe; resident at Libreville.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-23</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-2010-benj-01</id>
@@ -387,11 +459,11 @@
                 <date>2013-05-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>Note: Also accredited to Sao Tome and Principe; resident at Libreville.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-03</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-12</last-modified-date>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>ga-2014-akue-01</id>
@@ -407,37 +479,14 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>ga--diam-01</id>
-            <person-id>diamanti-walker-alkie</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>gabon</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>the Embassy in Libreville was established Mar 20, 1961, with Walker A. Diamanti as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

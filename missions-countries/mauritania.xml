@@ -19,11 +19,12 @@
                 <date>1961-04-30</date>
                 <note>Left Dakar</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1961. Also accredited to Senegal; resident at Dakar. During Kaiser’s tenure as non-resident Ambassador, Embassy Nouakchott was established Jul 14, 1962, with William L. Eagleton, Jr., as Chargé d’Affaires ad interim.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 6, 1961,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>mr-1961-kais-01</id>
@@ -42,34 +43,13 @@
                 <date>1964-05-18</date>
                 <note>Left Dakar</note>
             </ended>
-            <note>Also accredited to Senegal; resident at Dakar.</note>
+            <note>During Kaiser’s tenure as non-resident Ambassador, Embassy Nouakchott was
+                established on July 14, 1962, with William L. Eagleton, Jr., as Chargé d’Affaires ad
+                interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-11</last-modified-date>
-        </chief>
-        <chief>
-            <id>mr-1962-eagl-01</id>
-            <person-id>eagleton-william-lester-jr</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>mauritania</contemporary-territory-id>
-            <appointed>
-                <date>1962-07-14</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1964</date>
-                <note/>
-            </ended>
-            <note>Note: During Kaiser’s tenure as non-resident Ambassador, Embassy Nouakchott was established Jul 14, 1962, with William L. Eagleton, Jr., as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>mr-1965-lewi-01</id>
@@ -88,11 +68,41 @@
                 <date>1967-06-07</date>
                 <note>Mauritania severed diplomatic relations with the United States</note>
             </ended>
-            <note>Lewis closed the Embassy on June 8, 1967 and left post on June 9, 1967. Embassy Nouakchott was reopened March 4, 1970, with Robert A. Stein as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-06</last-modified-date>
+        </chief>
+        <mission-note>
+            <text>Lewis closed the Embassy on June 8, 1967, and left post on June 9, 1967.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-09</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
+        </mission-note>
+        <chief>
+            <id>mr-1970-stei-01</id>
+            <person-id>stein-robert-andrew</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mauritania</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1970-03-04</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-09</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
             <id>mr-1971-murp-01</id>
@@ -169,38 +179,15 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
             <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
                 <date>1980-09</date>
                 <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
             </started>
             <ended>
                 <date>1982-07</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>mr-1982-bryn-01</id>
-            <person-id>brynn-edward-p</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>mauritania</contemporary-territory-id>
-            <appointed>
-                <date>1982-07</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1983-02</date>
                 <note/>
             </ended>
             <note/>
@@ -440,75 +427,6 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>mr--stei-01</id>
-            <person-id>stein-robert-andrew</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>mauritania</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Nouakchott was reopened Mar 4, 1970, with Robert A. Stein as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>mr--prec-01</id>
-            <person-id>precht-henry</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>mauritania</contemporary-territory-id>
-            <appointed subtype="see-note">
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination of Jul 7, 1980 not acted upon by the Senate. The following officeers served as served as Chargé d’Affaires ad interim: Stanley N. Schrager (Sep 1980- Jul 1982) and Edward Brynn (Jul 1982-Feb 1983).</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>mr--libe-01</id>
-            <person-id>liberi-dawn-m</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>mauritania</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of May 1, 2006 not acted upon by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-08-12</last-modified-date>
-        </chief>
-        <chief>
             <id>mr-2014-andr-01</id>
             <person-id>andre-larry-edward-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -525,14 +443,61 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>mr-1990-prec-01</id>
+            <person-id>precht-henry</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>mauritania</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination of July 7, 1980, not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
+        </chief>
+        <chief>
+            <id>mr-2006-libe-01</id>
+            <person-id>liberi-dawn-m</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>mauritania</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of May 1, 2006, not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-09</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

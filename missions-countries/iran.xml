@@ -3,27 +3,27 @@
     <territory-id>iran</territory-id>
     <chiefs>
         <chief>
-            <id>ir-1885-hann-01</id>
-            <person-id>hanna-bayless-w</person-id>
+            <id>ir-1883-benj-02</id>
+            <person-id>benjamin-samuel-greene-wheeler</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>iran</contemporary-territory-id>
             <appointed>
-                <date>1885-04-18</date>
+                <date>1883-02-27</date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1883-06-11</date>
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>1885-05-18</date>
+                <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. Took oath of office, but did not proceed to post. Commissioned to Persia.</note>
+            <note>Commissioned to Persia.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-11-26</last-modified-date>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
             <id>ir-1885-wins-01</id>
@@ -42,11 +42,12 @@
                 <date>1886-06-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 13, 1886. Commissioned to Persia.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1886,
+                after confirmation. Commissioned to Persia.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
             <id>ir-1886-prat-01</id>
@@ -118,29 +119,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ir-1893-mcdo-01</id>
-            <person-id>mcdonald-alexander</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>iran</contemporary-territory-id>
-            <appointed>
-                <date>1893-05-05</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; commission canceled the same day. Commissioned to Persia.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>ir-1893-mcdo-02</id>
             <person-id>mcdonald-alexander</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
@@ -157,11 +135,12 @@
                 <date>1897-09-13</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Sep 8, 1893. Commissioned to Persia.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on September 8, 1893,
+                after confirmation. Commissioned to Persia.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
             <id>ir-1897-hard-01</id>
@@ -187,29 +166,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ir-1899-lord-01</id>
-            <person-id>lord-william-paine</person-id>
-            <role-title-id>minister-resident-consul-general</role-title-id>
-            <contemporary-territory-id>iran</contemporary-territory-id>
-            <appointed>
-                <date>1899-04-18</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; declined appointment. Commissioned to Persia.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-11-26</last-modified-date>
-        </chief>
-        <chief>
             <id>ir-1899-bowe-01</id>
             <person-id>bowen-herbert-wolcott</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
@@ -226,11 +182,12 @@
                 <date>1901-05-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 14, 1899. Took oath of office, but did not present credentials as Envoy Extraordinary and Minister Plenipotentiary.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 14, 1899,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
             <id>ir-1901-gris-01</id>
@@ -249,11 +206,12 @@
                 <date>1902-12-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1901. Commissioned to Persia.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1901,
+                after confirmation. Commissioned to Persia.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
             <id>ir-1902-pear-01</id>
@@ -295,11 +253,12 @@
                 <date>1909-07-03</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 12, 1907. Commissioned to Persia.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 12, 1907,
+                after confirmation. Commissioned to Persia.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
             <id>ir-1909-russ-01</id>
@@ -338,11 +297,10 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Appointment terminated, 1921-04-09; left Persia,
-                1921-05-17.</note>
+                <date>1921-04-09</date>
+                <note>Appointment terminated.</note>
             </ended>
-            <note>Commissioned to Persia.</note>
+            <note>Commissioned to Persia. Caldwell left Persia on May 17, 1921.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -434,11 +392,35 @@
                 <date>1936-03-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 15, 1934. During 1936-1940 the following officers served as Chargé d’Affaires ad interim: Gordon P. Merria (Mar. 1936-May 1937) and Cornelius Van H. Engert (Jun 1937-Dec. 1940).</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 15, 1934,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
+        </chief>
+        <chief>
+            <id>ir-1935-merr-01</id>
+            <person-id>merriam-gordon-phelps</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>iran</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1936-03</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1937-05</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
             <id>ir-1937-enge-01</id>
@@ -446,11 +428,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iran</contemporary-territory-id>
             <appointed>
-                <date>1937-06</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1937-06</date>
                 <note/>
             </started>
             <ended>
@@ -460,8 +442,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
             <id>ir-1939-drey-01</id>
@@ -809,31 +791,8 @@
             <last-modified-date>2013-10-30</last-modified-date>
         </chief>
         <chief>
-            <id>ir-1979-cutl-01</id>
-            <person-id>cutler-walter-leon</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>iran</contemporary-territory-id>
-            <appointed>
-                <date>1979-05-18</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not proceed to post; the Government of Iran having refused to receive him. L.B. Laingen was serving as Chargé d’Affaires ad interim when the Embassy in Tehran was seized on Nov 4, 1979. The U.S. severed diplomatic relations with Iran, Apr 7, 1980. Laingen and the Embassy staff were released Jan 20, 1981.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ir--merr-01</id>
-            <person-id>merriam-gordon-phelps</person-id>
+            <id>ir--lain-01</id>
+            <person-id>laingen-lowell-bruce</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iran</contemporary-territory-id>
             <appointed>
@@ -845,38 +804,27 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1980-04-07</date>
                 <note/>
             </ended>
-            <note>During 1936-1940 the following officers served as Chargé d’Affaires ad interim: Gordon P. Merriam (Mar. 1936-May 1937)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-15</last-modified-date>
-        </chief>
-        <chief>
-            <id>ir--benj-01</id>
-            <person-id>benjamin-samuel-greene-wheeler</person-id>
-            <role-title-id>charge-daffaires-consul-general</role-title-id>
-            <contemporary-territory-id>iran</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Note: Commissioned to Persia. Note: Took oath of office, but did not proceed to post in this capacity.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Laingen was serving as Chargé d’Affaires ad interim when the Embassy in Tehran was
+                seized on November 4, 1979. The United States severed diplomatic relations with Iran
+                on April 7, 1980. Laingen and the Embassy staff were released on January 20,
+                1981.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
+        </mission-note>
+    </chiefs>
+    <other-nominees>
         <chief>
             <id>ir--jess-01</id>
             <person-id>jessup-henry-harris</person-id>
@@ -899,6 +847,126 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ir-1883-benj-01</id>
+            <person-id>benjamin-samuel-greene-wheeler</person-id>
+            <role-title-id>charge-daffaires-consul-general</role-title-id>
+            <contemporary-territory-id>iran</contemporary-territory-id>
+            <appointed>
+                <date>1883-01-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to Persia. Took oath of office, but did not proceed to post in this
+                capacity.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
+        </chief>
+        <chief>
+            <id>ir-1885-hann-01</id>
+            <person-id>hanna-bayless-w</person-id>
+            <role-title-id>minister-resident-consul-general</role-title-id>
+            <contemporary-territory-id>iran</contemporary-territory-id>
+            <appointed>
+                <date>1885-04-18</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Took oath of office, but did not
+                proceed to post. Commissioned to Persia.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2013-11-26</last-modified-date>
+        </chief>
+        <chief>
+            <id>ir-1893-mcdo-01</id>
+            <person-id>mcdonald-alexander</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>iran</contemporary-territory-id>
+            <appointed>
+                <date>1893-05-05</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; commission canceled the same day.
+                Commissioned to Persia.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ir-1899-lord-01</id>
+            <person-id>lord-william-paine</person-id>
+            <role-title-id>minister-resident-consul-general</role-title-id>
+            <contemporary-territory-id>iran</contemporary-territory-id>
+            <appointed>
+                <date>1899-04-18</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; declined appointment. Commissioned to
+                Persia.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2013-11-26</last-modified-date>
+        </chief>
+        <chief>
+            <id>ir-1901-bowe-01</id>
+            <person-id>bowen-herbert-wolcott</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>iran</contemporary-territory-id>
+            <appointed>
+                <date>1901-05-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to Persia. Took oath of office, but did not present
+                credentials.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
             <id>ir--holm-01</id>
@@ -924,12 +992,12 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ir--lain-01</id>
-            <person-id>laingen-lowell-bruce</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>ir-1979-cutl-01</id>
+            <person-id>cutler-walter-leon</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iran</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1979-05-18</date>
                 <note/>
             </appointed>
             <started>
@@ -940,14 +1008,14 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Note: L.B. Laingen was serving as Chargé d’Affaires ad interim when the Embassy in Tehran was seized on Nov 4, 1979. The U.S. severed diplomatic relations with Iran, Apr 7, 1980. Laingen and the Embassy staff were released Jan 20, 1981.</note>
+            <note>Did not proceed to post; the Government of Iran having refused to receive
+                him.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

@@ -19,11 +19,13 @@
                 <date>1931-10-20</date>
                 <note>Left Riga</note>
             </ended>
-            <note>Also accredited to Estonia and Latvia; resident at Riga. During Coleman’s tenure as non-resident Minister, Legation Kovno (later Kaunas) was established May 31, 1930, with Hugh S. Fullerton as Chargé d’Affaires ad interim.</note>
+            <note>During Coleman’s tenure as non-resident Minister, Legation Kovno (later Kaunas)
+                was established on May 31, 1930, with Hugh S. Fullerton as Chargé d’Affaires ad
+                interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>lt-1931-skin-01</id>
@@ -42,11 +44,12 @@
                 <date>1933-04-29</date>
                 <note>Left Riga</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1931. Accredited also to Estonia and Latvia; resident at Riga.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1931,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>lt-1933-macm-01</id>
@@ -63,14 +66,14 @@
             </started>
             <ended>
                 <date>1936-02-12</date>
-                <note>Left Kaunas, 1936-02-13; departed from
-                Riga</note>
+                <note>Left Kaunas, 1936-02-13; departed from Riga</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 15, 1934. Also accredited to Estonia and Latvia; resident at Riga.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 15, 1934,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>lt-1936-lane-01</id>
@@ -89,11 +92,11 @@
                 <date>1937-09-16</date>
                 <note>Left Riga</note>
             </ended>
-            <note>Also accredited to Estonia and Latvia; resident at Riga.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
             <id>lt-1937-nore-01</id>
@@ -112,13 +115,66 @@
                 <date>1940-06-15</date>
                 <note>Soviet forces occupied Kaunas</note>
             </ended>
-            <note>Norem left post, Jul 30, 1940. Bernard Gufler was serving as Chargé d’Affaires ad interim when Legation Kaunas was closed Sep 5, 1940. The United States resumed diplomatic relations with Lithuania Sep 2, 1991. Embassy Vilnius was established Oct 2, 1991 with Darryl N. Johnson as Chargé d’Affaires ad interim.</note>
+            <note>Norem left post on July 30, 1940.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
+            <id>lt-1940-gufl-01</id>
+            <person-id>gufler-bernard-anthony</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>lithuania</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1940-09-05</date>
+                <note>Legation closed</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+        <mission-note>
+            <text>The United States resumed diplomatic relations with Lithuania on September 2, 1991.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </mission-note>
+        <chief>
+            <id>lt-1991-john-01</id>
+            <person-id>johnson-darryl-norman</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>lithuania</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1991-09-02</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </chief>
+                <chief>
             <id>lt-1992-john-01</id>
             <person-id>johnson-darryl-norman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -301,29 +357,6 @@
             <created-date>2013-09-27</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
-        </chief>
-        <chief>
-            <id>lt--full-01</id>
-            <person-id>fullerton-hugh-stuart</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>lithuania</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Legation Kovno (later Kaunas) was established May 31, 1930, with Hugh S. Fullerton as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

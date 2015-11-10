@@ -3,6 +3,75 @@
     <territory-id>lesotho</territory-id>
     <chiefs>
         <chief>
+            <id>ls-1966-post-01</id>
+            <person-id>post-richard-st-francis</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>lesotho</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1966-10</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1968-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
+        </chief>
+        <chief>
+            <id>ls-1968-bart-01</id>
+            <person-id>barth-norman-edwin</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>lesotho</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1968-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1969-08</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
+        </chief>
+        <chief>
+            <id>ls-1969-gebe-01</id>
+            <person-id>gebelt-stephen-gurney</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>lesotho</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1969-10</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1970-12</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
+        </chief>
+        <chief>
             <id>ls-1971-nels-01</id>
             <person-id>nelson-charles-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +88,11 @@
                 <date>1974-03-02</date>
                 <note>Left Gaborone</note>
             </ended>
-            <note>Accredited also to Botswana and Swaziland; resident at Gaborone. Embassy Maseru was established Oct 4, 1966, with Richard St. F. Post as Chargé d’Affaires ad interim. Pending the appointment of the first Ambassador to Lesotho, the following officers served as Chargé d’Affaires ad interim: Richard St. F. Post (Oct 1966-Jul 1968), Norman E. Barth (Jul 1968-Aug 1969), and Stephen G. Gebelt (Oct 1969-Dec 1970).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>ls-1974-bole-01</id>
@@ -42,11 +111,11 @@
                 <date>1976-08-11</date>
                 <note>Left Gaborone</note>
             </ended>
-            <note>Accredited also to Botswana and Swaziland; resident at Gaborone.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>ls-1976-norl-01</id>
@@ -65,11 +134,12 @@
                 <date>1979-10-06</date>
                 <note>Left Gaborone</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jun 24, 1977. Also accredited to Botswana and Swaziland; resident at Gaborone.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on June 24, 1977, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>ls-1979-clin-01</id>
@@ -169,11 +239,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
             <appointed>
-                <date>1989-07</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1989-07</date>
                 <note/>
             </started>
             <ended>
@@ -183,8 +253,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>ls-1990-spea-01</id>
@@ -203,11 +273,34 @@
                 <date>1993-04-25</date>
                 <note>Left post.</note>
             </ended>
-            <note>Karl Hoffmann served as Chargé d’Affaires ad interim, Apr 1993-Apr 1995.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-30</last-modified-date>
+            <last-modified-date>2015-10-28</last-modified-date>
+        </chief>
+        <chief>
+            <id>ls-1993-hofm-01</id>
+            <person-id>hofmann-karl-william</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>lesotho</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-04</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1995-04</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-28</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
             <id>ls-1995-myri-01</id>
@@ -348,104 +441,12 @@
             <last-modified-date>2013-08-07</last-modified-date>
         </chief>
         <chief>
-            <id>ls--moor-01</id>
-            <person-id>moore-jerry-alexander</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>lesotho</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of Jul 11, 1989 not acted upon by the Senate. Howard F. Jeter served as Chargé d’Affaires ad interim Jul 1989-Jan 1991.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ls--gebe-01</id>
-            <person-id>gebelt-stephen-gurney</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>lesotho</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Oct 1969-Dec 1970)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ls--post-01</id>
-            <person-id>post-richard-st-francis</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>lesotho</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Pending the appointment of the first Ambassador to Lesotho, the following officers served as Chargé d’Affaires ad interim: Richard St. F. Post (Oct 1966-Jul 1968)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ls--bart-01</id>
-            <person-id>barth-norman-edwin</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>lesotho</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Jul 1968-Aug 1969)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-18</last-modified-date>
-        </chief>
-        <chief>
             <id>ls-2012-fox-01</id>
             <person-id>fox-carl-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -456,7 +457,7 @@
                 <date>2014-07</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-15</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -479,14 +480,38 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>ls-1989-moor-01</id>
+            <person-id>moore-jerry-alexander</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>lesotho</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of July 11, 1989 not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-28</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

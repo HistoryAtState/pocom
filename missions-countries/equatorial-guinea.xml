@@ -19,11 +19,14 @@
                 <date>1969-10-13</date>
                 <note>Appointment terminated</note>
             </ended>
-            <note>Also accredited to Togo; resident at Lome. Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 7, 1969. A nomination of Jan 9, 1969, was withdrawn before the Senate acted upon it; Sherer was renominated Jan 31 and confirmed Feb 7, 1969. During Sherer’s tenure as non-resident Ambassador to Equatorial Guinea, the Embassy in Santa Isabel (now Malabo) was opened Aug 1, 1969, with Albert N. Williams as Chargé d’Affaires ad interim. See United Kingdom.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 7, 1969,
+                after confirmation. During Sherer’s tenure as non-resident Ambassador, Embassy Santa
+                Isabel (now Malabo) was established on August 1, 1969, with Albert N. Williams as
+                Chargé d’Affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-1969-hoff-01</id>
@@ -42,11 +45,11 @@
                 <date>1972-06-06</date>
                 <note>Left Yaounde</note>
             </ended>
-            <note>Also accredited to Cameroon; resident at Yaounde.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-1972-moor-01</id>
@@ -65,11 +68,11 @@
                 <date>1975-07-28</date>
                 <note>Left Yaounde</note>
             </ended>
-            <note>Also accredited to Cameroon; resident at Yaounde.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-1975-spir-01</id>
@@ -86,14 +89,13 @@
             </started>
             <ended>
                 <date>1976-03-14</date>
-                <note>Declared persona non grata by Government of Equatorial
-                Guinea</note>
+                <note>Declared persona non grata by Government of Equatorial Guinea</note>
             </ended>
-            <note>Also accredited to Cameroon; resident at Yaounde.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-1979-smyt-01</id>
@@ -110,13 +112,13 @@
             </started>
             <ended>
                 <date>1980-02-24</date>
-                <note>Left post.</note>
+                <note>Left Yaounde</note>
             </ended>
-            <note>Note: Also accredited at Cameroon; resident at Yaounde.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-1980-hora-01</id>
@@ -133,14 +135,14 @@
             </started>
             <ended>
                 <date>1981-09-29</date>
-                <note>Resigned as Ambassador to Equatorial
-            Guinea</note>
+                <note>Resigned as Ambassador to Equatorial Guinea</note>
             </ended>
-            <note>During Horan’s tenure as non-resident Ambassador to Equatorial Guinea, the Embassy in Malabo was reestablished Jun 11, 1981 with Joanne Thompson as Chargé d’Affaires ad interim. Horan continued to serve as Ambassador to Cameroon until May 17, 1983 (see Cameroon).</note>
+            <note>During Horan’s tenure as non-resident Ambassador, Embassy Malabo was reestablished
+                on June 11, 1981, with Joanne Thompson as Chargé d’Affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-10</last-modified-date>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-1981-hard-01</id>
@@ -228,12 +230,20 @@
                 <date>1994-02-25</date>
                 <note>Left post.</note>
             </ended>
-            <note>Embassy Malabo was closed Oct 31, 1995. Its functions were transferred to the Embassy in Yaounde Nov 1, 1995.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Malabo was closed on October 31, 1995. Its functions were transferred to
+                Embassy Yaounde on November 1, 1995.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-10</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
+        </mission-note>
         <chief>
             <id>gq-1995-twin-01</id>
             <person-id>twining-charles-h</person-id>
@@ -251,11 +261,11 @@
                 <date>1998-08-17</date>
                 <note>Left Yaounde</note>
             </ended>
-            <note>Since Nov 1, 1995, also accredited to Cameroon and resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-1998-yate-01</id>
@@ -274,11 +284,11 @@
                 <date>2001-11-04</date>
                 <note>Left Yaounde</note>
             </ended>
-            <note>Also accredited to Cameroon and resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-10</last-modified-date>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-2001-stap-01</id>
@@ -297,11 +307,11 @@
                 <date>2004-07-10</date>
                 <note>Left Yaounde</note>
             </ended>
-            <note>Also accredited to Cameroon and resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-2004-marq-01</id>
@@ -317,14 +327,14 @@
                 <note/>
             </started>
             <ended>
-                <date>2007-04-09</date>
-                <note>Left post.</note>
+                <date>2006-09-26</date>
+                <note>Superseded</note>
             </ended>
-            <note>Note: Also accredited to Cameroon; resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-21</last-modified-date>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-2006-john-01</id>
@@ -341,13 +351,13 @@
             </started>
             <ended>
                 <date>2008-11-01</date>
-                <note></note>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-06-24</last-modified-date>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-2009-fern-01</id>
@@ -364,13 +374,13 @@
             </started>
             <ended>
                 <date>2012-03-18</date>
-                <note>Lef post</note>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>gq-2012-asqu-01</id>
@@ -394,52 +404,6 @@
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
-        </chief>
-        <chief>
-            <id>gq-1981-thom-01</id>
-            <person-id>thompson-joanne-m</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>equatorial-guinea</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>the Embassy in Malabo was reestablished Jun 11, 1981 with Joanne Thompson as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-                <id>gq--will-01</id>
-            <person-id>williams-albert-norman</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>equatorial-guinea</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

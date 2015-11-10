@@ -3,6 +3,29 @@
     <territory-id>cameroon</territory-id>
     <chiefs>
         <chief>
+            <id>cm-1960-more-01</id>
+            <person-id>more-james-bolard</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>cameroon</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-01-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
+        </chief>
+        <chief>
             <id>cm-1960-barr-01</id>
             <person-id>barrows-leland-judd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1966-09-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>Accredited also to Togo and resident at Yaounde. Embassy Yaounde was established Jan 1, 1960, with Bolard More as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cm-1967-payt-01</id>
@@ -49,6 +72,29 @@
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
         <chief>
+            <id>cm-1969-hoff-01</id>
+            <person-id>hoffacker-roscoe-lewis</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>cameroon</contemporary-territory-id>
+            <appointed>
+                <date>1969-12-02</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1969-12-20</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1972-06-06</date>
+                <note>Left post.</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
+        </chief>
+        <chief>
             <id>cm-1972-moor-01</id>
             <person-id>moore-charles-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -65,11 +111,11 @@
                 <date>1975-07-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Equatorial Guinea and resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cm-1975-spir-01</id>
@@ -88,11 +134,11 @@
                 <date>1977-05-07</date>
                 <note>Left post.</note>
             </ended>
-            <note>Accredited also to Equatorial Guinea until Mar 14, 1976; resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cm-1977-smyt-01</id>
@@ -111,11 +157,11 @@
                 <date>1980-02-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Note: Also accredited to Equatorial Guinea, Dec 17, 1979.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cm-1980-hora-01</id>
@@ -134,11 +180,11 @@
                 <date>1983-05-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Equatorial Guinea until Sep 29, 1981</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-10</last-modified-date>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cm-1983-frec-01</id>
@@ -249,11 +295,11 @@
                 <date>1998-08-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also Accredited to Equatorial Guinea and resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cm-1998-yate-01</id>
@@ -272,11 +318,11 @@
                 <date>2001-11-04</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also Accredited to Equatorial Guinea and resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cm-2001-stap-01</id>
@@ -295,11 +341,11 @@
                 <date>2004-07-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Equatorial Guinea; resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cm-2004-marq-01</id>
@@ -318,11 +364,11 @@
                 <date>2007-04-09</date>
                 <note>Left post.</note>
             </ended>
-            <note>Note: Also accredited to Equatorial Guinea until Sept. 26, 2006; resident at Yaounde.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-21</last-modified-date>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cm-2007-garv-01</id>
@@ -371,30 +417,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>cm--more-01</id>
-            <person-id>more-james-bolard</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>cameroon</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Yaounde was established Jan 1, 1960, with Bolard More as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cm--hoza-01</id>
+            <id>cm-2014-hoza-01</id>
             <person-id>hoza-michael-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -410,7 +433,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-21</created-date>
             <last-modified-by>marrsaw</last-modified-by>
