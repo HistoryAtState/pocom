@@ -3,6 +3,29 @@
     <territory-id>jamaica</territory-id>
     <chiefs>
         <chief>
+            <id>jm-1962-ches-01</id>
+            <person-id>cheslaw-irving-gottlieb</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>jamaica</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1962-08-16</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-13</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
+        </chief>
+        <chief>
             <id>jm-1962-dohe-01</id>
             <person-id>doherty-william-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,12 @@
                 <date>1964-04-25</date>
                 <note>Left post.</note>
             </ended>
-            <note>An earlier nomination of Sep 29, 1962, was not confirmed by the Senate. Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 12, 1963. Embassy Kingston was established Aug 16, 1962, with Irving G. Cheslaw as Chargé d’Affaires ad interim.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 12, 1963,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-02</last-modified-date>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jm-1965-beal-01</id>
@@ -88,11 +112,12 @@
                 <date>1973-07-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>The Government of Jamaica declared Ambassador de Roulet persona non grata, Jul 20, 1973, and he did not return to his post.</note>
+            <note>The Government of Jamaica declared de Roulet persona non grata on July 20, 1973,
+                and he did not return to his post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jm-1974-gera-01</id>
@@ -226,11 +251,11 @@
                 <date>1993-03-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>Lacy A. Wright, Jr., served as Chargé d’Affaires ad interim, Mar 1993-Nov 1994.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jm-1993-wrig-01</id>
@@ -238,11 +263,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
             <appointed>
-                <date>1993-03</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1993-03</date>
                 <note/>
             </started>
             <ended>
@@ -252,8 +277,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jm-1994-coop-01</id>
@@ -341,11 +366,11 @@
                 <date>2009-01-20</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers served as served as Chargés d’Affaires ad interim: David T. Heg (Jan. 2009-Aug. 2009), and Isiah Parnell (Aug.-Nov. 2009.).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-03</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jm-2010-brid-01</id>
@@ -371,35 +396,12 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>jm--chis-01</id>
-            <person-id>chisholm-shirley-anita</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>jamaica</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination withdrawn Oct 13, 1993.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-28</last-modified-date>
-        </chief>
-        <chief>
-            <id>jm-2014-mart-01</id>
+            <id>jm-2013-mart-01</id>
             <person-id>martinez-elizabeth-lee</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -410,11 +412,11 @@
                 <date>2015-01</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jm-2014-more-01</id>
@@ -433,14 +435,38 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-21</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>jm--chis-01</id>
+            <person-id>chisholm-shirley-anita</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>jamaica</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination withdrawn on October 13, 1993.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

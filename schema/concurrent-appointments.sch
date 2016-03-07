@@ -26,7 +26,7 @@
     <pattern>
         <rule context="contemporary-territory-id">
             <!-- NOTE: THIS PATH TO GSH ASSUMES THAT GSH APP IS THE SAME DIRECTORY AS PAHO-TRUNK -->
-            <assert test=". = root(.)/country-mission/territory-id or doc-available(concat('../../../../../../gsh/data/territories/', ., '.xml'))">The contemporary-territory-id “<value-of select="."/>” was not found in the gsh territory collection.</assert>
+            <assert test="doc-available(concat('../../../../../../gsh/data/territories/', ., '.xml'))">The contemporary-territory-id “<value-of select="."/>” was not found in the gsh territory collection.</assert>
         </rule>
     </pattern>
     <pattern>

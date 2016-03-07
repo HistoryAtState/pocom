@@ -8,22 +8,22 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
             <appointed>
-                <date>1992-03-13</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1992-03-13</date>
                 <note/>
             </started>
             <ended>
-                <date>1992</date>
+                <date/>
                 <note/>
             </ended>
-            <note>Note: The United States recognized Tajikistan on Dec 25, 1991, and established diplomatic relations with it on Feb 19, 1992. Embassy Dushanbe was established Mar 13, 1992, with Edmund McWilliams as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tj-1992-escu-01</id>
@@ -39,17 +39,23 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Embassy Dushanbe was closed Oct 25, 1992, and all U.S.
-                personnel were withdrawn. Escudero reopened the Embassy Mar 11, 1993, and left post
-                Jun 1, 1995</note>
+                <date>1995-07-01</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
+        <mission-note>
+            <text>On October 25, 1992, Embassy Dushanbe was closed and all U.S. personnel were
+                withdrawn. Escudero reopened the Embassy on March 11, 1993.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </mission-note>
         <chief>
             <id>tj-1995-smit-01</id>
             <person-id>smith-r-grant</person-id>

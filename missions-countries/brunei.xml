@@ -3,6 +3,29 @@
     <territory-id>brunei</territory-id>
     <chiefs>
         <chief>
+            <id>bn--elli-01</id>
+            <person-id>ellice-douglas-v</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>brunei</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1984-01-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-20</last-modified-date>
+        </chief>
+        <chief>
             <id>bn-1984-king-01</id>
             <person-id>king-barrington</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1987-04-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Consulate General Bandar Seri Begawan was upgraded to Embassy status Jan 1, 1984, with Douglas Ellice as Principal Officer and Chargé d’Affaires ad interim.</note>
+            <note>C</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-20</last-modified-date>
         </chief>
         <chief>
             <id>bn-1987-ferg-01</id>
@@ -269,7 +292,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>
@@ -277,29 +300,6 @@
             <created-date>2015-07-09</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
-        </chief>
-        <chief>
-            <id>bn--elli-01</id>
-            <person-id>ellice-douglas-v</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>brunei</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Consulate General Bandar Seri Begawan was upgraded to Embassy status Jan 1, 1984, with Douglas Ellice as Principal Officer and Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

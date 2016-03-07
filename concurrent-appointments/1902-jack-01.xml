@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concurrent-appointments>
+    <id>1902-jack-01</id>
+    <person-id>jackson-john-brinkerhoff</person-id>
+    <resident-at>
+        <locale-id>athens</locale-id>
+        <contemporary-territory-id>greece</contemporary-territory-id>
+    </resident-at>
+    <chief-id>gr-1902-jack-01</chief-id>
+    <chief-id>rs-1902-jack-01</chief-id>
+    <chief-id>ro-1902-jack-01</chief-id>
+    <created-by>marrsaw</created-by>
+    <created-date>2016-01-04</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-01-04</last-modified-date>
+</concurrent-appointments>

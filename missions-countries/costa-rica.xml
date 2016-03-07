@@ -3,52 +3,6 @@
     <territory-id>costa-rica</territory-id>
     <chiefs>
         <chief>
-            <id>cr-1853-slid-01</id>
-            <person-id>slidell-john</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date>1853-03-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to Central America; declined appointment. Commissioned during a recess of the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cr-1853-borl-01</id>
-            <person-id>borland-solon</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date>1853-04-18</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to Central America; did not present credentials in Costa Rica. Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 9, 1854.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>cr-1858-lama-01</id>
             <person-id>lamar-mirabeau-buonaparte</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -62,15 +16,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Notified Govt. of Costa Rica by note from Releajo,
-                Nicaragua, May 20, 1859, of termination of his mission</note>
+                <date>1859-05-20</date>
+                <note>Notified the Government of Costa Rica by note from Releajo, Nicaragua, of
+                    termination of his mission</note>
             </ended>
-            <note>Accredited also to Nicaragua; resident at Managua.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1859-dimi-01</id>
@@ -89,11 +43,12 @@
                 <date>1861-04-27</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 24, 1860. Accredited also to Nicaragua; resident at Managua.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 24, 1860,
+                after confirmation. Also resident partly at San Jose.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1861-riot-01</id>
@@ -112,11 +67,12 @@
                 <date>1867-01-18</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on July 22, 1861.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on July 22, 1861, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-12</last-modified-date>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1866-lawr-01</id>
@@ -135,11 +91,12 @@
                 <date>1868-06-24</date>
                 <note>Probably presented recall soon after</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 11, 1867.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 11, 1867,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1868-blai-01</id>
@@ -178,15 +135,16 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Notified Government of Costa Rica by note from Amapala,
-                Honduras, Jan 31, 1879, that he had resigned</note>
+                <date>1879-01-31</date>
+                <note>Notified Government of Costa Rica by note from Amapala, Honduras, that he had
+                    resigned</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1873. Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1873,
+                after confirmation. Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1879-loga-01</id>
@@ -199,17 +157,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1879-12-25</date>
-                <note/>
+                <note>Officially recognized on</note>
             </started>
             <ended>
                 <date>1882-04-17</date>
                 <note>Left San Jose</note>
             </ended>
-            <note>Officially recognized on Dec 25, 1879. Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1882-hall-01</id>
@@ -225,15 +183,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Envoy Extraordinary and Minister
-                Plenipotentiary</note>
+                <date>1882-11-22</date>
+                <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
-            <note>Presented credentials the same day as Minister Resident and as Envoy Extraordinary and Minister Plenipotentiary. Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala.</note>
+            <note>Presented credentials the same day as Minister Resident and as Envoy Extraordinary
+                and Minister Plenipotentiary. Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1882-hall-02</id>
@@ -250,13 +208,13 @@
             </started>
             <ended>
                 <date>1889-05-16</date>
-                <note>Transmitted recall by note on or shortly before                    </note>
+                <note>Transmitted recall by note on or shortly before</note>
             </ended>
-            <note>Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1889-mizn-01</id>
@@ -275,11 +233,11 @@
                 <date>1890-12-31</date>
                 <note>Relinquished charge at Guatemala</note>
             </ended>
-            <note>Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1890-pach-01</id>
@@ -298,11 +256,11 @@
                 <date>1891-10-31</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1891-shan-01</id>
@@ -321,11 +279,12 @@
                 <date>1893-04-30</date>
                 <note>Left Managua</note>
             </ended>
-            <note>Also accredited to El Salvador and Nicaragua; resident at Managua. Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 23, 1891.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 23, 1891,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1893-bake-01</id>
@@ -338,17 +297,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1893-05-20</date>
-                <note/>
+                <note>Transmitted credentials by note from Managua on</note>
             </started>
             <ended>
                 <date>1897-12-09</date>
                 <note>Transmitted recall by note about</note>
             </ended>
-            <note>Accredited also to El Salvador and Nicaragua; resident at Managua. Transmitted credentials by note from Managua on this date.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr-1897-merr-01</id>
@@ -364,14 +323,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1907-12-12</date>
                 <note>Recommissioned to a different combination of countries</note>
             </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Nicaragua, Costa Rica, and El Salvador; resident at San Jose.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1907-merr-01</id>
@@ -387,14 +346,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1908-07-01</date>
                 <note>Recommissioned to Costa Rica only</note>
             </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Nicaragua and Costa Rica; resident at San Jose.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1908-merr-01</id>
@@ -406,18 +365,19 @@
                 <note/>
             </appointed>
             <started>
-                <date>1911-03-04</date>
-                <note>Left Costa Rica</note>
-            </started>
-            <ended>
                 <date/>
                 <note/>
+            </started>
+            <ended>
+                <date>1911-03-04</date>
+                <note>Left Costa Rica</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1908.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1908,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1911-eins-01</id>
@@ -456,16 +416,84 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Normal relations interrupted, Jan 27, 1917; new
-                Government of Costa Rica still unrecognized by the U.S. when Hale left Costa Rica,
-                Apr 19, 1917</note>
+                <date>1917-01-27</date>
+                <note>Normal relations interrupted on</note>
             </ended>
-            <note>Stewart Johnson was serving as Chargé d’Affaires ad interim when Legation San Jose was closed, Dec 5, 1918. The Legation was reopened Oct 15, 1920 with John F. Martin, Jr., as Chargé d’Affaires ad interim. Walter C. Thurston served in that capacity, Jan. 1921-Mar. 1922.</note>
+            <note>The new government of Costa Rica was still unrecognized by the United States when
+                Hale left Costa Rica on April 19, 1917.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
+        </chief>
+        <chief>
+            <id>cr-1918-john-01</id>
+            <person-id>johnson-stewart</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>costa-rica</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1918-12-05</date>
+                <note>Legation San Jose closed on</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-17</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>cr-1920-mart-01</id>
+            <person-id>martin-john-funk</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>costa-rica</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1920-10-15</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-17</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>cr-1921-thur-01</id>
+            <person-id>thurston-walter-clarence</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>costa-rica</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1921-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1922-03</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-17</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1922-davi-01</id>
@@ -482,36 +510,13 @@
             </started>
             <ended>
                 <date>1930-01-04</date>
-                <note>Left Costa Rica</note>
+                <note>Left Costa Rica.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cr-1929-scho-01</id>
-            <person-id>schoenfeld-hans-frederick-arthur</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date>1929-12-16</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1930-eber-01</id>
@@ -528,7 +533,7 @@
             </started>
             <ended>
                 <date>1933-09-24</date>
-                <note>Left Costa Rica</note>
+                <note>Left Costa Rica.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -553,34 +558,12 @@
                 <date>1937-01-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 15, 1934.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 15, 1934,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cr-1937-albr-01</id>
-            <person-id>albright-edward</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date>1937-04-22</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but died in the U.S. before proceeding to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1937-horn-01</id>
@@ -597,7 +580,7 @@
             </started>
             <ended>
                 <date>1941-09-01</date>
-                <note>Relinquished charge</note>
+                <note>Relinquished charge.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -737,11 +720,12 @@
                 <date>1949-06-08</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 9, 1947.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 9, 1947,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1949-flac-01</id>
@@ -806,11 +790,12 @@
                 <date>1954-09-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 26, 1954.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 26, 1954,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1954-wood-01</id>
@@ -829,11 +814,12 @@
                 <date>1958-03-15</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 3, 1954.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 3, 1954,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1958-will-01</id>
@@ -1082,11 +1068,11 @@
                 <date>1990-01-04</date>
                 <note>Left post.</note>
             </ended>
-            <note>Hinton was commissioned during a recess of the Senate as Ambassador to Panama, Jan 2, 1990, and presented his credentials there on Jan 9, 1990 (see under Panama). The following officers served as Chargé d’Affaires ad interim: Robert O. Homme (Mar-Jul 1993), Donald Harrington (Jul-Aug 1993), and Joseph Beceila (Aug 1993-Oct 1994).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2011-05-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1991-guin-01</id>
@@ -1112,62 +1098,16 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1993-homm-01</id>
-            <person-id>homme-robert-o</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date>1993-03</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1993-07</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cr-1993-harr-01</id>
-            <person-id>harrington-donald</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date>1993-07</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1993-08</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>cr-1993-bece-01</id>
             <person-id>beceila-joseph</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
             <appointed>
-                <date>1993-08</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1993-08</date>
                 <note/>
             </started>
             <ended>
@@ -1177,8 +1117,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>cr-1994-de-01</id>
@@ -1250,6 +1190,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>cr-2004-barn-01</id>
+            <person-id>barnes-douglas-m</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>costa-rica</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2004-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2005-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-17</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
+        </chief>
+        <chief>
             <id>cr-2005-lang-01</id>
             <person-id>langdale-mark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -1263,7 +1226,7 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2008-01-22</date>
                 <note/>
             </ended>
             <note/>
@@ -1319,31 +1282,8 @@
             <last-modified-date>2015-07-15</last-modified-date>
         </chief>
         <chief>
-            <id>cr--hane-01</id>
-            <person-id>haney-stafford-fitzgerald</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date></date>
-                <note/>
-            </appointed>
-            <started>
-                <date></date>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of July 9, 2014, not acted upon by the Senate. Re-nominated February 5, 2015. The following officers served as charges d’affaires ad interim: Gonzalo Gallegos (June 2013-February 2015), Ray Perrin (February 2015-).</note>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-07-13</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>cr--barn-01</id>
-            <person-id>barnes-douglas-m</person-id>
+            <id>cr-2013-gall-01</id>
+            <person-id>gallegos-gonzalo</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
             <appointed>
@@ -1351,23 +1291,23 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2013-06</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2015-02</date>
                 <note/>
             </ended>
-            <note>2004</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-19</last-modified-date>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-17</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr--riot-01</id>
-            <person-id>riotte-charles-n</person-id>
-            <role-title-id>minister-resident</role-title-id>
+            <id>cr-2015-hane-01</id>
+            <person-id>haney-stafford-fitzgerald</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
             <appointed>
                 <date/>
@@ -1381,11 +1321,63 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination tabled by the Senate.</note>
+            <note>Nomination of July 9, 2014, not acted upon by the Senate. Re-nominated February 5,
+                2015.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-07-13</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-07-13</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees>
+        <chief>
+            <id>cr-1853-slid-01</id>
+            <person-id>slidell-john</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>costa-rica</contemporary-territory-id>
+            <appointed>
+                <date>1853-03-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Commissioned to Central America;
+                declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-12</last-modified-date>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>cr-1853-borl-01</id>
+            <person-id>borland-solon</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>costa-rica</contemporary-territory-id>
+            <appointed>
+                <date>1853-04-18</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 9, 1854,
+                after confirmation. Commissioned to Central America. Did not present credentials in
+                Costa Rica.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>cr--mott-01</id>
@@ -1411,9 +1403,9 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr--mart-01</id>
-            <person-id>martin-john-funk</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>cr--riot-01</id>
+            <person-id>riotte-charles-n</person-id>
+            <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
             <appointed>
                 <date/>
@@ -1427,19 +1419,42 @@
                 <date/>
                 <note/>
             </ended>
-            <note>The Legation was reopened Oct 15, 1920 with John F. Martin, Jr., as Chargé d’Affaires ad interim.</note>
+            <note>Not commissioned; nomination tabled by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2014-02-12</last-modified-date>
+        </chief>
+        <chief>
+            <id>cr-1929-scho-01</id>
+            <person-id>schoenfeld-hans-frederick-arthur</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>costa-rica</contemporary-territory-id>
+            <appointed>
+                <date>1929-12-16</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr--fris-01</id>
-            <person-id>frisbie-russell-louis</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>cr-1937-albr-01</id>
+            <person-id>albright-edward</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1937-04-22</date>
                 <note/>
             </appointed>
             <started>
@@ -1450,14 +1465,15 @@
                 <date/>
                 <note/>
             </ended>
-            <note>2005</note>
+            <note>Took oath of office, but died in the United States before proceeding to
+                post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr--ande-01</id>
+            <id>cr-1974-ande-01</id>
             <person-id>anderson-stanton-dean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1473,37 +1489,14 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination of Apr 29, 1974 was not acted upon by the Senate.</note>
+            <note>Not commissioned; nomination of April 29, 1974, was not acted upon by the
+                Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>cr--john-01</id>
-            <person-id>johnson-stewart</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>was serving as Chargé d’Affaires ad interim when Legation San Jose was closed, Dec 5, 1918</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

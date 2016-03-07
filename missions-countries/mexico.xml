@@ -3,52 +3,6 @@
     <territory-id>mexico</territory-id>
     <chiefs>
         <chief>
-            <id>mx-1823-jack-01</id>
-            <person-id>jackson-andrew</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>mexico</contemporary-territory-id>
-            <appointed>
-                <date>1823-01-27</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>mx-1824-edwa-01</id>
-            <person-id>edwards-ninian</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>mexico</contemporary-territory-id>
-            <appointed>
-                <date>1824-03-04</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>mx-1825-poin-01</id>
             <person-id>poinsett-joel-roberts</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -62,15 +16,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Recall requested by Government of Mexico, Oct 17, 1829;
-                left post, Jan 3, 1830.</note>
+                <date>1829-10-17</date>
+                <note>Recall requested by Government of Mexico on</note>
             </ended>
-            <note/>
+            <note>Poinsett left post on January 3, 1830.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1829-butl-01</id>
@@ -86,15 +39,16 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Recall requested by Government of Mexico Oct 21, 1835;
-                Butler did not leave post until after his successor had presented credentials.</note>
+                <date>1835-10-21</date>
+                <note>Recall requested by Government of Mexico on</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 12, 1830.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 12, 1830,
+                after confirmation. Butler did not leave post until after his successor had
+                presented credentials.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1836-elli-01</id>
@@ -179,38 +133,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Mexico severed diplomatic relations with U.S., Mar 28,
-                1845; Shannon left post, May 14, 1845.</note>
+                <date>1845-03-28</date>
+                <note>Mexico severed diplomatic relations with the United States on</note>
             </ended>
-            <note/>
+            <note>Shannon left post on May 14, 1845.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>mx-1845-slid-01</id>
-            <person-id>slidell-john</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>mexico</contemporary-territory-id>
-            <appointed>
-                <date>1845-11-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 20, 1846. Proceeded to post, but did not present credentials; left post about Mar 21, 1846.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1848-clif-01</id>
@@ -252,11 +182,12 @@
                 <date>1852-08-02</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on May 29, 1850.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on May 29, 1850, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1852-conk-01</id>
@@ -298,11 +229,12 @@
                 <date>1856-10-23</date>
                 <note>Superseded</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 13, 1854.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 13, 1854,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1856-fors-01</id>
@@ -318,15 +250,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Suspended political relations of the Legation with
-                Government of Mexico, Jun 21, 1858</note>
+                <date>1858-06-21</date>
+                <note>Suspended political relations of the Legation with Government of Mexico
+                    on</note>
             </ended>
-            <note>Forsyth left post, Oct 21, 1858.</note>
+            <note>Forsyth left post on October 21, 1858.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1859-mcla-01</id>
@@ -368,11 +300,12 @@
                 <date>1861-05-14</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 12, 1860.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 12, 1860,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1861-corw-01</id>
@@ -391,57 +324,57 @@
                 <date>1864-04-27</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>During 1864-1867 the following officers served as Chargé d’Affaires ad interim: William H. Corwin (Apr 1864-Apr 1866) and Marcus Otterbourg (Apr 1866-Aug 1987).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mx-1865-loga-01</id>
-            <person-id>logan-john-alexander</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <id>mx-1864-corw-01</id>
+            <person-id>corwin-william-henry</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
             <appointed>
-                <date>1865-11-14</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1864-04</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1866-04</date>
                 <note/>
             </ended>
-            <note>Declined appointment. Commissioned during a recess of the Senate.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mx-1866-camp-01</id>
-            <person-id>campbell-lewis-davis</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <id>mx-1866-otte-01</id>
+            <person-id>otterbourg-marcus</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
             <appointed>
-                <date>1866-05-04</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1866-04</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1867-08</date>
                 <note/>
             </ended>
-            <note>Took oath of office and proceeded to Mexico, but did not present credentials.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1867-otte-01</id>
@@ -457,15 +390,16 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Informed Government of Mexico by note, Aug 18, 1867,
-                that he considered his mission terminated; left post Sep 21-30, 1867.</note>
+                <date>1867-08-28</date>
+                <note>Informed Government of Mexico that he considered his mission terminated by
+                    note on</note>
             </ended>
-            <note>Commissioned during a recess of the Senate.</note>
+            <note>Commissioned during a recess of the Senate. Otterbourg left post between September
+                21 and 30, 1867.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1868-rose-01</id>
@@ -599,11 +533,12 @@
                 <date>1887-09-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 14, 1887.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 14, 1887,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1888-brag-01</id>
@@ -668,34 +603,12 @@
                 <date>1894-12-07</date>
                 <note>Left post.</note>
             </ended>
-            <note>Returned to post, Feb 14, 1895, but died the same day without resuming charge of the Legation.</note>
+            <note>Returned to post on February 14, 1895, but died the same day without resuming
+                charge of the Legation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>mx-1895-rans-01</id>
-            <person-id>ransom-matthew-whitaker</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>mexico</contemporary-territory-id>
-            <appointed>
-                <date>1895-02-23</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1895-04-18</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1895-06-01</date>
-                <note>Left post.</note>
-            </ended>
-            <note>This appointment was characterized as a nullity in an opinion of the Acting Attorney General, Aug 15, 1895.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1895-rans-02</id>
@@ -714,11 +627,13 @@
                 <date>1897-02-13</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 5, 1895. New letter of credence filed with the Foreign Minister on Sep 18, 1895, and not formally presented.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 5, 1895,
+                after confirmation. New letter of credence filed with the Foreign Minister on
+                September 18, 1895, and not formally presented.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1897-clay-01</id>
@@ -734,15 +649,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Ambassador Extraordinary and
-            Plenipotentiary</note>
+                <date>1899-01-13</date>
+                <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1898-clay-01</id>
@@ -827,16 +741,38 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Normal relations interrupted, Feb 18, 1913; new
-                Government of Mexico still unrecognized by the United States when Wilson left Mexico
-                Jul 17, 1913</note>
+                <date>1913-02-18</date>
+                <note>Normal relations interrupted on</note>
             </ended>
-            <note>Nelson O’Shaughnessy was serving as Chargé d’Affaires ad interim when the Embassy in Mexico was closed, at the request of the Mexican authorities, Apr 22, 1914.</note>
+            <note>The new government was still unrecognized by the United States when Wilson left
+                Mexico on July 17, 1913.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>mx--osha-01</id>
+            <person-id>oshaugnessy-nelson</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mexico</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1914-04-22</date>
+                <note>Embassy Mexico City closed at the request of the Mexican authorities on</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1916-flet-01</id>
@@ -855,11 +791,34 @@
                 <date>1919-01-25</date>
                 <note>Left post.</note>
             </ended>
-            <note>George T. Summerlin served as Chargé d’Affaires ad interim, Jan 1919-Mar 1924.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>mx-1919-summ-01</id>
+            <person-id>summerlin-george-thomas</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mexico</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1919-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1924-03</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-19</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1924-warr-01</id>
@@ -901,11 +860,12 @@
                 <date>1927-06-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 10, 1925.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 10, 1925,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1927-morr-01</id>
@@ -924,11 +884,12 @@
                 <date>1930-09-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Comissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1927.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1927,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1930-clar-01</id>
@@ -947,11 +908,12 @@
                 <date>1933-02-14</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 16, 1930.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 16, 1930,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mx-1933-dani-01</id>
@@ -1322,6 +1284,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>mx-1997-bray-01</id>
+            <person-id>brayshaw-charles-h</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mexico</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1997-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1998-08</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
             <id>mx-1998-davi-01</id>
             <person-id>davidow-jeffrey-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -1419,30 +1404,32 @@
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date></date>
+                <date/>
                 <note/>
             </started>
             <ended>
                 <date/>
                 <note/>
             </ended>
-            <note>Nomionation of September 18, 2014, not acted upon by the Senate.</note>
+            <note>Nomination of September 18, 2014, not acted upon by the Senate.</note>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>mx--osha-01</id>
-            <person-id>oshaugnessy-nelson</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>mx-1823-jack-01</id>
+            <person-id>jackson-andrew</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1823-01-27</date>
                 <note/>
             </appointed>
             <started>
@@ -1453,19 +1440,19 @@
                 <date/>
                 <note/>
             </ended>
-            <note>was serving as Chargé d’Affaires ad interim when the Embassy in Mexico was closed, at the request of the Mexican authorities, Apr 22, 1914.</note>
+            <note>Declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mx--morg-01</id>
-            <person-id>morgenthau-henry</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
+            <id>mx-1824-edwa-01</id>
+            <person-id>edwards-ninian</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1824-03-04</date>
                 <note/>
             </appointed>
             <started>
@@ -1476,19 +1463,19 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination not confirmed by the Senate.</note>
+            <note>Did not proceed to post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mx--bray-01</id>
-            <person-id>brayshaw-charles-h</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>mx-1845-slid-01</id>
+            <person-id>slidell-john</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1845-11-10</date>
                 <note/>
             </appointed>
             <started>
@@ -1499,7 +1486,56 @@
                 <date/>
                 <note/>
             </ended>
-            <note>served as Chargé d’Affaires ad interim Jun 1997-Aug 1998.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 20, 1846,
+                after confirmation. Proceeded to post, but did not present credentials; left post
+                about March 21, 1846.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>mx-1865-loga-01</id>
+            <person-id>logan-john-alexander</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>mexico</contemporary-territory-id>
+            <appointed>
+                <date>1865-11-14</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment. Commissioned during a recess of the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>mx-1866-camp-01</id>
+            <person-id>campbell-lewis-davis</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>mexico</contemporary-territory-id>
+            <appointed>
+                <date>1866-05-04</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office and proceeded to Mexico, but did not present
+                credentials.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1529,9 +1565,33 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mx--corw-01</id>
-            <person-id>corwin-william-henry</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>mx-1895-rans-01</id>
+            <person-id>ransom-matthew-whitaker</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>mexico</contemporary-territory-id>
+            <appointed>
+                <date>1895-02-23</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1895-04-18</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1895-06-01</date>
+                <note>Left post.</note>
+            </ended>
+            <note>This appointment was characterized as a nullity in an opinion of the Acting
+                Attorney General on Aug 15, 1895.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>mx--morg-01</id>
+            <person-id>morgenthau-henry</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
             <appointed>
                 <date/>
@@ -1545,14 +1605,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>(Apr 1864-Apr 1866)</note>
+            <note>Not commissioned; nomination not confirmed by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

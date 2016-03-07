@@ -3,6 +3,29 @@
     <territory-id>fiji</territory-id>
     <chiefs>
         <chief>
+            <id>fj-1971-skif-01</id>
+            <person-id>skiff-robert-woltz</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>fiji</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1971-11-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
+        </chief>
+        <chief>
             <id>fj-1972-fran-01</id>
             <person-id>franzheim-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,13 +42,36 @@
                 <date>1972-11-06</date>
                 <note>Left Suva</note>
             </ended>
-            <note>Also accredited to New Zealand, Tonga, and Western Samoa; resident at Wellington. The Embassy in Suva was established Nov 1, 1971, with Robert W. Skiff as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-08</last-modified-date>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
+            <id>fj-1972-wood-01</id>
+            <person-id>wood-chalmers-benedict</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>fiji</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1972-11</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1974-04</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
+        </chief>
+                <chief>
             <id>fj-1974-seld-01</id>
             <person-id>selden-armistead-inge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -42,11 +88,11 @@
                 <date>1978-04-10</date>
                 <note>Left Suva</note>
             </ended>
-            <note>Also accredited to New Zealand, Tonga, and Western Samoa; resident at Wellington.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-1978-cond-01</id>
@@ -65,11 +111,11 @@
                 <date>1980-07-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Tonga and Tuvalu; resident at Suva.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-1980-bodd-01</id>
@@ -88,34 +134,11 @@
                 <date>1981-08-15</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Tonga and Tuvalu; nominated Jun 13, 1980 as Minister to Kiribati; resident at Suva.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-03</last-modified-date>
-        </chief>
-        <chief>
-            <id>fj-1980-teeg-01</id>
-            <person-id>teegan-evelyn-irene-hoopes</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>fiji</contemporary-territory-id>
-            <appointed>
-                <date>1980-10-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1989-11-21</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1993-03-05</date>
-                <note>Left post.</note>
-            </ended>
-            <note>The following officers served as Chargé d’Affaires ad interim: Michael W. Marine (Mar 1993-Jun 1995) and Bruce N. Gray (Jun-Dec 1995). Subsequent Ambassadors have also been accredited to Nauru.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-1982-ecke-01</id>
@@ -134,11 +157,11 @@
                 <date>1984-05-07</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Tonga, Tuvalu, and Kiribati; resident at Suva.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-1984-dill-01</id>
@@ -187,6 +210,52 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>fj-1989-teeg-01</id>
+            <person-id>teegan-evelyn-irene-hoopes</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>fiji</contemporary-territory-id>
+            <appointed>
+                <date>1989-10-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1989-11-21</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1993-03-05</date>
+                <note>Left post.</note>
+            </ended>
+            <note></note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-25</last-modified-date>
+        </chief>
+        <chief>
+            <id>fj-1993-mari-01</id>
+            <person-id>marine-michael-w</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>fiji</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-03</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1995-06</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
+        </chief>
+        <chief>
             <id>fj-1995-gevi-01</id>
             <person-id>gevirtz-don-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -203,11 +272,11 @@
                 <date>1997-09-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Nauru, Tonga, and Tuvalu; resident at Suva.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-1999-sidd-01</id>
@@ -226,11 +295,11 @@
                 <date>2001-06-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Nauru, Tonga, and Tuvalu; resident at Suva. The following officers served as Chargé d’Affaires ad interim: Ronald K. McMullen (Jun 2001-Jun 2002) and Hugh Neighbor (Jun 2002- ).</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-18</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-2001-mcmu-01</id>
@@ -238,45 +307,22 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
             <appointed>
-                <date>2001-06</date>
+                <date></date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2001-06</date>
                 <note/>
             </started>
             <ended>
                 <date>2002-06</date>
                 <note/>
             </ended>
-            <note>Also accredited to Nauru, Tonga, and Tuvalu; resident at Suva.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
-        </chief>
-        <chief>
-            <id>fj-2002-neig-01</id>
-            <person-id>neighbor-hugh-m</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>fiji</contemporary-territory-id>
-            <appointed>
-                <date>2002-06</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>2003-01</date>
-                <note/>
-            </ended>
-            <note>Also accredited to Nauru, Tonga, and Tuvalu; resident at Suva.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
             <id>fj-2002-lyon-01</id>
@@ -295,11 +341,11 @@
                 <date>2005-07-23</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Nauru, Tonga, and Tuvalu; resident at Suva. Hugh neighbor served as Charge d’Affaires ad interm, June 2002-January 2003</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-2005-ding-01</id>
@@ -318,11 +364,11 @@
                 <date>2008-07-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Nauru, Tonga, and Tuvalu; resident at Suva.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-2008-mcga-01</id>
@@ -341,11 +387,11 @@
                 <date>2011-07-13</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Kiribati, Nauru, Tonga, and Tuvalu; resident at Suva.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-03</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-2011-reed-01</id>
@@ -364,11 +410,11 @@
                 <date>2015-01-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Kiribati, Nauru, Tonga, and Tuvalu; resident at Suva.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>fj-2014-cefk-01</id>
@@ -384,86 +430,19 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>fj--mari-01</id>
-            <person-id>marine-michael-w</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>fiji</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Mar 1993-Jun 1995.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2013-05-23</last-modified-date>
-        </chief>
-        <chief>
-            <id>fj--gray-01</id>
-            <person-id>gray-bruce-n</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>fiji</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Jun-Dec 1995)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>fj--skif-01</id>
-            <person-id>skiff-robert-woltz</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>fiji</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>The Embassy in Suva was established Nov 1, 1971, with Robert W. Skiff as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>fj--farl-01</id>
+            <id>fj-1973-farl-01</id>
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -479,14 +458,14 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Also nominated to New Zealand, Tonga, and Western Samoa; Oct 11, 1973. Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <note>Not commissioned; nomination of October 11, 1973, withdrawn before the Senate
+                acted upon it.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-08</last-modified-date>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

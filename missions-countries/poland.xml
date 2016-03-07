@@ -19,11 +19,13 @@
                 <date>1924-05-03</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; commission not of record; took oath of office on Apr 16, 1919. Recommissioned on Jun 26, 1919, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; commission not of record; took oath of
+                office on April 16, 1919. Recommissioned on June 26, 1919, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>pl-1924-pear-01</id>
@@ -65,34 +67,12 @@
                 <date>1929-08-29</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1925.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1925,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>pl-1930-moor-01</id>
-            <person-id>moore-alexander-pollock</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>poland</contemporary-territory-id>
-            <appointed>
-                <date>1930-01-31</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Died in the United States before taking oath of office.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>pl-1930-will-01</id>
@@ -180,11 +160,38 @@
                 <date>1943-12-01</date>
                 <note>Left London</note>
             </ended>
-            <note>Biddle left Warsaw, Sep 5, 1939, and followed the Government of Poland first to France (Sep 1939-Jun 1940) and later to England (where Biddle arrived Mar 14, 1941). Rudolf E. Schoenfeld opened the Embassy near the Government of Poland established in England, making his initial call as Chargé d’Affaires ad interim on Sep 21, 1940. Biddle was also commissioned to Belgium, Czechoslovakia, Greece, Luxembourg, the Netherlands, Norway, and Yugoslavia; resident at London during his service near those governments. Rudolf E. Schoenfeld was serving as Chargé d’Affaires ad interim when the mission of the Embassy near the Government of Poland established in England was terminated on Jul 5, 1945, on which date the Embassy in Warsaw was re-established with Ambassador Lane in charge pending presentation of his letter of credence.</note>
+            <note>Biddle left Warsaw on September 5, 1939, and followed the Government of Poland
+                first to France (September 1939-June 1940) and later to England (where Biddle
+                arrived on March 14, 1941). Before Biddle arrived in London, Rudolf E. Schoenfeld
+                opened the Embassy near the Government of Poland established in England, making his
+                initial call as Chargé d’Affaires ad interim on September 21, 1940.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>pl--scho-01</id>
+            <person-id>schoenfeld-rudolf-emil</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>poland</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1945-07-05</date>
+                <note>Embassy near the Government of Poland in England was terminated on</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>pl-1944-lane-01</id>
@@ -203,11 +210,12 @@
                 <date>1947-02-24</date>
                 <note>Left post.</note>
             </ended>
-            <note/>
+            <note>On July 5, 1945, the Embassy in Warsaw was re-established with Ambassador Lane in
+                charge pending presentation of his letter of credence.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>pl-1947-grif-01</id>
@@ -246,14 +254,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1950-07-08</date>
                 <note/>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 2, 1949.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>pl-1950-flac-01</id>
@@ -410,11 +419,12 @@
                 <date>1978-02-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 8, 1973.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 8, 1973,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>pl-1978-scha-01</id>
@@ -456,11 +466,57 @@
                 <date>1983-02-11</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers have served as Chargé d’Affaires ad interim: Herbert E. Wilgis, Jr. (Feb-Jul 1983); and John R. Davis, Jr. (Sep 1983-Jan 1987).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>pl-1983-davi-01</id>
+            <person-id>davis-john-roger</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>poland</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1983-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1987-01-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-06</last-modified-date>
+        </chief>
+        <chief>
+            <id>pl-1987-davi-01</id>
+            <person-id>davis-john-roger</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>poland</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1987-01-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1988-03-17</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
             <id>pl-1988-davi-01</id>
@@ -479,11 +535,11 @@
                 <date>1990-07-20</date>
                 <note>Left post.</note>
             </ended>
-            <note>Designated Chargé d’Affaires on Jan 9, 1987.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>pl-1990-simo-01</id>
@@ -646,6 +702,31 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
+        <chief>
+            <id>pl-1930-moor-01</id>
+            <person-id>moore-alexander-pollock</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>poland</contemporary-territory-id>
+            <appointed>
+                <date>1930-01-31</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Died in the United States before taking oath of office.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
         <chief>
             <id>pl--curl-01</id>
             <person-id>curley-james-michael</person-id>
@@ -669,54 +750,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl--davi-01</id>
-            <person-id>davis-john-roger</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>poland</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim (Sep 1983-Jan 1987)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>pl--wilg-01</id>
-            <person-id>wilgis-herbert-e</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>poland</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim: (Feb-Jul 1983)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

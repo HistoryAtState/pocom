@@ -3,52 +3,6 @@
     <territory-id>el-salvador</territory-id>
     <chiefs>
         <chief>
-            <id>sv-1853-slid-01</id>
-            <person-id>slidell-john</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>el-salvador</contemporary-territory-id>
-            <appointed>
-                <date>1853-03-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate. Commissioned to Central America; declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>sv-1853-borl-01</id>
-            <person-id>borland-solon</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>el-salvador</contemporary-territory-id>
-            <appointed>
-                <date>1853-04-18</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 8, 1854. Commissioned to Central America; did not present credentials in El Salvador.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>sv-1863-part-01</id>
             <person-id>partridge-james-rudolph</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -65,11 +19,12 @@
                 <date>1866-03-22</date>
                 <note>Left post on or soon after</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 18, 1864.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 18, 1864,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1866-will-01</id>
@@ -88,11 +43,12 @@
                 <date>1869-10-27</date>
                 <note>Had farewell audience</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 2, 1867.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1867, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1869-torb-01</id>
@@ -134,11 +90,12 @@
                 <date>1873-06-30</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 12, 1871.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 12, 1871,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1873-will-01</id>
@@ -154,15 +111,16 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Notified Government of Salvador by note from Amapala,
-                Honduras, that he had resigned</note>
+                <date>1879-01-31</date>
+                <note>Notified Government of Salvador by note from Amapala, Honduras, that he had
+                    resigned</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1873. Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1873,
+                after confirmation. Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1879-loga-01</id>
@@ -175,17 +133,18 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1879-07-07</date>
-                <note/>
+                <note>Transmitted credentials by note on approximately</note>
             </started>
             <ended>
                 <date>1882-04-15</date>
-                <note>Transmitted recall note from Guatemala on or soon                     after</note>
+                <note>Transmitted recall note from Guatemala on or soon after</note>
             </ended>
-            <note>Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala. Transmitted credentials by note on approximately this date; officially recognized before Dec 2, 1879.</note>
+            <note>Officially recognized before December 2, 1879. Commissioned to “the Central
+                American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1882-hall-01</id>
@@ -198,18 +157,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1882-08-07</date>
-                <note/>
+                <note>Officially recognized on</note>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Envoy Extraordinary and Minister
-                Plenipotentiary</note>
+                <date>1883-05-02</date>
+                <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
-            <note>Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala. Officially recognized on Aug 7, 1882.</note>
+            <note>Commissioned to the “Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1882-hall-02</id>
@@ -226,13 +184,13 @@
             </started>
             <ended>
                 <date>1889-05-16</date>
-                <note>Transmitted recall by note on or shortly before                    </note>
+                <note>Transmitted recall by note on or shortly before</note>
             </ended>
-            <note>Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1889-mizn-01</id>
@@ -251,11 +209,11 @@
                 <date>1890-12-31</date>
                 <note>Relinquished charge at Guatemala</note>
             </ended>
-            <note>Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1890-pach-01</id>
@@ -274,11 +232,11 @@
                 <date>1891-11-14</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1891-shan-01</id>
@@ -297,11 +255,12 @@
                 <date>1893-04-30</date>
                 <note>Left Managua</note>
             </ended>
-            <note>Also accredited to Costa Rica and Nicaragua and resident at Managua. Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 23, 1891.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 23, 1891,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1893-bake-01</id>
@@ -314,17 +273,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1893-05-20</date>
-                <note/>
+                <note>Transmitted credentials by note from Managua on</note>
             </started>
             <ended>
                 <date>1897-12-09</date>
                 <note>Transmitted recall by note about</note>
             </ended>
-            <note>Also accredited to Costa Rica and Nicaragua and resident at Managua.Transmitted credentials by note from Managua on May 20, 1893.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv-1897-merr-01</id>
@@ -343,11 +302,11 @@
                 <date>1907-12-31</date>
                 <note>Superseded</note>
             </ended>
-            <note>Also accredited to Cost Rica and Nicaragua; resident at San Jose.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1907-dodg-01</id>
@@ -359,18 +318,19 @@
                 <note/>
             </appointed>
             <started>
-                <date>1908-07-01</date>
+                <date>1907-12-31</date>
                 <note/>
             </started>
             <ended>
                 <date>1909-02-06</date>
-                <note>Left post.</note>
+                <note>Recommissioned to Salvador only on</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned to Salvador only after confirmation on Dec 12, 1907. Also accredited to Honduras until 1908; resident at San Salvador. Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1908, but did not serve under this appointment.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 12, 1907,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1909-heim-01</id>
@@ -412,11 +372,34 @@
                 <date>1917-11-07</date>
                 <note>Left post.</note>
             </ended>
-            <note>Frank D. Arnold served as Chargé d’Affaires ad interim, Jul 1918-Feb 1921.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>sv-1918-arno-01</id>
+            <person-id>arnold-frank-dundore</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>el-salvador</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1918-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1921-02</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1920-jay-01</id>
@@ -504,11 +487,12 @@
                 <date>1931-04-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 23, 1929. Country name changed from “Salvador” to “El Salvador” Dec 5, 1928. All subsequent representatives were commissioned to El Salvador.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 23, 1929,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1931-curt-01</id>
@@ -524,16 +508,19 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Normal relations interrupted, Dec 4, 1931; new
-                Government of El Salvador still unrecognized by the U.S. when Curtis left post Jan
-                10, 1932</note>
+                <date>1931-12-04</date>
+                <note>Normal relations interrupted on, Dec 4, 1931; new Government of El Salvador
+                    still unrecognized by the U.S. when Curtis left post Jan 10, 1932</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1931. Took oath of office under this appointment, but did not return to post.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1931,
+                after confirmation. Curtis left post on January 10, 1932, and the United States had
+                still not recognized the new government of El Salvador by that time. Curtis took
+                oath of office under the December 17, 1931, appointment, but did not not return to
+                post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1934-corr-01</id>
@@ -595,15 +582,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Ambassador Extraordinary and
-            Plenipotentiary</note>
+                <date>1943-04-16</date>
+                <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1943-thur-01</id>
@@ -760,11 +746,12 @@
                 <date>1955-09-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 3, 1954.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 3, 1954,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1955-mann-01</id>
@@ -783,11 +770,12 @@
                 <date>1957-09-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 25, 1956.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 25, 1956,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1957-kali-01</id>
@@ -806,11 +794,12 @@
                 <date>1960-12-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 27, 1958.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 27, 1958,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1961-will-01</id>
@@ -1082,34 +1071,11 @@
                 <date>1992-02-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers served as Chargé d’Affaires ad interim: Peter F. Romero (Feb-Jul 1992) and Gwen C. Clare (Jul 1992-Sep 1993).</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>sv-1992-rome-01</id>
-            <person-id>romero-peter-f</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>el-salvador</contemporary-territory-id>
-            <appointed>
-                <date>1992-02</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1992-07</date>
-                <note/>
-            </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1992-clar-01</id>
@@ -1117,11 +1083,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
             <appointed>
-                <date>1992-07</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1992-07</date>
                 <note/>
             </started>
             <ended>
@@ -1131,8 +1097,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-1993-flan-01</id>
@@ -1243,11 +1209,34 @@
                 <date>2009-01-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Robert Blau served as Chargé d’Affaires, ad interim, Jan. 2009-Sept. 2010. Sean Murphy served as Chargé d’Affaires ad interim, Jan. 2011-June 2012.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
+        </chief>
+        <chief>
+            <id>sv-2009-blau-01</id>
+            <person-id>blau-robert</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>el-salvador</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2009-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2010-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-17</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>sv-2010-apon-01</id>
@@ -1256,17 +1245,17 @@
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
             <appointed>
                 <date>2010-08-19</date>
-                <note>Commissioned during a recess of the Senate.  Re-nominated Sept. 13, 2010.</note>
+                <note/>
             </appointed>
             <started>
                 <date>2010-09-27</date>
                 <note/>
             </started>
             <ended>
-                <date>2011-01-02</date>
+                <date>2012-01-02</date>
                 <note>Recess appointment expired. Left post.</note>
             </ended>
-            <note/>
+            <note>Commissioned during a recess of the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -1279,7 +1268,32 @@
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
             <appointed>
                 <date>2012-06-29</date>
-                <note>Re-nominated Feb. 17, 2011. Did not represent credentials.</note>
+                <note/>
+            </appointed>
+            <started>
+                <date>2012-08-21</date>
+                <note>Aponte was not given new credentials but returned to post on</note>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-19</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-19</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees>
+        <chief>
+            <id>sv-1853-slid-01</id>
+            <person-id>slidell-john</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>el-salvador</contemporary-territory-id>
+            <appointed>
+                <date>1853-03-29</date>
+                <note/>
             </appointed>
             <started>
                 <date/>
@@ -1289,19 +1303,20 @@
                 <date/>
                 <note/>
             </ended>
-            <note/>
+            <note>Commissioned during a recess of the Senate. Commissioned to Central America;
+                declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv--arno-01</id>
-            <person-id>arnold-frank-dundore</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>sv-1853-borl-01</id>
+            <person-id>borland-solon</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1853-04-18</date>
                 <note/>
             </appointed>
             <started>
@@ -1312,11 +1327,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>served as Chargé d’Affaires ad interim, Jul 1918-Feb 1921.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 9, 1854,
+                after confirmation. Commissioned to Central America. Did not present credentials in
+                El Salvador.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>sv--hold-01</id>
@@ -1342,6 +1359,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>sv-1908-dodg-01</id>
+            <person-id>dodge-henry-percival</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>el-salvador</contemporary-territory-id>
+            <appointed>
+                <date>1908-12-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
+        </chief>
+        <chief>
             <id>sv--koza-01</id>
             <person-id>kozak-michael-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -1364,8 +1404,30 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>sv-2012-apon-01</id>
+            <person-id>aponte-mari-del-carmen</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>el-salvador</contemporary-territory-id>
+            <appointed>
+                <date>2012-06-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not present credentials.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

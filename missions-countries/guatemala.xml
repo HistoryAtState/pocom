@@ -3,29 +3,6 @@
     <territory-id>guatemala</territory-id>
     <chiefs>
         <chief>
-            <id>gt-1825-mill-01</id>
-            <person-id>miller-william</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1825-03-07</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to the Central Republic of America. Died while en route to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>gt-1825-will-01</id>
             <person-id>williams-john</person-id>
             <role-title-id>charge-daffaires</role-title-id>
@@ -43,75 +20,6 @@
                 <note>Made farewell calls</note>
             </ended>
             <note>Commissioned to the Federation of the Centre of America.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gt-1827-roch-01</id>
-            <person-id>rochester-william-beatty</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1827-03-03</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to the Republic of Central America. Reached Central America, but returned to the United States without presenting credentials.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gt-1831-jeff-01</id>
-            <person-id>jeffers-william-n</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1831-06-14</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to the Republic of Central America. Commissioned during a recess of the Senate; did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gt-1832-shan-01</id>
-            <person-id>shannon-james</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1832-02-09</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to the Republic of Central America. Died en route to post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -164,98 +72,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1849-squi-01</id>
-            <person-id>squier-ephraim-george</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1849-04-02</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to the Republic of Guatemala. Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 18, 1850, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gt-1852-edne-01</id>
-            <person-id>edney-balis-m</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1852-08-30</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gt-1853-slid-01</id>
-            <person-id>slidell-john</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1853-03-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to Central America; declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gt-1853-borl-01</id>
-            <person-id>borland-solon</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1853-04-18</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note>Did not present credentials in Guatemala</note>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 9 1854. Commissioned to Central America; accredited to the individual states.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>gt-1854-marl-01</id>
             <person-id>marling-john-leake</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -272,34 +88,11 @@
                 <date>1856-05-08</date>
                 <note>Left post.</note>
             </ended>
-            <note>Nominated on Feb 25, 1856 to be Envoy Extraordinary and Minister Plenipotentiary; nomination withdrawn before the Senate acted upon it. Commissioned to Guatemala.</note>
+            <note>Commissioned to Guatemala.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gt-1857-vena-01</id>
-            <person-id>venable-william-edward</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1857-03-14</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Died at post before presenting credentials. Commissioned to Guatemala.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1858-clar-01</id>
@@ -318,11 +111,11 @@
                 <date>1860-03-17</date>
                 <note>Died at post</note>
             </ended>
-            <note>Commissioned to Guatemala and Honduras; resident at Guatemala</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1861-cros-01</id>
@@ -348,29 +141,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1864-kell-01</id>
-            <person-id>kellogg-william</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1864-04-21</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to Guatemala; declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>gt-1865-warr-01</id>
             <person-id>warren-fitz-henry</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -387,11 +157,12 @@
                 <date>1869-08-11</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1866. Commissioned to Guatemala.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 6, 1866,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1869-huds-01</id>
@@ -410,11 +181,11 @@
                 <date>1872-10-12</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to Guatemala.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1873-will-01</id>
@@ -430,15 +201,16 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Notified the Government of Guatemala by note from
-                Amapala, Honduras, Jan 31, 1879, that he had resigned</note>
+                <date>1879-01-31</date>
+                <note>Notified the Government of Guatemala by note from Amapala, Honduras, that he
+                    had resigned</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1873. Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua, and resident at Guatemala.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1873,
+                after confirmation. Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1879-loga-01</id>
@@ -457,11 +229,11 @@
                 <date>1882-04-12</date>
                 <note>Transmitted recall by note</note>
             </ended>
-            <note>Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua, and resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1882-hall-01</id>
@@ -477,15 +249,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Envoy Extraordinary and Minister
-                Plenipotentiary</note>
+                <date>1882-08-10</date>
+                <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
-            <note>Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua, and resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1882-hall-02</id>
@@ -504,11 +275,11 @@
                 <date>1889-05-15</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua, and resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1889-mizn-01</id>
@@ -527,11 +298,11 @@
                 <date>1890-12-31</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua, and resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1890-pach-01</id>
@@ -550,11 +321,11 @@
                 <date/>
                 <note>Recommissioned to Guatemala and Honduras only</note>
             </ended>
-            <note>Commissioned to “the Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua, and resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1891-pach-01</id>
@@ -573,11 +344,13 @@
                 <date>1893-06-12</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 23, 1891.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 23, 1891,
+                after confirmation. Did not present credentials again under the new
+                appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>gt-1893-youn-01</id>
@@ -596,11 +369,11 @@
                 <date>1896-05-23</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also commissioned to Honduras; resident at Guatemala.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>gt-1896-coxe-01</id>
@@ -619,11 +392,12 @@
                 <date>1897-06-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1896. Also commissioned to Honduras; resident at Guatemala</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1896,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>gt-1897-hunt-01</id>
@@ -642,11 +416,12 @@
                 <date>1903-02-02</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 18, 1897. Also commissioned to Honduras; resident at Guatemala.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 18, 1897,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>gt-1902-comb-01</id>
@@ -665,11 +440,12 @@
                 <date>1907-02-25</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 8, 1902. Also commissioned to Honduras; resident at Guatemala.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 8, 1902,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>gt-1907-lee-01</id>
@@ -685,14 +461,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1907-07-01</date>
                 <note>Recommissioned to Guatemala only</note>
             </ended>
-            <note>Also commissioned to Honduras; resident at Guatemala.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>gt-1907-lee-02</id>
@@ -780,11 +556,12 @@
                 <date>1913-03-04</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 15, 1910.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 15, 1910,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>gt-1913-leav-01</id>
@@ -823,39 +600,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Normal relations interrupted, Dec 6, 1921; new
-                Government of Guatemala still unrecognized by United States when McMillin left post,
-                Jan 5, 1922</note>
+                <date>1921-12-06</date>
+                <note>Normal relations interrupted on</note>
             </ended>
-            <note/>
+            <note>The new government of Guatemala was still unrecognized by the United States when
+                McMillin left post on January 5, 1922.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gt-1921-davi-01</id>
-            <person-id>davis-roy-tasco</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>guatemala</contemporary-territory-id>
-            <appointed>
-                <date>1921-10-08</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>gt-1922-geis-01</id>
@@ -920,11 +673,12 @@
                 <date>1936-02-09</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 15, 1934.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 15, 1934,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>gt-1936-des-01</id>
@@ -1012,11 +766,12 @@
                 <date>1950-03-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 2, 1949.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-180</last-modified-date>
         </chief>
         <chief>
             <id>gt-1951-scho-01</id>
@@ -1058,11 +813,12 @@
                 <date>1954-10-02</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 26, 1954.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 26, 1954,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>gt-1954-armo-01</id>
@@ -1081,11 +837,12 @@
                 <date>1955-05-09</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 3, 1954.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 3, 1954,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-11-26</last-modified-date>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>gt-1955-spar-01</id>
@@ -1150,11 +907,12 @@
                 <date>1961-11-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 21, 1960.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 21, 1960,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>gt-1961-bell-01</id>
@@ -1173,11 +931,12 @@
                 <date>1965-08-26</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 30, 1962.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 30, 1962,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-20</last-modified-date>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>gt-1965-mein-01</id>
@@ -1311,11 +1070,34 @@
                 <date>1980-08-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>Melvin E. Sinn served as Chargé d’Affaires ad interim, Aug 1980-Sep 1981.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-15</last-modified-date>
+            <last-modified-date>2015-11-18</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1980-sinn-01</id>
+            <person-id>sinn-melvin-e</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1980-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1981-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>gt-1981-chap-01</id>
@@ -1584,14 +1366,64 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees>
+        <chief>
+            <id>gt-1825-mill-01</id>
+            <person-id>miller-william</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1825-03-07</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to the Central Republic of America. Died while en route to
+                post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1827-roch-01</id>
+            <person-id>rochester-william-beatty</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1827-03-03</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to the Republic of Central America. Reached Central America, but
+                returned to the United States without presenting credentials.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
             <id>gt--hamm-01</id>
@@ -1610,16 +1442,161 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Commissioned to the Republic of Central America. Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <note>Commissioned to the Republic of Central America. Not commissioned; nomination
+                withdrawn before the Senate acted upon it.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gt--sinn-01</id>
-            <person-id>sinn-melvin-e</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>gt-1831-jeff-01</id>
+            <person-id>jeffers-william-n</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1831-06-14</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to the Republic of Central America. Commissioned during a recess of
+                the Senate; did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1832-shan-01</id>
+            <person-id>shannon-james</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1832-02-09</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to the Republic of Central America. Died en route to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1849-squi-01</id>
+            <person-id>squier-ephraim-george</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1849-04-02</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to the Republic of Guatemala. Commissioned during a recess of the
+                Senate; recommissioned on March 18, 1850, after confirmation, but did not proceed to
+                post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1852-edne-01</id>
+            <person-id>edney-balis-m</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1852-08-30</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1853-slid-01</id>
+            <person-id>slidell-john</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1853-03-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Commissioned to Central America;
+                declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1853-borl-01</id>
+            <person-id>borland-solon</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1853-04-18</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 9, 1854,
+                after confirmation. Commissioned to Central America. Did not present credentials in
+                Guatemala.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1856-marl-01</id>
+            <person-id>marling-john-leake</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>
             <appointed>
                 <date/>
@@ -1633,14 +1610,38 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Served as Chargé d’Affaires ad interim, Aug 1980-Sep 1981.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
+            <note>Nominated on February 25, 1856; nomination withdrawn before the Senate acted upon
+                it.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-16</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-30</last-modified-date>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>gt--chur-01</id>
+            <id>gt-1857-vena-01</id>
+            <person-id>venable-william-edward</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1857-03-14</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Died at post before presenting credentials. Commissioned to Guatemala.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1860-chur-01</id>
             <person-id>churchwell-william-montgomery</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>
@@ -1656,14 +1657,59 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nominations to be Minister Resident in Guatemala and Honduras not confirmed by the Senate.</note>
+            <note>Not commissioned; nomination not confirmed by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>gt-1864-kell-01</id>
+            <person-id>kellogg-william</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1864-04-21</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to Guatemala; declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>gt-1921-davi-01</id>
+            <person-id>davis-roy-tasco</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>guatemala</contemporary-territory-id>
+            <appointed>
+                <date>1921-10-08</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

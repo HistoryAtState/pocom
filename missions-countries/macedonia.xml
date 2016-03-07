@@ -3,6 +3,29 @@
     <territory-id>macedonia</territory-id>
     <chiefs>
         <chief>
+            <id>mk-1993-norm-01</id>
+            <person-id>norman-robert</person-id>
+            <role-title-id>acting-principal-officer</role-title-id>
+            <contemporary-territory-id>macedonia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-12-03</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1996-06</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-14</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
+        </chief>
+        <chief>
             <id>mk-1994-comr-01</id>
             <person-id>comras-victor-d</person-id>
             <role-title-id>charge-daffaires</role-title-id>
@@ -16,14 +39,14 @@
                 <note/>
             </started>
             <ended>
-                <date>1996-06</date>
+                <date>1996-06-14</date>
                 <note/>
             </ended>
-            <note>The United States established a Liaison Office in Skopje on December 3, 1993, with Robert Norman serving as Acting Principal Officer. Victor D. Comras was appointed Chief of Mission and Principal Officer in March 1994, and served until June 14, 1996.</note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-01-06</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-01-17</last-modified-date>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>mk-1996-hill-01</id>
@@ -42,11 +65,11 @@
                 <date>1999-08-02</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to The Former Yugoslav Republic of Macedonia</note>
+            <note>Commissioned to The Former Yugoslav Republic of Macedonia.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-03</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>mk-1999-eini-01</id>
@@ -65,11 +88,11 @@
                 <date>2001-11-04</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to The Former Yugoslav Republic of Macedonia</note>
+            <note>Commissioned to The Former Yugoslav Republic of Macedonia.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2011-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>mk-2002-butl-01</id>
@@ -88,11 +111,11 @@
                 <date>2005-03-26</date>
                 <note/>
             </ended>
-            <note>Commissioned to The Former Yugoslav Republic of Macedonia</note>
+            <note>Commissioned to The Former Yugoslav Republic of Macedonia.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2011-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>mk-2005-milo-01</id>
@@ -177,8 +200,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>

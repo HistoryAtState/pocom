@@ -3,29 +3,6 @@
     <territory-id>kiribati</territory-id>
     <chiefs>
         <chief>
-            <id>ki-1884-dill-01</id>
-            <person-id>dillery-carl-edward</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>kiribati</contemporary-territory-id>
-            <appointed>
-                <date>1884-09-27</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1985-01-29</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1987-07-15</date>
-                <note>Left Suva</note>
-            </ended>
-            <note>Also accredited to Fiji, Tonga, and Tuvalu; resident at Suva. No mission has been established at Parawa.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>ki-1980-bodd-01</id>
             <person-id>bodde-william-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -42,11 +19,11 @@
                 <date>1981-08-15</date>
                 <note>Left Suva</note>
             </ended>
-            <note>Also accredited to Fiji, Tonga, and Tuvalu; resident at Suva. No mission has been established at Parawa. On Aug 12, 1980, the United States and Kiribati agreed to establish diplomatic relations on the Ambassadorial level.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-03</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>ki-1982-ecke-01</id>
@@ -65,11 +42,34 @@
                 <date>1984-05-07</date>
                 <note>Left Suva</note>
             </ended>
-            <note>Also accredited to Fiji, Tonga, and Tuvalu; resident at Suva. No mission has been established at Parawa.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>ki-1984-dill-01</id>
+            <person-id>dillery-carl-edward</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>kiribati</contemporary-territory-id>
+            <appointed>
+                <date>1984-09-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1985-01-29</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1987-07-15</date>
+                <note>Left Suva</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>ki-1987-roch-01</id>
@@ -88,11 +88,11 @@
                 <date>1989-08-31</date>
                 <note>Left Suva</note>
             </ended>
-            <note>Also accredited to Fiji, Tonga, and Tuvalu; resident at Suva. No mission has been established at Parawa.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>ki-1989-teeg-01</id>
@@ -111,13 +111,36 @@
                 <date>1993-05-05</date>
                 <note>Left Suva</note>
             </ended>
-            <note>Also accredited to Fiji, Tonga, and Tuvalu; resident at Suva. No mission has been established at Parawa.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
+            <id>ki-1993-mari-01</id>
+            <person-id>marine-michael-w</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>kiribati</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-03</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1995-06</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
+        </chief>
+                <chief>
             <id>ki-1995-plai-01</id>
             <person-id>plaisted-joan-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -134,11 +157,11 @@
                 <date>2000-07-28</date>
                 <note>Left Majuro</note>
             </ended>
-            <note>Also accredited to the Marshall Islands; resident at Majuro.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>ki-2000-senk-01</id>
@@ -157,11 +180,11 @@
                 <date>2003-08-02</date>
                 <note>Left Majuro</note>
             </ended>
-            <note>Also accredited to the Marshall Islands; resident at Majuro.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>ki-2003-lyon-01</id>
@@ -180,11 +203,11 @@
                 <date>2005-07-23</date>
                 <note>Left Suva</note>
             </ended>
-            <note>Also accredited to Fiji, Nauru, Tonga, and Tuvalu; resident at Suva.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>ki-2005-ding-01</id>
@@ -201,13 +224,13 @@
             </started>
             <ended>
                 <date>2008-07-05</date>
-                <note>Left post.</note>
+                <note>Left Suva</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>ki-2008-mcga-01</id>
@@ -226,11 +249,11 @@
                 <date>2011-07-13</date>
                 <note>Left Suva</note>
             </ended>
-            <note>Also accredited to Fiji, Nauru, Tonga, and Tuvalu; resident at Suva.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-03</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>ki-2011-reed-01</id>
@@ -249,11 +272,11 @@
                 <date>2015-01-18</date>
                 <note>Left Suva.</note>
             </ended>
-            <note>Also accredited to Fiji, Nauru, Tonga, and Tuvalu; resident at Suva.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>ki-2014-cefk-01</id>
@@ -269,10 +292,10 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>

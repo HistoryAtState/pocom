@@ -19,11 +19,11 @@
                 <date>1974-06-23</date>
                 <note>Appointment terminated</note>
             </ended>
-            <note>Also accredited to Bahrain, Oman, and Qatar; resident at Kuwait. During Stolzfus’ tenure as non-resident Ambassador, the Embassy in Abu Dhabi was established on May 15, 1972, with Philip J. Griffin as Chargé d’Affaires ad interim.</note>
+            <note>During Stolzfus’s tenure as non-resident Ambassador, Embassy Abu Dhabi was established on May 15, 1972, with Philip J. Griffin as Chargé d’Affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>ae-1974-ster-01</id>
@@ -95,6 +95,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>ae-1981-ther-01</id>
+            <person-id>theros-patrick-nickolas</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1981-04</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1982-01</date>
+                <note></note>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+                <chief>
             <id>ae-1982-lums-01</id>
             <person-id>lumsden-george-quincey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -346,29 +369,6 @@
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>ae--grif-01</id>
-            <person-id>griffin-philip-joseph</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy in Abu Dhabi was established on May 15, 1972, with Philip J. Griffin as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

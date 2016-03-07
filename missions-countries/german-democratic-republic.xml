@@ -3,6 +3,29 @@
     <territory-id>german-democratic-republic</territory-id>
     <chiefs>
         <chief>
+            <id>xf-1974-grov-01</id>
+            <person-id>grove-brandon-hambright-jr</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1974-12-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-11</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
+        </chief>
+        <chief>
             <id>xf-1974-coop-01</id>
             <person-id>cooper-john-sherman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1976-09-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>The Embassy in Berlin was established Dec 9, 1974, with Brandon H. Grove, Jr., as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
             <id>xf-1977-bole-01</id>

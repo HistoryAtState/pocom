@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<role mode="active">
+    <id>principal-officer</id>
+    <class>chief</class>
+    <category>country</category>
+    <names>
+        <singular>Principal Officer</singular>
+        <plural>Principal Officers</plural>
+    </names>
+    <description>
+        <div>
+            <p/>
+        </div>
+    </description>
+</role>

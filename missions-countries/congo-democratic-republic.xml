@@ -3,6 +3,29 @@
     <territory-id>congo-democratic-republic</territory-id>
     <chiefs>
         <chief>
+            <id>cd-1960-toml-01</id>
+            <person-id>tomlinson-john-doren</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>congo-kinshasa</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-06-30</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-30</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
+        </chief>
+                <chief>
             <id>cd-1960-timb-01</id>
             <person-id>timberlake-clare-hayes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -131,14 +154,14 @@
                 <note/>
             </started>
             <ended>
-                <date>1975-06-21</date>
-                <note>Left post.</note>
+                <date>1975-06-18</date>
+                <note>Declared persona non grata by the Government of Zaire</note>
             </ended>
-            <note>Declared persona non grata by the Government of Zaire, Jun 18, 1975.</note>
+            <note>Hinton left post on June 21, 1975.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>cd-1975-cutl-01</id>
@@ -272,11 +295,11 @@
                 <date>1992-03-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers then served as Chargés d’Affaires ad interim: John M Yates (Mar 1992- Sep 1995), Roger A. Meece (Sep-Nov 1995).</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>cd-1992-yate-01</id>
@@ -284,11 +307,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>congo-kinshasa</contemporary-territory-id>
             <appointed>
-                <date>1992-03</date>
+                <date></date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1992-03</date>
                 <note/>
             </started>
             <ended>
@@ -299,7 +322,7 @@
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>cd-1995-simp-01</id>
@@ -341,11 +364,11 @@
                 <date>2001-08-11</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned Mar 25, 1999.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 25, 1999.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>cd-2001-hook-01</id>

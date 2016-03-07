@@ -3,6 +3,29 @@
     <territory-id>cyprus</territory-id>
     <chiefs>
         <chief>
+            <id>cy-1960-heck-01</id>
+            <person-id>heck-louis-douglas</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>cyprus</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1960-08-16</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
+        </chief>
+        <chief>
             <id>cy-1960-wilk-01</id>
             <person-id>wilkins-fraser</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1964-04-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>The Embassy in Nicosia was established on Aug 16, 1960, with L. Douglas Heck as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>cy-1964-belc-01</id>
@@ -226,11 +249,34 @@
                 <date>1989-07-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers served as Chargé d’Affaires ad interim: John U. Nix (Jul 1989-Jul 1990) and Carolyn Huggins (Jul 1990-Nov 1990).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
+        </chief>
+        <chief>
+            <id>cy-1989-nix-01</id>
+            <person-id>nix-john-u</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>cyprus</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1989-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1990-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-30</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>cy-1990-lamb-01</id>
@@ -415,29 +461,6 @@
             <created-date>2013-09-26</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-26</last-modified-date>
-        </chief>
-        <chief>
-            <id>cy--heck-01</id>
-            <person-id>heck-louis-douglas</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>cyprus</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>The Embassy in Nicosia was established on Aug 16, 1960, with L. Douglas Heck as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

@@ -3,6 +3,29 @@
     <territory-id>croatia</territory-id>
     <chiefs>
         <chief>
+            <id>hr-1993-niet-01</id>
+            <person-id>nietzke-ronald</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>croatia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1992-08-25</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-22</last-modified-date>
+        </chief>
+        <chief>
             <id>hr-1993-galb-01</id>
             <person-id>galbraith-peter-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -39,14 +62,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2000-09-17</date>
                 <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>hr-2000-ross-01</id>
@@ -85,14 +108,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2006-01-07</date>
                 <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>hr-2006-brad-01</id>
@@ -163,14 +186,16 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>hr--leti-01</id>
+            <id>hr-1992-leti-01</id>
             <person-id>leticia-mara-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
             <appointed>
                 <date/>
-                <note>Nomination of 1992-09-25, not acted upon by the Senate</note>
+                <note/>
             </appointed>
             <started>
                 <date/>
@@ -180,14 +205,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>The United States recognized the independence of Croatia on Apr 7, 1992, and established diplomatic relations on Aug 6, 1992. Embassy Zagreb was opened Aug 25, 1992, with Ronald Nietzke as Chargé d’Affaires ad interim</note>
+            <note>Nomination of September 9, 1992, not acted upon by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-22</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

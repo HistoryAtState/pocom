@@ -3,6 +3,29 @@
     <territory-id>djibouti</territory-id>
     <chiefs>
         <chief>
+            <id>dj-1977-clar-01</id>
+            <person-id>clarke-walter-sheldon</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>djibouti</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1977-06-27</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
+        </chief>
+        <chief>
             <id>dj-1980-nort-01</id>
             <person-id>north-jerrold-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1982-08-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>The Embassy in Djibouti was established Jun 27, 1977, with Walter S. Clarke as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>dj-1983-adam-01</id>
@@ -65,11 +88,11 @@
                 <date>1987-08-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>John E. McAteer served as Chargé d’Affaires ad interim, Aug 1987-Sep 1988.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>dj-1987-mcat-01</id>
@@ -77,11 +100,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
             <appointed>
-                <date>1987-08</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1987-08</date>
                 <note/>
             </started>
             <ended>
@@ -91,8 +114,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>dj-1988-barr-01</id>
@@ -157,11 +180,34 @@
                 <date>1996-07-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers then served as Chargés d’Affaires ad interim: Joseph Philippe Gregoire (Jul-Sep 1996) and Terri Robl (Sep 1996-Jan 1998)</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
+        </chief>
+        <chief>
+            <id>dj-1996-robl-01</id>
+            <person-id>robl-terri-louise</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>djibouti</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1996-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1998-01</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>dj-1997-sche-01</id>
@@ -249,11 +295,11 @@
                 <date>2008-05-31</date>
                 <note>Left post.</note>
             </ended>
-            <note>No mission has been established at Roseau.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
             <id>dj-2008-swan-01</id>
@@ -315,8 +361,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
@@ -324,83 +370,16 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>dj--greg-01</id>
-            <person-id>gregoire-joseph-philippe</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>djibouti</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Jul-Sep 1996)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>dj--robl-01</id>
-            <person-id>robl-terri-louise</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>djibouti</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Sep 1996-Jan 1998)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>dj--clar-01</id>
-            <person-id>clarke-walter-sheldon</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>djibouti</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>The Embassy in Djibouti was established Jun 27, 1977, with Walter S. Clarke as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>dj--schr-01</id>
+            <id>dj-1996-schr-01</id>
             <person-id>schrager-stanley-n</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
             <appointed>
                 <date/>
-                <note>Nomination of 1996-05-06 was withdrawn.</note>
+                <note/>
             </appointed>
             <started>
                 <date/>
@@ -410,14 +389,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note/>
+            <note>Nomination of May 6, 1996, was withdrawn.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

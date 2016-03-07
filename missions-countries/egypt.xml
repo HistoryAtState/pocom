@@ -19,7 +19,8 @@
                 <date>1852-10-24</date>
                 <note>Died at post</note>
             </ended>
-            <note>Commissioned as Consul General only and used the title Agent and Consul General with the acquiescence of the Department of State.</note>
+            <note>Commissioned as Consul General only and used the title Agent and Consul General
+                with the acquiescence of the Department of State.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -42,7 +43,8 @@
                 <date>1853-12-14</date>
                 <note>Superseded</note>
             </ended>
-            <note>Commissioned as Consul General only and used the title Agent and Consul General with the Acquiescence of the Department of State.</note>
+            <note>Commissioned as Consul General only and used the title Agent and Consul General
+                with the Acquiescence of the Department of State.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -65,11 +67,36 @@
                 <date>1861-03-04</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>Commissioned as Consul General only and used the title Agent and Consul General with the Acquiescence of the Department of State. Commissioned during a recess of the Senate; recommissioned after confirmation on Apr 18, 1854. De Leon’s immediate successor, William Sydney Thayer, was commissioned as Consul General only and used only his consular title. Thayer was commissioned Mar 20, 1861; assumed charge, Jul 1, 1861; and died at post, Apr 10, 1864.</note>
+            <note>Commissioned as Consul General only and used the title Agent and Consul General
+                with the Acquiescence of the Department of State. Commissioned during a recess of
+                the Senate; recommissioned on April 18, 1854, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>eg-1861-thay-01</id>
+            <person-id>thayer-william-sydney</person-id>
+            <role-title-id>consul-general</role-title-id>
+            <contemporary-territory-id>egypt</contemporary-territory-id>
+            <appointed>
+                <date>1861-03-20</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1861-07-01</date>
+                <note>Assumed charge</note>
+            </started>
+            <ended>
+                <date>1864-04-10</date>
+                <note>Died at post</note>
+            </ended>
+            <note>Commissioned as Consul General only and used only his consular title.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1864-hale-01</id>
@@ -88,11 +115,12 @@
                 <date>1870-05-23</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned as Consul General only; not recommissioned when his title was changed to Agent and Consul General by Act of Congress approved Jun 20, 1864.</note>
+            <note>Commissioned as Consul General only; not recommissioned when his title was changed
+                to Agent and Consul General by Act of Congress approved on June 20, 1864.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1870-butl-01</id>
@@ -111,7 +139,8 @@
                 <date>1872-07-16</date>
                 <note>Left Egypt</note>
             </ended>
-            <note>Commissioned as Consul General only; used the title Agent and Consul General with the acquiescence of the Department of State.</note>
+            <note>Commissioned as Consul General only; used the title Agent and Consul General with
+                the acquiescence of the Department of State.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -134,34 +163,12 @@
                 <date>1876-01-23</date>
                 <note>Died at post</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 11, 1872.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 11, 1872,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>eg-1876-morl-01</id>
-            <person-id>morley-frederick</person-id>
-            <role-title-id>agent-consul-general</role-title-id>
-            <contemporary-territory-id>egypt</contemporary-territory-id>
-            <appointed>
-                <date>1876-02-14</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1876-farm-01</id>
@@ -203,11 +210,12 @@
                 <date>1882-03-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Oct 29, 1881.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on October 29, 1881,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1882-pome-01</id>
@@ -249,11 +257,12 @@
                 <date>1889-10-07</date>
                 <note>Left Egypt</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 20, 1886.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 20, 1886,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-25</last-modified-date>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1889-schu-01</id>
@@ -318,11 +327,12 @@
                 <date>1893-08-22</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 8, 1892.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 8, 1892,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1893-penf-01</id>
@@ -341,11 +351,12 @@
                 <date>1897-06-17</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Aug 25, 1893.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on August 25, 1893,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1897-harr-01</id>
@@ -387,11 +398,12 @@
                 <date>1903-07-15</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 13, 1899.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 13, 1899,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1903-ridd-01</id>
@@ -410,11 +422,12 @@
                 <date>1905-06-09</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Nov 24, 1903.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on November 24, 1903,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1905-iddi-01</id>
@@ -433,11 +446,12 @@
                 <date>1910-04-14</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 15, 1905.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 15, 1905,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1909-jay-01</id>
@@ -496,17 +510,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1918-02-07</date>
-                <note/>
+                <note>Received by the Sultan</note>
             </started>
             <ended>
                 <date>1919-12-07</date>
                 <note>Left post.</note>
             </ended>
-            <note>Received by the Sultan on Feb 7, 1918.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1920-spri-01</id>
@@ -519,17 +533,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1920-08-02</date>
-                <note/>
+                <note>Received by the Sultan</note>
             </started>
             <ended>
                 <date>1921-10-31</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>Received by the Sultan on Aug 2, 1920.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-30</last-modified-date>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1921-howe-01</id>
@@ -542,18 +556,18 @@
             </appointed>
             <started subtype="see-note">
                 <date/>
-                <note/>
+                <note>No record has been found of the date on which Howell was presented to the
+                    Sultan as Agent and Consul General.</note>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Envoy Extraordinary and Minister
-                Plenipotentiary</note>
+                <date>1922-08-28</date>
+                <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
-            <note>No record has been found of the date on which Howell was presented to the Sultan as Agent and Consul General.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1922-howe-01</id>
@@ -641,11 +655,12 @@
                 <date>1941-02-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 15, 1934. Also accredited to Saudi Arabia; resident at Cairo.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 15, 1934,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1941-kirk-01</id>
@@ -664,7 +679,7 @@
                 <date>1944-04-29</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Saudi Arabia and to the Government of Greece established in Egypt; resident at Cairo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -684,15 +699,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Ambassador Extraordinary and
-            Plenipotentiary</note>
+                <date>1946-10-10</date>
+                <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1946-tuck-01</id>
@@ -711,11 +725,12 @@
                 <date>1948-05-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 13, 1947.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1947,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1948-grif-01</id>
@@ -734,11 +749,12 @@
                 <date>1949-03-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 2, 1949.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1949-caff-01</id>
@@ -800,15 +816,16 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Recommissioned and reaccredited after formation of the
-                United Arab Republic</note>
+                <date>1958-03-19</date>
+                <note>Recommissioned and reaccredited after formation of the United Arab
+                    Republic</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 29, 1957. Also accredited to Yemen; resident at Cairo.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 29, 1957,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1958-hare-01</id>
@@ -827,11 +844,11 @@
                 <date>1959-12-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to the United Arab Republic; also accredited to Yemen and resident at Cairo.</note>
+            <note>Commissioned to the United Arab Republic.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1960-rein-01</id>
@@ -850,11 +867,11 @@
                 <date>1961-05-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to the United Arab Republic; also accredited to Yemen and resident at Cairo.</note>
+            <note>Commissioned to the United Arab Republic.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1961-bade-01</id>
@@ -903,12 +920,12 @@
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
         <chief>
-            <id>eg-1967-nolt-01</id>
-            <person-id>nolte-richard-henry</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
+            <id>eg-1967-nes-01</id>
+            <person-id>nes-david-gulick</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
             <appointed>
-                <date>1967-04-05</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -916,15 +933,101 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>1967-06-06</date>
+                <note>The United Arab Republic broke relations with the United States</note>
             </ended>
-            <note>Commissioned to the United Arab Republic. Proceeded to post, but did not present credentials; left post Jun 10, 1967, the United Arab Republic having severed diplomatic relations with the U.S., Jun 6, 1967. David G. Nes was serving as Chargé d’Affaires ad interim when the break in relations occurred. A U.S. Interests Section was established in the Spanish Embassy on Jun 7, 1967. Principal Officers were: Donald C. Bergus, Sep 1967-Feb 1972; Joseph N. Greene, Jr., Feb 1972-Jul 1973; and Hermann F. Eilts, Nov 1973-Feb 1974.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
+        <mission-note>
+            <text>On June 7, 1967, the United States established an Interests Section in the Spanish
+                Embassy.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </mission-note>
+        <chief>
+            <id>eg-1967-berg-01</id>
+            <person-id>bergus-donald-c</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>egypt</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1967-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1972-02</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>eg-1972-gree-01</id>
+            <person-id>greene-joseph-nathaniel</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>egypt</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1972-02</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1973-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>eg-1973-eilt-01</id>
+            <person-id>eilts-hermann-frederick</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>egypt</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1973-11</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1974-02</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <mission-note>
+            <text>The Embassy in Cairo was reestablished on February 28, 1974, with
+                Ambassador-designate Eilts in charge pending his nomination, commissioning, and
+                presentation of his letter of credence.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </mission-note>
         <chief>
             <id>eg-1974-eilt-01</id>
             <person-id>eilts-hermann-frederick</person-id>
@@ -942,11 +1045,11 @@
                 <date>1979-05-20</date>
                 <note>Left post.</note>
             </ended>
-            <note>The Embassy in Cairo was reestablished Feb 28, 1974, with Ambassador-designate Eilts in charge pending his nomination, commissioning, and presentation of his letter of credence.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1979-athe-01</id>
@@ -1023,7 +1126,7 @@
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
             <appointed>
-                <date>1992-07-02</date>
+                <date>1991-07-02</date>
                 <note/>
             </appointed>
             <started>
@@ -1037,8 +1140,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>eg-1994-walk-01</id>
@@ -1192,8 +1295,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
@@ -1201,13 +1304,15 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>eg--thay-01</id>
-            <person-id>thayer-william-sydney</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>eg-1876-morl-01</id>
+            <person-id>morley-frederick</person-id>
+            <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1876-02-14</date>
                 <note/>
             </appointed>
             <started>
@@ -1218,19 +1323,19 @@
                 <date/>
                 <note/>
             </ended>
-            <note>commissioned as Consul General only and used only his consular title. Thayer was commissioned Mar 20, 1861; assumed charge, Jul 1, 1861; and died at post, Apr 10, 1864.</note>
+            <note>Declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>eg--nes-01</id>
-            <person-id>nes-david-gulick</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>eg-1967-nolt-01</id>
+            <person-id>nolte-richard-henry</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1967-04-05</date>
                 <note/>
             </appointed>
             <started>
@@ -1241,37 +1346,15 @@
                 <date/>
                 <note/>
             </ended>
-            <note>was serving as Chargé d’Affaires ad interim when the break in relations occurred.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
-        </chief>
-        <chief>
-            <id>eg--gree-01</id>
-            <person-id>greene-joseph-nathaniel</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>egypt</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Feb 1972-Jul 1973</note>
+            <note>Commissioned to the United Arab Republic. Proceeded to post, but did not present
+                credentials; left post on June 10, 1967, the United Arab Republic having severed
+                diplomatic relations with the United States on June 6, 1967.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-09</last-modified-date>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

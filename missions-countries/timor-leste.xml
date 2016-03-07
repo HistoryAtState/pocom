@@ -3,6 +3,29 @@
     <territory-id>timor-leste</territory-id>
     <chiefs>
         <chief>
+            <id>tl-2002-vill-01</id>
+            <person-id>villarosa-sharon-english-woods</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>timor-leste</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2002-05-20</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2002-12</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+        <chief>
             <id>tl-2002-rees-01</id>
             <person-id>rees-grover-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>2006-09-29</date>
                 <note>Left post.</note>
             </ended>
-            <note>The United States established diplomatic relations with East Timor and opened Embassy Dili on May 20, 2002. Shari Villarosa served as Chargé d’Affaires ad interim May–Dec 2002.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-05</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-05</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tl-2007-klem-01</id>
@@ -42,11 +65,11 @@
                 <date>2010-02-20</date>
                 <note>Left post.</note>
             </ended>
-            <note>Name changed to “Timor Leste” Jul 10, 2007.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-05</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-05</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tl-2010-ferg-01</id>
@@ -88,7 +111,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>

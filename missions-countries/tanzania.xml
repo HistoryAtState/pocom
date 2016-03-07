@@ -3,6 +3,41 @@
     <territory-id>tanzania</territory-id>
     <chiefs>
         <chief>
+            <id>tz-1961-dugg-01</id>
+            <person-id>duggan-william-redman</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>tanzania</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1961-12-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+        <mission-note>
+            <text>On December 10, 1963, the Embassy in Zanzibar was established with Frederick P.
+                Picard III as Chargé d’Affaires ad interim. An Ambassador to Zanzibar had not yet
+                been appointed when that country was united with the Republic of Tanganyika on April
+                27, 1964. Frank C. Carlucci III was serving as Charge d’Affaires ad interim when
+                Embassy Zanzibar was changed in rank to a Consulate General, effective June 27,
+                1964.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </mission-note>
+        <chief>
             <id>tz-1962-leon-01</id>
             <person-id>leonhart-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -17,16 +52,15 @@
             </started>
             <ended>
                 <date>1965-12-22</date>
-                <note>Reaccredited when Tanganyika became a republic;
-                presented new credentials Dec 17, 1962; continued to serve, without further
-                reaccreditation, after the formation of the United Republic of Tanganyika and
-                Zanzibar; left post</note>
+                <note>Left post.</note>
             </ended>
-            <note>Commissioned to Tanganyika. The Embassy in Dar es Salaam was established on Dec 9, 1961, with William R. Duggan as Chargé d’Affaires ad interim.</note>
+            <note>Reaccredited when Tanganyika became a republic; presented new credentials on
+                December 17, 1962. Continued to serve, without further reaccreditation, after the
+                formation of the United Republic of Tanganyika and Zanzibar.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-09</last-modified-date>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tz-1965-burn-01</id>
@@ -318,14 +352,37 @@
                 <note/>
             </started>
             <ended>
-                <date>2003-11-21</date>
+                <date>2003-11-22</date>
                 <note/>
             </ended>
-            <note>Michael S. Owen is serving as Charge d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>tz-2003-roya-01</id>
+            <person-id>owen-michael-s</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>tanzania</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2003-11</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2005-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tz-2005-retz-01</id>
@@ -397,7 +454,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>tz--chil-01</id>
+            <id>tz-2014-chil-01</id>
             <person-id>childress-mark-bradley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -413,57 +470,11 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>tz--pica-01</id>
-            <person-id>picard-frederick-palmer</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>tanzania</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>The Embassy in Zanzibar was established on Dec 10, 1963, with Frederick P. Picard III as Chargé d’Affaires ad interim. An Ambassador to Zanzibar had not yet been appointed when that country was united with the Republic of Tanganyika on Apr 27, 1964. Frank C. Carlucci III was serving as Charge d’Affaires ad interim when Embassy Zanzibar was changed in rank to a Consulate General effective Jun 27, 1964.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-08-08</last-modified-date>
-        </chief>
-        <chief>
-            <id>tz--dugg-01</id>
-            <person-id>duggan-william-redman</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>tanzania</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>The Embassy in Dar es Salaam was established on Dec 9, 1961, with William R. Duggan as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

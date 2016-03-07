@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concurrent-appointments>
+    <id>1876-cald-01</id>
+    <person-id>caldwell-john-curtis</person-id>
+    <resident-at>
+        <locale-id>montevideo</locale-id>
+        <contemporary-territory-id>uruguay</contemporary-territory-id>
+    </resident-at>
+    <chief-id>py-1876-cald-01</chief-id>
+    <chief-id>uy-1876-cald-01</chief-id>
+    <created-by>marrsaw</created-by>
+    <created-date>2015-11-24</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2015-11-24</last-modified-date>
+</concurrent-appointments>

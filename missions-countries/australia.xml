@@ -42,16 +42,16 @@
                 <date>1945-04-20</date>
                 <note>Left Australia</note>
             </ended>
-            <note>John R. Minter was serving as Chargé d’Affaires ad interim when Legation Canberra was raised to Embassy status, Jul 19, 1946</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>au-1945-flyn-01</id>
-            <person-id>flynn-edward-joseph</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <id>au-1946-mint-01</id>
+            <person-id>minter-john-russell</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
             <appointed>
                 <date/>
@@ -65,11 +65,11 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <note>Minter was serving as Chargé d’Affaires ad interim when Legation Canberra was raised to Embassy status, July 19, 1946.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>au-1946-butl-01</id>
@@ -95,29 +95,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>au-1946-mint-01</id>
-            <person-id>minter-john-russell</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>australia</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Was serving as Chargé d’Affaires ad interim when Legation Canberra was raised to Embassy status, Jul 19, 1946</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>au-1948-cowe-01</id>
             <person-id>cowen-myron-melvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -134,11 +111,11 @@
                 <date>1949-03-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 2, 1949.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>au-1949-jarm-01</id>
@@ -387,11 +364,11 @@
                 <date>1981-01-23</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Nauru; resident at Canberra.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
             <id>au-1981-nese-01</id>
@@ -647,7 +624,31 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>                
+        <chief>
+        <id>au-1945-flyn-01</id>
+        <person-id>flynn-edward-joseph</person-id>
+        <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+        <contemporary-territory-id>australia</contemporary-territory-id>
+        <appointed>
+            <date/>
+            <note/>
+        </appointed>
+        <started>
+            <date/>
+            <note/>
+        </started>
+        <ended>
+            <date/>
+            <note/>
+        </ended>
+        <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+        <created-by>wicentowskijc</created-by>
+        <created-date>2010-05-20</created-date>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-date>2010-05-20</last-modified-date>
+    </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

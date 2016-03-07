@@ -3,6 +3,29 @@
     <territory-id>trinidad-and-tobago</territory-id>
     <chiefs>
         <chief>
+            <id>tt-1962-chri-01</id>
+            <person-id>christensen-william-harold</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1962-08-31</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+        <chief>
             <id>tt-1962-mine-01</id>
             <person-id>miner-robert-graham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1967-09-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>The Embassy in Port-of-Spain was established on Aug 31, 1962, with William H. Christensen as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-05-03</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tt-1967-cost-01</id>
@@ -203,11 +226,11 @@
                 <date>1984-11-27</date>
                 <note>Died at St. Thomas, Virgin Islands</note>
             </ended>
-            <note>Evans had left post on Nov 21, 1984.</note>
+            <note>Evans had left post on November 21, 1984.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tt-1985-krys-01</id>
@@ -348,6 +371,29 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
+            <id>tt-2009-kusn-01</id>
+            <person-id>kusnitz-len</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2009-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2010-05</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+        <chief>
             <id>tt-2010-welt-01</id>
             <person-id>welters-beatrice-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -376,11 +422,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
             <appointed>
-                <date>2012-11</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2012-11</date>
                 <note/>
             </started>
             <ended>
@@ -391,7 +437,7 @@
             <created-by>marrsaw</created-by>
             <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-22</last-modified-date>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tt-2013-diop-01</id>
@@ -399,11 +445,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
             <appointed>
-                <date>2013-07</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2013-07</date>
                 <note/>
             </started>
             <ended>
@@ -433,34 +479,12 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of July 31, 2013 not acted upon by the Senate. Re-nominated January 6, 2014.</note>
+            <note>Nomination of July 31, 2013 not acted upon by the Senate. Re-nominated January 6,
+                2014.</note>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
-        </chief>
-        <chief>
-            <id>tt--chri-01</id>
-            <person-id>christensen-william-harold</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>The Embassy in Port-of-Spain was established on Aug 31, 1962, with William H. Christensen as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

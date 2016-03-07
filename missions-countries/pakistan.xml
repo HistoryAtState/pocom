@@ -3,6 +3,29 @@
     <territory-id>pakistan</territory-id>
     <chiefs>
         <chief>
+            <id>pk-1947-lewi-01</id>
+            <person-id>lewis-charles-william</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>pakistan</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1947-08-15</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
             <id>pk-1947-alli-01</id>
             <person-id>alling-paul-humiston</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,57 +42,12 @@
                 <date>1948-06-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 9, 1947. The Embassy in Karachi was established Aug 15, 1947, with Charles W. Lewis, Jr., as Chargé d’Affaires ad interim.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 9, 1947,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>pk-1949-coch-01</id>
-            <person-id>cochran-horace-merle</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>pakistan</contemporary-territory-id>
-            <appointed>
-                <date>1949-03-04</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>pk-1949-warr-01</id>
-            <person-id>warren-avra-milvin</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>pakistan</contemporary-territory-id>
-            <appointed>
-                <date>1949-12-28</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pk-1950-warr-01</id>
@@ -95,29 +73,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pk-1952-cabo-01</id>
-            <person-id>cabot-john-moors</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>pakistan</contemporary-territory-id>
-            <appointed>
-                <date>1952-09-17</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>pk-1953-hild-01</id>
             <person-id>hildreth-horace-augustus</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -131,15 +86,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Reaccredited when Pakistan became a republic; formally
-                received Apr 23, 1956; left post May 1, 1957</note>
+                <date>1957-05-01</date>
+                <note>Left post.</note>
             </ended>
-            <note/>
+            <note>Reaccredited when Pakistan became a republic; formally received on April 23,
+                1956.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pk-1957-lang-01</id>
@@ -273,11 +228,34 @@
                 <date>1972-04-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Sidney Sober served as Chargé d’Affaires ad interim, May 1972-Dec 1973.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-08</last-modified-date>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>pk-1972-sobe-01</id>
+            <person-id>sober-sidney</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>pakistan</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1972-05</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1973-12</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pk-1973-byro-01</id>
@@ -411,11 +389,12 @@
                 <date>1991-08-29</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Oct 17, 1988.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on October 17, 1988,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pk-1991-plat-01</id>
@@ -569,14 +548,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2007-03-28</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-11-26</last-modified-date>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pk-2007-patt-01</id>
@@ -647,13 +626,15 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-24</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>pk--sobe-01</id>
-            <person-id>sober-sidney</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>pk-1949-coch-01</id>
+            <person-id>cochran-horace-merle</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1949-03-04</date>
                 <note/>
             </appointed>
             <started>
@@ -664,19 +645,19 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Served as Chargé d’Affaires ad interim, May 1972-Dec 1973.</note>
+            <note>Took oath of office, but did not proceed to post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-30</last-modified-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pk--lewi-01</id>
-            <person-id>lewis-charles-william</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>pk-1949-warr-01</id>
+            <person-id>warren-avra-milvin</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1949-12-28</date>
                 <note/>
             </appointed>
             <started>
@@ -687,7 +668,32 @@
                 <date/>
                 <note/>
             </ended>
-            <note>The Embassy in Karachi was established Aug 15, 1947, with Charles W. Lewis, Jr., as Chargé d’Affaires ad interim</note>
+            <note>Commissioned during a recess of the Senate; did not serve under this
+                appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>pk-1952-cabo-01</id>
+            <person-id>cabot-john-moors</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>pakistan</contemporary-territory-id>
+            <appointed>
+                <date>1952-09-17</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; did not serve under this
+                appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -710,14 +716,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination withdrawn May 5, 1977.</note>
+            <note>Nomination on withdrawn May 5, 1977.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

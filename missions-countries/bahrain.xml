@@ -3,6 +3,29 @@
     <territory-id>bahrain</territory-id>
     <chiefs>
         <chief>
+            <id>bh-1971-gatc-01</id>
+            <person-id>gatch-john-newton-jr</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>bahrain</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1971-09-21</date>
+                <note>Embassy Manama opened</note>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
             <id>bh-1971-stol-01</id>
             <person-id>stoltzfus-william-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1974-06-09</date>
                 <note>Appointment terminated</note>
             </ended>
-            <note>Accredited also to Kuwait, Oman, Qatar, and the United Arab Emirates; resident at Kuwait. Embassy Manama was opened Sep 21, 1971, with John N. Gatch, Jr., as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bh-1974-twin-01</id>
@@ -187,6 +210,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>bh-1993-robi-01</id>
+            <person-id>robins-david-snyder</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>bahrain</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-03</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1994-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
             <id>bh-1994-rans-01</id>
             <person-id>ransom-david-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -338,37 +384,14 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-09</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
-        </chief>
-        <chief>
-            <id>bh--gatc-01</id>
-            <person-id>gatch-john-newton-jr</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>bahrain</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Manama was opened Sep 21, 1971, with John N. Gatch, Jr., as Chargé d’Affaires ad interim</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

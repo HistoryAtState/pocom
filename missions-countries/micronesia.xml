@@ -19,11 +19,11 @@
                 <date>1990-05-29</date>
                 <note>Left post.</note>
             </ended>
-            <note>The Office of the U.S. Representative at Kolonia was opened Nov 3, 1986, and was upgraded to an Embassy Sep 20, 1989. Wygant continued to serve as U.S. Representative pending appointment of an Ambassador.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>fm-1990-braz-01</id>
@@ -65,11 +65,34 @@
                 <date>1996-07-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>Cheryl A. Martin served as Chargé d’Affaires ad interim, Aug 1996-Oct 1999.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>fm-1996-mart-01</id>
+            <person-id>martin-cheryl-ann</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1996-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1999-10</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>fm-1999-wats-01</id>
@@ -206,29 +229,6 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
-        </chief>
-        <chief>
-            <id>fm--mart-01</id>
-            <person-id>martin-cheryl-ann</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Aug 1996-Oct 1999.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>

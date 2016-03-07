@@ -36,17 +36,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1909-06-09</date>
-                <note/>
+                <note>Officially received by a representative of the Sultan on</note>
             </started>
             <ended>
                 <date>1910-07-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>Officially received on Jun 9, 1909, by a representative of the Sultan; no report found on presentation of credentials.</note>
+            <note>No report found on presentation of credentials.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ma-1910-carp-01</id>
@@ -59,17 +59,40 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1910-07-27</date>
-                <note/>
+                <note>Officially received by a representative of the Sultan on</note>
             </started>
             <ended>
                 <date>1912-09-02</date>
                 <note>Left post.</note>
             </ended>
-            <note>Officially received on Jul 27, 1910, by a representative of the Sultan; no report found on presentation of credentials. Maxwell Blake served as Chargé d’Affaires ad interim, Sep. 1912-Jul 1917. On Aug 9, 1917, Blake informed the Resident General of France in Morocco that from Jul 1, 1917, the American Legation at Tangier had been converted into an Agency and consulate General. The status of the mission was changed in 1925 to Diplomatic Agency and Consulate General, and in 1933, to Legation again.</note>
+            <note>No report found on presentation of credentials.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>ma-1912-blak-01</id>
+            <person-id>blake-maxwell</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>morocco</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1912-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1917-07</date>
+                <note/>
+            </ended>
+            <note>s</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ma-1917-blak-01</id>
@@ -82,17 +105,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1917-10-11</date>
-                <note/>
+                <note>Transmitted credentials by note on</note>
             </started>
             <ended>
                 <date>1922-04-11</date>
                 <note>Superseded</note>
             </ended>
-            <note>Transmitted credentials by note on Oct 11, 1917.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-27</last-modified-date>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ma-1922-denn-01</id>
@@ -105,17 +128,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1922-04-11</date>
-                <note/>
+                <note>Officially received by a representative of the Sultan on</note>
             </started>
             <ended>
                 <date>1924-03-03</date>
                 <note>Left post.</note>
             </ended>
-            <note>Officially received on Apr 11, 1922, by a representative of the Sultan; no report found on presentation of credentials.</note>
+            <note>No report found on presentation of credentials.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ma-1925-blak-01</id>
@@ -128,17 +151,18 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1925-06-23</date>
-                <note/>
+                <note>Assumed charge on</note>
             </started>
             <ended>
                 <date>1940-08-03</date>
                 <note>Recall transmitted by note</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1925. Assumed charge on Jun 23, 1925; no report found on presentation of credentials.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1925,
+                after confirmation. No report found on presentation of credentials.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-27</last-modified-date>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ma-1940-whit-01</id>
@@ -157,11 +181,34 @@
                 <date>1941-01-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>J. Rives Childs served as Chargé d’Affaires ad interim, Feb. 1941-Jun 1945.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>ma-1941-chil-01</id>
+            <person-id>childs-james-rives</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>morocco</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1941-02</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1945-06</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ma-1945-alli-01</id>
@@ -272,11 +319,11 @@
                 <date>1956-06-11</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>Embassy Rabat was established on Jun 11, 1956, with William J. Porter as Chargé d’Affaires ad interim; upon its establishment Legation Tangier was changed in status to a Consulate General.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ma-1956-cann-01</id>
@@ -571,11 +618,12 @@
                 <date>1992-01-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Oct 10, 1989.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on October 10, 1989,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ma-1991-vree-01</id>
@@ -617,11 +665,34 @@
                 <date>1997-01-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Gary S. Usrey served as Chargé d’Affaires ad interim Jan1997-Feb 1998.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>ma-1997-usre-01</id>
+            <person-id>usrey-gary-s</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>morocco</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1997-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1998-02</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ma-1997-gabr-01</id>
@@ -716,28 +787,30 @@
             <last-modified-date>2014-07-23</last-modified-date>
         </chief>
         <chief>
-            <id>ma--blak-01</id>
-            <person-id>blake-maxwell</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>ma-2014-bush-01</id>
+            <person-id>bush-dwight-lamar-sr</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>2014-03-17</date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2014-03-31</date>
                 <note/>
             </started>
             <ended>
                 <date/>
                 <note/>
             </ended>
-            <note>served as Chargé d’Affaires ad interim, Sep. 1912-Jul 1917.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-27</last-modified-date>
+            <last-modified-date>2015-07-13</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
             <id>ma--stra-01</id>
             <person-id>strausz-hupe-robert</person-id>
@@ -755,60 +828,15 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Note: Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <note>Note: Not commissioned; nomination withdrawn before the Senate acted upon
+                it.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
         <chief>
-            <id>ma-2014-bush-01</id>
-            <person-id>bush-dwight-lamar-sr</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>morocco</contemporary-territory-id>
-            <appointed>
-                <date>2014-03-17</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>2014-03-31</date>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note></note>
-            <created-by>marrsaw</created-by>
-            <created-date>2014-07-22</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>ma--usre-01</id>
-            <person-id>usrey-gary-s</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>morocco</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim Jan1997-Feb 1998</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ma--berg-01</id>
+            <id>ma-1988-berg-01</id>
             <person-id>bergold-harry-earl-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -824,37 +852,14 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination of June 6, 1988, was not acted upon by the Senate.</note>
+            <note>Not commissioned; nomination of June 6, 1988, was not acted upon by the
+                Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2013-06-04</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma--chil-01</id>
-            <person-id>childs-james-rives</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>morocco</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Feb. 1941-Jun 1945.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

@@ -13,17 +13,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1867-10-02</date>
-                <note/>
+                <note>Officially recognized on</note>
             </started>
             <ended>
                 <date>1868-01-21</date>
                 <note>Died at Buenos Aires</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-14</last-modified-date>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>uy-1868-wort-01</id>
@@ -39,15 +39,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Notified Government of Uruguay by note from Buenos Aires
-                July 10, 1869, that his successor had been appointed</note>
+                <date>1869-07-10</date>
+                <note>Notified Government of Uruguay from Buenos Aires that his successor had been
+                    appointed by note on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-14</last-modified-date>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>uy-1869-kirk-01</id>
@@ -56,7 +56,7 @@
             <contemporary-territory-id>uruguay</contemporary-territory-id>
             <appointed subtype="bracketed">
                 <date>1869-05-11</date>
-                <note/>
+                <note>Commission enclosed with an instruction on</note>
             </appointed>
             <started>
                 <date>1869-07-24</date>
@@ -66,11 +66,13 @@
                 <date>1870-07-06</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commission (issued during a recess of the Senate) was not of record, but enclosed with an instruction of this date. Although later confirmed by the Senate, Kirk was apparently not recommissioned after confirmation.</note>
+            <note>Commission (issued during a recess of the Senate) was not of record. Although
+                later confirmed by the Senate, Kirk was apparently not recommissioned after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-14</last-modified-date>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>uy-1870-stev-01</id>
@@ -89,11 +91,11 @@
                 <date>1873-05-19</date>
                 <note>Left Montevideo</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>uy-1874-cald-01</id>
@@ -109,14 +111,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1876-10-06</date>
                 <note>Recommissioned as Chargé d’Affaires</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>uy-1876-cald-01</id>
@@ -129,40 +131,18 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1876-10-06</date>
-                <note/>
+                <note>No record found of presentation of credentials; acknowledged receipt of his
+                    commission on</note>
             </started>
             <ended>
                 <date>1882-07-10</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo. Acknowledged receipt of his commission on Oct 6, 1876; no record found of presentation of credentials.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>uy-1881-rusk-01</id>
-            <person-id>rusk-jeremiah-mclain</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>uruguay</contemporary-territory-id>
-            <appointed>
-                <date>1881-05-19</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment as Chargé d’Affaires to Paraguay and Uruguay.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>uy-1882-will-01</id>
@@ -181,11 +161,11 @@
                 <date>1885-07-21</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>uy-1885-baco-01</id>
@@ -201,22 +181,23 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1888-10-08</date>
                 <note>Promoted to Minister Resident</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1886,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
-            <id>uy-1886-baco-01</id>
+            <id>uy-1888-baco-01</id>
             <person-id>bacon-john-edmund</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>uruguay</contemporary-territory-id>
             <appointed>
-                <date>1886-08-10</date>
+                <date>1888-08-10</date>
                 <note/>
             </appointed>
             <started>
@@ -227,11 +208,11 @@
                 <date>1888-12-26</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>uy-1889-mane-01</id>
@@ -247,15 +228,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Envoy Extraordinary and Minister
-                Plenipotentiary</note>
+                <date>1890-11-28</date>
+                <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. Also accredited to Paraguay; resident at Montevideo.</note>
+            <note>Commissioned during a recess of the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-28</last-modified-date>
         </chief>
         <chief>
             <id>uy-1890-mane-01</id>
@@ -297,11 +277,11 @@
                 <date>1898-01-04</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>uy-1897-finc-01</id>
@@ -320,11 +300,12 @@
                 <date>1905-05-29</date>
                 <note>Transmitted recall by note</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 18, 1897. Also accredited to Paraguay; resident at Montevideo.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 18, 1897,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>uy-1905-obri-01</id>
@@ -343,11 +324,11 @@
                 <date>1909-10-11</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>uy-1909-morg-01</id>
@@ -366,11 +347,11 @@
                 <date>1911-07-08</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-09</last-modified-date>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>uy-1911-grev-01</id>
@@ -389,34 +370,11 @@
                 <date>1914-02-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>uy-1914-de-01</id>
-            <person-id>de-saulles-john-longer</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>uruguay</contemporary-territory-id>
-            <appointed>
-                <date>1914-03-27</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>uy-1915-jeff-01</id>
@@ -527,57 +485,12 @@
                 <date>1934-07-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 16, 1930.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 16, 1930,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>uy-1934-mess-01</id>
-            <person-id>messersmith-george-strausser</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>uruguay</contemporary-territory-id>
-            <appointed>
-                <date>1934-03-09</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>uy-1934-lay-01</id>
-            <person-id>lay-julius-gareche</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>uruguay</contemporary-territory-id>
-            <appointed>
-                <date>1934-12-14</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>uy-1935-lay-01</id>
@@ -597,29 +510,6 @@
                 <note>Left post.</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>uy-1937-daws-01</id>
-            <person-id>dawson-william</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>uruguay</contemporary-territory-id>
-            <appointed>
-                <date>1937-08-31</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -718,29 +608,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>uy-1947-howe-01</id>
-            <person-id>howell-williamson-smith-jr</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>uruguay</contemporary-territory-id>
-            <appointed>
-                <date>1947-04-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but died in the United States before proceeding to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>uy-1947-brig-01</id>
             <person-id>briggs-ellis-ormsbee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -826,11 +693,12 @@
                 <date>1956-04-03</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 26, 1954.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 26, 1954,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>uy-1956-patt-01</id>
@@ -1063,6 +931,29 @@
             <last-modified-date>2013-06-07</last-modified-date>
         </chief>
         <chief>
+            <id>uy-1980-smit-01</id>
+            <person-id>smith-norman-shaw</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>uruguay</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1980-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1981-11</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
+        </chief>
+        <chief>
             <id>uy-1981-aran-01</id>
             <person-id>aranda-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -1269,52 +1160,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>uy--gers-01</id>
-            <person-id>gershenson-robert-saul</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>uruguay</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of Jul 10, 1980, not acted upon by the Senate. N. Shaw Smith served as Chargé d’Affaires ad interim, Jul 1980-Nov 1981.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
-        </chief>
-        <chief>
-            <id>uy--smit-01</id>
-            <person-id>smith-norman-shaw</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>uruguay</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Jul 1980-Nov 1981.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
             <id>uy--wall-01</id>
             <person-id>wallace-lewis</person-id>
@@ -1332,14 +1179,176 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination to be Chargé d’Affaires to Paraguay and Uruguay withdrawn before the Senate acted upon it.</note>
+            <note>Not commissioned; nomination to be Chargé d’Affaires to Paraguay and Uruguay
+                withdrawn before the Senate acted upon it.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>uy-1881-rusk-01</id>
+            <person-id>rusk-jeremiah-mclain</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>uruguay</contemporary-territory-id>
+            <appointed>
+                <date>1881-05-19</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
+        </chief>
+        <chief>
+            <id>uy-1914-de-01</id>
+            <person-id>de-saulles-john-longer</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>uruguay</contemporary-territory-id>
+            <appointed>
+                <date>1914-03-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>uy-1934-mess-01</id>
+            <person-id>messersmith-george-strausser</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>uruguay</contemporary-territory-id>
+            <appointed>
+                <date>1934-03-09</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>uy-1934-lay-01</id>
+            <person-id>lay-julius-gareche</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>uruguay</contemporary-territory-id>
+            <appointed>
+                <date>1934-12-14</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>uy-1937-daws-01</id>
+            <person-id>dawson-william</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>uruguay</contemporary-territory-id>
+            <appointed>
+                <date>1937-08-31</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>uy-1947-howe-01</id>
+            <person-id>howell-williamson-smith-jr</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>uruguay</contemporary-territory-id>
+            <appointed>
+                <date>1947-04-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but died in the United States before proceeding to
+                post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>uy-1980-gers-01</id>
+            <person-id>gershenson-robert-saul</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>uruguay</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of July 10, 1980, not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

@@ -3,29 +3,6 @@
     <territory-id>spain</territory-id>
     <chiefs>
         <chief>
-            <id>es-1779-jay-01</id>
-            <person-id>jay-john</person-id>
-            <role-title-id>minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date>1779-09-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Proceeded to post but was not formally received at court; left post about May 20, 1782.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>es-1790-carm-01</id>
             <person-id>carmichael-william-jr</person-id>
             <role-title-id>charge-daffaires</role-title-id>
@@ -42,11 +19,13 @@
                 <date>1794-09-05</date>
                 <note>Presented recall</note>
             </ended>
-            <note>No report has been found concerning Carmichael’s presentation of credentials as Chargé d’Affaires en titre; he had already been received as Chargé d’Affaires ad interim, Feb 20, 1783.</note>
+            <note>No report has been found concerning Carmichael’s presentation of credentials as
+                Chargé d’Affaires en titre; he had already been received as Chargé d’Affaires ad
+                interim on February 20, 1783.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1794-shor-01</id>
@@ -111,34 +90,35 @@
                 <date>1804-10-25</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 26, 1802. George W. Erving served as Chargé d’Affaires ad interim, Oct 1805-Feb 1810.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 26, 1802,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1804-bowd-01</id>
-            <person-id>bowdoin-james</person-id>
-            <role-title-id>minister-plenipotentiary</role-title-id>
+            <id>es-1805-ervi-01</id>
+            <person-id>erving-george-william</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
             <appointed>
-                <date>1804-11-22</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1805-10</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1810-02</date>
                 <note/>
             </ended>
-            <note>Did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-21</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1814-ervi-01</id>
@@ -157,11 +137,12 @@
                 <date>1819-05-15</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. Nomination confirmed by the Senate, Oct 3, 1814; commission following confirmation not of record.</note>
+            <note>Commissioned during a recess of the Senate. Nomination confirmed by the Senate on
+                October 3, 1814; commission following confirmation not of record.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1819-fors-01</id>
@@ -249,34 +230,12 @@
                 <date>1836-12-21</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 10, 1830.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 10, 1830,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>es-1835-barr-01</id>
-            <person-id>barry-william-taylor</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date>1835-04-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but died en route to post. Commissioned during a recess of the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1836-eato-01</id>
@@ -295,11 +254,12 @@
                 <date>1840-05-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>No report has been found of presentation of credentials, which probably took place about Feb 1, 1837.</note>
+            <note>No report has been found of presentation of credentials, which probably took place
+                about February 1, 1837.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1840-vail-01</id>
@@ -387,11 +347,12 @@
                 <date>1853-09-04</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Sep 28, 1850.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on September 28, 1850,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1853-soul-01</id>
@@ -411,29 +372,6 @@
                 <note>Presented recall</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>es-1855-brec-01</id>
-            <person-id>breckinridge-john-cabell</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date>1855-01-16</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -509,29 +447,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1861-clay-01</id>
-            <person-id>clay-cassius-marcellus</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date>1861-04-14</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>es-1862-koer-01</id>
             <person-id>koerner-gustavus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -591,15 +506,16 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Presented new credentials on Feb 2, 1871, after change
-                of government; transmitted recall by note Jan 31, 1874</note>
+                <date>1874-01-31</date>
+                <note>Transmitted recall by note on Jan 31, 1874</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 16, 1870.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 16, 1870,
+                after confirmation. Presented new credentials on February 2, 1871, after a change of
+                government.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1874-cush-01</id>
@@ -615,15 +531,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Presented new credentials on Mar 10, 1875, after
-                restoration of monarchy; left post Apr 9, 1877</note>
+                <date>1877-04-09</date>
+                <note>Left post.</note>
             </ended>
-            <note/>
+            <note>Presented new credentials on March 10, 1875, after the restoration of the
+                monarchy.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1877-lowe-01</id>
@@ -642,11 +558,12 @@
                 <date>1880-03-02</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Oct 30, 1877.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on October 30, 1877,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1880-fair-01</id>
@@ -688,11 +605,12 @@
                 <date>1882-10-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Oct 13, 1881.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on October 13, 1881,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1883-fost-01</id>
@@ -734,11 +652,12 @@
                 <date>1888-07-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 13, 1886.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1886,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1888-belm-01</id>
@@ -757,11 +676,12 @@
                 <date>1889-05-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 13, 1888.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 13, 1888,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1889-palm-01</id>
@@ -870,14 +790,14 @@
             </started>
             <ended>
                 <date>1898-04-21</date>
-                <note>Spain severed diplomatic relations
-                with the U.S.</note>
+                <note>Spain severed diplomatic relations with the United States on</note>
             </ended>
-            <note>Woodford left post Apr 21, 1898. The United States declared war on Spain as of that date by Act of Congress approved Apr 25, 1898.</note>
+            <note>Woodford left post on April 21, 1898. The United States declared war on Spain as
+                of that date by Act of Congress approved on April 25, 1898.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1899-stor-01</id>
@@ -896,7 +816,8 @@
                 <date>1902-12-10</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 14, 1899.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 14, 1899,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -919,11 +840,12 @@
                 <date>1905-05-01</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 8, 1902.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 8, 1902,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1905-coll-01</id>
@@ -949,29 +871,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1909-clay-01</id>
-            <person-id>clay-henry</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date>1909-04-01</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1909-06-09</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1913-07-08</date>
-                <note>Left post.</note>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>es-1909-ide-01</id>
             <person-id>ide-henry-clay</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -989,29 +888,6 @@
                 <note>Left post.</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>es-1913-will-01</id>
-            <person-id>willard-joseph-edward</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date>1913-07-28</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post under this appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1149,11 +1025,36 @@
                 <date>1939-02-02</date>
                 <note>Had final interview</note>
             </ended>
-            <note>Bowers was resident during the last part of his Ambassadorship at St. Jean de Luz in France; he left that post Jun 14, 1939, his appointment having terminated May 14, 1939. The Embassy had meanwhile been re-established in Spain on Apr 13, 1939, when H. Freeman Matthews had been received at Burgos as Chargé d’Affaires ad interim.</note>
+            <note>Bowers was resident during the last part of his Ambassadorship at St. Jean de Luz
+                in France; he left that post on June 14, 1939, his appointment having terminated on
+                May 14, 1939.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
+        </chief>
+        <chief>
+            <id>es-1939-matt-01</id>
+            <person-id>matthews-harrison-freeman</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1939-04-13</date>
+                <note>Embassy re-established when Matthews was received at Burgos on</note>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1939-wedd-01</id>
@@ -1218,11 +1119,11 @@
                 <date>1945-12-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>During 1945-1951 the following officers served as Chargé d’Affaires ad interim: Philip W. Bonsal (Mar 1946-Jun 1947) and Paul T. Culbertson (Jun 1947-Dec 1950).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-11-26</last-modified-date>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1946-bons-01</id>
@@ -1230,11 +1131,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
             <appointed>
-                <date>1946-03</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1946-03</date>
                 <note/>
             </started>
             <ended>
@@ -1244,8 +1145,31 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
+        </chief>
+        <chief>
+            <id>es-1947-culb-01</id>
+            <person-id>culbertson-paul-trauger</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1947-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1950-12</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>es-1951-grif-01</id>
@@ -1403,29 +1327,6 @@
                 <note>Left post.</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>es-1968-mcki-01</id>
-            <person-id>mckinney-frank-edward</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date>1968-05-11</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post under this appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1678,7 +1579,7 @@
                 <date>2001-06-01</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -1701,7 +1602,7 @@
                 <date>2004-11-21</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -1724,7 +1625,7 @@
                 <date>2009-01-20</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -1747,7 +1648,7 @@
                 <date>2013-06-28</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-02</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -1770,19 +1671,21 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-06-10</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>es-1939-matt-01</id>
-            <person-id>matthews-harrison-freeman</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>es-1779-jay-01</id>
+            <person-id>jay-john</person-id>
+            <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1779-09-29</date>
                 <note/>
             </appointed>
             <started>
@@ -1793,42 +1696,20 @@
                 <date/>
                 <note/>
             </ended>
-            <note>The Embassy had meanwhile been re-established in Spain on Apr 13, 1939, when H. Freeman Matthews had been received at Burgos as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
-        </chief>
-        <chief>
-            <id>es-1974-flan-01</id>
-            <person-id>flanigan-peter-magnus</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination of Sep 17, 1974 was not acted upon by the Senate.</note>
+            <note>Proceeded to post but was not formally received at court; left post about May 20,
+                1782.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1947-culb-01</id>
-            <person-id>culbertson-paul-trauger</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>es-1804-bowd-01</id>
+            <person-id>bowdoin-james</person-id>
+            <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1804-11-22</date>
                 <note/>
             </appointed>
             <started>
@@ -1839,14 +1720,84 @@
                 <date/>
                 <note/>
             </ended>
-            <note>(Jun 1947-Dec 1950).</note>
+            <note>Did not proceed to post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1869-rose-01</id>
+            <id>es-1835-barr-01</id>
+            <person-id>barry-william-taylor</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date>1835-04-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but died en route to post. Commissioned during a recess of
+                the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>es-1855-brec-01</id>
+            <person-id>breckinridge-john-cabell</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date>1855-01-16</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>es-1861-clay-01</id>
+            <person-id>clay-cassius-marcellus</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date>1861-04-14</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>es--rose-01</id>
             <person-id>rosecrans-william-starke</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1865,34 +1816,11 @@
             <note>Not commissioned; nomination tabled by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1961-brig-01</id>
-            <person-id>briggs-ellis-ormsbee</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>es-1869-sanf-01</id>
+            <id>es--sanf-01</id>
             <person-id>sanford-henry-shelton</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1911,11 +1839,103 @@
             <note>Not commissioned; nomination not confirmed by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
+        </chief>
+        <chief>
+            <id>es-1913-will-01</id>
+            <person-id>willard-joseph-edward</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date>1913-07-28</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>es--brig-01</id>
+            <person-id>briggs-ellis-ormsbee</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
+        </chief>
+        <chief>
+            <id>es-1968-mcki-01</id>
+            <person-id>mckinney-frank-edward</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date>1968-05-11</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>es-1974-flan-01</id>
+            <person-id>flanigan-peter-magnus</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination of September 17, 1974 was not acted upon by the
+                Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

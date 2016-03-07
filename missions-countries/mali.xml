@@ -16,37 +16,37 @@
                 <note/>
             </started>
             <ended>
-                <date>1960</date>
+                <date/>
                 <note/>
             </ended>
-            <note>Note: Embassy Dakar (in the Federation of Mali) was established June 20, 1960, with Donald A. Dumont as Chargé d’Affaires ad interim.</note>
+            <note>Embassy Dakar (in the Federation of Mali) was established on June 20, 1960.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
         <chief>
-            <id>ml-1960-vill-01</id>
-            <person-id>villard-henry-serrano</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
+            <id>ml-1960-dean-01</id>
+            <person-id>dean-john-gunther</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
             <appointed>
-                <date>1960-07-18</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1960-09-24</date>
                 <note/>
             </started>
             <ended>
                 <date/>
                 <note/>
             </ended>
-            <note>Commissioned to the Federation of Mali (capital at Dakar). Took oath of office, but the Federation of Mali was dissolved before Villard proceeded to post. See under Senegal for subsequent representation at Dakar. Embassy Bamako was established Sep 24, 1960, with John G. Dean as Chargé d’Affaires ad interim. Commissioned during a recess of the Senate; recommissioned after confirmation on Aug 27, 1960. Embassy Dakar (in the Federation of Mali) was established Jun 20, 1960, with Donald A. Dumont as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2014-02-20</last-modified-date>
         </chief>
         <chief>
             <id>ml-1960-wrig-01</id>
@@ -65,11 +65,12 @@
                 <date>1961-12-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 6, 1961.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 6, 1961,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ml-1961-hand-01</id>
@@ -88,11 +89,12 @@
                 <date>1964-09-08</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 30, 1962.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 30, 1962,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ml-1965-moor-01</id>
@@ -341,11 +343,34 @@
                 <date>1995-03-31</date>
                 <note>Left post.</note>
             </ended>
-            <note>Carolee Heileman served as Chargé d’Affaires ad interim, Mar 1995-Mar 1996.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>ml-1995-heil-01</id>
+            <person-id>heileman-carolee</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mali</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1995-03</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1996-03</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>ml-1995-raws-01</id>
@@ -491,16 +516,16 @@
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date></date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note>Nomination of September 18, 2014, not acted upon by the Senate.</note>
             <created-by>marrsaw</created-by>
@@ -508,31 +533,35 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>ml--heil-01</id>
-            <person-id>heileman-carolee</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>ml-1960-vill-01</id>
+            <person-id>villard-henry-serrano</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
             <appointed>
                 <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1960-07-18</date>
                 <note/>
             </started>
             <ended>
                 <date/>
                 <note/>
             </ended>
-            <note>served as Chargé d’Affaires ad interim, Mar 1995-Mar 1996.</note>
+            <note>Commissioned to the Federation of Mali (capital at Dakar). Took oath of office,
+                but the Federation of Mali was dissolved before Villard proceeded to post.
+                Commissioned during a recess of the Senate; recommissioned on August 27, 1960, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

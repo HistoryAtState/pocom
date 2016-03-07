@@ -3,6 +3,29 @@
     <territory-id>eritrea</territory-id>
     <chiefs>
         <chief>
+            <id>er-1991-onei-01</id>
+            <person-id>oneill-joseph-p</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>eritrea</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1991-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-07</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
+        </chief>
+        <chief>
             <id>er-1993-houd-01</id>
             <person-id>houdek-robert-gordon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1996-09-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>The United States recognized Eritrea’s independence Apr 27, 1991, and established diplomatic relations with it on Jun 11, 1991. The Consulate in Asmara then became an Embassy with Joseph P. O’Neill as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>er-1996-hick-01</id>
@@ -146,7 +169,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -155,36 +178,59 @@
             </started>
             <ended>
                 <date>2012-02</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>er-2012-wess-01</id>
-            <person-id>wessel-peter</person-id>
+            <id>er-2012-brem-01</id>
+            <person-id>bremner-susan</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date>2012-02</date>
+                <date>2012-07</date>
                 <note/>
             </started>
             <ended>
-                <date>2014-07</date>
-                <note></note>
+                <date>2014-04</date>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
-            <created-date>2015-07-13</created-date>
+            <created-date>2016-01-11</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
+            <last-modified-date>2016-01-11</last-modified-date>
+        </chief>
+        <chief>
+            <id>er-2014-maze-01</id>
+            <person-id>mazel-louis</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>eritrea</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2014-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-11</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

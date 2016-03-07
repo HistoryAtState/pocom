@@ -39,14 +39,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1854-11-09</date>
                 <note>Promoted to Minister Resident</note>
             </ended>
-            <note>Nominated Feb 25, 1856, to be Envoy Extraordinary and Minister Plenipotentiary to the Pontifical States; nomination withdrawn before the Senate acted upon it.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
             <id>va-1854-cass-01</id>
@@ -95,29 +95,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>va-1861-king-01</id>
-            <person-id>king-rufus2</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>holy-see</contemporary-territory-id>
-            <appointed>
-                <date>1861-03-22</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>va-1861-rand-01</id>
             <person-id>randall-alexander-williams</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -157,11 +134,12 @@
                 <date>1863-05-20</date>
                 <note>Left post shortly before</note>
             </ended>
-            <note>Commissioned as Minister Resident at Rome. Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 19, 1863.</note>
+            <note>Commissioned as Minister Resident at Rome. Commissioned during a recess of the
+                Senate; recommissioned on January 19, 1863, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
             <id>va-1863-king-01</id>
@@ -180,11 +158,35 @@
                 <date>1867-08-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 18, 1864. Commissioned as Minister Resident at Rome.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 18, 1864,
+                after confirmation. Commissioned as Minister Resident at Rome.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
+        </chief>
+        <chief>
+            <id>va-1939-tayl-01</id>
+            <person-id>taylor-myron-charles</person-id>
+            <role-title-id>personal-representative-of-the-president</role-title-id>
+            <contemporary-territory-id>holy-see</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1939-12-23</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1950-01-18</date>
+                <note/>
+            </ended>
+            <note>Taylor received a second appointment on May 3, 1946.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
             <id>va-1941-titt-01</id>
@@ -197,17 +199,112 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1941-12-29</date>
-                <note/>
+                <note>Received by the Pope in private audience on</note>
             </started>
             <ended>
                 <date>1944-07-08</date>
                 <note>Left Vatican City</note>
             </ended>
-            <note>Used the title Chargé d’Affaires to the Holy See. Neither commissioned nor accredited; given the rank of Chargé d’Affaires, Dec 24, 1941, and designated to act as Chargé d’Affaires under the Act of Feb 23, 1931. Received by the Pope in private audience on Dec 29, 1941.</note>
+            <note>Used the title Chargé d’Affaires to the Holy See. Neither commissioned nor
+                accredited; given the rank of Chargé d’Affaires on December 24, 1941, and designated
+                to act as Chargé d’Affaires under the Act of February 23, 1931. Received by the Pope
+                in private audience on December 29, 1941.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
+        </chief>
+        <chief>
+            <id>va-1970-lodg-01</id>
+            <person-id>lodge-henry-cabot</person-id>
+            <role-title-id>personal-representative-of-the-president</role-title-id>
+            <contemporary-territory-id>holy-see</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1970-06-05</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1977-07-06</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-11</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
+        </chief>
+        <chief>
+            <id>va-1977-walt-01</id>
+            <person-id>walters-david</person-id>
+            <role-title-id>personal-representative-of-the-president</role-title-id>
+            <contemporary-territory-id>holy-see</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1977-07-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1978-08-17</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-11</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
+        </chief>
+        <chief>
+            <id>va-1978-wagn-01</id>
+            <person-id>wagner-robert-ferdinand</person-id>
+            <role-title-id>personal-representative-of-the-president</role-title-id>
+            <contemporary-territory-id>holy-see</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1978-11-28</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1981-01-16</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-11</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
+        </chief>
+        <chief>
+            <id>va-1981-wils-01</id>
+            <person-id>wilson-william-a</person-id>
+            <role-title-id>personal-representative-of-the-president</role-title-id>
+            <contemporary-territory-id>holy-see</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1981-02-11</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1984-04-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-11</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
             <id>va-1984-wils-01</id>
@@ -226,11 +323,11 @@
                 <date>1986-07-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>Diplomatic relations were established with the Holy See Jan 10, 1984. Wilson had previously been appointed Personal Representative of the President Feb 11, 1981. Prior to this date, the following had served in that capacity: Myron C. Taylor (Dec 23, 1939-Jan 18, 1950), Henry Cabot Lodge (Jun 5, 1970-Jul 6, 1977), David Walters (Jul 6, 1977-Aug 14, 1978), and Robert F. Wagner (Nov 28, 1978-Jan 16, 1981). Taylor had been appointed by President Roosevelt and received a second appointment from President Truman on May 3, 1946.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-05-02</last-modified-date>
+            <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
             <id>va-1986-shak-01</id>
@@ -361,14 +458,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2008-01-10</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
             <id>va-2007-glen-01</id>
@@ -439,10 +536,12 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>va--clar-01</id>
-            <person-id>clark-mark-wayne</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
+            <id>va-1856-cass-01</id>
+            <person-id>cass-lewis-jr</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
             <appointed>
                 <date/>
@@ -456,19 +555,20 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination of Oct 20, 1951, not confirmed by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <note>Nomination of February 25, 1856, withdrawn before the Senate acted upon it.
+                Nominated to the Pontifical States.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-11</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va--tayl-01</id>
-            <person-id>taylor-myron-charles</person-id>
-            <role-title-id/>
+            <id>va-1861-king-01</id>
+            <person-id>king-rufus2</person-id>
+            <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1861-03-22</date>
                 <note/>
             </appointed>
             <started>
@@ -479,53 +579,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note>1939 Personal Representative, Vatican City</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
-        </chief>
-        <chief>
-            <id>va--tayl-02</id>
-            <person-id>taylor-myron-charles</person-id>
-            <role-title-id/>
-            <contemporary-territory-id>holy-see</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>1946 Personal Representative, Vatican City</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
-        </chief>
-        <chief>
-            <id>va--walt-01</id>
-            <person-id>walters-david</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>holy-see</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Personal Representative of the President (Jul 6, 1977-Aug 14, 1978)</note>
+            <note>Declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -548,14 +602,38 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; letter of credence dated Apr 30, 1869, but later cancelled.</note>
+            <note>Not commissioned; letter of credence dated April 30, 1869, but later
+                cancelled.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
+        </chief>
+        <chief>
+            <id>va-1951-clar-01</id>
+            <person-id>clark-mark-wayne</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>holy-see</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination of October 20, 1951, not confirmed by the
+                Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

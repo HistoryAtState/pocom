@@ -3,6 +3,29 @@
     <territory-id>barbados</territory-id>
     <chiefs>
         <chief>
+            <id>bb-1966-dolg-01</id>
+            <person-id>dolgin-george</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>barbados</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1966-11-30</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </chief>
+        <chief>
             <id>bb-1967-mann-01</id>
             <person-id>mann-fredric-rand</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1969-04-10</date>
                 <note>Left post.</note>
             </ended>
-            <note>Embassy Bridgetown was established Nov 30, 1966, with George Dolgin as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-15</last-modified-date>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-1969-dono-01</id>
@@ -65,11 +88,11 @@
                 <date>1977-04-22</date>
                 <note>Left post.</note>
             </ended>
-            <note>Accredited also to Grenada; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-1977-orti-01</id>
@@ -88,11 +111,12 @@
                 <date>1979-05-15</date>
                 <note>Left post.</note>
             </ended>
-            <note>Accredited also to Grenada; also Special Representative to Antigua, Dominica, St. Christopher-Nevis-Anguilla, St. Lucia, and St. Vincent; resident at Bridgetown.</note>
+            <note>Also Special Representative to Antigua, Dominica, St. Christopher-Nevis-Anguilla,
+                St. Lucia, and St. Vincent.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-15</last-modified-date>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-1979-shel-01</id>
@@ -111,11 +135,12 @@
                 <date>1981-02-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Accredited also to Grenada and Dominica; Minister to St Lucia, and Special Representative to Antigua, St. Christopher-Nevis-Anguilla, and St. Vincent; resident at Bridgetown.</note>
+            <note>Also Special Representative to Antigua, St. Christopher-Nevis-Anguilla, and St.
+                Vincent.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-1981-bish-01</id>
@@ -134,11 +159,11 @@
                 <date>1984-03-04</date>
                 <note>Left post.</note>
             </ended>
-            <note>Accredited also to Antigua and Barbuda; Dominica; St. Lucia; and St. Vincent and the Grenadines; resident at Bridgetown.</note>
+            <note>Also Special Representative to St. Christopher and Nevis.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-1984-ande-01</id>
@@ -157,11 +182,11 @@
                 <date>1986-03-12</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Antigua and Barbuda; Dominica; St. Christopher and Nevis; St. Lucia; St. Vincent and the Grenadines; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-1986-russ-01</id>
@@ -187,6 +212,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>bb-1988-clar-01</id>
+            <person-id>clark-john-e</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>barbados</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1988-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1990-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
+        </chief>
+        <chief>
             <id>bb-1990-hugh-01</id>
             <person-id>hughes-g-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -203,11 +251,11 @@
                 <date>1993-06-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Dominica, St. Lucia, St. Vincent and the Grenadines; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-1994-hyde-01</id>
@@ -226,11 +274,11 @@
                 <date>1998-01-31</date>
                 <note>Left post.</note>
             </ended>
-            <note>Appointed Ambassador to Grenada, Antigua/Barbuda, and St. Kitts and Nevis, Mar 4, 1995.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-1998-crot-01</id>
@@ -249,11 +297,11 @@
                 <date>1999-10-10</date>
                 <note>Died at Gainesville, Florida</note>
             </ended>
-            <note>Accredited also to Antigua/Barbuda, Dominica, Grenada, St. Kitts/Nevis, St. Lucia, St. Vincint/Grenadines; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-2000-dale-01</id>
@@ -272,11 +320,12 @@
                 <date>2001-03-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. A second nomination of Sep 28, 2000 was not acted upon by the Senate. The following officers served as Chargé d’Affaires ad interim: Roland W. Bullen (Mar-Aug 2002) and Marcia S. Bernicat (Aug 2001-Mar 2002).</note>
+            <note>Commissioned during a recess of the Senate; a second nomination of September 28,
+                2000, was not acted upon by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-2002-phil-01</id>
@@ -295,11 +344,11 @@
                 <date>2003-06-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>Accredited also to Antigua/Barbuda, Dominica, Grenada, St. Kitts/Nevis, St. Lucia, St. Vincent/Grenadines; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-2003-kram-01</id>
@@ -318,11 +367,11 @@
                 <date>2006-10-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Accredited also to Antigua/Barbuda, Dominica, Grenada, St. Kitts/Nevis, St. Lucia, St. Vincent/Grenadines; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-2006-ouri-01</id>
@@ -341,11 +390,34 @@
                 <date>2009-01-16</date>
                 <note>Left Bridgetown</note>
             </ended>
-            <note>Accredited also to Antigua/Barbuda, Dominica, Grenada, St. Kitts/Nevis, St. Lucia, St. Vincent/Grenadines; resident at Bridgetown. The following officers served as Chargés d’Affaires ad interim: Brent Hardt (Jan. 2009-June 2011), Christopher Sandrolini (June 2011-May 2012).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </chief>
+        <chief>
+            <id>bb-2009-hard-01</id>
+            <person-id>hardt-d-brent</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>barbados</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2009-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2011-06</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>bb-2012-palm-01</id>
@@ -364,83 +436,16 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Also accredited to Antigua/Barbuda, Dominica, Grenada, St. Kitts/Nevis, St. Lucia, St. Vincent/Grenadines; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-22</last-modified-date>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>bb--dolg-01</id>
-            <person-id>dolgin-george</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>barbados</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Bridgetown was established Nov 30, 1966, with George Dolgin as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bb--clar-01</id>
-            <person-id>clark-john-e</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>barbados</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Jun 1988-Nov 1990.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bb--bern-01</id>
-            <person-id>bernicat-marcia-stephens-bloom</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>barbados</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Aug 2001-Mar 2002). Chargé d’Affaires ad interim, Antigua/Barbuda, Barbados, Dominica, Grenada, St. Kitts/Nevis, St. Lucia, Vincent/Grenadines</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-05</last-modified-date>
-        </chief>
-        <chief>
-            <id>bb--silv-01</id>
+            <id>bb-1989-silv-01</id>
             <person-id>silverman-joy-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -456,14 +461,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of Jul 11, 1989, not acted upon by the Senate. John E. Clark served as Chargé d’Affaires ad interim, Jun 1988-Nov 1990.</note>
+            <note>Nomination of July 11, 1989, was not acted upon by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

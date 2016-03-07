@@ -3,29 +3,6 @@
     <territory-id>liberia</territory-id>
     <chiefs>
         <chief>
-            <id>lr-1863-henr-01</id>
-            <person-id>henry-john-j</person-id>
-            <role-title-id>commissioner-consul-general</role-title-id>
-            <contemporary-territory-id>liberia</contemporary-territory-id>
-            <appointed>
-                <date>1863-03-11</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>lr-1863-hans-01</id>
             <person-id>hanson-abraham</person-id>
             <role-title-id>commissioner-consul-general</role-title-id>
@@ -42,11 +19,12 @@
                 <date>1866-07-20</date>
                 <note>Died at post on or before</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 12, 1864.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 12, 1864,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1866-seys-01</id>
@@ -65,57 +43,12 @@
                 <date>1870-06-11</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 21, 1867.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on Febraury 21, 1867,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>lr-1869-duma-01</id>
-            <person-id>dumas-francis-e</person-id>
-            <role-title-id>minister-resident-consul-general</role-title-id>
-            <contemporary-territory-id>liberia</contemporary-territory-id>
-            <appointed>
-                <date>1869-04-21</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>lr-1870-maso-01</id>
-            <person-id>mason-james-w</person-id>
-            <role-title-id>minister-resident-consul-general</role-title-id>
-            <contemporary-territory-id>liberia</contemporary-territory-id>
-            <appointed>
-                <date>1870-03-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1871-turn-01</id>
@@ -180,11 +113,13 @@
                 <date>1882-02-13</date>
                 <note>Died at post</note>
             </ended>
-            <note>Commission (issued during recess of the Senate) not of record; enclosed with an instruction of Jul 19, 1881. Recommissioned after confirmation on Oct 26, 1881.</note>
+            <note>Commission (issued during recess of the Senate) not of record; enclosed with an
+                instruction of July 19, 1881. Recommissioned on October 26, 1881, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1882-smyt-01</id>
@@ -226,7 +161,8 @@
                 <date>1886-08-03</date>
                 <note>Died at post</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 13, 1886.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1886,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -247,13 +183,13 @@
             </started>
             <ended>
                 <date>1887-09-22</date>
-                <note>Left post soon after Sep 22, 1887</note>
+                <note>Left post soon after</note>
             </ended>
-            <note>Note: Commissioned during a recess of the Senate.</note>
+            <note>Commissioned during a recess of the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-14</last-modified-date>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1888-smit-01</id>
@@ -408,13 +344,13 @@
             </started>
             <ended>
                 <date>1910-08-25</date>
-                <note>Probably presented recall on or shortly before                    </note>
+                <note>Probably presented recall on or shortly before</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1910-crum-01</id>
@@ -434,29 +370,6 @@
                 <note>Left post.</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>lr-1913-moor-01</id>
-            <person-id>moore-frederick-randolph</person-id>
-            <role-title-id>minister-resident-consul-general</role-title-id>
-            <contemporary-territory-id>liberia</contemporary-territory-id>
-            <appointed>
-                <date>1913-03-01</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -502,11 +415,12 @@
                 <date>1917-10-20</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1915.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1915,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1918-john-01</id>
@@ -555,29 +469,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>lr-1927-cart-01</id>
-            <person-id>carter-james-garneth</person-id>
-            <role-title-id>minister-resident-consul-general</role-title-id>
-            <contemporary-territory-id>liberia</contemporary-territory-id>
-            <appointed>
-                <date>1927-03-01</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>lr-1927-fran-01</id>
             <person-id>francis-william-treyanne</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
@@ -594,57 +485,12 @@
                 <date>1929-07-15</date>
                 <note>Died at post</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1927.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1927,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>lr-1930-mitc-01</id>
-            <person-id>mitchell-charles-edward</person-id>
-            <role-title-id>minister-resident-consul-general</role-title-id>
-            <contemporary-territory-id>liberia</contemporary-territory-id>
-            <appointed>
-                <date>1930-09-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 16, 1930. Did not proceed to post in the capacity of Minister Resident/Consul General; took oath of office as Envoy Extraordinary and Minister Plenipotentiary and proceeded to post, but did not present credentials; left post, Mar 22, 1933, the Government of Liberia having requested his recall, Feb 11, 1933.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>lr-1931-mitc-01</id>
-            <person-id>mitchell-charles-edward</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>liberia</contemporary-territory-id>
-            <appointed>
-                <date>1931-01-20</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1935-walt-01</id>
@@ -707,13 +553,14 @@
             </started>
             <ended>
                 <date>1949-05-06</date>
-                <note/>
+                <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 2, 1949. Promoted to Ambassador Extraordinary and Plenipotentiary.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1949-dudl-01</id>
@@ -847,11 +694,12 @@
                 <date>1969-07-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 18, 1965.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 18, 1965,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsqaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1969-west-01</id>
@@ -893,11 +741,12 @@
                 <date>1975-12-15</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 8, 1973.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 8, 1973,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-1976-cart-01</id>
@@ -1031,11 +880,81 @@
                 <date>1992-07-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>Arrived at post, Jun 28, 1990. Had not presented credentials before the overthrow of the Government of Liberia on Sep 11, 1990. Between 1992 and 1999 the following officers served as Chargé d’Affaires ad interim: William H. Twaddell (Sep 1992-Jul 1995), William B. Milam (Nov. 1995-Jan 1999), and Donald K. Petterson (Feb 1999-Aug 1999).</note>
+            <note>Arrived at post on June 28, 1990. Had not presented credentials before the
+                overthrow of the Government of Liberia on September 11, 1990.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-02</last-modified-date>
+            <last-modified-date>2016-01-14</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-1992-twad-01</id>
+            <person-id>twaddell-william-h</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1992-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1995-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-14</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-1995-mila-01</id>
+            <person-id>milam-william-b</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1995-11</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1999-01</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-14</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-1999-myri-01</id>
+            <person-id>myrick-bismarck</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>1999-07-07</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1999-08-20</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2002-07-23</date>
+                <note>Left post.</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-14</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>lr-2002-blan-01</id>
@@ -1130,7 +1049,172 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>lr-1863-henr-01</id>
+            <person-id>henry-john-j</person-id>
+            <role-title-id>commissioner-consul-general</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>1863-03-11</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-1869-duma-01</id>
+            <person-id>dumas-francis-e</person-id>
+            <role-title-id>minister-resident-consul-general</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>1869-04-21</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-1870-maso-01</id>
+            <person-id>mason-james-w</person-id>
+            <role-title-id>minister-resident-consul-general</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>1870-03-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-1913-moor-01</id>
+            <person-id>moore-frederick-randolph</person-id>
+            <role-title-id>minister-resident-consul-general</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>1913-03-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-1927-cart-01</id>
+            <person-id>carter-james-garneth</person-id>
+            <role-title-id>minister-resident-consul-general</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>1927-03-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-1930-mitc-01</id>
+            <person-id>mitchell-charles-edward</person-id>
+            <role-title-id>minister-resident-consul-general</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>1930-09-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 16, 1930,
+                after confirmation. Did not proceed to post in this capacity.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-1931-mitc-01</id>
+            <person-id>mitchell-charles-edward</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>1931-01-20</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office and proceeded to post, but did not present credentials. The
+                Government of Liberia requested his recall on February 11, 1933; Mitchell left post
+                on March 22, 1933.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-14</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

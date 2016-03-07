@@ -8,22 +8,22 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
             <appointed>
-                <date>1988</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1988-04-17</date>
                 <note/>
             </started>
             <ended>
-                <date>1988</date>
+                <date/>
                 <note/>
             </ended>
-            <note>Note: The United States established diplomatic relations with the People’s Republic of Mongolia on Jan 27, 1987. The Embassy in Ulaanbaatar was opened Apr 17, 1988, with Steven Mann as Chargé d’Affaires ad interim. Ambassador Williams resided in the District of Columbia.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mn-1988-will-01</id>
@@ -88,11 +88,34 @@
                 <date>1996-08-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Llewellyn Hedgbeth served as Chargé d’Affaires ad interim, Aug 1996-Dec 1997.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>mn-1996-hedg-01</id>
+            <person-id>hedgbeth-llewellyn-h</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mongolia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1996-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1997-12</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mn-1997-la-01</id>
@@ -231,29 +254,6 @@
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
-        </chief>
-        <chief>
-            <id>mn--hedg-01</id>
-            <person-id>hedgbeth-llewellyn-h</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>mongolia</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Aug 1996-Dec 1997.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

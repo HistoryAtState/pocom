@@ -16,14 +16,14 @@
                 <note/>
             </started>
             <ended>
-                <date>1995</date>
+                <date></date>
                 <note/>
             </ended>
-            <note>Note: Embassy Valletta was established Sep 21, 1964, with Harrison Lewis as Chargé d’Affaires ad interim.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mt-1965-feld-01</id>
@@ -157,11 +157,11 @@
                 <date>1979-01-20</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Sep 15, 1977.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on September 15, 1977, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mt-1979-clar-01</id>
@@ -180,11 +180,11 @@
                 <date>1981-02-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>Frank P. Wardlaw served as Chargé d’Affaires ad interim, Feb 1981-Aug 1982.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mt-1981-ward-01</id>
@@ -192,11 +192,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
             <appointed>
-                <date>1981-02</date>
+                <date></date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1981-02</date>
                 <note/>
             </started>
             <ended>
@@ -206,8 +206,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mt-1982-rent-01</id>
@@ -295,11 +295,11 @@
                 <date>1993-02-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers served as Chargé d’Affaires ad interim: William A. Moffitt (Feb 1993-Jun 1994) and Charles N. Patterson, Jr. (Jun-Jul 1994)</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mt-1993-moff-01</id>
@@ -307,11 +307,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
             <appointed>
-                <date>1993-02</date>
+                <date></date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1993-02</date>
                 <note/>
             </started>
             <ended>
@@ -321,8 +321,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mt-1994-paol-01</id>
@@ -341,13 +341,36 @@
                 <date>1996-06-02</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers served as Chargé d’Affaires ad interim: Charles N. Patterson, Jr. (Jun 1996- Jul 1997) and Elizabeth Barnett (Jul 1997-Jan 1998).</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
+            <id>mt-1996-patt-01</id>
+            <person-id>patterson-charles-n</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>malta</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1996-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1997-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+                <chief>
             <id>mt-1997-prof-01</id>
             <person-id>proffitt-kathryn-linda-haycock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -461,52 +484,6 @@
             <created-date>2012-09-24</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
-        </chief>
-        <chief>
-            <id>mt--patt-01</id>
-            <person-id>patterson-charles-n</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>malta</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Jun 1994-Jul 1994)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>mt--barn-01</id>
-            <person-id>barnett-elizabeth</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>malta</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Jul 1997-Jan 1998)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

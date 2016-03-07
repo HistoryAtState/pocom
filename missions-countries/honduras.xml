@@ -3,52 +3,6 @@
     <territory-id>honduras</territory-id>
     <chiefs>
         <chief>
-            <id>hn-1853-slid-01</id>
-            <person-id>slidell-john</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>honduras</contemporary-territory-id>
-            <appointed>
-                <date>1853-03-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate. Commissioned to Central America; declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>hn-1853-borl-01</id>
-            <person-id>borland-solon</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>honduras</contemporary-territory-id>
-            <appointed>
-                <date>1853-04-18</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 9, 1854. Commissioned to Central America; did not present credentials in Honduras.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>hn-1858-clar-01</id>
             <person-id>clarke-beverly-leonidas</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -65,57 +19,11 @@
                 <date>1860-03-17</date>
                 <note>Died at Guatemala</note>
             </ended>
-            <note>Accredited also to Guatemala; resident in Guatemala</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>hn-1861-well-01</id>
-            <person-id>wells-hezekiah-g</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>honduras</contemporary-territory-id>
-            <appointed>
-                <date>1861-08-07</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate. Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>hn-1861-howa-01</id>
-            <person-id>howard-jacob-merritt</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>honduras</contemporary-territory-id>
-            <appointed>
-                <date>1861-11-07</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment. Commissioned during a recess of the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>hn-1862-part-01</id>
@@ -151,17 +59,18 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1864-04-05</date>
-                <note/>
+                <note>Offically recognized on</note>
             </started>
             <ended>
                 <date>1866-08-10</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 18, 1864. Officially recognized on Apr 5, 1864.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 18, 1864,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>hn-1866-rous-01</id>
@@ -223,15 +132,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Notified Govt. of Honduras by note, Jan 31, 1879, that
-                he had resigned</note>
+                <date>1879-01-31</date>
+                <note>Notified Government of Honduras by note, that he had resigned</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1873. Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1873,
+                after confirmation. Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>hn-1879-loga-01</id>
@@ -244,18 +153,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1879-10-10</date>
-                <note/>
+                <note>Officially recognized on</note>
             </started>
             <ended>
-                <date/>
-                <note>Transmitted recall by note from Guatemala on or soon
-                after Apr 15, 1882</note>
+                <date>1882-04-15</date>
+                <note>Transmitted recall by note from Guatemala on or soon after</note>
             </ended>
-            <note>Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala. Officially recognized on Oct 10, 1879.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>hn-1882-hall-01</id>
@@ -268,18 +176,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1882-04-21</date>
-                <note/>
+                <note>Offically recognized on</note>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Envoy Extraordinary and Minister
-                Plenipotentiary</note>
+                <date>1882-09-26</date>
+                <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
-            <note>Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala. Officially recognized on Apr 21, 1882.</note>
+            <note>Commissioned to the “Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>hn-1882-hall-02</id>
@@ -292,40 +199,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1882-09-26</date>
-                <note/>
+                <note>Officially recognized on</note>
             </started>
             <ended>
                 <date>1889-05-16</date>
-                <note>Transmitted recall by note on or shortly before                    </note>
+                <note>Transmitted recall by note on or shortly before</note>
             </ended>
-            <note>Commissioned to the “Central American States” but accredited individually to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; resident at Guatemala. Officially recognized on Sep 26, 1882.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>hn-1889-mizn-01</id>
-            <person-id>mizner-lansing-bond</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>honduras</contemporary-territory-id>
-            <appointed>
-                <date>1889-03-30</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to “the Central American States”; did not present credentials in Honduras.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>hn-1890-pach-01</id>
@@ -344,11 +228,11 @@
                 <date/>
                 <note>Recommissioned to Guatemala and Honduras only</note>
             </ended>
-            <note>Commissioned first to “the Central American States”; recommissioned to Guatemala and Honduras only; resident at Guatemala.</note>
+            <note>Commissioned to “the Central American States.”</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>hn-1891-pach-01</id>
@@ -367,11 +251,13 @@
                 <date>1893-06-12</date>
                 <note>Relinquished charge in Guatemala</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 23, 1891.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 23, 1891,
+                after confirmation. Did not present credentials again under the new
+                appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
             <id>hn-1893-youn-01</id>
@@ -384,42 +270,42 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1893-11-12</date>
-                <note/>
+                <note>Officially recognized on</note>
             </started>
             <ended>
                 <date>1896-05-23</date>
                 <note>Left Guatemala</note>
             </ended>
-            <note>Accredited also to Guatemala; resident in Guatemala. Officially recognized on Nov 12, 1893.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1896-coxe-01</id>
-            <person-id>coxe-macgrane</person-id>
+            <id>hn-1897-hunt-01</id>
+            <person-id>hunter-whiteside-godfrey</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
             <appointed>
-                <date>1896-07-27</date>
+                <date>1897-11-08</date>
                 <note/>
             </appointed>
             <started>
-                <date/>
-                <note/>
+                <date>1899-01-19</date>
+                <note>Officially recognized on</note>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>1903-02-02</date>
+                <note>Relinquished charge at Guatemala</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1896. Commissioned also to Guatemala; did not present credentials in Honduras.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 18, 1897, after confirmation.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-17</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
+                <chief>
             <id>hn-1902-comb-01</id>
             <person-id>combs-leslie</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -430,40 +316,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1903-05-22</date>
-                <note/>
+                <note>Transmitted credentials by note on</note>
             </started>
             <ended>
                 <date>1907-02-27</date>
-                <note>Transmitted recall by note on or shortly before                    </note>
+                <note>Transmitted recall by note on or shortly before </note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 8, 1902. Transmitted credentials by note on May 22, 1903; acknowledgement not found. Also accredited to Guatemala; resident in Guatemala.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 8, 1902 after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>hn-1907-lee-01</id>
-            <person-id>lee-joseph-wilcox-jenkins</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>honduras</contemporary-territory-id>
-            <appointed>
-                <date>1907-01-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Also commissioned to Guatemala; did not present credentials in Honduras</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>hn-1907-dodg-01</id>
@@ -482,34 +345,11 @@
                 <date>1909-02-06</date>
                 <note>Left San Salvador</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 12, 1907. Also accredited to El Salvador, resident at San Salvador.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 12, 1907, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>hn-1908-sors-01</id>
-            <person-id>sorsby-william-brooks</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>honduras</contemporary-territory-id>
-            <appointed>
-                <date>1908-06-05</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate. Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
             <id>hn-1908-brow-01</id>
@@ -528,11 +368,11 @@
                 <date>1910-02-26</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1908.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1908, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>hn-1909-mccr-01</id>
@@ -572,8 +412,7 @@
             </started>
             <ended>
                 <date>1913-11-04</date>
-                <note>Recall presented by Secretary of
-                Legation</note>
+                <note>Recall presented by Secretary of Legation</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -621,11 +460,12 @@
                 <date>1919-10-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Legation Tegucigalpa reported Jan 1, 1920, that Jones was no longer persona grata to the Government of Honduras, and he did not return to his post.</note>
+            <note>Legation Tegucigalpa reported January 1, 1920, that Jones was no longer persona grata
+                to the Government of Honduras, and he did not return to his post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>hn-1921-mora-01</id>
@@ -733,15 +573,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Ambassador Extraordinary and
-            Plenipotentiary</note>
+                <date>1943-04-27</date>
+                <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-08</last-modified-date>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>hn-1943-erwi-01</id>
@@ -997,8 +836,8 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1977-jari-01</id>
-            <person-id>jarimillo-mari-luci</person-id>
+            <id>hn-1977-jara-01</id>
+            <person-id>jaramillo-mari-luci</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
             <appointed>
@@ -1016,8 +855,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-02-01</last-modified-date>
         </chief>
         <chief>
             <id>hn-1980-binn-01</id>
@@ -1309,8 +1148,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
@@ -1318,8 +1157,59 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>hn--chur-01</id>
+            <id>hn-1853-slid-01</id>
+            <person-id>slidell-john</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>honduras</contemporary-territory-id>
+            <appointed>
+                <date>1853-03-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Commissioned to Central America;
+                declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>hn-1853-borl-01</id>
+            <person-id>borland-solon</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>honduras</contemporary-territory-id>
+            <appointed>
+                <date>1853-04-18</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 9, 1854,
+                after confirmation. Commissioned to Central America. Did not present credentials in
+                Honduras.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>hn-1860-chur-01</id>
             <person-id>churchwell-william-montgomery</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1335,14 +1225,154 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination to be Minister Resident in Guatemala and Honduras not confirmed by the Senate.</note>
+            <note>Not commissioned; nomination not confirmed by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>hn-1861-well-01</id>
+            <person-id>wells-hezekiah-g</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>honduras</contemporary-territory-id>
+            <appointed>
+                <date>1861-08-07</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>hn-1861-howa-01</id>
+            <person-id>howard-jacob-merritt</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>honduras</contemporary-territory-id>
+            <appointed>
+                <date>1861-11-07</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment. Commissioned during a recess of the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>hn-1889-mizn-01</id>
+            <person-id>mizner-lansing-bond</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>honduras</contemporary-territory-id>
+            <appointed>
+                <date>1889-03-30</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to “the Central American States;” did not present credentials at
+                Honduras.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>hn-1896-coxe-01</id>
+            <person-id>coxe-macgrane</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>honduras</contemporary-territory-id>
+            <appointed>
+                <date>1896-07-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1896,
+                after confirmation. Did not present credentials in Honduras.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>hn-1907-lee-01</id>
+            <person-id>lee-joseph-wilcox-jenkins</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>honduras</contemporary-territory-id>
+            <appointed>
+                <date>1907-01-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not present credentials in Honduras.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>hn-1908-sors-01</id>
+            <person-id>sorsby-william-brooks</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>honduras</contemporary-territory-id>
+            <appointed>
+                <date>1908-06-05</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Took oath of office, but did not
+                proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+                    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

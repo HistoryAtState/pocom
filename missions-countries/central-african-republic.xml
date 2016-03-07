@@ -366,38 +366,23 @@
             </started>
             <ended>
                 <date>1997-03-31</date>
-                <note>Left post.</note>
+                <note>Embassy closed.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Bangui closed on March 31, 1997. Perry arrived at post on January 26, 1999, and assumed charge. He presented
+                credentials on February 1, 1999, and the embassy reopened on June 1, 1999.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-10</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
+        </mission-note>
         <chief>
-            <id>cf-1997-phil-01</id>
-            <person-id>philo-william-h</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>central-african-republic</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>1997</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
-        </chief>
-                <chief>
             <id>cf-1998-perr-01</id>
             <person-id>perry-robert-cephas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -417,8 +402,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
             <id>cf-2001-shar-01</id>
@@ -449,7 +434,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -506,7 +491,7 @@
                 <date>2013-08-01</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>

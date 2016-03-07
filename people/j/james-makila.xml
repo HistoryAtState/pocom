@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>james-malika</id>
-    <old-ids><old-id>jones-malika</old-id></old-ids>
+    <id>james-makila</id>
+    <old-ids>
+        <old-id>jones-malika</old-id>
+        <old-id>james-malika</old-id>
+    </old-ids>
     <persName>
         <surname>James</surname>
         <forename>Malika</forename>

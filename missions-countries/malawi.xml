@@ -3,6 +3,29 @@
     <territory-id>malawi</territory-id>
     <chiefs>
         <chief>
+            <id>mw-1964-holm-01</id>
+            <person-id>holmes-edward-warren</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>malawi</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1964-07-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
             <id>mw-1964-gils-01</id>
             <person-id>gilstrap-samuel-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1965-10-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>Embassy Blantyre (later Zomba) was established Jul 6, 1964, with Edward W. Holmes as Chargé d’Affaires ad interim. The Embassy was moved to Lilongwe Apr 1, 1976.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-19</last-modified-date>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mw-1965-jone-01</id>
@@ -42,34 +65,13 @@
                 <date>1970-03-20</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 27, 1966. Reaccredited after Malawi became a republic; presented new credentials July 8, 1966.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 27, 1966,
+                after confirmation. Reaccredited after Malawi became a republic; presented new
+                credentials on July 8, 1966.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>mw-1966-jone-01</id>
-            <person-id>jones-marshall-paul</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>malawi</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date>1966-07-08</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1970-03-20</date>
-                <note>Left post.</note>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mw-1970-burd-01</id>
@@ -141,6 +143,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>mw-1980-maxi-01</id>
+            <person-id>maxim-robert-morgan</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>malawi</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1980-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1981-08</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
             <id>mw-1981-burr-01</id>
             <person-id>burroughs-john-andrew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -180,11 +205,34 @@
                 <date>1986-08-08</date>
                 <note>Left post.</note>
             </ended>
-            <note>Dennis C. Jett served as Chargé d’Affaires ad interim, Aug 1986-May 1988.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>mw-1986-jett-01</id>
+            <person-id>jett-dennis-coleman</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>malawi</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1986-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1988-05</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-19</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mw-1988-trai-01</id>
@@ -407,7 +455,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>
@@ -415,52 +463,6 @@
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>mw--holm-01</id>
-            <person-id>holmes-edward-warren</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>malawi</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Blantyre (later Zomba) was established Jul 6, 1964, with Edward W. Holmes as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-10</last-modified-date>
-        </chief>
-        <chief>
-            <id>mw--maxi-01</id>
-            <person-id>maxim-robert-morgan</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>malawi</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>served as Chargé d’Affaires ad interim, Jul 1980-Aug. 1981.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

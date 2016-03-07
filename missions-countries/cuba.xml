@@ -42,11 +42,12 @@
                 <date>1910-01-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 11, 1905.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 11, 1865,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-09</last-modified-date>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cu-1909-jack-01</id>
@@ -128,17 +129,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1920-01-08</date>
-                <note/>
+                <note>Formally received on</note>
             </started>
             <ended>
                 <date>1921-06-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Formally received on Jan 8, 1920.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cu-1923-crow-01</id>
@@ -173,18 +174,19 @@
                 <note/>
             </appointed>
             <started>
-                <date>1927-12-17</date>
+                <date>1927-12-23</date>
                 <note/>
             </started>
             <ended>
-                <date>1927-12-23</date>
-                <note/>
+                <date>1929-06-01</date>
+                <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1927. Left post Jun 1, 1929.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1927,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cu-1929-gugg-01</id>
@@ -223,12 +225,11 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Normal relations were interrupted on Sep 5, 1933; the
-                new Government of Cuba was still unrecognized by the United States when Welles left
-                post on Dec 13, 1933.</note>
+                <date>1933-09-05</date>
+                <note>Normal relations interrupted on</note>
             </ended>
-            <note/>
+            <note>The new Government of Cuba was still unrecognized by the United States when Welles
+                left post on December 13, 1933.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -458,34 +459,11 @@
                 <date>1960-10-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>Daniel M. Braddock was serving as Chargé d’Affaires ad interim when the United States severed diplomatic relations with Cuba in Jan 1961. A U.S. Interests Section was established in the Swiss Embassy on Sep 1, 1977. Principal Officers were: Lyle F. Lane (Sep 1977-Jul 1979), Wayne S. Smith (Jul 1979-Aug 1982), John A. Ferch (Aug 1982-Jul 1985), Curtis W. Kamman (Aug 1985-Sep 1987), John J. Taylor (Sep 1987-Sep 1990), Alan H. Flanigan (Sep 1990-Jul 1993), Joseph G. Sullivan (Jul 1993-Sep 1996), Michael G. Kozak (Sep 1996-Sep 1999), and Vicki Huddleston (Sep-1999-Jun 2000 ).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cu--smit-01</id>
-            <person-id>smith-wayne-s</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>cuba</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>A U.S. Interests Section was established in the Swiss Embassy on Sep 1, 1977. Principal Officers included Wayne S. Smith (Jul 1979-Aug 1982)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cu--brad-01</id>
@@ -501,18 +479,349 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1961-01</date>
                 <note/>
             </ended>
-            <note>was serving as Chargé d’Affaires ad interim when the United States severed diplomatic relations with Cuba in Jan 1961.</note>
+            <note>Braddock was serving as Chargé d’Affaires ad interim when the United States
+                severed diplomatic relations with Cuba on January 3, 1961.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <mission-note>
+            <text>On September 1, 1977, the United States established an Interests Section in the
+                Swiss Embassy.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </mission-note>
+        <chief>
+            <id>cu-1977-lane-01</id>
+            <person-id>lane-lyle-francis</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1977-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1979-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu--tayl-01</id>
+            <id>cu-1979-smit-01</id>
+            <person-id>smith-wayne-s</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1979-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1982-08</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-1982-ferc-01</id>
+            <person-id>ferch-john-arthur</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1982-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1985-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-1985-kamm-01</id>
+            <person-id>kamman-curtis-w</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1985-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1987-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-1987-tayl-01</id>
             <person-id>taylor-john-jackson</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1987-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1990-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-1990-flan-01</id>
+            <person-id>flanigan-alan-h</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1990-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1993-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-1993-sull-01</id>
+            <person-id>sullivan-joseph-gerard</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1996-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-1996-koza-01</id>
+            <person-id>kozak-michael-g</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1996-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1999-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-1999-hudd-01</id>
+            <person-id>huddleston-vicki-j</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1999-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2002-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-2002-caso-01</id>
+            <person-id>cason-james-caldwell</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2002-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2005-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-06</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-2005-parm-01</id>
+            <person-id>parmley-michael-e</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2005-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2008-08</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-06</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-2008-farr-01</id>
+            <person-id>farrar-jonathan-d</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2008-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2011-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-06</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-2011-caul-01</id>
+            <person-id>caulfield-john-patrick</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2011-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2014-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-06</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-2014-de-01</id>
+            <person-id>de-laurentis-jeffrey</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>cuba</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2014-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2015-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-06</last-modified-date>
+        </chief>
+        <chief>
+            <id>cu-2015-de-01</id>
+            <person-id>de-laurentis-jeffrey</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
             <appointed>
@@ -520,18 +829,18 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2015-07-20</date>
                 <note/>
             </started>
             <ended>
                 <date/>
                 <note/>
             </ended>
-            <note>(Sep 1987-Sep 1990)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-06</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

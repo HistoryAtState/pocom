@@ -8,22 +8,22 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jordan</contemporary-territory-id>
             <appointed>
-                <date>1949-02-18</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1949-02-18</date>
                 <note/>
             </started>
             <ended>
                 <date>1950-02</date>
                 <note/>
             </ended>
-            <note>Note: Legation Amman was established Feb 18, 1949, with Wells Stabler as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-30</last-modified-date>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jo-1950-drew-01</id>
@@ -62,15 +62,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Ambassador Extraordinary and
-            Plenipotentiary</note>
+                <date>1952-09-23</date>
+                <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jo-1952-gree-02</id>
@@ -89,11 +88,11 @@
                 <date>1953-07-31</date>
                 <note>Appointment terminated</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. Legation Amman was raised to Embassy status Aug 27, 1952.</note>
+            <note>Commissioned during a recess of the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jo-1953-mall-01</id>
@@ -113,29 +112,6 @@
                 <note>Relinquished charge</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>jo-1958-hart-01</id>
-            <person-id>hart-parker-thompson</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>jordan</contemporary-territory-id>
-            <appointed>
-                <date>1958-02-05</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post, Jordan having united briefly with Iraq in the Arab Union. See notes under Iraq.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -487,27 +463,27 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jo-2004-satt-01</id>
-            <person-id>satterfield-david-michael</person-id>
+            <id>jo-2004-hale-01</id>
+            <person-id>hale-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jordan</contemporary-territory-id>
             <appointed>
-                <date>2004-05-12</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2004-07</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2005-11</date>
                 <note/>
             </ended>
-            <note>Did not serve under this appointment</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-13</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jo-2005-hale-01</id>
@@ -526,11 +502,11 @@
                 <date>2008-07-09</date>
                 <note>Left post.</note>
             </ended>
-            <note>Note: Served as Charge d’Affaires ad interim, July 2004-October 2005</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-22</last-modified-date>
+            <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
             <id>jo-2008-beec-01</id>
@@ -592,8 +568,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
@@ -602,7 +578,55 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>jo-1958-hart-01</id>
+            <person-id>hart-parker-thompson</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>jordan</contemporary-territory-id>
+            <appointed>
+                <date>1958-02-05</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post, Jordan having united briefly
+                with Iraq in the Arab Union.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-13</last-modified-date>
+        </chief>
+        <chief>
+            <id>jo-2004-satt-01</id>
+            <person-id>satterfield-david-michael</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>jordan</contemporary-territory-id>
+            <appointed>
+                <date>2004-05-12</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

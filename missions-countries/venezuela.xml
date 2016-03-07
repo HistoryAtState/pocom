@@ -77,7 +77,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
             <appointed>
-                <date>1849-12-01</date>
+                <date>1849-12</date>
                 <note/>
             </appointed>
             <started>
@@ -88,11 +88,12 @@
                 <date>1853-10-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>Day of month not included on record copy of commission, which was issued during a recess of the Senate; recommissioned after confirmation on Jun 24, 1850.</note>
+            <note>Day of month not included on record copy of commission, which was issued during a
+                recess of the Senate. Recommissioned on June 24, 1850, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1854-eame-01</id>
@@ -108,14 +109,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1854-09-02</date>
                 <note>Promoted to Minister Resident</note>
             </ended>
-            <note>Nominated Feb 25, 1856 to be Envoy Extraordinary and Minister Plenipotentiary; nomination withdrawn before the Senate acted upon it.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1854-eame-02</id>
@@ -151,40 +152,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1858-09-21</date>
-                <note/>
+                <note>Officially recognized as of</note>
             </started>
             <ended>
                 <date>1861-11-16</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Officially recognized as of Sep 21, 1858.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ve-1861-blow-01</id>
-            <person-id>blow-henry-taylor</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>venezuela</contemporary-territory-id>
-            <appointed>
-                <date>1861-06-08</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on Jul 5, 1861. Proceeded to post but did not present credentials; left Venezuela, Feb 22, 1862.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1862-culv-01</id>
@@ -200,17 +178,18 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Informed Government of Venezuela Jan 12, 1863 that his
-                status would revert to that existing before presentation of credentials; presented
-                new credentials on Oct 15, 1864, after change of government; left post on or soon
-                after May 17, 1866</note>
+                <date>1866-05-17</date>
+                <note>Left post on or soon after</note>
             </ended>
-            <note>Presentation of credentials by Culver disavowed by the U.S. Government.</note>
+            <note> Culver's presentation of credentials on October 7, 1862 was disavowed by the U.S.
+                Government. On January 12, 1863, Culver informed the Government of Venezuela that
+                his status would revert to that existing before the presentation of his credentials.
+                Culver presented new credentials on October 15, 1864, after a change of
+                government.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1866-wils-01</id>
@@ -318,15 +297,18 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Reported on Jan 29, 1877, that the Government of
-                Venezuela refused to have further dealings with him</note>
+                <date>1877-01-29</date>
+                <note>Reported that the Government of Venezuela refused to have further dealings
+                    with him on</note>
             </ended>
-            <note>Left Venezuela, Feb 17, 1877; returned to post Mar 17, 1878, to present letter of recall, but left post again, Mar 19, 1878, not having done so, the Government of Venezuela having refused to receive it.</note>
+            <note>Russell left Venezuela on February 17, 1877. He returned to post on March 17,
+                1878, to present his letter of recall, but he left post again on March 19, 1878,
+                having not presented the letter because the Government of Venezuela refused to
+                receive it.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1878-bake-01</id>
@@ -368,11 +350,13 @@
                 <date>1882-05-16</date>
                 <note>Superseded</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. Was not issued a letter of credence, but entered into a “practical” relationship with the Government of Venezuela in Sep 1881, serving at Caracas until superseded.</note>
+            <note>Commissioned during a recess of the Senate. Was not issued a letter of credence,
+                but entered into a “practical” relationship with the Government of Venezuela in
+                September 1881, serving at Caracas until superseded.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-25</last-modified-date>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1882-bake-01</id>
@@ -388,10 +372,12 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1884-07-07</date>
                 <note>Recommissioned as Minister Resident/Consul General</note>
             </ended>
-            <note>As Baker had not presented a letter of recall in 1881, he resumed his functions as Minister Resident without a new commission. Resumed duties on May 16, 1882, without reaccreditation.</note>
+            <note>As Baker had not presented a letter of recall in 1881, he resumed his functions as
+                Minister Resident without a new commission. Resumed duties on May 16, 1882, without
+                reaccreditation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -414,11 +400,14 @@
                 <date>1885-06-20</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Received as Minister Resident only, the laws of Venezuela prohibiting recognition of dual diplomatic and consular capacities in the same individual. Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 8, 1884.</note>
+            <note>Received as Minister Resident only, since the laws of Venezuela prohibited
+                recognition of dual diplomatic and consular capacities in the same individual.
+                Commissioned during a recess of the Senate; recommissioned on December 8, 1884,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1885-scot-01</id>
@@ -434,15 +423,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Envoy Extraordinary and Minister
-                Plenipotentiary</note>
+                <date>1888-09-18</date>
+                <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 13, 1886.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1886,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1888-scot-01</id>
@@ -553,11 +542,12 @@
                 <date>1897-06-30</date>
                 <note>Left Venezuela</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 18, 1895.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 18, 1895,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1897-loom-01</id>
@@ -574,14 +564,13 @@
             </started>
             <ended>
                 <date>1901-03-25</date>
-                <note>Recall requested by the Government of
-                Venezuela</note>
+                <note>Recall requested by the Government of Venezuela</note>
             </ended>
-            <note>Loomis left post Apr 8, 1901.</note>
+            <note>Loomis left post on April 8, 1901.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1901-bowe-01</id>
@@ -600,11 +589,12 @@
                 <date>1905-05-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1901.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1901,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1905-russ-01</id>
@@ -620,38 +610,19 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Left post Mar 8, 1908; presented new credentials on Mar
-                15, 1909, when diplomatic relations were re-established; left post Mar 24, 1910</note>
+                <date>1910-03-24</date>
+                <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 11, 1905. Jacob Sleeper was serving as Chargé d’Affaires ad interim on Jun 20, 1908, on which date he notified the Government of Venezuela that the United States had severed diplomatic relations with Venezuela.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 11, 1905,
+                after confirmation. Russell left post on March 8, 1908. Jacob Sleeper was serving as
+                Chargé d’Affaires ad interim on June 20, 1908, on which date he notified the
+                Government of Venezuela that the United States had severed diplomatic relations with
+                Venezuela. Russell presented new credentials on March 15, 1909, when diplomatic
+                relations were re-established.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ve-1910-hitt-01</id>
-            <person-id>hitt-robert-stockwell-reynolds</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>venezuela</contemporary-territory-id>
-            <appointed>
-                <date>1910-06-24</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1910-garr-01</id>
@@ -854,11 +825,12 @@
                 <date>1950-09-02</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 9, 1947.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 9, 1947,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1950-armo-01</id>
@@ -1153,11 +1125,34 @@
                 <date>1989-07-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers served as Chargés d’Affaires ad interim: Kenneth N. Skoug, Jr. (Jul 1989-Sep 1990) and Robert C. Felder (Sep-Nov 1990).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>ve-1989-skou-01</id>
+            <person-id>skoug-kenneth-n</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>venezuela</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1989-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1990-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-1990-skol-01</id>
@@ -1314,11 +1309,11 @@
                 <date>2010-07-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Left post Sept. 6, 2008; returned July 1, 2009. Left post permanently July 16, 2010.</note>
+            <note>Left post on September 6, 2008, and returned on July 1, 2009.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-22</last-modified-date>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve-2010-caul-01</id>
@@ -1326,7 +1321,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -1344,35 +1339,12 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>ve-2011-keid-01</id>
-            <person-id>keiderling-kelly</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>venezuela</contemporary-territory-id>
-            <appointed>
-                <date></date>
-                <note/>
-            </appointed>
-            <started>
-                <date>2011-07</date>
-                <note/>
-            </started>
-            <ended>
-                <date>2011-10</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2014-07-22</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-22</last-modified-date>
-        </chief>
-        <chief>
             <id>ve-2011-derh-01</id>
             <person-id>derham-james-michael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -1395,7 +1367,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -1418,7 +1390,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -1435,10 +1407,12 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>ve--skou-01</id>
-            <person-id>skoug-kenneth-n</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>ve-1856-eame-01</id>
+            <person-id>eames-charles</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
             <appointed>
                 <date/>
@@ -1452,19 +1426,19 @@
                 <date/>
                 <note/>
             </ended>
-            <note>(Jul 1989-Sep 1990)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <note>Nomination of February 25, 1856, withdrawn before the Senate acted upon it.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>ve--palm-01</id>
-            <person-id>palmer-larry-leon</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
+            <id>ve-1861-blow-01</id>
+            <person-id>blow-henry-taylor</person-id>
+            <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1861-06-08</date>
                 <note/>
             </appointed>
             <started>
@@ -1475,34 +1449,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of June 24, 2010 returned to the President, December 22, 2010.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on July 5, 1861, after
+                confirmation. Proceeded to post but did not present credentials; left Venezuela on
+                Febryar 22, 1862.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-22</last-modified-date>
-        </chief>
-        <chief>
-            <id>ve--javi-01</id>
-            <person-id>javits-eric-m</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>venezuela</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of Jul 11, 1989, withdrawn on Jun 26, 1990.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>ve--pile-01</id>
@@ -1522,6 +1475,29 @@
                 <note/>
             </ended>
             <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ve-1910-hitt-01</id>
+            <person-id>hitt-robert-stockwell-reynolds</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>venezuela</contemporary-territory-id>
+            <appointed>
+                <date>1910-06-24</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1551,9 +1527,9 @@
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>ve--slee-01</id>
-            <person-id>sleeper-jacob</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>ve-1989-javi-01</id>
+            <person-id>javits-eric-m</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
             <appointed>
                 <date/>
@@ -1567,14 +1543,37 @@
                 <date/>
                 <note/>
             </ended>
-            <note>was serving as Chargé d’Affaires ad interim on Jun 20, 1908, on which date he notified the Government of Venezuela that the United States had severed diplomatic relations with Venezuela.</note>
+            <note>Nomination of July 11, 1989, withdrawn on June 26, 1990.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>ve-2010-palm-01</id>
+            <person-id>palmer-larry-leon</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>venezuela</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of June 24, 2010, returned to the President on December 22,
+                2010.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

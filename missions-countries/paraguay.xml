@@ -16,14 +16,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1863-05-13</date>
                 <note>Promoted to Minister Resident</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jul 15, 1861.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on July 15, 1861, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py-1863-wash-01</id>
@@ -88,11 +89,11 @@
                 <date>1873-05-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Paraguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py-1874-cald-01</id>
@@ -108,14 +109,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1876-10-06</date>
                 <note>Recommissioned as Chargé d’Affaires</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py-1876-cald-01</id>
@@ -126,42 +127,20 @@
                 <date>1876-08-15</date>
                 <note/>
             </appointed>
-            <started>
+            <started subtype="bracketed">
                 <date>1876-10-06</date>
-                <note/>
+                <note>No record found of presentation of credentials; acknowledged receipt of his
+                    commission on</note>
             </started>
             <ended>
                 <date>1882-07-10</date>
                 <note>Relinquished charge at Montevideo</note>
             </ended>
-            <note>Acknowledged receipt of his commission on Oct 6, 1876; no record found of presentation of credentials. Also accredited to Uruguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>py-1881-rusk-01</id>
-            <person-id>rusk-jeremiah-mclain</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>paraguay</contemporary-territory-id>
-            <appointed>
-                <date>1881-05-19</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment as Chargé d’Affaires to Paraguay and Uruguay.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>py-1882-will-01</id>
@@ -180,11 +159,11 @@
                 <date>1885-07-21</date>
                 <note>Relinquished charge at Montevideo</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py-1885-baco-01</id>
@@ -200,14 +179,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1888-10-23</date>
                 <note>Promoted to Minister Resident</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo. Commissioned during a recess of the Senate; recommissioned after confirmation Jan 13, 1886.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1886,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py-1888-baco-01</id>
@@ -220,17 +200,17 @@
             </appointed>
             <started>
                 <date>1888-10-23</date>
-                <note/>
+                <note>Officially recognized on</note>
             </started>
             <ended>
                 <date>1888-12-26</date>
                 <note>Left post.</note>
             </ended>
-            <note>Officially recognized on Oct 23, 1888. Also accredited to Uruguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>py-1889-mane-01</id>
@@ -246,15 +226,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Envoy Extraordinary and Minister
-                Plenipotentiary</note>
+                <date>1891-08</date>
+                <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. Also accredited to Uruguay; resident at Montevideo.</note>
+            <note>Commissioned during a recess of the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py-1890-mane-01</id>
@@ -266,18 +245,19 @@
                 <note/>
             </appointed>
             <started subtype="see-note">
-                <date/>
-                <note/>
+                <date>1891-08</date>
+                <note>Presentation not reported; letter of credence probably presented when Maney
+                    visited Asuncion in</note>
             </started>
             <ended>
                 <date>1894-06-30</date>
                 <note>Left Montevideo about</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo. Letter of credence probably presented when Maney visited Asuncion in Aug 1891, but presentation not reported.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py-1894-stua-01</id>
@@ -296,11 +276,11 @@
                 <date>1898-01-04</date>
                 <note>Relinquished charge at Montevideo</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py-1897-finc-01</id>
@@ -319,11 +299,12 @@
                 <date>1905-05-29</date>
                 <note>Relinquished charge at Montevideo</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo.Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 18, 1897.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 18, 1897,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py-1905-obri-01</id>
@@ -342,11 +323,11 @@
                 <date>1909-10-10</date>
                 <note>Left Montevideo</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>py-1909-morg-01</id>
@@ -365,11 +346,11 @@
                 <date>1911-07-08</date>
                 <note>Left Montevideo</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-09</last-modified-date>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>py-1911-grev-01</id>
@@ -388,11 +369,11 @@
                 <date>1914-02-19</date>
                 <note>Left Montevideo</note>
             </ended>
-            <note>Also accredited to Uruguay; resident at Montevideo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>py-1914-moon-01</id>
@@ -503,11 +484,12 @@
                 <date>1935-02-03</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 15, 1934.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 15, 1934,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>py-1935-howa-01</id>
@@ -546,15 +528,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Ambassador Extraordinary and
-            Plenipotentiary</note>
+                <date>1942-04-15</date>
+                <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>py-1942-fros-01</id>
@@ -642,11 +623,12 @@
                 <date>1952-02-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 12, 1950.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 12, 1950,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-30</last-modified-date>
         </chief>
         <chief>
             <id>py-1952-shaw-01</id>
@@ -1137,22 +1119,71 @@
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date></date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note>Nomionation of June 4, 2014, not acted upon by the Senate.</note>
+            <note>Nomination of June 4, 2014, not acted upon by the Senate.</note>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees>
+        <chief>
+            <id>py--wall-01</id>
+            <person-id>wallace-lewis</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>paraguay</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination to be Chargé d’Affaires to Paraguay and Uruguay
+                withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>py-1881-rusk-01</id>
+            <person-id>rusk-jeremiah-mclain</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>paraguay</contemporary-territory-id>
+            <appointed>
+                <date>1881-05-19</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>py--robb-01</id>
@@ -1177,31 +1208,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py--wall-01</id>
-            <person-id>wallace-lewis</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>paraguay</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination to be Chargé d’Affaires to Paraguay and Uruguay withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

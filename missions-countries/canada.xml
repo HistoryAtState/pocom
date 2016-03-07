@@ -157,11 +157,11 @@
                 <date>1943-01-24</date>
                 <note>Died at post</note>
             </ended>
-            <note>Accredited also to Luxembourg; resident at Ottawa.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>ca-1943-athe-01</id>
@@ -177,7 +177,7 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1943-11-19</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note>Accredited also to Denmark and Luxembourg; resident at Ottawa.</note>
@@ -226,11 +226,12 @@
                 <date>1950-03-28</date>
                 <note>Died near Ramsayville</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 2, 1949.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>ca-1950-wood-01</id>
@@ -318,11 +319,12 @@
                 <date>1960-10-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 29, 1959.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 29, 1959,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>ca-1961-merc-01</id>
@@ -594,7 +596,7 @@
                 <date>1996-03-29</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers served as Charges d’Affaires ad interim: James Donald Walsh (Mar 1996-May 1997) and James G. Weston (Jun 1997-Sep 1997).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -606,11 +608,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
             <appointed>
-                <date>1996-03</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1966-03</date>
                 <note/>
             </started>
             <ended>
@@ -620,8 +622,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>ca-1997-giff-01</id>
@@ -732,35 +734,14 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-21</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief>
-            <id>ca--west-01</id>
-            <person-id>weston-james-g</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>canada</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Charges d’Affaires ad interim: (Jun 1997-Sep 1997)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
             <id>ca--macc-01</id>
             <person-id>macchesney-nathan-william</person-id>
@@ -784,8 +765,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

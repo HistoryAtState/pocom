@@ -19,11 +19,11 @@
                 <date>1871-11-04</date>
                 <note>Presented recall</note>
             </ended>
-            <note>A nomination of Mar 8, 1867 was not confirmed by the Senate.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1871-fran-01</id>
@@ -65,11 +65,12 @@
                 <date>1877-01-20</date>
                 <note>Presented recall soon after</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1873.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1873,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1876-read-01</id>
@@ -85,14 +86,14 @@
                 <note>Soon after</note>
             </started>
             <ended>
-                <date>1879-05-22</date>
-                <note>Presented recall</note>
+                <date>1879-05-24</date>
+                <note>Presented recall between May 22 and</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1882-schu-01</id>
@@ -134,11 +135,83 @@
                 <date>1889-10-24</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 13, 1886. Also accredited to Romania and Serbia; resident at Athens.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1886,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>gr-1889-snow-01</id>
+            <person-id>snowden-archibald-loudon</person-id>
+            <role-title-id>minister-resident-consul-general</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date>1889-07-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1889-10-24</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1891-11-20</date>
+                <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 19, 1889,
+                after confirmation.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>gr-1891-snow-01</id>
+            <person-id>snowden-archibald-loudon</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date>1891-07-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1891-11-20</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1892-06-17</date>
+                <note>Left post between June 2 and</note>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 23, 1891,
+                after confirmation.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>gr-1892-beal-02</id>
+            <person-id>beale-truxtun</person-id>
+            <role-title-id>minister-resident-consul-general</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date>1892-07-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1892-11-17</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1893-04-09</date>
+                <note>Left post.</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1893-alex-01</id>
@@ -157,11 +230,11 @@
                 <date>1897-08-01</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Also accredited to Romania and Serbia; resident at Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1897-rock-01</id>
@@ -177,15 +250,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Recommissioned as Envoy Extraordinary and Minister
-                Plenipotentiary</note>
+                <date>1898-05-25</date>
+                <note>Recommissioned as Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
-            <note>Also accredited to Romani and Serbia; resident at Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1898-rock-01</id>
@@ -204,11 +276,11 @@
                 <date>1899-04-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Romania and Serbia; resident at Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1899-hard-01</id>
@@ -227,11 +299,12 @@
                 <date>1901-01-25</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 14, 1899. Also accredited to Romania and Serbia; resident at Athens.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 14, 1899,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1900-fran-01</id>
@@ -250,11 +323,11 @@
                 <date>1902-12-24</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Also accredited to Romania and Serbia; resident at Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-10</last-modified-date>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1902-jack-01</id>
@@ -270,38 +343,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Recommissioned to serve concurrently as Diplomatic Agent
-                in Bulgaria</note>
+                <date>1903-06-05</date>
+                <note>Recommissioned to a different combination of countries on</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned as Envoy Extraordinary and Minister Plenipotentiary to Greece, Romania, and Serbia after confirmation on Dec 8, 1902; resident at Athens. Also accredited to Romania and Serbia; resident at Athens.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 8, 1902,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gr-1902-wils-01</id>
-            <person-id>wilson-henry-lane</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>greece</contemporary-territory-id>
-            <appointed>
-                <date>1902-10-13</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate. Commissioned also to Romania and Serbia; declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1903-jack-01</id>
@@ -317,14 +367,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1905-03-08</date>
                 <note>Recommissioned to a different combination of countries</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned as Envoy Extraordinary and Minister Plenipotentiary to Greece, Romania, and Serbia, and Diplomatic Agent in Bulgaria. Recommissioned after confirmation on Nov 16, 1903; resident at Athens.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on November 16, 1903,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1905-jack-01</id>
@@ -343,11 +394,11 @@
                 <date>1907-10-19</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Greece and Montenegro and Diplomatic Agent in Bulgaria; resident at Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1907-pear-01</id>
@@ -366,11 +417,12 @@
                 <date>1909-06-29</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 16, 1907. Also accredited to Montenegro; resident at Athens.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 16, 1907,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1909-mose-01</id>
@@ -389,11 +441,11 @@
                 <date>1912-09-30</date>
                 <note>Presented recall on or shortly before</note>
             </ended>
-            <note>Also accredited to Montenegro; resident at Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1912-schu-01</id>
@@ -412,11 +464,11 @@
                 <date>1913-08-18</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Montenegro; resident Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1913-will-01</id>
@@ -435,11 +487,11 @@
                 <date>1914-09-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Montenegro; resident at Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1914-drop-01</id>
@@ -458,11 +510,11 @@
                 <date>1920-04-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Montenegro; resident at Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1920-capp-01</id>
@@ -478,16 +530,16 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Normal relations interrupted, Dec 6, 1920; new
-            Government of Greece still unrecognized by U.S. when Capps’ recess appointment
-            expired on Mar 4, 1921</note>
+                <date>1920-12-06</date>
+                <note>Normal relations interrupted on</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. Commissioned also to Montenegro, but did not serve in that country. During 1921-1924 each of the following officers served as Chargé d’Affaires ad interim for more than a year: Jefferson Caffery, Feb 1922-May 1923; Ray Atherton, May 1923-Jun 1924.</note>
+            <note>Commissioned during a recess of the Senate. The new Government of Greece was still
+                unrecognized by the United States when Capps's recess appointment expired on March
+                4, 1921.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1922-caff-01</id>
@@ -495,11 +547,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
             <appointed>
-                <date>1922-02</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1922-02</date>
                 <note/>
             </started>
             <ended>
@@ -509,8 +561,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1923-athe-01</id>
@@ -518,11 +570,11 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
             <appointed>
-                <date>1923-05</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1923-05</date>
                 <note/>
             </started>
             <ended>
@@ -532,8 +584,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1924-laug-01</id>
@@ -595,12 +647,36 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Government of Greece left Athens, Apr 23, 1941, in
-                anticipation of the German occupation; reaccredited on Jan 4, 1936, on restoration
-                of the monarchy; left post, Jun 5, 1941</note>
+                <date>1941-06-05</date>
+                <note>Left post.</note>
             </ended>
-            <note>Reaccredited on restoration of the monarchy. Presented new credentials Jan 4, 1936. Leslie E. Reed was serving as Chargé d’Affaires ad interim when the Legation in Athens was closed, Jul 14, 1941.</note>
+            <note>Macveagh was reaccredited on January 4, 1936, on the restoration of the monarchy.
+                The Government of Greece left Athens on April 23, 1941, in anticipation of German
+                occupation. Leslie E. Reed was serving as Chargé d’Affaires ad interim when the
+                Legation in Athens was closed, Jul 14, 1941.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>gr-1941-reed-01</id>
+            <person-id>reed-leslie-edgar</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1941-07-14</date>
+                <note>Legation closed</note>
+            </ended>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -620,10 +696,12 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1942-10-30</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
-            <note>Served near the Government of Greece established in England; commissioned also to Belgium, Czechoslovakia, Luxembourg, the Netherlands, Norway, Poland, and Yugoslavia; resident at London.</note>
+            <note>Served near the Government of Greece established in England; commissioned also to
+                Belgium, Czechoslovakia, Luxembourg, the Netherlands, Norway, Poland, and
+                Yugoslavia; resident at London.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -644,14 +722,13 @@
             </started>
             <ended>
                 <date>1943-03-16</date>
-                <note>Government of Greece transferred to
-                Egypt </note>
+                <note>Government of Greece transferred to Egypt on</note>
             </ended>
-            <note>Served near the Government of Greece established in England; commissioned also to Belgium, Czechoslovakia, Luxembourg, the Netherlands, Norway, Poland, and Yugoslavia; resident at London.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1943-kirk-01</id>
@@ -670,11 +747,11 @@
                 <date>1943-11-25</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Served near the Government of Greece established in Egypt; also accredited to Egypt and Saudi Arabia; resident at Cairo.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1943-macv-01</id>
@@ -693,11 +770,12 @@
                 <date>1947-10-11</date>
                 <note>Left post.</note>
             </ended>
-            <note>Served near the Government of Greece established in Egypt; also accredited to Yugoslavia; resident first at Cairo; transferred the Embassy to Athens, Oct 27, 1944. The office of the Embassy at Cairo was closed, Nov 8, 1944.</note>
+            <note>Transferred the Embassy to Athens on October 27, 1944. The office of the Embassy
+                at Cairo was closed on November 8, 1944.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1948-grad-01</id>
@@ -792,29 +870,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gr-1957-ridd-01</id>
-            <person-id>riddleberger-james-williams</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>greece</contemporary-territory-id>
-            <appointed>
-                <date>1957-12-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>gr-1958-ridd-01</id>
             <person-id>riddleberger-james-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -877,11 +932,12 @@
                 <date>1965-05-08</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 30, 1962.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 30, 1962,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr-1965-talb-01</id>
@@ -951,29 +1007,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gr-1977-scha-01</id>
-            <person-id>schaufele-william-everett</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>greece</contemporary-territory-id>
-            <appointed>
-                <date>1977-07-14</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment. Hawthorne Q. Mills served as Chargé d’Affaires ad interim Jul 1977-Mar 1978.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-29</last-modified-date>
         </chief>
         <chief>
             <id>gr-1978-mccl-01</id>
@@ -1228,10 +1261,12 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>gr--mill-01</id>
-            <person-id>mills-hawthorne-quinn</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>gr--smit-01</id>
+            <person-id>smith-nicholas</person-id>
+            <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
             <appointed>
                 <date/>
@@ -1245,11 +1280,81 @@
                 <date/>
                 <note/>
             </ended>
-            <note>served as Chargé d’Affaires ad interim Jul 1977-Mar 1978.</note>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>gr-1892-beal-01</id>
+            <person-id>beale-truxtun</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date>1892-07-22</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>gr-1893-beal-01</id>
+            <person-id>beale-truxtun</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date>1893-03-03</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office under this appointment, but no record has been found of
+                accreditation.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>gr-1902-wils-01</id>
+            <person-id>wilson-henry-lane</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date>1902-10-13</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-11-25</last-modified-date>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>gr--mats-01</id>
@@ -1275,12 +1380,12 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gr--reed-01</id>
-            <person-id>reed-leslie-edgar</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>gr-1957-ridd-01</id>
+            <person-id>riddleberger-james-williams</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1957-12-10</date>
                 <note/>
             </appointed>
             <started>
@@ -1291,11 +1396,35 @@
                 <date/>
                 <note/>
             </ended>
-            <note>was serving as Chargé d’Affaires ad interim when the Legation in Athens was closed, Jul 14, 1941.</note>
+            <note>Commissioned during a recess of the Senate; did not serve under this
+                appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>gr-1977-scha-01</id>
+            <person-id>schaufele-william-everett</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date>1977-07-14</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2013-04-29</last-modified-date>
         </chief>
         <chief>
             <id>gr--good-01</id>
@@ -1314,37 +1443,14 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination not acted upon by the Senate; later declined a recess appointment.</note>
+            <note>Nomination not acted upon by the Senate; later declined a recess
+                appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gr--smit-01</id>
-            <person-id>smith-nicholas</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>greece</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

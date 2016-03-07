@@ -19,11 +19,12 @@
                 <date>1962-01-07</date>
                 <note>Superseded</note>
             </ended>
-            <note>Not commissioned; letter of credence dated Oct 2, 1961. Embassy Kuwait was established Sep 22, 1961, with Mak in charge.</note>
+            <note>Not commissioned; letter of credence dated October 2, 1961. Embassy Kuwait was
+                established on September 22, 1961, with Mak in charge.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>kw-1961-hart-01</id>
@@ -42,11 +43,12 @@
                 <date>1963-07-12</date>
                 <note>Appointment terminated</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 30, 1962. Also accredited to Saudi Arabia and Yemen; resident at Jidda.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 30, 1962,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>kw-1963-cott-01</id>
@@ -111,11 +113,11 @@
                 <date>1976-01-06</date>
                 <note>Left post.</note>
             </ended>
-            <note>Also accredited to Bahrain, Oman, Qatar, and the United Arab Emirates; resident at Kuwait.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>kw-1976-maes-01</id>
@@ -157,11 +159,34 @@
                 <date>1983-08-08</date>
                 <note>Left post.</note>
             </ended>
-            <note>Philip J. Griffin served as Chargé d’Affaires ad interim Aug 1983-Sep 1984.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-30</last-modified-date>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>kw-1983-grif-01</id>
+            <person-id>griffin-philip-joseph</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>kuwait</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1983-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1984-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>kw-1984-quai-01</id>
@@ -203,12 +228,20 @@
                 <date>1990-08-02</date>
                 <note>Iraqi armed forces occupied Kuwait</note>
             </ended>
-            <note>Howell and the Embassy staff left Kuwait Dec 13, 1990. Embassy Kuwait was reopened Mar 1, 1991.</note>
+            <note>Howell and the Embassy staff left Kuwait December 13, 1990. Embassy Kuwait was
+                reopened Mar 1, 1991.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Kuwait was reeopened on March 1, 1991.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </mission-note>
         <chief>
             <id>kw-1990-gneh-01</id>
             <person-id>gnehm-edward-william-jr</person-id>
@@ -384,8 +417,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
@@ -393,36 +426,15 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>kw--pope-01</id>
+            <id>kw-2000-pope-01</id>
             <person-id>pope-laurence-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
             <appointed>
                 <date/>
-                <note>Nomination of 2000-02-22 not acted upon by the Senate</note>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>kw--grif-01</id>
-            <person-id>griffin-philip-joseph</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>kuwait</contemporary-territory-id>
-            <appointed>
-                <date/>
                 <note/>
             </appointed>
             <started>
@@ -433,14 +445,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>served as Chargé d’Affaires ad interim Aug 1983-Sep 1984.</note>
+            <note>Nomination of February 22, 2000, was not acted upon by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

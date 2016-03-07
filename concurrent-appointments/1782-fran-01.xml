@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concurrent-appointments>
+    <id>1782-fran-01</id>
+    <person-id>franklin-benjamin</person-id>
+    <resident-at>
+        <locale-id>paris_fr</locale-id>
+        <contemporary-territory-id>france</contemporary-territory-id>
+    </resident-at>
+    <chief-id>se-1782-fran-01</chief-id>
+    <chief-id>fr-1778-fran-01</chief-id>
+    <created-by>marrsaw</created-by>
+    <created-date>2016-01-05</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-01-05</last-modified-date>
+</concurrent-appointments>

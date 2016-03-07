@@ -3,6 +3,29 @@
     <territory-id>burundi</territory-id>
     <chiefs>
         <chief>
+            <id>bi-1962-olds-01</id>
+            <person-id>olds-herbert-vincent</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>burundi</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1962-07-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note></note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2010-12-22</last-modified-date>
+        </chief>
+        <chief>
             <id>bi-1962-dumo-01</id>
             <person-id>dumont-donald-albert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -19,11 +42,11 @@
                 <date>1963-09-16</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on March 12, 1963. Embassy Usumbura (now Bujumbura) was established July 1, 1962 with Herbert V. Olds as Chargé d’Affaires ad interim. The rank of the mission was changed to Legation effective December 15, 1962, and to Embassy again effective September 16, 1963.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 12, 1963, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
             <id>bi-1963-dumo-01</id>
@@ -42,11 +65,12 @@
                 <date>1966-01-11</date>
                 <note>Left post.</note>
             </ended>
-            <note>Recall requested by Govt. of Burundi, December 29, 1965 (request received, January 10, 1966)</note>
+            <note>Recall requested by the Government of Burundi on December 29, 1965 (request received on January
+                10, 1966).</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-20</last-modified-date>
+            <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
             <id>bi-1968-renc-01</id>
@@ -249,13 +273,36 @@
                 <date>1993-02-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>Leonard J. Lange served as Chargé d’Affaires ad interim from Mar 1993 to Jun 1994.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
+            <id>bi-1993-lang-01</id>
+            <person-id>lange-leonard-j</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>burundi</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-03</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1994-06</date>
+                <note/>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-22</last-modified-date>
+        </chief>
+                <chief>
             <id>bi-1994-krue-01</id>
             <person-id>krueger-robert-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -415,29 +462,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-08-12</last-modified-date>
-        </chief>
-        <chief>
-            <id>bi--olds-01</id>
-            <person-id>olds-herbert-vincent</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>burundi</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Usumbura (now Bujumbura) was established Jul 1, 1962 with Herbert V. Olds as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

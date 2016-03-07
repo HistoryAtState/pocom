@@ -19,11 +19,13 @@
                 <date>1974-07-16</date>
                 <note>Appointment terminated</note>
             </ended>
-            <note>Also accredited to Bahrain, Kuwait, Qatar, and the United Arab Emirates; resident at Kuwait. During Stoltzfus’ tenure as non-resident Ambassador, the Embassy in Muscat was established Jul 4, 1972, with Clifford J. Quinlan as Chargé d’Affaires ad interim.</note>
+            <note>During Stoltzfus’s tenure as non-resident Ambassador, Embassy Muscat was
+                established on July 4, 1972, with Clifford J. Quinlan as Chargé d’Affaires ad
+                interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>om-1974-woll-01</id>
@@ -134,11 +136,12 @@
                 <date>1992-10-31</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Oct 10, 1989.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on October 10, 1989,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>om-1992-dunf-01</id>
@@ -203,11 +206,11 @@
                 <date>2001-09-22</date>
                 <note>Left post.</note>
             </ended>
-            <note>Robert W. Dry served as Charge d’Affaires Sep 2001-Nov 2001</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>om-2001-dry-01</id>
@@ -215,11 +218,11 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
             <appointed>
-                <date>2001-09</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2001-09</date>
                 <note/>
             </started>
             <ended>
@@ -229,8 +232,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>om-2002-balt-01</id>
@@ -323,29 +326,6 @@
             <created-date>2013-09-27</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
-        </chief>
-        <chief>
-            <id>om--quin-01</id>
-            <person-id>quinlan-clifford-james</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>oman</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>the Embassy in Muscat was established Jul 4, 1972, with Clifford J. Quinlan as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-25</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

@@ -3,29 +3,6 @@
     <territory-id>norway</territory-id>
     <chiefs>
         <chief>
-            <id>no-1819-hugh-01</id>
-            <person-id>hughes-christopher</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>norway</contemporary-territory-id>
-            <appointed>
-                <date>1819-01-21</date>
-                <note/>
-            </appointed>
-            <started subtype="see-note">
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1825-07-05</date>
-                <note>Presented recall about</note>
-            </ended>
-            <note>Served at the court of Sweden and Norway; resident at Stockholm. No report has been found concerning Hughes’ presentation of credentials as Chargé d’Affaires en titre; he had been serving at Stockholm as Chargé d’Affaires ad interim since Oct 1818.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2013-05-23</last-modified-date>
-        </chief>
-        <chief>
             <id>no-1905-grav-01</id>
             <person-id>graves-charles-hinman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -42,11 +19,13 @@
                 <date>1906-08-06</date>
                 <note>Functions with respect to Norway ceased</note>
             </ended>
-            <note>Commissioned to Sweden and Norway; resident at Stockholm; on Nov 14, 1905, acknowledged instructions to exercise the functions of his office toward Norway separately.</note>
+            <note>Commissioned to Sweden and Norway; resident at Stockholm. On November 14, 1905,
+                Graves acknowledged instructions to exercise the functions of his office toward
+                Norway separately.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>no-1906-peir-01</id>
@@ -157,11 +136,12 @@
                 <date>1935-08-03</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 16, 1930.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 16, 1930,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>no-1935-bidd-01</id>
@@ -200,15 +180,63 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>The Government of Norway left Oslo, Apr 9, 1940, in
-                anticipation of German occupation ; Harriman left Norway, Apr 22, 1940</note>
+                <date>1940-04-09</date>
+                <note>In anticipation of German occupation, the Government of Norway left Oslo
+                    on</note>
             </ended>
-            <note>Raymond E. Cox was serving as Chargé d’Affaires ad interim when the Legation in Oslo was closed, Jul 15, 1940. Rudolf E. Schoenfeld opened the Legation near the Government of Norway established in England, making his initial call as Chargé d’Affaires ad interim on Aug 2, 1940.</note>
+            <note>Harriman left Norway on April 22, 1940. Rudolf E. Schoenfeld opened the Legation
+                near the Government of Norway established in England, making his initial call as
+                Chargé d’Affaires ad interim on Aug 2, 1940.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>no-1940-cox-01</id>
+            <person-id>cox-raymond-edwin</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>norway</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1940-07-15</date>
+                <note>Legation Oslo closed on</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>no-1940-cox-01</id>
+            <person-id>schoenfeld-rudolf-emil</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>norway</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1940-08-02</date>
+                <note>Made initial call as Charge d'Affaires on</note>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-05</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>no-1941-bidd-01</id>
@@ -224,14 +252,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1942-05-13</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
-            <note>Served near the Government of Norway established in England; commissioned also to Belgium, Czechoslovakia, Greece, Luxembourg, the Netherlands, Poland, and Yugoslavia; resident at London.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>no-1942-bidd-01</id>
@@ -250,11 +278,11 @@
                 <date>1943-12-01</date>
                 <note>Left London</note>
             </ended>
-            <note>Served near the Government of Norway established in England; commissioned also to Belgium, Czechoslovakia, Greece, Luxembourg, the Netherlands, Poland, and Yugoslavia; resident at London.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>no-1944-osbo-01</id>
@@ -273,11 +301,12 @@
                 <date>1946-04-20</date>
                 <note>Left Oslo</note>
             </ended>
-            <note>Served near the Government of Norway established in England; resident first at London; transferred the Embassy to Oslo, May 31, 1945.</note>
+            <note>Served near the Government of Norway established in England; resident first at
+                London; transferred the Embassy to Oslo on May 31, 1945.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-15</last-modified-date>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>no-1946-bay-01</id>
@@ -716,29 +745,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>no--cox-01</id>
-            <person-id>cox-raymond-edwin</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>norway</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>was serving as Chargé d’Affaires ad interim when the Legation in Oslo was closed, Jul 15, 1940</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
             <id>no--tsun-01</id>
             <person-id>tsunis-george-james</person-id>
@@ -756,14 +764,14 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nominations of September 11, 2013, and January 6, 2014, not acted upon by the Senate.</note>
+            <note>Nominations of September 11, 2013, and January 6, 2014, not acted upon by the
+                Senate.</note>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

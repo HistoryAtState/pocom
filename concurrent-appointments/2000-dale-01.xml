@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concurrent-appointments>
+    <id>2000-dale-01</id>
+    <person-id>daley-james-a</person-id>
+    <resident-at>
+        <locale-id>bridgetown</locale-id>
+        <contemporary-territory-id>barbados</contemporary-territory-id>
+    </resident-at>
+    <chief-id>ag-2000-dale-01</chief-id>
+    <chief-id>bb-2000-dale-01</chief-id>
+    <chief-id>dm-2000-dale-01</chief-id>
+    <chief-id>gd-2000-dale-01</chief-id>
+    <chief-id>kn-2000-dale-01</chief-id>
+    <chief-id>lc-2000-dale-01</chief-id>
+    <chief-id>vc-2000-dale-01</chief-id>
+    <created-by>marrsaw</created-by>
+    <created-date>2015-11-12</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2015-11-12</last-modified-date>
+</concurrent-appointments>

@@ -3,29 +3,6 @@
     <territory-id>bulgaria</territory-id>
     <chiefs>
         <chief>
-            <id>bg-1901-dick-01</id>
-            <person-id>dickinson-charles-monroe</person-id>
-            <role-title-id>agent</role-title-id>
-            <contemporary-territory-id>bulgaria</contemporary-territory-id>
-            <appointed>
-                <date>1901-04-24</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1903-06-30</date>
-                <note>Appointment terminated</note>
-            </ended>
-            <note>Appointment to Bulgaria was in addition to assignment as Consul General at Constantinople, where Dickinson resided. No record has been found of presentation of credentials at Sofia. Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 190l.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>bg-1903-jack-01</id>
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>diplomatic-agent</role-title-id>
@@ -39,14 +16,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1905-03-08</date>
                 <note>Recommissioned to a different combination of countries</note>
             </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Greece, Romania, and Serbia and Diplomatic Agent in Bulgaria; resident at Athens. Commissioned during a recess of the Senate; recommissioned after confirmation on Nov 16, 1903.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on November 16, 1903,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
             <id>bg-1905-jack-01</id>
@@ -65,11 +43,11 @@
                 <date>1907-06-04</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Greece and Montenegro and Diplomatic Agent in Bulgaria; resident at Athens.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1907-know-01</id>
@@ -88,103 +66,12 @@
                 <date>1909-02-04</date>
                 <note>Left Bucharest</note>
             </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Romania and Serbia and Diplomatic Agent in Bulgaria; resident at Bucharest. Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 12, 1907.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 12, 1907,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bg-1908-wils-01</id>
-            <person-id>wilson-huntington-francis-mairs-huntington-wilson</person-id>
-            <role-title-id>diplomatic-agent</role-title-id>
-            <contemporary-territory-id>bulgaria</contemporary-territory-id>
-            <appointed>
-                <date>1908-12-17</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Romania and Serbia and Diplomatic Agent in Bulgaria; took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bg-1909-eddy-01</id>
-            <person-id>eddy-spencer-fayette</person-id>
-            <role-title-id>diplomatic-agent</role-title-id>
-            <contemporary-territory-id>bulgaria</contemporary-territory-id>
-            <appointed>
-                <date>1909-01-11</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Romania and Diplomatic Agent in Bulgaria; served at Bucharest, but did not present credentials in Bulgaria.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bg-1909-cart-01</id>
-            <person-id>carter-john-ridgely</person-id>
-            <role-title-id>diplomatic-agent</role-title-id>
-            <contemporary-territory-id>bulgaria</contemporary-territory-id>
-            <appointed>
-                <date>1909-09-25</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate as Envoy Extraordinary and Minister Plenipotentiary to Romania and Serbia and Diplomatic Agent in Bulgaria; served at Bucharest, but did not present credentials in Bulgaria. Recommissioned after confirmation on Dec 13, 1909.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bg-1910-cart-01</id>
-            <person-id>carter-john-ridgely</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>bulgaria</contemporary-territory-id>
-            <appointed>
-                <date>1910-06-24</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Romania, Serbia, and Bulgaria; resident at Bucharest.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1911-jack-01</id>
@@ -203,11 +90,11 @@
                 <date>1913-10-18</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Romania, Serbia, and Bulgaria; resident at Bucharest.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1913-vopi-01</id>
@@ -223,15 +110,37 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Relieved of active functions pertaining to Legation
-                Sofia, Dec 17, 1918</note>
+                <date>1918-12-17</date>
+                <note>Relieved of active functions pertaining to Legation Sofia on</note>
             </ended>
-            <note>Commissioned as Envoy Extraordinary and Minister Plenipotentiary to Romania, Serbia, and Bulgaria; resident at Bucharest. Charles S. Wilson presented credentials Mar 18, 1919, as Chargé d’Affaires ad interim at Sofia and served as such until Jul 1921.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>bg-1919-wils-01</id>
+            <person-id>wilson-charles-stetson</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>bulgaria</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1919-03-18</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1921-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1921-wils-01</id>
@@ -251,29 +160,6 @@
                 <note>Presented recall</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bg-1928-scho-01</id>
-            <person-id>schoenfeld-hans-frederick-arthur</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>bulgaria</contemporary-territory-id>
-            <appointed>
-                <date>1928-07-17</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 23, 1929; did not serve under either appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -319,11 +205,12 @@
                 <date>1936-06-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 15, 1934.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 15, 1934,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1937-athe-01</id>
@@ -363,13 +250,37 @@
             </started>
             <ended>
                 <date>1941-12-13</date>
-                <note>Bulgaria declared war on the U.S.</note>
+                <note>Bulgaria declared war on the United States on</note>
             </ended>
-            <note>Earle left post late in Dec. 1941, arriving at Istanbul (en route to the U.S.) Dec 27, 1941. Legation Sofia was reestablished Sep 27, 1947, with John Evarts Horner as Chargé d’Affaires ad interim.</note>
+            <note>Earle left post late in December 1941, arriving at Istanbul (en route to the
+                United States) on December 27, 1941.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>bg-1947-horn-01</id>
+            <person-id>horner-john-evarts</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>bulgaria</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1947-09-27</date>
+                <note>Legation Sofia reestablished on</note>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1947-heat-01</id>
@@ -386,13 +297,16 @@
             </started>
             <ended>
                 <date>1950-01-19</date>
-                <note>Declared persona non grata by Government of                     Bulgaria</note>
+                <note>Declared persona non grata by Government of Bulgaria</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 9, 1947. The Department of State announced on Feb 21, 1950, the suspension of diplomatic relations with Bulgaria; Heath left post, Feb 24, 1950.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 9, 1947,
+                after confirmation. The Department of State announced the suspension of diplomatic
+                relatoins with Bulgaria on February 21, 1950. Heath left post on February 24,
+                1950.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1959-page-01</id>
@@ -411,11 +325,12 @@
                 <date>1962-05-25</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 21, 1960.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 21, 1960,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1962-ande-01</id>
@@ -477,15 +392,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Ambassador Extraordinary and
-            Plenipotentiary</note>
+                <date>1967-04-19</date>
+                <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1967-mcsw-01</id>
@@ -504,11 +418,13 @@
                 <date>1970-05-29</date>
                 <note>Left post.</note>
             </ended>
-            <note>Legation Sofia had been raised to Embassy status Nov 28, 1966 with Minister McSweeney in charge pending his own promotion to the rank of Ambassador Extraordinary and Plenipotentiary.</note>
+            <note>Legation Sofia was raised to Embassy status on November 28, 1966, with McSweeney
+                in charge pending his own promotion to the rank of Ambassador Extraordinary and
+                Plenipotentiary.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
             <id>bg-1970-torb-01</id>
@@ -878,13 +794,41 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-25</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>bg--horn-01</id>
-            <person-id>horner-john-evarts</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>bg-1901-dick-01</id>
+            <person-id>dickinson-charles-monroe</person-id>
+            <role-title-id>agent</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
             <appointed>
+                <date>1901-04-24</date>
+                <note/>
+            </appointed>
+            <started>
                 <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1903-06-30</date>
+                <note>Appointment terminated</note>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1901,
+                after confirmation. Appointment to Bulgaria was in addition to assignment as Consul
+                General at Constantinople, where Dickinson resided. No record has been found of
+                presentation of credentials at Sofia.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>bg-1908-wils-01</id>
+            <person-id>wilson-huntington-francis-mairs-huntington-wilson</person-id>
+            <role-title-id>diplomatic-agent</role-title-id>
+            <contemporary-territory-id>bulgaria</contemporary-territory-id>
+            <appointed>
+                <date>1908-12-17</date>
                 <note/>
             </appointed>
             <started>
@@ -895,14 +839,107 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Legation Sofia was reestablished Sep 27, 1947, with John Evarts Horner as Chargé d’Affaires ad interim.</note>
+            <note>Took oath of office, but did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>bg-1909-eddy-01</id>
+            <person-id>eddy-spencer-fayette</person-id>
+            <role-title-id>diplomatic-agent</role-title-id>
+            <contemporary-territory-id>bulgaria</contemporary-territory-id>
+            <appointed>
+                <date>1909-01-11</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not present credentials in Bulgaria.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>bg-1909-cart-01</id>
+            <person-id>carter-john-ridgely</person-id>
+            <role-title-id>diplomatic-agent</role-title-id>
+            <contemporary-territory-id>bulgaria</contemporary-territory-id>
+            <appointed>
+                <date>1909-09-25</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 13, 1909,
+                after confirmation. Did not present credentials in Bulgaria.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>bg-1910-cart-01</id>
+            <person-id>carter-john-ridgely</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>bulgaria</contemporary-territory-id>
+            <appointed>
+                <date>1910-06-24</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not present credentials in Bulgaria.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>bg-1928-scho-01</id>
+            <person-id>schoenfeld-hans-frederick-arthur</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>bulgaria</contemporary-territory-id>
+            <appointed>
+                <date>1928-07-17</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 23, 1929,
+                after confirmation; did not serve under either appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

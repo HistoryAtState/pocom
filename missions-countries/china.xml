@@ -2,29 +2,18 @@
 <country-mission>
     <territory-id>china</territory-id>
     <chiefs>
-        <chief>
-            <id>cn-1843-ever-01</id>
-            <person-id>everett-edward</person-id>
-            <role-title-id>commissioner</role-title-id>
-            <contemporary-territory-id>china</contemporary-territory-id>
-            <appointed>
-                <date>1843-03-03</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to China. Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
+        <mission-note>
+            <text>Presentation of credentials to the Chief of State upon arrival did not become the
+                normal procedure for U.S. diplomatic representatives in China until 1898. The date
+                given after "presentation of credentials" in the individual entries from 1843
+                through 1898 represents establishment of an official relationship with appropriate
+                Chinese authorities, not necessarily including communication to them of a letter of
+                credence.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </mission-note>
         <chief>
             <id>cn-1843-cush-01</id>
             <person-id>cushing-caleb</person-id>
@@ -36,40 +25,20 @@
             </appointed>
             <started>
                 <date>1844-06-12</date>
-                <note>[about</note>
+                <note>About</note>
             </started>
             <ended>
                 <date>1844-08-27</date>
                 <note>Left Macao</note>
             </ended>
-            <note>Commissioned to China. Was issued two separate commissions during a recess of the Senate, one as Commissioner and one as Envoy Extraordinary and Minister Plenipotentiary; after confirmation on Jun 17, 1844, recommissioned as Commissioner only. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorieies, not necessarily including communication to them of a letter of credence.</note>
+            <note>Commissioned to China. Cushing was issued two separate commissions during a recess
+                of the Senate, one as Commissioner and one as Envoy Extraordinary and Minister
+                Plenipotentiary. When Cushing was recommissioned on June 17, 1844, it was as
+                Commissioner only.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cn-1843-cush-02</id>
-            <person-id>cushing-caleb</person-id>
-            <role-title-id>commissioner</role-title-id>
-            <contemporary-territory-id>china</contemporary-territory-id>
-            <appointed>
-                <date>1843-05-08</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1844-06-12</date>
-                <note>[about</note>
-            </started>
-            <ended>
-                <date>1844-08-27</date>
-                <note>Left Macao</note>
-            </ended>
-            <note>Commissioned to China. Was issued two separate commissions during a recess of the Senate, one as Commissioner and one as Envoy Extraordinary and Minister Plenipotentiary; after confirmation on Jun 17, 1844, recommissioned as Commissioner only. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorieies, not necessarily including communication to them of a letter of credence.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1845-ever-01</id>
@@ -88,11 +57,11 @@
                 <date>1847-06-28</date>
                 <note>Died at post</note>
             </ended>
-            <note>Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date of presentation of credentials here represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter of credence. Nominated Feb 26, 1845, to be Envoy Extraordinary and Minister Plenipotentiary; the Senate did not confirm this nomination.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1848-davi-01</id>
@@ -111,34 +80,34 @@
                 <date>1850-05-25</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence. Peter Parker served as Chargé d’Affaires ad interim, May 1850-Jul 1853.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1851-blun-01</id>
-            <person-id>blunt-joseph</person-id>
-            <role-title-id>commissioner</role-title-id>
+            <id>cn-1850-park-01</id>
+            <person-id>parker-peter</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
             <appointed>
-                <date>1851-10-15</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1850-05</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1853-07</date>
                 <note/>
             </ended>
-            <note>Commissioned during a recess of the Senate. Commissioned to China. Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1852-mars-01</id>
@@ -157,34 +126,11 @@
                 <date>1854-01-27</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cn-1853-walk-01</id>
-            <person-id>walker-robert-james</person-id>
-            <role-title-id>commissioner</role-title-id>
-            <contemporary-territory-id>china</contemporary-territory-id>
-            <appointed>
-                <date>1853-06-21</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during recess of the Senate. Commissioned to China. Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1853-mcla-01</id>
@@ -203,11 +149,12 @@
                 <date>1854-12-12</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during recess of the Senate; recommissioned after confirmation on Dec 6, 1853. Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned during recess of the Senate; recommissioned on December 6, 1853,
+                after confirmation. Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1855-park-01</id>
@@ -226,11 +173,12 @@
                 <date>1857-08-25</date>
                 <note>Left China</note>
             </ended>
-            <note>Commissioned during a recess of Senate; recommissioned after confirmation on May 26, 1856. Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned during a recess of Senate; recommissioned on May 26, 1856, after
+                confirmation. Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1857-reed-01</id>
@@ -249,11 +197,12 @@
                 <date>1858-11-11</date>
                 <note>Left China</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 14, 1858. Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 14, 1858,
+                after confirmation. Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1858-ward-01</id>
@@ -272,11 +221,11 @@
                 <date>1860-12-15</date>
                 <note>Left Hong Kong</note>
             </ended>
-            <note>Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1861-burl-01</id>
@@ -295,11 +244,12 @@
                 <date>1867-11-21</date>
                 <note>Appointment terminated</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jul 15, 1861. Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on July 15, 1861, after
+                confirmation. Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1868-brow-01</id>
@@ -311,18 +261,18 @@
                 <note/>
             </appointed>
             <started>
-                <date>1868-09-29</date>
-                <note/>
+                <date>1868-10-28</date>
+                <note>Between September 29, 1868 and </note>
             </started>
             <ended>
                 <date>1869-07-05</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date given for the presentation of credentials actually represents establishment of an official relationship with appropriate Chinese authorities (which occurred between Sep. 29, 1868 and Oct. 28, 1868), not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1869-low-01</id>
@@ -341,11 +291,12 @@
                 <date>1873-07-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during recess of the Senate; recommissioned after confirmation Dec 21, 1869. Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned during recess of the Senate; recommissioned on December 21, 1869,
+                after confirmation. Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1874-aver-01</id>
@@ -364,11 +315,11 @@
                 <date>1875-11-08</date>
                 <note>Died at post</note>
             </ended>
-            <note>Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1876-sewa-01</id>
@@ -387,11 +338,11 @@
                 <date>1880-08-16</date>
                 <note>Superseded</note>
             </ended>
-            <note>Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1880-ange-01</id>
@@ -410,11 +361,11 @@
                 <date>1881-10-04</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1882-youn-01</id>
@@ -433,11 +384,11 @@
                 <date>1885-04-07</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1885-denb-01</id>
@@ -456,57 +407,12 @@
                 <date>1898-07-08</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 13, 1886. Commissioned to China. Presentation of credentials to the Chief of State upon arrival did not become the normal procedure for U.S. diplomatic representatives in China until 1898. The date in brackets represents establishment of an official relationship with appropriate Chinese authorities, not necessarily including communication to them of a letter or credence.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1886,
+                after confirmation. Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cn-1891-blai-01</id>
-            <person-id>blair-henry-william</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>china</contemporary-territory-id>
-            <appointed>
-                <date>1891-02-27</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to China. Took oath of office under recess appointment, but did not proceed to post; the Government of China having objected to his appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cn-1897-brya-01</id>
-            <person-id>bryan-charles-page</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>china</contemporary-territory-id>
-            <appointed>
-                <date>1897-11-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office under recess appointment, but did not proceed to post; nomination of Jan 5, 1898 was withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1898-cong-01</id>
@@ -555,29 +461,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1909-cran-01</id>
-            <person-id>crane-charles-richard</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>china</contemporary-territory-id>
-            <appointed>
-                <date>1909-07-23</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>cn-1909-calh-01</id>
             <person-id>calhoun-william-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -591,16 +474,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Normal relations interrupted Feb 12, 1912; new
-                Government of China still unrecognized by the United States when Calhoun left post,
-                Feb 16, 1913</note>
+                <date>1912-02-12</date>
+                <note>Normal relations interrupted</note>
             </ended>
-            <note>Commissioned to China.</note>
+            <note>Commissioned to China. The new Government of China was still unrecognized by the
+                United States when Calhoun left post on February 26, 1913.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1913-rein-01</id>
@@ -688,11 +570,12 @@
                 <date>1929-11-22</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1925. Commissioned to China.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1925,
+                after confirmation. Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1929-john-01</id>
@@ -708,14 +591,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1935-09-17</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1935-john-01</id>
@@ -803,11 +686,34 @@
                 <date>1949-08-02</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to China. Karl L. Rankin served as Chargé d’Affaires ad interim, Aug. 1950-Apr. 1953.</note>
+            <note>Commissioned to China.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cn-1950-rank-01</id>
+            <person-id>rankin-karl-lott</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>china</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1950-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1953-04</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1953-rank-01</id>
@@ -934,18 +840,18 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
-                <note/>
+                <date>1973-05-14</date>
+                <note>Entered on duty</note>
             </started>
             <ended>
                 <date>1974-09-25</date>
                 <note>Left post.</note>
             </ended>
-            <note>U.S. Liaison Office in Peking, (now Beijing). The following persons headed the U.S. Liaison Office in Peking (now Beijing) between May 1973 and March 1979.</note>
+            <note>Bruce was chief of the U.S. Liaison Office in Peking (Beijing).</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1974-unge-01</id>
@@ -964,12 +870,22 @@
                 <date>1979-01-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>commissioned to the Republic of China; resident at Taipei. The United States established diplomatic relations with the People’s Republic of China, and terminated them with the Republic of China, on Jan 1, 1979. Embassy Taipei closed Feb 28, 1979.</note>
+            <note>commissioned to the Republic of China; resident at Taipei.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
+        <mission-note>
+            <text> The United States established diplomatic relations with the People’s Republic of
+                China, and terminated them with the Republic of China, on January 1, 1979. Embassy
+                Taipei closed February 28, 1979. U.S. Liaison Office Beijing became Embassy Beijing
+                on March 1, 1979.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </mission-note>
         <chief>
             <id>cn-1974-bush-01</id>
             <person-id>bush-george-herbert-walker</person-id>
@@ -980,18 +896,18 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
-                <note/>
+                <date>1974-10-21</date>
+                <note>Entered on duty</note>
             </started>
             <ended>
                 <date>1975-12-07</date>
                 <note>Left post.</note>
             </ended>
-            <note/>
+            <note>Bush was chief of the U.S. Liaison Office in Peking (Beijing).</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1976-gate-01</id>
@@ -1003,18 +919,18 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
-                <note/>
+                <date>1976-05-06</date>
+                <note>Entered on duty</note>
             </started>
             <ended>
                 <date>1977-05-08</date>
                 <note>Left post.</note>
             </ended>
-            <note/>
+            <note>Gates was chief of the U.S. Liaison Office in Peking (Beijing).</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-09</last-modified-date>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1977-wood-01</id>
@@ -1026,19 +942,18 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
-                <note/>
+                <date>1977-07-26</date>
+                <note>Entered on duty</note>
             </started>
             <ended>
-                <date/>
-                <note>Promoted to Ambassador Extraordinary and Plenipotentiary; U.S. Liaison Office
-                    became Embassy Beijing Mar. 1, 1979.</note>
+                <date>1979-02-27</date>
+                <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
-            <note>People’s Republic of China</note>
+            <note>Woodcock was chief of the U.S. Liaison Office in Peking (Beijing).</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
             <id>cn-1979-wood-01</id>
@@ -1284,7 +1199,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>
@@ -1292,6 +1207,125 @@
             <created-date>2014-07-21</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees>
+        <chief>
+            <id>cn-1843-ever-01</id>
+            <person-id>everett-edward</person-id>
+            <role-title-id>commissioner</role-title-id>
+            <contemporary-territory-id>china</contemporary-territory-id>
+            <appointed>
+                <date>1843-03-03</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to China. Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>cn-1845-ever-02</id>
+            <person-id>everett-alexander-hill</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>china</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of February 25, 1845, not confirmed by the Senate.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cn-1851-nels-01</id>
+            <person-id>nelson-thomas-ames-rogers</person-id>
+            <role-title-id>commissioner</role-title-id>
+            <contemporary-territory-id>china</contemporary-territory-id>
+            <appointed>
+                <date>1851-03-06</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to China. Did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cn-1851-blun-01</id>
+            <person-id>blunt-joseph</person-id>
+            <role-title-id>commissioner</role-title-id>
+            <contemporary-territory-id>china</contemporary-territory-id>
+            <appointed>
+                <date>1851-10-15</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Commissioned to China. Declined
+                appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>cn-1853-walk-01</id>
+            <person-id>walker-robert-james</person-id>
+            <role-title-id>commissioner</role-title-id>
+            <contemporary-territory-id>china</contemporary-territory-id>
+            <appointed>
+                <date>1853-06-21</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during recess of the Senate. Commissioned to China. Declined
+                appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
             <id>cn--howa-01</id>
@@ -1317,12 +1351,12 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn--nels-01</id>
-            <person-id>nelson-thomas-ames-rogers</person-id>
-            <role-title-id>commissioner</role-title-id>
+            <id>cn-1891-blai-01</id>
+            <person-id>blair-henry-william</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1891-02-27</date>
                 <note/>
             </appointed>
             <started>
@@ -1333,14 +1367,61 @@
                 <date/>
                 <note/>
             </ended>
-            <note>1851 [Commissioner, China]</note>
+            <note>Commissioned to China. Took oath of office under recess appointment, but did not
+                proceed to post, the Government of China having objected to his appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cn-1897-brya-01</id>
+            <person-id>bryan-charles-page</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>china</contemporary-territory-id>
+            <appointed>
+                <date>1897-11-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office under recess appointment, but did not proceed to post;
+                nomination of January 5, 1898, was withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>cn-1909-cran-01</id>
+            <person-id>crane-charles-richard</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>china</contemporary-territory-id>
+            <appointed>
+                <date>1909-07-23</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

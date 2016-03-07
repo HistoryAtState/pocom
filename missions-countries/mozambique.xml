@@ -8,22 +8,22 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
             <appointed>
-                <date>1975</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1975-11-08</date>
                 <note/>
             </started>
             <ended>
-                <date>1976</date>
+                <date/>
                 <note/>
             </ended>
-            <note>Note: Embassy Lourenco Marques (now Maputo) was opened Nov 8, 1975, with Johnnie Carson as Chargé d’Affaires ad interim.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-10-01</last-modified-date>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mz-1976-de-01</id>
@@ -47,6 +47,29 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>mz-1980-twad-01</id>
+            <person-id>twaddell-william-h</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mozambique</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1980-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1983-11</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-19</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mz-1983-de-01</id>
@@ -134,11 +157,34 @@
                 <date>1996-07-20</date>
                 <note>Left post.</note>
             </ended>
-            <note>P. Michael McKinley served as Chargé d’Affaires ad interim, Jul 1996-Dec 1997.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>mz-1996-mcki-01</id>
+            <person-id>mckinley-peter-michael</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mozambique</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1996-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1997-12</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mz-1997-curr-01</id>
@@ -203,11 +249,57 @@
                 <date>2006-06-21</date>
                 <note>Left post.</note>
             </ended>
-            <note>The U.S. Liaison Office in Windhoek opened Feb 24, 1984, with William H. Twaddell as Director and closed Feb 15, 1985. During this time the following officers served as Director: Dennis Whyte Keogh (Mar-Apr 1984), Howard Jeter (Apr-May 1984), and William L. Jacobsen, Jr. (May-Feb 1985). It reopened Jun 1, 1989, with Roger A. McGuire as Director. McGuire became Chargé d’Affaires ad interim when the Liaison Office was elevated to Embassy status on Mar 21, 1990.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-21</last-modified-date>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>mz-2006-dudl-01</id>
+            <person-id>dudley-james</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mozambique</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2006-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2007-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-19</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>mz-2007-chap-01</id>
+            <person-id>chapman-todd-c</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>mozambique</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2007-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2010-01</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-19</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>mz-2009-rowe-01</id>
@@ -255,29 +347,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>mz--mcki-01</id>
-            <person-id>mckinley-peter-michael</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>mozambique</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Note: served as Chargé d’Affaires ad interim, Jul 1996-Dec 1997.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-21</last-modified-date>
-        </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
             <id>mz--simc-01</id>
             <person-id>simcox-david-e</person-id>
@@ -295,14 +366,15 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination not acted upon by the Senate. William H. Twaddell served as Chargé d’Affaires ad interim.</note>
+            <note>Not commissioned; nomination not acted upon by the Senate. William H. Twaddell
+                served as Chargé d’Affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mz--stei-01</id>
+            <id>mz-2007-stei-01</id>
             <person-id>steiger-william-raymond</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -318,14 +390,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of January 10, 2007 not acted on by the Senate. The following officers served as Chargés d’Affaires ad interim: James Dudley (June 2006-July 2007), Todd C. Chapman (July 2007-Feb. 2010).</note>
+            <note>Nomination of January 10, 2007, was not acted on by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-03</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

@@ -13,17 +13,18 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1956-06-06</date>
-                <note/>
+                <note>Officially recognized on</note>
             </started>
             <ended>
                 <date>1956-10-04</date>
                 <note>Superseded</note>
             </ended>
-            <note>Neither commissioned nor accredited; designated effective Jun 5, 1956, on which date the Embassy in Tunis was established. Officially recognized on June 6, 1956.</note>
+            <note>Neither commissioned nor accredited; designated effective June 5, 1956, on which
+                date the Embassy in Tunis was established.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-18</last-modified-date>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tn-1956-jone-01</id>
@@ -39,15 +40,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Presented new credentials on Dec 9, 1957, when Tunisia
-                became a republic; left post Jun 11, 1959</note>
+                <date>1959-06-11</date>
+                <note>Left post.</note>
             </ended>
-            <note/>
+            <note>Presented new credentials on December 9, 1957, when Tunisia became a
+                republic.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>tn-1959-walm-01</id>
@@ -362,14 +363,14 @@
                 <note/>
             </started>
             <ended>
-                <date>2006-04-14</date>
+                <date>2006-07-21</date>
                 <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
             <id>tn-2006-gode-01</id>
@@ -440,6 +441,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
             <id>tn--schl-01</id>
             <person-id>schlicher-ronald-lewis</person-id>
@@ -463,8 +466,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

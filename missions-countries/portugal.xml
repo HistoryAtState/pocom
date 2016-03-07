@@ -26,29 +26,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1796-adam-01</id>
-            <person-id>adams-john-quincy</person-id>
-            <role-title-id>minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>portugal</contemporary-territory-id>
-            <appointed>
-                <date>1796-05-30</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>pt-1797-smit-01</id>
             <person-id>smith-william-loughton</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
@@ -118,6 +95,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>pt-1820-appl-01</id>
+            <person-id>appleton-john-james</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>portugal</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1820-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1821-07-12</date>
+                <note>Appleton's last despatch was dated</note>
+            </ended>
+            <note>The Legation to Portugal at Rio de Janeiro was closed in 1821.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
             <id>pt-1822-dear-01</id>
             <person-id>dearborn-henry-sr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -134,11 +134,12 @@
                 <date>1824-06-30</date>
                 <note>Had farewell audience</note>
             </ended>
-            <note>Arrived at Lisbon before Aug 16, 1822; did not report date of presentation of credentials.</note>
+            <note>Arrived at Lisbon before August 16, 1822; did not report date of presentation of
+                credentials.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1825-bren-01</id>
@@ -157,11 +158,12 @@
                 <date>1834-11-28</date>
                 <note>Left post on or soon after</note>
             </ended>
-            <note>Reaccredited on after change of government; presented new credentials Jan 18, 1830.</note>
+            <note>Reaccredited after a change of government; presented new credentials on January
+                18, 1830.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1835-kava-01</id>
@@ -226,11 +228,12 @@
                 <date>1847-11-04</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 11, 1844.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 11, 1844,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1847-hopk-01</id>
@@ -256,29 +259,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1849-brow-01</id>
-            <person-id>brown-james</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>portugal</contemporary-territory-id>
-            <appointed>
-                <date>1849-08-01</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1849-10-18</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1850-08-19</date>
-                <note>Left post.</note>
-            </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 18, 1850.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>pt-1849-clay-01</id>
             <person-id>clay-james-brown</person-id>
             <role-title-id>charge-daffaires</role-title-id>
@@ -295,11 +275,12 @@
                 <date>1850-08-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 18, 1850.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 18, 1850,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1850-hadd-01</id>
@@ -338,10 +319,11 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1854-10-19</date>
                 <note>Promoted to Minister Resident</note>
             </ended>
-            <note>Nominated Feb 25, 1856, to be Envoy Extraordinary and Minister Plenipotentiary; nomination withdrawn before the Senate acted upon it.</note>
+            <note>Nominated Feb 25, 1856, to be Envoy Extraordinary and Minister Plenipotentiary;
+                nomination withdrawn before the Senate acted upon it.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -440,29 +422,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1870-cumb-01</id>
-            <person-id>cumback-william</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>portugal</contemporary-territory-id>
-            <appointed>
-                <date>1870-01-28</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>pt-1870-lewi-01</id>
             <person-id>lewis-charles-hance</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -526,29 +485,6 @@
                 <note>Recall presented by successor</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>pt-1882-fran-01</id>
-            <person-id>francis-john-morgan</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>portugal</contemporary-territory-id>
-            <appointed>
-                <date>1882-04-28</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post in capacity of Chargé d’Affaires.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -709,11 +645,12 @@
                 <date>1897-07-24</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on August 22, 1893,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-25</last-modified-date>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1897-town-01</id>
@@ -755,11 +692,12 @@
                 <date>1900-05-15</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 14, 1899.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 14, 1899,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1901-loom-01</id>
@@ -778,11 +716,12 @@
                 <date>1902-09-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1901.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1901,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1903-brya-01</id>
@@ -821,39 +760,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Normal relations interrupted Oct 5, 1910; new Government
-                of Portugal still unrecognized by the United States when Gage left post on Nov 19,
-                1910.</note>
+                <date>1910-10-05</date>
+                <note>Normal relations interrupted on</note>
             </ended>
-            <note/>
+            <note>The new Government of Portugal was still unrecognized by the United States when
+                Gage left post on NOvember 19, 1910.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>pt-1911-bout-01</id>
-            <person-id>boutell-henry-sherman</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>portugal</contemporary-territory-id>
-            <appointed>
-                <date>1911-03-02</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1911-morg-01</id>
@@ -1053,7 +968,7 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1944-06-20</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note>With the personal rank of Ambassador.</note>
@@ -1096,17 +1011,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1945-04-12</date>
-                <note/>
+                <note>Officially recognized as of</note>
             </started>
             <ended>
                 <date>1947-03-09</date>
                 <note>Left post.</note>
             </ended>
-            <note>Officially recognized as of Apr 12, 1945.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1947-wile-01</id>
@@ -1240,11 +1155,12 @@
                 <date>1963-08-31</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 29, 1959.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on Janaury 29, 1959,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1963-ande-01</id>
@@ -1431,52 +1347,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1986-flan-01</id>
-            <person-id>flanigan-alan-h</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>portugal</contemporary-territory-id>
-            <appointed>
-                <date>1986-12</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1987-08</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>pt-1987-egan-01</id>
-            <person-id>egan-wesley-william-jr</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>portugal</contemporary-territory-id>
-            <appointed>
-                <date>1987-08</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1988-01</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-14</last-modified-date>
-        </chief>
-        <chief>
             <id>pt-1988-rowe-01</id>
             <person-id>rowell-edward-morgan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -1493,7 +1363,8 @@
                 <date>1990-03-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on May 12, 1988.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on May 12, 1988, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1516,11 +1387,34 @@
                 <date>1993-09-03</date>
                 <note>Left post.</note>
             </ended>
-            <note>Sharon P. Wilkinson served as Chargé d’Affaires ad interim, Sep 1993-Sep 1994.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-09-08</last-modified-date>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>pt-1993-wilk-01</id>
+            <person-id>wilkinson-sharon-p</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>portugal</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1994-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>pt-1994-bagl-01</id>
@@ -1661,12 +1555,37 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>pt--viet-01</id>
-            <person-id>viets-richard-noyes</person-id>
+            <id>pt-2014-sher-01</id>
+            <person-id>sherman-robert-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
             <appointed>
+                <date>2014-03-04</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2014-05-03</date>
+                <note/>
+            </started>
+            <ended>
                 <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2014-07-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-07-13</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees>
+        <chief>
+            <id>pt-1796-adam-01</id>
+            <person-id>adams-john-quincy</person-id>
+            <role-title-id>minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>portugal</contemporary-territory-id>
+            <appointed>
+                <date>1796-05-30</date>
                 <note/>
             </appointed>
             <started>
@@ -1677,7 +1596,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of Sep 15, 1987, not acted upon by the Senate. An earlier nomination of Jan 21, 1987, was also not acted upon by the Senate. Alan Flanigan (Dec 1986-Aug 1987) and Wesley W. Egan (Aug 1987-Jan 1988) served as Chargé d’Affaires ad interim.</note>
+            <note>Did not serve under this appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1700,34 +1619,105 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination to be Chargé d’Affaires at Rio de Janeiro rejected by the Senate. Appleton, however, served as Chargé d’Affaires ad interim from Jun 1820 until the Legation to Portugal at Rio de Janeiro was closed in 1821 (his last dispatch dated Jul 12, 1821).</note>
+            <note>Not commissioned; nomination to be Chargé d’Affaires at Rio de Janeiro rejected by
+                the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt--sher-01</id>
-            <person-id>sherman-robert-a</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
+            <id>pt-1856-osul-01</id>
+            <person-id>osullivan-john-louis</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
             <appointed>
-                <date>2014-03-04</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date>2014-05-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note>Nomination of February 25, 1856, withdrawn before the Senate acted upon it.</note>
             <created-by>marrsaw</created-by>
-            <created-date>2014-07-22</created-date>
+            <created-date>2016-01-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>pt-1870-cumb-01</id>
+            <person-id>cumback-william</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>portugal</contemporary-territory-id>
+            <appointed>
+                <date>1870-01-28</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>pt-1882-fran-01</id>
+            <person-id>francis-john-morgan</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>portugal</contemporary-territory-id>
+            <appointed>
+                <date>1882-04-28</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post in capacity of Chargé
+                d’Affaires.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>pt-1911-bout-01</id>
+            <person-id>boutell-henry-sherman</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>portugal</contemporary-territory-id>
+            <appointed>
+                <date>1911-03-02</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
             <id>pt--nich-01</id>
@@ -1752,8 +1742,30 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>pt-1987-viet-01</id>
+            <person-id>viets-richard-noyes</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>portugal</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of September 15, 1987, was not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

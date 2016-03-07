@@ -19,11 +19,12 @@
                 <date>1832-10-15</date>
                 <note>Left post on or soon after</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 3, 1832.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 3, 1832,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-22</last-modified-date>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
             <id>xg-1838-thro-01</id>
@@ -118,6 +119,102 @@
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
         <chief>
+            <id>xg-1850-morr-01</id>
+            <person-id>morris-edward-joy</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
+            <appointed>
+                <date>1850-01-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1850-04-04</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1853-08-25</date>
+                <note>Transmitted recall by note</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-07-22</last-modified-date>
+        </chief>
+        <chief>
+            <id>xg-1853-owen-01</id>
+            <person-id>owen-robert-dale</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
+            <appointed>
+                <date>1853-05-24</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1853-10-22</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1854-09-20</date>
+                <note>Promoted to Minister Resident</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>xg-1854-owen-01</id>
+            <person-id>owen-robert-dale</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
+            <appointed>
+                <date>1854-06-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1854-09-20</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1858-09-20</date>
+                <note>Presented recall</note>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 8, 1854,
+                after confirmation.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>xg-1858-chan-01</id>
+            <person-id>chandler-joseph-ripley</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
+            <appointed>
+                <date>1858-06-15</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1858-09-20</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1860-11-06</date>
+                <note>Closed the Legation at Naples in anticipation of the entry of King Victor
+                    Emmanuel into city, November 2-</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees>
+        <chief>
             <id>xg-1849-chin-01</id>
             <person-id>chinn-thomas-withers</person-id>
             <role-title-id>charge-daffaires</role-title-id>
@@ -164,81 +261,12 @@
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>xg-1850-morr-01</id>
-            <person-id>morris-edward-joy</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
-            <appointed>
-                <date>1850-01-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1850-04-04</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1853-08-25</date>
-                <note>Transmitted recall by note</note>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-22</last-modified-date>
-        </chief>
-        <chief>
-            <id>xg-1853-owen-01</id>
-            <person-id>owen-robert-dale</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
-            <appointed>
-                <date>1853-05-24</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1853-10-22</date>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note>Promoted to Minister Resident</note>
-            </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Feb 8, 1854.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-22</last-modified-date>
-        </chief>
-        <chief>
-            <id>xg-1854-owen-01</id>
-            <person-id>owen-robert-dale</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
-            <appointed>
-                <date>1854-06-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1854-09-20</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1858-09-20</date>
-                <note>Presented recall</note>
-            </ended>
-            <note>Nominated Feb 25, 1856 to be Envoy Extraordinary and Minister Plenipotentiary; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-22</last-modified-date>
-        </chief>
-        <chief>
             <id>xg-1856-owen-01</id>
             <person-id>owen-robert-dale</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
             <appointed>
-                <date>1856-02-25</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -249,38 +277,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nominated Feb 25, 1856 to be Envoy Extraordinary and Minister Plenipotentiary; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
+            <note>Nomination of February 25, 1856, withdrawn before the Senate acted upon it.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-22</last-modified-date>
+            <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>xg-1858-chan-01</id>
-            <person-id>chandler-joseph-ripley</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
-            <appointed>
-                <date>1858-06-15</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1858-09-20</date>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note>Closed the Legation at Naples in anticipation of the
-                entry of King Victor Emmanuel into city, Nov 2-6, 1860</note>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-22</last-modified-date>
-        </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

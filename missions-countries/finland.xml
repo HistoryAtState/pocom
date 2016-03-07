@@ -19,11 +19,11 @@
                 <date>1922-02-17</date>
                 <note>Superseded</note>
             </ended>
-            <note>Not commissioned; letter of credence dated Mar 13, 1920.</note>
+            <note>Not commissioned; letter of credence dated March 13, 1920.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>fi-1921-kage-01</id>
@@ -49,29 +49,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>fi-1925-stet-01</id>
-            <person-id>stetson-john-batterson</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>finland</contemporary-territory-id>
-            <appointed>
-                <date>1925-05-07</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate. Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>fi-1925-pear-01</id>
             <person-id>pearson-alfred-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -88,11 +65,12 @@
                 <date>1930-04-30</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1925.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 17, 1925,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>fi-1930-brod-01</id>
@@ -134,11 +112,12 @@
                 <date>1937-04-12</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 15, 1934.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 15, 1934,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>fi-1937-scho-01</id>
@@ -157,11 +136,58 @@
                 <date>1942-12-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Edmund A. Gullion was serving as Chargé d’Affaires ad interim when the United States severed diplomatic relations with Finland, Jun 30, 1944. The Legation in Helsinki was reestablished Sep 1, 1945, with Benjamin M. Hulley as Chargé d’Affaires ad interim.</note>
+            <note>The Legation in Helsinki was reestablished Sep 1, 1945, with Benjamin M. Hulley as
+                Chargé d’Affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>fi--gull-01</id>
+            <person-id>gullion-edmund-asbury</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>finland</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1944-06-30</date>
+                <note>The United States severed diplomatic relations with Finland on</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-07</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
+        </chief>
+        <chief>
+            <id>fi-1945-hull-01</id>
+            <person-id>hulley-benjamin-mayham</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>finland</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1945-09-01</date>
+                <note>Legation in Helsinki reestablished on</note>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>fi-1945-hami-01</id>
@@ -246,14 +272,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1954-09-17</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on May 1, 1953.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on May 1, 1953, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>fi-1954-mcfa-01</id>
@@ -272,11 +299,13 @@
                 <date>1955-09-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 3, 1954. The Legation in Helsinki was raised to Embassy status on Sep 10, 1954.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 3, 1954,
+                after confirmation. The Legation in Helsinki was raised to Embassy status on
+                September 10, 1954.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>fi-1955-hick-01</id>
@@ -295,11 +324,12 @@
                 <date>1959-11-03</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 25, 1956.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 25, 1956,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>fi-1959-sess-01</id>
@@ -318,11 +348,12 @@
                 <date>1960-11-20</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 21, 1960.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 21, 1960,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>fi-1961-gufl-01</id>
@@ -752,14 +783,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2015-07-25</date>
                 <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-03</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-04-03</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
             <id>fi--adam-01</id>
@@ -767,30 +798,33 @@
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date></date>
+                <date/>
                 <note/>
             </started>
             <ended>
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of July 17, 2014, not acted upon by the Senate. Re-nominated February 12, 2015.</note>
+            <note>Nomination of July 17, 2014, not acted upon by the Senate. Re-nominated February
+                12, 2015.</note>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
-            <id>fi--hull-01</id>
-            <person-id>hulley-benjamin-mayham</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <id>fi-1925-stet-01</id>
+            <person-id>stetson-john-batterson</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>1925-05-07</date>
                 <note/>
             </appointed>
             <started>
@@ -801,14 +835,14 @@
                 <date/>
                 <note/>
             </ended>
-            <note>The Legation in Helsinki was reestablished Sep 1, 1945, with Benjamin M. Hulley as Chargé d’Affaires ad interim.</note>
+            <note>Commissioned during a recess of the Senate. Took oath of office, but did not
+                proceed to post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

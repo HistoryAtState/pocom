@@ -3,52 +3,6 @@
     <territory-id>russia</territory-id>
     <chiefs>
         <chief>
-            <id>ru-1780-dana-01</id>
-            <person-id>dana-francis</person-id>
-            <role-title-id>minister</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date>1780-12-19</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Proceeded to post but was not officially received at court; left post Sep 1783.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ru-1808-shor-01</id>
-            <person-id>short-william</person-id>
-            <role-title-id>minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date>1808-09-08</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate. Did not proceed to post his nomination having been rejected by the Senate while he was en route.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>ru-1809-adam-01</id>
             <person-id>adams-john-quincy</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
@@ -65,34 +19,11 @@
                 <date>1814-04-28</date>
                 <note>Left post.</note>
             </ended>
-            <note>Nomination of Mar 6, 1809 rejected by the Senate; nomination of Jun 26, 1809 confirmed.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ru-1815-baya-01</id>
-            <person-id>bayard-james-asheton</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date>1815-02-28</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1816-pink-01</id>
@@ -164,29 +95,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ru-1830-rand-01</id>
-            <person-id>randolph-john</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date>1830-05-26</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Proceeded to post but did not present credentials; left post Sep 19, 1830.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>ru-1832-buch-01</id>
             <person-id>buchanan-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -204,29 +112,6 @@
                 <note>Presented recall</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ru-1834-dick-01</id>
-            <person-id>dickerson-mahlon</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date>1834-05-28</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -308,7 +193,7 @@
             <contemporary-territory-id>russia</contemporary-territory-id>
             <appointed subtype="bracketed">
                 <date>1840-05-25</date>
-                <note/>
+                <note>Commission not of record; letter of credence issued on</note>
             </appointed>
             <started>
                 <date>1840-09-21</date>
@@ -318,11 +203,11 @@
                 <date>1841-07-13</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned not of record; letter of credence issued on May 25, 1840.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1841-todd-01</id>
@@ -433,11 +318,12 @@
                 <date>1858-07-17</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 6, 1853.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 6, 1853,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1858-pick-01</id>
@@ -617,11 +503,12 @@
                 <date>1874-07-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 10, 1873.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 10, 1873,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1875-boke-01</id>
@@ -755,11 +642,12 @@
                 <date>1888-08-01</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 13, 1886.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 13, 1886,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1888-tree-01</id>
@@ -779,29 +667,6 @@
                 <note>Left post.</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ru-1889-rice-01</id>
-            <person-id>rice-charles-allen-thorndike</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date>1889-03-30</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but died in the United States before proceeding to post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -864,17 +729,17 @@
             </appointed>
             <started subtype="bracketed">
                 <date>1894-11-01</date>
-                <note/>
+                <note>Officially recognized on</note>
             </started>
             <ended>
                 <date>1897-12-10</date>
                 <note>Probably presented recall about</note>
             </ended>
-            <note>Officially recognized on Nov 1, 1894.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1897-hitc-01</id>
@@ -890,14 +755,15 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>1898-03-21</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 18, 1897.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 18, 1897,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1898-hitc-01</id>
@@ -962,11 +828,12 @@
                 <date>1905-03-27</date>
                 <note>Presented recall</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on December 8, 1902.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 8, 1902,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1905-meye-01</id>
@@ -1061,29 +928,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ru-1914-pind-01</id>
-            <person-id>pindell-henry-means</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date>1914-01-27</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>ru-1914-mary-01</id>
             <person-id>marye-george-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -1120,16 +964,38 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Normal relations interrupted, Nov 7, 1917; new
-                Government of Russia still unrecognized by the United States when Francis left
-                Russia on Nov 7, 1918</note>
+                <date>1917-11-07</date>
+                <note>Normal relations interrupted on</note>
             </ended>
-            <note>Felix Cole was serving as Chargé d’Affaires ad interim when the Embassy in Russia was closed on Sep 14, 1919.</note>
+            <note>The new Government of Russia was still unrecognized by the United States when
+                Francis left Russia on November 7, 1918.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ru-1919-cole-01</id>
+            <person-id>cole-felix</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1919-09-14</date>
+                <note>Embassy in Russia closed on</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1933-bull-01</id>
@@ -1148,11 +1014,12 @@
                 <date>1936-05-16</date>
                 <note>Left Russia</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 15, 1934. Commissioned to the Union of Soviet Socialist Republics.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 15, 1934,
+                after confirmation. Commissioned to the Union of Soviet Socialist Republics.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1936-davi-01</id>
@@ -1171,11 +1038,12 @@
                 <date>1938-06-11</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 23, 1937. Commissioned to the Union of Soviet Socialist Republics.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 23, 1937,
+                after confirmation. Commissioned to the Union of Soviet Socialist Republics.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1939-stei-01</id>
@@ -1309,11 +1177,13 @@
                 <date>1952-09-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to the Union of Soviet Socialist Republics. The Government of the Soviet Union declared Kennan persona non grata on Oct 3, 1952, and he did not return to his post.</note>
+            <note>Commissioned to the Union of Soviet Socialist Republics. The Government of the
+                Soviet Union declared Kennan persona non grata on October 3, 1952, and he did not
+                return to his post.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1953-bohl-01</id>
@@ -1424,11 +1294,34 @@
                 <date>1973-01-24</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to the Union of Soviet Socialist Republics. Adolph Dubs served as Chargé d’Affaires ad interim, Jan 1973-Mar 1974.</note>
+            <note>Commissioned to the Union of Soviet Socialist Republics.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ru-1973-dubs-01</id>
+            <person-id>dubs-adolph</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1973-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1974-03</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1973-stoe-01</id>
@@ -1470,11 +1363,12 @@
                 <date>1979-10-16</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jun 8, 1977. Commissioned to the Union of Soviet Socialist Republics.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on June 8, 1977, after
+                confirmation. Commissioned to the Union of Soviet Socialist Republics.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-25</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1979-wats-01</id>
@@ -1562,11 +1456,13 @@
                 <date>1992-11-19</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned to the Union of Soviet Socialist Republics. Continued to serve as Ambassador to the Russian Federation after the dissolution of the Soviet Union. The United States recognized the Russian Federation as the successor to the Soviet Union on Dec 25, 1991, and established diplomatic relations with it on Jan 3, 1992.</note>
+            <note>Commissioned to the Union of Soviet Socialist Republics. Continued to serve as
+                Ambassador to the Russian Federation after the dissolution of the Soviet
+                Union.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-03-24</last-modified-date>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1993-pick-01</id>
@@ -1585,11 +1481,11 @@
                 <date>1996-11-01</date>
                 <note>Left post.</note>
             </ended>
-            <note>The following officers served as Chargés d’Affaires ad interim: Richard M. Miles (Nov 1996-May 1997), and John F. Tefft (May 1997-Jan 1998).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2011-05-26</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
             <id>ru-1996-coll-01</id>
@@ -1720,14 +1616,134 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-nominees>
+        <chief>
+            <id>ru-1780-dana-01</id>
+            <person-id>dana-francis</person-id>
+            <role-title-id>minister</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date>1780-12-19</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Proceeded to post but was not officially received at court; left post in September
+                1783.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ru-1808-shor-01</id>
+            <person-id>short-william</person-id>
+            <role-title-id>minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date>1808-09-08</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Did not proceed to post, his
+                nomination having been rejected by the Senate while he was en route.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ru-1815-baya-01</id>
+            <person-id>bayard-james-asheton</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date>1815-02-28</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ru-1830-rand-01</id>
+            <person-id>randolph-john</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date>1830-05-26</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Proceeded to post but did not present credentials; left post on September 19,
+                1830.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ru-1834-dick-01</id>
+            <person-id>dickerson-mahlon</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date>1834-05-28</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
             <id>ru--daws-01</id>
@@ -1747,29 +1763,6 @@
                 <note/>
             </ended>
             <note>Not commissioned; nomination rejected by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ru--lawt-01</id>
-            <person-id>lawton-alexander-robert</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1821,8 +1814,77 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>ru--lawt-01</id>
+            <person-id>lawton-alexander-robert</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ru-1889-rice-01</id>
+            <person-id>rice-charles-allen-thorndike</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date>1889-03-30</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but died in the United States before proceeding to
+                post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ru-1914-pind-01</id>
+            <person-id>pindell-henry-means</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date>1914-01-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

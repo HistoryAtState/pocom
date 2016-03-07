@@ -3,6 +3,29 @@
     <territory-id>burma</territory-id>
     <chiefs>
         <chief>
+            <id>bu-1947-pack-01</id>
+            <person-id>packer-earl-lenoir</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>burma</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1947-09-19</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-20</last-modified-date>
+        </chief>
+        <chief>
             <id>bu-1947-hudd-01</id>
             <person-id>huddle-jerome-klahr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -19,11 +42,12 @@
                 <date>1949-11-28</date>
                 <note>Relinquished charge</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 9, 1947. Embassy Rangoon was established Sep 19, 1947, with Earl L. Packer as Chargé d’Affaires ad interim.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 9, 1947,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-20</last-modified-date>
         </chief>
         <chief>
             <id>bu-1950-key-01</id>
@@ -134,11 +158,12 @@
                 <date>1961-05-04</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 21, 1960.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 21, 1960,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-20</last-modified-date>
         </chief>
         <chief>
             <id>bu-1961-ever-01</id>
@@ -196,8 +221,8 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
-                <note>Oct. 1968</note>
+                <date>1968-10-11</date>
+                <note/>
             </started>
             <ended>
                 <date>1971-07-22</date>
@@ -206,8 +231,8 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-20</last-modified-date>
         </chief>
         <chief>
             <id>bu-1971-mart-01</id>
@@ -353,7 +378,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -387,7 +412,7 @@
                 <date>1996-10</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -410,7 +435,7 @@
                 <date>1999-05</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-09</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -433,7 +458,7 @@
                 <date>2002-07</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-09</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -456,7 +481,7 @@
                 <date>2005-08</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-09</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -468,7 +493,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -491,7 +516,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -531,52 +556,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>bu--pack-01</id>
-            <person-id>packer-earl-lenoir</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>burma</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Embassy Rangoon was established Sep 19, 1947, with Earl L. Packer as Chargé d’Affaires ad interim.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>bu--borg-01</id>
-            <person-id>borg-parker-w</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>burma</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of Jul 22, 1991, not acted upon by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
             <id>bu--vree-01</id>
             <person-id>vreeland-frederick</person-id>
@@ -600,8 +581,30 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees/>
+        <chief>
+            <id>bu-1991-borg-01</id>
+            <person-id>borg-parker-w</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>burma</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of July 22, 1991, not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-20</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

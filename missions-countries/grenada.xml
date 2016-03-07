@@ -19,11 +19,11 @@
                 <date>1977-04-22</date>
                 <note>Left Bridgetown</note>
             </ended>
-            <note>Accredited also to Barbados; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>gd-1977-orti-01</id>
@@ -42,11 +42,12 @@
                 <date>1979-05-15</date>
                 <note>Left Bridgetown</note>
             </ended>
-            <note>Accredited also to Barbados and Special Representative to Antigua, Dominica, St. Christopher-Nevis-Anguilla, St. Lucia, and St. Vincent, resident at Bridgetown.</note>
+            <note>Also Special Representative to Antigua, Dominica, St. Christopher-Nevis-Anguilla,
+                St. Lucia, and St. Vincent.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-15</last-modified-date>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>gd-1979-shel-01</id>
@@ -65,11 +66,169 @@
                 <date>1981-02-24</date>
                 <note>Left Bridgetown</note>
             </ended>
-            <note>Accredited also to Barbados and Dominica; Minister to St. Lucia and Special Representative to Antigua, St. Christopher-Nevis-Anguilla, and St. Vincent; resident at Bridgetown. Embassy St. Georges was established Feb 2, 1984, with Charles A. Gillespie as Chargé d’Affaires ad interim. The following officers have since served in this capacity: Loren E. Lawrence (Mar 1984-Dec 1984), Roy T. Haverkamp (Dec 1984-Mar 1986), John C. Leary (Mar 1986-May 1988), and James Ford Cooper (Jun 1988-Jan 1991), Annette T. Veler (Jul 1991-Jul 1993), Ollie P. Anderson, Jr. (Sep 1993- Sep 1994), and Dennis F. Carter (Dec 1994-Mar 1995). Principal officers have been designated Chargé d’Affaires since Jan 9 1987.</note>
+            <note>Also Special Representative to Antigua, St. Christopher-Nevis-Anguilla, and St.
+                Vincent. Loren E. Lawrence (Mar 1984-Dec 1984), Roy T. Haverkamp (Dec 1984-Mar
+                1986), John C. Leary (Mar 1986-May 1988), and James Ford Cooper (Jun 1988-Jan 1991),
+                Annette T. Veler (Jul 1991-Jul 1993), Ollie P. Anderson, Jr. (Sep 1993- Sep 1994),
+                and Dennis F. Carter (Dec 1994-Mar 1995). Principal officers have been designated
+                Chargé d’Affaires since Jan 9 1987.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <mission-note>
+            <text>Embassy St. Georges was established on February 2, 1984.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </mission-note>
+        <chief>
+            <id>gd-1984-gill-01</id>
+            <person-id>gillespie-charles-a</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>grenada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1984-02-02</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </chief>
+        <chief>
+            <id>gd-1984-have-01</id>
+            <person-id>haverkamp-roy-t</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>grenada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1984-12</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1986-03</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </chief>
+        <chief>
+            <id>gd-1986-lear-01</id>
+            <person-id>leary-john-charles</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>grenada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1986-03</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1988-05</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </chief>
+        <mission-note>
+            <text>Beginning January 9, 1987, Chiefs of Mission were designated Chargés
+                d’Affaires.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </mission-note>
+        <chief>
+            <id>gd-1988-coop-01</id>
+            <person-id>cooper-james-ford</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>grenada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1988-06</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1991-01</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </chief>
+        <chief>
+            <id>gd-1991-vele-01</id>
+            <person-id>veler-annette-t</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>grenada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1991-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1993-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </chief>
+        <chief>
+            <id>gd-1993-ande-01</id>
+            <person-id>anderson-ollie-p-jr</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>grenada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-09</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1994-09</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>gd-1995-hyde-01</id>
@@ -88,11 +247,11 @@
                 <date>1998-01-31</date>
                 <note>Left Bridgetown</note>
             </ended>
-            <note>Also accredited to Barbados, Dominica, Antigua/Barbuda, St. Kitts/Nevis, St. Lucia, and St. Vincent and the Grenadines; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>gd-1998-crot-01</id>
@@ -111,11 +270,11 @@
                 <date>1999-10-10</date>
                 <note>Died at Gainesville, Florida</note>
             </ended>
-            <note>Also accredited to Barbados, Dominica, Antigua/Barbuda, St. Kitts/Nevis, St. Lucia, and St. Vincent and the Grenadines; resident at Bridgetown.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>gd-2000-dale-01</id>
@@ -134,11 +293,12 @@
                 <date>2001-03-01</date>
                 <note>Left Bridgetown</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; a second nomination of Sep 28, 2000 was not acted upon by the Senate. Also accredited to Barbados, Dominica, Antigua/Barbuda, St. Kitts/Nevis, St. Lucia, and St. Vincent and the Grenadines; resident at Bridgetown.</note>
+            <note>Commissioned during a recess of the Senate; a second nomination of September 28,
+                2000, was not acted upon by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>gd-2002-phil-01</id>
@@ -155,13 +315,13 @@
             </started>
             <ended>
                 <date>2003-06-01</date>
-                <note>Left post.</note>
+                <note>Left Bridgetown</note>
             </ended>
-            <note>Also accredited to Antigua/Barbuda, Barbados, Dominica, St. Kitts/Nevis, St. Lucia, and St. Vincent, and the Grenadines.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>gd-2003-kram-01</id>
@@ -177,14 +337,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2006-10-30</date>
+                <note>Left Bridgetown</note>
             </ended>
-            <note>Also accredited to Antigua/Barbuda, Barbados, Dominica, St. Kitts/Nevis, St. Lucia, and St. Vincent, and the Grenadines.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>gd-2006-ouri-01</id>
@@ -203,11 +363,34 @@
                 <date>2009-01-16</date>
                 <note>Left Bridgetown</note>
             </ended>
-            <note>Also accredited to Antigua/Barbuda, Barbados, Dominica, St. Kitts/Nevis, St. Lucia, and St. Vincent, and the Grenadines. The following officers served as Chargés d’Affaires ad interim: Brent Hardt (Jan. 2009-June 2011), Christopher Sandrolini (June 2011-May 2012).</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </chief>
+        <chief>
+            <id>gd-2009-hard-01</id>
+            <person-id>hardt-d-brent</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>grenada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2009-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2011-06</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
             <id>gd-2012-palm-01</id>
@@ -226,103 +409,11 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Also accredited to Antigua/Barbuda, Barbados, Dominica, St. Kitts/Nevis, St. Lucia, and St. Vincent and the Grenadines.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2015-07-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gd--have-01</id>
-            <person-id>haverkamp-roy-t</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>grenada</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Dec 1984-Mar 1986)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gd--lear-01</id>
-            <person-id>leary-john-charles</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>grenada</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Mar 1986-May 1988)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gd--lear-02</id>
-            <person-id>leary-john-charles</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>grenada</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Mar 1986-May 1988)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gd--coop-01</id>
-            <person-id>cooper-james-ford</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>grenada</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>(Jun 1988-Jan 1991)</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
