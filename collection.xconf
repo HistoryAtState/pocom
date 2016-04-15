@@ -9,7 +9,7 @@
         <range>
             <create qname="category" type="xs:string"/>
             <create qname="class" type="xs:string"/>
-            <create qname="date" type="xs:string"/>
+            <create qname="date" type="xs:date"/>
             <create qname="id" type="xs:string"/>
             <create qname="person-id" type="xs:string"/>
             <create qname="value" type="xs:string"/>
