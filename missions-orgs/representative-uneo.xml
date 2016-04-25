@@ -277,6 +277,14 @@
                 <date>1993-11-04</date>
                 <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -290,6 +298,14 @@
                 <date>1997-11-18</date>
                 <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -341,11 +357,19 @@
             <id>uneo--kenn</id>
             <person-id>kennedy-patrick-francis</person-id>
             <role-title-id>representative-uneo</role-title-id>
-            <appointed subtype="see-note">
+            <appointed>
+                <date/>
+                <note>Nomination of Feb. 24, 2000, not acted upon by the Senate.</note>
+            </appointed>
+            <started>
                 <date/>
                 <note/>
-            </appointed>
-            <note>Nomination of Feb. 24, 2000, not acted upon by the Senate.</note>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>

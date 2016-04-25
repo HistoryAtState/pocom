@@ -254,6 +254,14 @@
                 <date>1993-08-02</date>
                 <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
             <note>Title changed to Representative to the European Union on May 9, 1994.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
@@ -289,10 +297,14 @@
                 <date>1999-07-07</date>
                 <note/>
             </appointed>
-            <odd-ball-apointmentterminated>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
                 <date>2001-09-21</date>
                 <note/>
-            </odd-ball-apointmentterminated>
+            </ended>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
