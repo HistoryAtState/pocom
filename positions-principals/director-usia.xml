@@ -295,14 +295,36 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note>Jan 1993</note>
+                <date>1993-01-19</date>
+                <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-03-28</last-modified-date>
+            <last-modified-by>eckrothsl</last-modified-by>
+            <last-modified-date>2016-06-09</last-modified-date>
+        </principal>
+        <principal>
+            <id>usia-1993-duffey</id>
+            <person-id>duffey-joseph-daniel</person-id>
+            <role-title-id>director-usia</role-title-id>
+            <appointed>
+                <date>1993-05-25</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1993-05-25</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1999-06-30</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>eckrothsl</last-modified-by>
+            <last-modified-date>2016-06-09</last-modified-date>
         </principal>
     </principals>
     <other-appointees/>
