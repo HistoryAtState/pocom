@@ -13,20 +13,20 @@
     <pattern>
         <rule context="person-id">
             <assert test="matches(., '^[a-z-]+\d?$')">The person-id “<value-of select="."/>” should only contain lower-case letters and hyphens, with an optional digit as the last character</assert>
-            <assert test="doc-available(concat('../data/people/', substring(., 1, 1), '/', ., '.xml'))">The person-id “<value-of select="."/>” was not found in the people collection.</assert>
+            <assert test="doc-available(concat('../people/', substring(., 1, 1), '/', ., '.xml'))">The person-id “<value-of select="."/>” was not found in the people collection.</assert>
             <!--<assert test="doc(concat('http://localhost:8080/services/check-person-id?person-id=', .))/result/is-valid = 'true'">The person-id “<value-of select="."/>” was not found in the database.</assert>-->
         </rule>
     </pattern>
     <pattern>
         <rule context="locale-id">
-            <!-- NOTE: THIS PATH TO GSH ASSUMES THAT GSH APP IS THE SAME DIRECTORY AS PAHO-TRUNK -->
-            <assert test=". = root(.)/country-mission/territory-id or doc-available(concat('../../../../../../gsh/data/locales/', ., '.xml'))">The locale-id “<value-of select="."/>” was not found in the gsh locales collection.</assert>
+            <!-- NOTE: THIS PATH TO GSH ASSUMES THAT GSH APP IS IN THE HSG-PROJECT REPOS DIRECTORY -->
+            <assert test=". = root(.)/country-mission/territory-id or doc-available(concat('../../gsh/data/locales/', ., '.xml'))">The locale-id “<value-of select="."/>” was not found in the gsh locales collection.</assert>
         </rule>
     </pattern>
     <pattern>
         <rule context="contemporary-territory-id">
-            <!-- NOTE: THIS PATH TO GSH ASSUMES THAT GSH APP IS THE SAME DIRECTORY AS PAHO-TRUNK -->
-            <assert test="doc-available(concat('../../../../../../gsh/data/territories/', ., '.xml'))">The contemporary-territory-id “<value-of select="."/>” was not found in the gsh territory collection.</assert>
+            <!-- NOTE: THIS PATH TO GSH ASSUMES THAT GSH APP IS IN THE HSG-PROJECT REPOS DIRECTORY -->
+            <assert test="doc-available(concat('../../gsh/data/territories/', ., '.xml'))">The contemporary-territory-id “<value-of select="."/>” was not found in the gsh territory collection.</assert>
         </rule>
     </pattern>
     <pattern>
