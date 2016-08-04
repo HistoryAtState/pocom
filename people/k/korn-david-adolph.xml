@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>korn-david-adolph</id>
+    <old-ids>
+        <old-id>korn-david-a</old-id>
+    </old-ids>
     <persName>
         <surname>Korn</surname>
         <forename>David Adolph</forename>
@@ -13,6 +16,6 @@
     </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>
-    <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2015-03-04</last-modified-date>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-date>2016-08-04</last-modified-date>
 </person>
