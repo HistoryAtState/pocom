@@ -1106,16 +1106,39 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2015-09-30</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-    </chiefs>
+        <chief>
+            <id>ec-2015-chap-01</id>
+            <person-id>chapman-todd-c</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>ecuador</contemporary-territory-id>
+            <appointed>
+                <date>2015-12-15</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2016-04-14</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
+        </chief>
+            </chiefs>
     <other-nominees>
         <chief>
             <id>ec-1856-whit-01</id>

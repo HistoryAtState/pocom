@@ -160,7 +160,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -168,7 +168,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>
@@ -194,7 +194,7 @@
                 <date>1994-07-08</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -286,7 +286,8 @@
                 <date>2007-12-17</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. Re-nominated on September 6, 2004, but this nomination was returned to the President after Congress adjourned.</note>
+            <note>Commissioned during a recess of the Senate. Re-nominated on September 6, 2004, but
+                this nomination was returned to the President after Congress adjourned.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -352,14 +353,37 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2015-09-28</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2016-08-24</last-modified-date>
+        </chief>
+        <chief>
+            <id>ew-2015-melv-01</id>
+            <person-id>melville-james-desmond-jr</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>estonia</contemporary-territory-id>
+            <appointed>
+                <date>2015-08-07</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2015-12-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

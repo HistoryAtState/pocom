@@ -180,7 +180,7 @@
                 <date>2000-05-28</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -203,7 +203,7 @@
                 <date>2003-08-01</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -226,7 +226,7 @@
                 <date>2006-10-02</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -249,7 +249,7 @@
                 <date>2009-07-11</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -272,7 +272,7 @@
                 <date>2012-10-06</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-03</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -292,14 +292,37 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2016-01-22</date>
+                <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2013-09-27</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-12-01</last-modified-date>
+            <last-modified-date>2016-08-24</last-modified-date>
+        </chief>
+        <chief>
+            <id>pg-2015-eber-01</id>
+            <person-id>ebert-gray-catherine</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>papua-new-guinea</contemporary-territory-id>
+            <appointed>
+                <date>2015-12-15</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2016-02-23</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees> </other-nominees>

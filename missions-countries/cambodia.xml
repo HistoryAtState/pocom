@@ -412,16 +412,39 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2015-08-14</date>
+                <note>Left post</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-    </chiefs>
+        <chief>
+            <id>kh-2015-heid-01</id>
+            <person-id>heidt-william-a</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>cambodia</contemporary-territory-id>
+            <appointed>
+                <date>2015-08-07</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2015-12-02</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
+        </chief>
+            </chiefs>
     <other-nominees>
         <chief>
             <id>kh-1964-kidd-01</id>

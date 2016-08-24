@@ -19,13 +19,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-                <chief>
+        <chief>
             <id>sr-1976-zurh-01</id>
             <person-id>zurhellen-joseph-owen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -42,7 +42,7 @@
                 <date>1978-06-02</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -338,14 +338,37 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2015-10-02</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
+        </chief>
+        <chief>
+            <id>sr-2015-nola-01</id>
+            <person-id>nolan-edwin-r</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>suriname</contemporary-territory-id>
+            <appointed>
+                <date>2015-10-26</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2016-01-11</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

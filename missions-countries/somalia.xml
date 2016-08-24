@@ -8,7 +8,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>somalia</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -25,7 +25,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-27</last-modified-date>
         </chief>
-                <chief>
+        <chief>
             <id>so-1960-lync-02</id>
             <person-id>lynch-andrew-green</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -65,7 +65,8 @@
                 <date>1965-08-29</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on March 12, 1963, after confirmation. Commissioned to the Somali Republic.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 12, 1963,
+                after confirmation. Commissioned to the Somali Republic.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -249,7 +250,8 @@
                 <date>1986-05-14</date>
                 <note>Left post.</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on July 12, 1985, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on July 12, 1985, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -301,8 +303,55 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
+        <chief>
+            <id>so-2016-schw-01</id>
+            <person-id>schwartz-stephen-m</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>somalia</contemporary-territory-id>
+            <appointed>
+                <date>2016-05-20</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
+        </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>so-2015-dhan-01</id>
+            <person-id>dhanani-katherine-simmons</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>somalia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of February 25, 2015, withdrawn May 11, 2015.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

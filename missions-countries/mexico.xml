@@ -1389,39 +1389,39 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2015-07-31</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-21</last-modified-date>
+            <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>mx--echa-01</id>
-            <person-id>echaveste-maria</person-id>
+            <id>mx-2016-jaco-01</id>
+            <person-id>jacobson-roberta-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>2016-05-04</date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date></date>
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date></date>
+                <note></note>
             </ended>
-            <note>Nomination of September 18, 2014, not acted upon by the Senate.</note>
+            <note/>
             <created-by>marrsaw</created-by>
-            <created-date>2015-07-13</created-date>
+            <created-date>2016-08-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-19</last-modified-date>
+            <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-    </chiefs>
+            </chiefs>
     <other-nominees>
         <chief>
             <id>mx-1823-jack-01</id>
@@ -1611,7 +1611,30 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </other-nominees>
+        <chief>
+            <id>mx-2014-echa-01</id>
+            <person-id>echaveste-maria</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>mexico</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of September 18, 2014, not acted upon by the Senate.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-07-13</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
+        </chief>
+            </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

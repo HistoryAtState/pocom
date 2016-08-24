@@ -19,7 +19,7 @@
                 <date>1948-06-22</date>
                 <note>Left New Delhi</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -42,7 +42,8 @@
                 <date>1951-09-21</date>
                 <note>Left New Delhi</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -65,7 +66,7 @@
                 <date>1953-03-23</date>
                 <note>Left New Delhi</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -88,7 +89,7 @@
                 <date>1954-11-30</date>
                 <note>Left New Delhi</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -111,7 +112,7 @@
                 <date>1956-04-23</date>
                 <note>Left New Delhi</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -134,7 +135,10 @@
                 <date>1959-11-25</date>
                 <note>Superseded</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on January 25, 1957, after confirmation. During Bunker's tenure as non-resident Ambassador, Embassy Kathmandu was opened on August 6, 1959, with L. Douglas Heck as Charge d'affaires ad interim.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 25, 1957,
+                after confirmation. During Bunker's tenure as non-resident Ambassador, Embassy
+                Kathmandu was opened on August 6, 1959, with L. Douglas Heck as Charge d'affaires ad
+                interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -479,7 +483,7 @@
                 <date>2009-07-09</date>
                 <note>Left post.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -522,14 +526,37 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2015-09-15</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2016-08-24</last-modified-date>
+        </chief>
+        <chief>
+            <id>np-2015-tepl-01</id>
+            <person-id>teplitz-alaina-b</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>nepal</contemporary-territory-id>
+            <appointed>
+                <date>2015-08-07</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2015-10-07</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-24</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
