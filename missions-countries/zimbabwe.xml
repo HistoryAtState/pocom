@@ -292,14 +292,37 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2015-11-14</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2013-09-27</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-27</last-modified-date>
+            <last-modified-date>2016-08-25</last-modified-date>
+        </chief>
+        <chief>
+            <id>zw-2015-thom-01</id>
+            <person-id>thomas-harry-keels</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>zimbabwe</contemporary-territory-id>
+            <appointed>
+                <date>2015-01-26</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2016-02-25</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-25</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-25</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

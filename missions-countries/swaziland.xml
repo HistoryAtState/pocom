@@ -65,7 +65,7 @@
                 <date>1974-03-02</date>
                 <note>Left Gaborone</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -88,7 +88,7 @@
                 <date>1976-08-11</date>
                 <note>Left Gaborone</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -111,7 +111,8 @@
                 <date>1979-09-08</date>
                 <note>Left Gaborone</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on June 24, 1977, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on June 24, 1977, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -407,14 +408,37 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2015-12-01</date>
+                <note>Left post.</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-10-21</last-modified-date>
+            <last-modified-date>2016-08-25</last-modified-date>
+        </chief>
+        <chief>
+            <id>sz-2015-pete-01</id>
+            <person-id>peterson-lisa-j</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>swaziland</contemporary-territory-id>
+            <appointed>
+                <date>2015-11-25</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2016-02-05</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-25</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-25</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
