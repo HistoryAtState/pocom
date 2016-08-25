@@ -12,7 +12,20 @@
     <ongoing>false</ongoing>
     <description>
         <div>
-            <p>The Secretary of State created the position of Counselor for the Department of State in 1909 as part of a general Department reorganization. In 1912, the position became a Presidential appointment (37 Stat. 372). Between 1913 and 1919, the Counselor served as the Department’s second-ranking officer, assuming the role previously exercised by the Assistant Secretary of State. In 1919., the newly-created position of Under Secretary of State subsumed the duties of the Counselor. An Act of Congress, May 18, 1937, re-established the position of Counselor of the Department of State (50 Stat. 169). Between 1961 and 1965, the Counselor also served as the Chairman of the Policy Planning Council. The Counselor, who currently under law holds rank equivalent to an Under Secretary of State (P.L. 98-164; 97 Stat. 1017), serves as an adviser to the Secretary of State. The Counselor’s specific responsibilities have varied over time. This list does not include a Counselor for the Department of State appointed by the Secretary of State in 1909. On April 30, 1994 the title was changed to Under Secretary of State for Global Affairs.</p>
+            <p>The Secretary of State created the position of Counselor for the Department of State
+                in 1909 as part of a general Department reorganization. In 1912, the position became
+                a Presidential appointment (37 Stat. 372). Between 1913 and 1919, the Counselor
+                served as the Department’s second-ranking officer, assuming the role previously
+                exercised by the Assistant Secretary of State. In 1919., the newly-created position
+                of Under Secretary of State subsumed the duties of the Counselor. An Act of
+                Congress, May 18, 1937, re-established the position of Counselor of the Department
+                of State (50 Stat. 169). Between 1961 and 1965, the Counselor also served as the
+                Chairman of the Policy Planning Council. The Counselor, who currently under law
+                holds rank equivalent to an Under Secretary of State (P.L. 98-164; 97 Stat. 1017),
+                serves as an adviser to the Secretary of State. The Counselor’s specific
+                responsibilities have varied over time. This list does not include a Counselor for
+                the Department of State appointed by the Secretary of State in 1909. On April 30,
+                1994 the title was changed to Under Secretary of State for Global Affairs.</p>
         </div>
     </description>
     <is-dirty>false</is-dirty>
@@ -33,7 +46,8 @@
                 <date>1913-04-22</date>
                 <note/>
             </ended>
-            <note>Commissioned as Counselor for the Department of State. Had been serving since Dec 16, 1910, under an appointment by the Secretary of State.</note>
+            <note>Commissioned as Counselor for the Department of State. Had been serving since Dec
+                16, 1910, under an appointment by the Secretary of State.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -99,7 +113,8 @@
                 <date>1919-06-30</date>
                 <note/>
             </ended>
-            <note>Commissioned as Counselor for the Department of State. Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 17, 1915.</note>
+            <note>Commissioned as Counselor for the Department of State. Commissioned during a
+                recess of the Senate; recommissioned after confirmation on Dec 17, 1915.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -319,7 +334,8 @@
                 <date>1966-03-31</date>
                 <note/>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Mar 5, 1962.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on
+                Mar 5, 1962.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -539,7 +555,8 @@
                 <date>1992-08-23</date>
                 <note/>
             </ended>
-            <note>Served concurrently as Under Secretary of State for Economic and Agricultural Affairs from May 9, 1991.</note>
+            <note>Served concurrently as Under Secretary of State for Economic and Agricultural
+                Affairs from May 9, 1991.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -676,6 +693,28 @@
             <created-date>2010-11-05</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
+        </principal>
+        <principal>
+            <id>coun-2016-kenn</id>
+            <person-id>kenney-kristie-ann</person-id>
+            <role-title-id>counselor</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2016-02-12</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-25</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-25</last-modified-date>
         </principal>
     </principals>
     <other-appointees/>

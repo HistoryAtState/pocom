@@ -12,7 +12,11 @@
     <ongoing>false</ongoing>
     <description>
         <div>
-            <p>In Sep 1980, the Department of State conferred a rank equivalent to an Assistant Secretary of State on the Director of the Office of Medical Services. All Directors have been designated, not commissioned. The first medical component in the Department dated from May 1947, when a Medical Director was detailed from the U.S. Public Health Service.</p>
+            <p>In Sep 1980, the Department of State conferred a rank equivalent to an Assistant
+                Secretary of State on the Director of the Office of Medical Services. All Directors
+                have been designated, not commissioned. The first medical component in the
+                Department dated from May 1947, when a Medical Director was detailed from the U.S.
+                Public Health Service.</p>
         </div>
     </description>
     <is-dirty>false</is-dirty>
@@ -198,24 +202,46 @@
             <person-id>penner-gary</person-id>
             <role-title-id>director-office-medical-services</role-title-id>
             <appointed>
-                <date>2011-10-01</date>
+                <date></date>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2011-10-01</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2015-08-03</date>
                 <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-25</last-modified-date>
         </principal>
-    </principals>
+        <principal>
+            <id>serv-2015-rose</id>
+            <person-id>rosenfarb-charles</person-id>
+            <role-title-id>director-office-medical-services</role-title-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2015-08-04</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-25</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-25</last-modified-date>
+        </principal>
+            </principals>
     <other-appointees/>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-18</created-date>

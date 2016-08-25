@@ -32,16 +32,38 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2015-05-06</date>
                 <note/>
             </ended>
-            <note>New position. Designated, not commissioned.</note>
+            <note>Designated, not commissioned.</note>
             <created-by>marrsaw</created-by>
             <created-date>2013-10-01</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-10-01</last-modified-date>
+            <last-modified-date>2016-08-25</last-modified-date>
         </principal>
-    </principals>
+        <principal>
+            <id>plan-2015-pitk</id>
+            <person-id>pitkin-douglas-c</person-id>
+            <role-title-id>director-bureau-budget-planning</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2015-06-30</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-08-25</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-08-25</last-modified-date>
+        </principal>
+            </principals>
     <other-appointees/>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-18</created-date>
