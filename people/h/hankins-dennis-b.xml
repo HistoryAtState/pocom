@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>hankins-dennis</id>
+    <id>hankins-dennis-b</id>
+    <old-ids>
+        <old-id>hankins-dennis</old-id>
+    </old-ids>
     <persName>
-        <surname>Hakins</surname>
+        <surname>Hankins</surname>
         <forename>Dennis B.</forename>
     </persName>
     <birth>1959</birth>
@@ -14,5 +17,5 @@
     <created-by>marrsaw</created-by>
     <created-date>2016-08-22</created-date>
     <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2016-08-24</last-modified-date>
+    <last-modified-date>2016-08-31</last-modified-date>
 </person>
