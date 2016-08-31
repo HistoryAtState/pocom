@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>jones-paul-w</id>
+    <id>jones-paul-wayne</id>
+    <old-ids>
+        <old-id>jones-paul-w</old-id>
+    </old-ids>
     <persName>
         <surname>Jones</surname>
         <forename>Paul Wayne</forename>
@@ -15,5 +18,5 @@
     <created-by>wicentowskijc</created-by>
     <created-date>2012-04-03</created-date>
     <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2016-08-24</last-modified-date>
+    <last-modified-date>2016-08-31</last-modified-date>
 </person>
