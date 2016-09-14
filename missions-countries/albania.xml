@@ -32,23 +32,45 @@
             <contemporary-territory-id>albania-1946</contemporary-territory-id>
             <appointed>
                 <date>1925-05-27</date>
-                <note>Commissioned during a recess of the Senate; recommissioned after confirmation
-                    on December 17, 1925.</note>
+                <note></note>
             </appointed>
             <started>
                 <date>1925-08-01</date>
-                <note>Reaccredited when Albania became a monarchy; presented new credentials
-                    December 13, 1928.</note>
+                <note></note>
+            </started>
+            <ended>
+                <date>1928-12-13</date>
+                <note>When Albania became a monarchy, Hart was reaccredited on</note>
+            </ended>
+            <note>Commissioned during a recess of the Senate; recommissioned after confirmation
+                on December 17, 1925.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-09-14</last-modified-date>
+        </chief>
+        <chief>
+            <id>al--hart-01</id>
+            <person-id>hart-charles-calmer</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>albania-1946</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note></note>
+            </appointed>
+            <started>
+                <date>1928-12-13</date>
+                <note>When Albania became a monarchy, Hart was reaccredited on</note>
             </started>
             <ended>
                 <date>1929-12-12</date>
                 <note>Left post on</note>
             </ended>
             <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-09-14</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-04-27</last-modified-date>
+            <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
             <id>al-1930-bern-01</id>
@@ -121,11 +143,14 @@
             <last-modified-date>2015-04-27</last-modified-date>
         </chief>
         <mission-note>
-            <text>Italian forces occupied Tirana on April 8, 1939. Legation Tirana was officially closed on September 16, 1939. The United States resumed diplomatic relations with Albania on March 15, 1991. Embassy Tirana opened on October 1, 1991.</text>
+            <text>Italian forces occupied Tirana on April 8, 1939. Legation Tirana was officially
+                closed on September 16, 1939. The United States resumed diplomatic relations with
+                Albania on March 15, 1991. Embassy Tirana opened on October 1, 1991.</text>
             <created-by>marrsaw</created-by>
             <created-date>2015-04-27</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-04-27</last-modified-date></mission-note>
+            <last-modified-date>2015-04-27</last-modified-date>
+        </mission-note>
         <chief>
             <id>al-1991-hill-01</id>
             <person-id>hill-christopher-robert</person-id>
@@ -350,7 +375,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-21</created-date>
             <last-modified-by>marrsaw</last-modified-by>
