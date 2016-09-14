@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>kirk-robert-c</id>
+    <id>kirk-robert-crothers</id>
+    <old-ids>
+        <old-id>kirk-robert-c</old-id>
+    </old-ids>
     <persName>
         <surname>Kirk</surname>
-        <forename>Robert C.</forename>
+        <forename>Robert Crothers</forename>
     </persName>
     <birth>1821</birth>
     <death>1898</death>
@@ -14,5 +17,5 @@
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>
     <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2015-08-14</last-modified-date>
+    <last-modified-date>2016-09-14</last-modified-date>
 </person>
