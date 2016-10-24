@@ -3,14 +3,15 @@
     <id>representative-to-icao</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. on the Council of the International Civil
-            Aviation Organization (Montreal)</singular>
-        <plural>Representatives of the U.S.A. on the Council of the International Civil
-            Aviation Organization (Montreal)</plural>
+        <singular>Representative of the U.S.A. on the Council of the International Civil Aviation
+            Organization (Montreal)</singular>
+        <plural>Representatives of the U.S.A. on the Council of the International Civil Aviation
+            Organization (Montreal)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. on the Council of the International Civil Aviation Organization, with the rank of Minister</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. on the Council of
+                the International Civil Aviation Organization, with the rank of Minister</p>
         </div>
     </description>
     <chiefs>
@@ -51,11 +52,11 @@
                 <date>1953-08-01</date>
                 <note/>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Dec 13, 1949.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 13, 1949, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-13</last-modified-date>
+            <last-modified-date>2016-10-24</last-modified-date>
         </chief>
         <chief>
             <id>icao-1953-jone</id>
@@ -220,11 +221,11 @@
                 <date>1994-05-08</date>
                 <note/>
             </ended>
-            <note>Designated to this position on Mar 28, 1990.</note>
+            <note>Designated on March 28, 1990.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-24</last-modified-date>
         </chief>
         <chief>
             <id>icao-1994-carm</id>
@@ -311,7 +312,7 @@
             <last-modified-date>2014-07-29</last-modified-date>
         </chief>
         <chief>
-            <id>icao--woer</id>
+            <id>icao-2014-woer</id>
             <person-id>lawson-michael-anderson</person-id>
             <role-title-id>representative-to-icao</role-title-id>
             <appointed>
@@ -326,11 +327,11 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-15</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-05</last-modified-date>
+            <last-modified-date>2016-10-24</last-modified-date>
         </chief>
     </chiefs>
     <other-appointees/>
