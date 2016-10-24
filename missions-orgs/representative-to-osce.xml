@@ -3,14 +3,15 @@
     <id>representative-to-osce</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the Organization for Security and Cooperation in Europe (Vienna)</singular>
-        <plural>Representatives of the U.S.A. to the Organization for Security and Cooperation in Europe (Vienna)</plural>
+        <singular>Representative of the U.S.A. to the Organization for Security and Cooperation in
+            Europe (Vienna)</singular>
+        <plural>Representatives of the U.S.A. to the Organization for Security and Cooperation in
+            Europe (Vienna)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the
-        U.S.A. to the Organization for Security and Cooperation in Europe, with the rank of
-        Ambassador</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. to the
+                Organization for Security and Cooperation in Europe, with the rank of Ambassador.</p>
         </div>
     </description>
     <chiefs>
@@ -28,12 +29,12 @@
             </started>
             <ended>
                 <date>2013-09-09</date>
-                <note>Left post</note>
+                <note></note>
             </ended>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-24</last-modified-date>
+            <last-modified-date>2016-10-24</last-modified-date>
         </chief>
         <chief>
             <id>osce-2013-baer</id>

@@ -3,14 +3,16 @@
     <id>representative-to-oecd</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the Organization for Economic
-            Cooperation and Development (Paris)</singular>
-        <plural>Representatives of the U.S.A. to the Organization for Economic
-            Cooperation and Development (Paris)</plural>
+        <singular>Representative of the U.S.A. to the Organization for Economic Cooperation and
+            Development (Paris)</singular>
+        <plural>Representatives of the U.S.A. to the Organization for Economic Cooperation and
+            Development (Paris)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. to the Organization for Economic Cooperation and Development, with the rank of Ambassador</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. to the
+                Organization for Economic Cooperation and Development, with the rank of
+                Ambassador.</p>
         </div>
     </description>
     <chiefs>
@@ -20,7 +22,7 @@
             <role-title-id>representative-to-oecd</role-title-id>
             <appointed subtype="bracketed">
                 <date>1961-10-04</date>
-                <note/>
+                <note>Designated, not commissioned, on</note>
             </appointed>
             <started>
                 <date/>
@@ -30,11 +32,11 @@
                 <date>1962-10-22</date>
                 <note/>
             </ended>
-            <note>Designated, not commissioned.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2011-05-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-24</last-modified-date>
         </chief>
         <chief>
             <id>oecd-1962-ledd</id>
@@ -247,6 +249,28 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>oecd--boud</id>
+            <person-id>boudurant-amy-l</person-id>
+            <role-title-id>representative-to-oecd</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>1997</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2013-05-23</last-modified-date>
+        </chief>
+        <chief>
             <id>oecd-2001-phil</id>
             <person-id>phillips-jean-linden</person-id>
             <role-title-id>representative-to-oecd</role-title-id>
@@ -260,12 +284,12 @@
             </started>
             <ended>
                 <date>2003-06-02</date>
-                <note>Left post</note>
+                <note></note>
             </ended>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-24</last-modified-date>
         </chief>
         <chief>
             <id>oecd-2003-more</id>
@@ -325,33 +349,12 @@
                 <date>2012-06-23</date>
                 <note/>
             </ended>
-            <note>Jeri Guthrie-Corn served as Charge d’Affaires ad interim starting June 23, 2012.</note>
+            <note>Jeri Guthrie-Corn served as Charge d’Affaires ad interim starting June 23,
+                2012.</note>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-15</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-15</last-modified-date>
-        </chief>
-        <chief>
-            <id>oecd--boud</id>
-            <person-id>boudurant-amy-l</person-id>
-            <role-title-id>representative-to-oecd</role-title-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>1997</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2013-05-23</last-modified-date>
         </chief>
         <chief>
             <id>oecd--yoha</id>
@@ -369,7 +372,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-15</created-date>
             <last-modified-by>marrsaw</last-modified-by>
