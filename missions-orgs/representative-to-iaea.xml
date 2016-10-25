@@ -10,7 +10,8 @@
     </names>
     <description>
         <div>
-            <p>The Chief of Mission holds the title of U.S. Representative to the Vienna Office of the United Nations, and to the International Atomic Energy Agency, with the rank of Ambassador</p>
+            <p>The Chief of Mission holds the title of U.S. Representative to the International
+                Atomic Energy Agency, with the rank of Ambassador.</p>
         </div>
     </description>
     <chiefs>
@@ -30,11 +31,12 @@
                 <date>1958-10-07</date>
                 <note/>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned after confirmation on Jan 23, 1958.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 23, 1958,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-04-15</last-modified-date>
+            <last-modified-date>2016-10-25</last-modified-date>
         </chief>
         <chief>
             <id>iaea-1959-fost</id>
@@ -178,11 +180,11 @@
                 <date>1997-03-06</date>
                 <note/>
             </ended>
-            <note>Died in Bethesda, Maryland, was resident in the District of Columbia.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-25</last-modified-date>
         </chief>
         <chief>
             <id>iaea-2005-schu</id>
@@ -239,16 +241,39 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2014-08-27</date>
                 <note/>
             </ended>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2015-08-24</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-25</last-modified-date>
         </chief>
         <chief>
-            <id>iaea--cunn</id>
+            <id>iaea-2016-holg</id>
+            <person-id>holgate-laura-s-h</person-id>
+            <role-title-id>representative-to-iaea</role-title-id>
+            <appointed>
+                <date>2016-06-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-10-25</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-25</last-modified-date>
+        </chief>
+    </chiefs>
+    <other-appointees>
+        <chief>
+            <id>iaea-2004-cunn</id>
             <person-id>cunningham-james-b</person-id>
             <role-title-id>representative-to-iaea</role-title-id>
             <appointed>
@@ -263,14 +288,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of Apr. 8, 2004 withdrawn Oct. 8, 2004.</note>
+            <note>Nomination of April 8, 2004, withdrawn on October 8, 2004.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-09-25</last-modified-date>
+            <last-modified-date>2016-10-25</last-modified-date>
         </chief>
-    </chiefs>
-    <other-appointees/>
+    </other-appointees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<principal-position>
+    <id>director-management-policy-rightsizing-innovation</id>
+    <class>principal</class>
+    <category>assistant-secretary-or-equiv</category>
+    <names>
+        <singular>Director of the Office of Management Policy, Rightsizing, and Innovation</singular>
+        <plural>Directors of the Office of Management Policy, Rightsizing, and Innovation</plural>
+    </names>
+    <start accuracy="yyyy"></start>
+    <end accuracy="yyyy"></end>
+    <ongoing>false</ongoing>
+    <description>
+        <div>
+            <p></p>
+        </div>
+    </description>
+    <is-dirty>false</is-dirty>
+    <principals>
+        <principal>
+            <id>mana-2015-namm</id>
+            <person-id>namm-adam-e</person-id>
+            <role-title-id>director-management-policy-rightsizing-innovation</role-title-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2015-10-22</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note></note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-10-25</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-25</last-modified-date>
+        </principal>
+    </principals>
+    <other-appointees/>
+    <created-by>marrsaw</created-by>
+    <created-date>2016-10-25</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-10-25</last-modified-date>
+</principal-position>

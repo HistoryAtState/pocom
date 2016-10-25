@@ -3,14 +3,17 @@
     <id>representative-uneo</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the European Office of the United
-            Nations (Geneva)</singular>
-        <plural>Representatives of the U.S.A. to the European Office of the United
-            Nations (Geneva)</plural>
+        <singular>Representative of the U.S.A. to the European Office of the United Nations
+            (Geneva)</singular>
+        <plural>Representatives of the U.S.A. to the European Office of the United Nations
+            (Geneva)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. to the European Office of the United Nations, with the rank of Ambassador. The Representative serves as Chief of the U.S. Mission to the European Office of the United Nations and Other International Organizations</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. to the European
+                Office of the United Nations, with the rank of Ambassador. The Representative serves
+                as Chief of the U.S. Mission to the European Office of the United Nations and Other
+                International Organizations.</p>
         </div>
     </description>
     <chiefs>
@@ -20,7 +23,7 @@
             <role-title-id>representative-uneo</role-title-id>
             <appointed subtype="bracketed">
                 <date>1958-06-15</date>
-                <note/>
+                <note>Designated, not commissioned, on</note>
             </appointed>
             <started>
                 <date/>
@@ -30,11 +33,11 @@
                 <date>1960-08-03</date>
                 <note/>
             </ended>
-            <note>Designated, not commissioned.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-25</last-modified-date>
         </chief>
         <chief>
             <id>uneo-1960-mart</id>
@@ -42,7 +45,7 @@
             <role-title-id>representative-uneo</role-title-id>
             <appointed subtype="bracketed">
                 <date>1960-09-18</date>
-                <note/>
+                <note>Designated, not commissioned, on</note>
             </appointed>
             <started>
                 <date/>
@@ -52,11 +55,11 @@
                 <date>1962-04-15</date>
                 <note/>
             </ended>
-            <note>Designated, not commissioned.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-25</last-modified-date>
         </chief>
         <chief>
             <id>uneo-1967-tubb</id>
@@ -64,7 +67,8 @@
             <role-title-id>representative-uneo</role-title-id>
             <appointed subtype="bracketed">
                 <date>1967-10-18</date>
-                <note/>
+                <note>Designated on April 2, 1962, but not commissioned at that time. Commissioned
+                    on</note>
             </appointed>
             <started>
                 <date/>
@@ -74,11 +78,11 @@
                 <date>1969-09-24</date>
                 <note/>
             </ended>
-            <note>Commissioned on Oct 18, 1967. Not commissioned at the time of his original</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-25</last-modified-date>
         </chief>
         <chief>
             <id>uneo-1969-rime</id>
@@ -354,29 +358,7 @@
             <last-modified-date>2014-07-15</last-modified-date>
         </chief>
         <chief>
-            <id>uneo--kenn</id>
-            <person-id>kennedy-patrick-francis</person-id>
-            <role-title-id>representative-uneo</role-title-id>
-            <appointed>
-                <date/>
-                <note>Nomination of Feb. 24, 2000, not acted upon by the Senate.</note>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-10-01</last-modified-date>
-        </chief>
-        <chief>
-            <id>uneo--hmam</id>
+            <id>uneo-2014-hmam</id>
             <person-id>hamamoto-pamela-k</person-id>
             <role-title-id>representative-uneo</role-title-id>
             <appointed>
@@ -391,14 +373,37 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-15</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-05</last-modified-date>
+            <last-modified-date>2016-10-25</last-modified-date>
         </chief>
     </chiefs>
-    <other-appointees/>
+    <other-appointees>
+        <chief>
+            <id>uneo-2000-kenn</id>
+            <person-id>kennedy-patrick-francis</person-id>
+            <role-title-id>representative-uneo</role-title-id>
+            <appointed>
+                <date/>
+                <note></note>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of February 24, 2000, not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-25</last-modified-date>
+        </chief>
+    </other-appointees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

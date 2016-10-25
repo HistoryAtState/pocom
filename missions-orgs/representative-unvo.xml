@@ -3,14 +3,16 @@
     <id>representative-unvo</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the Vienna Office of the United
-            Nations (Vienna)</singular>
+        <singular>Representative of the U.S.A. to the Vienna Office of the United Nations
+            (Vienna)</singular>
         <plural>Representatives of the U.S.A. to the Vienna Office of the United Nations
             (Vienna)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission holds the title of U.S. Representative to the Vienna Office of the United Nations, and to the International Atomic Energy Agency, with the rank of Ambassador</p>
+            <p>The Chief of Mission holds the title of U.S. Representative to the Vienna Office of
+                the United Nations, with the rank of
+                Ambassador</p>
         </div>
     </description>
     <chiefs>
@@ -161,7 +163,28 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2015-08-24</last-modified-date>
         </chief>
-    </chiefs>
+        <chief>
+            <id>iaea-2016-holg</id>
+            <person-id>holgate-laura-s-h</person-id>
+            <role-title-id>representative-unvo</role-title-id>
+            <appointed>
+                <date>2016-06-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-10-25</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-25</last-modified-date>
+        </chief>
+            </chiefs>
     <other-appointees/>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
