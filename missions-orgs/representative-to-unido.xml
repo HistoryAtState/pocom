@@ -11,10 +11,10 @@
     <description>
         <div>
             <p>The Chief of Mission has the title of U.S. Representative to the United Nations
-                Industrial Development Organization. The U.S.
-                Missions to the United Nations Industrial Development Organization and the
-                International Atomic Energy Agency were combined into the U.S. Mission to
-                International Organizations in Vienna in 1993.</p>
+                Industrial Development Organization. The U.S. Missions to the United Nations
+                Industrial Development Organization and the International Atomic Energy Agency were
+                combined into the U.S. Mission to International Organizations in Vienna on June 23,
+                1983.</p>
         </div>
     </description>
     <chiefs>
@@ -39,6 +39,50 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-10-24</last-modified-date>
+        </chief>
+        <chief>
+            <id>unid-1977-lear</id>
+            <person-id>leary-john-charles</person-id>
+            <role-title-id>representative-to-unido</role-title-id>
+            <appointed>
+                <date>1977-08-28</date>
+                <note>Designated, not commissioned, on</note>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1980-09-18</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-10-27</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-27</last-modified-date>
+        </chief>
+        <chief>
+            <id>unid-1980-kirk</id>
+            <person-id>kirk-roger</person-id>
+            <role-title-id>representative-to-unido</role-title-id>
+            <appointed>
+                <date>1980-09-18</date>
+                <note>Designated, not commissioned, on</note>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1983-06-15</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-10-27</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-10-27</last-modified-date>
         </chief>
     </chiefs>
     <other-appointees/>
