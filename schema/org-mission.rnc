@@ -13,28 +13,37 @@ element org-mission {
         }
     },
     element chiefs {
-        element chief {
-            element id { text },
-            element person-id { text },
-            element role-title-id { text },
-            element appointed {
-                element date { text },
-                element note { text }
-            },
-            element started {
-                element date { text },
-                element note { text }
-            },
-            element ended {
-                element date { text },
-                element note { text }
-            },
-            element note { text }*,
-            element created-by { text },
-            element created-date { text },
-            element last-modified-by { text },
-            element last-modified-date { text }
-        }+
+        (
+            element chief {
+                element id { text },
+                element person-id { text },
+                element role-title-id { text },
+                element appointed {
+                    element date { text },
+                    element note { text }
+                },
+                element started {
+                    element date { text },
+                    element note { text }
+                },
+                element ended {
+                    element date { text },
+                    element note { text }
+                },
+                element note { text }*,
+                element created-by { text },
+                element created-date { xsd:date },
+                element last-modified-by { text },
+                element last-modified-date { xsd:date }
+            } | 
+            element mission-note { 
+                element text { text },
+                element created-by { text },
+                element created-date { xsd:date },
+                element last-modified-by { text },
+                element last-modified-date { xsd:date }
+            }
+        )+
     },
     element other-appointees { 
         element chief {
