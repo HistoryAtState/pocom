@@ -4,15 +4,16 @@
     <class>principal</class>
     <category>assistant-secretary-or-equiv</category>
     <names>
-        <singular>Director of the Office of Management Policy, Rightsizing, and Innovation</singular>
+        <singular>Director of the Office of Management Policy, Rightsizing, and
+            Innovation</singular>
         <plural>Directors of the Office of Management Policy, Rightsizing, and Innovation</plural>
     </names>
-    <start accuracy="yyyy"></start>
-    <end accuracy="yyyy"></end>
+    <start accuracy="yyyy"/>
+    <end accuracy="yyyy"/>
     <ongoing>false</ongoing>
     <description>
         <div>
-            <p></p>
+            <p/>
         </div>
     </description>
     <is-dirty>false</is-dirty>
@@ -22,7 +23,7 @@
             <person-id>namm-adam-e</person-id>
             <role-title-id>director-management-policy-rightsizing-innovation</role-title-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -30,10 +31,10 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-10-25</created-date>
             <last-modified-by>marrsaw</last-modified-by>
