@@ -4,10 +4,6 @@
     <description>US State Codes for classifying the home state of a Principal of Chief.</description>
     <items>
         <item>
-            <label>Select a state...</label>
-            <value/>
-        </item>
-        <item>
             <label>Alabama</label>
             <value>al</value>
         </item>

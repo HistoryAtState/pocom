@@ -4,11 +4,6 @@
     <description>Event types for chief roles.</description>
     <items>
         <item>
-            <label>Select a Chief Event...</label>
-            <class>chief</class>
-            <value/>
-        </item>
-        <item>
             <label>Appointed</label>
             <value>appointed</value>
             <class>chief</class>

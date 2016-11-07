@@ -2,12 +2,7 @@
 <code-table>
     <name>role-principal-event-code</name>
     <description>These are terms used to classify role events for principal and chiefs.</description>
-    <items>&gt;
-        <item>
-            <label>Select a Principal Event...</label>
-            <value/>
-        </item>
-        <item>
+    <items><item>
             <label>Appointed</label>
             <value>appointed</value>
         </item>

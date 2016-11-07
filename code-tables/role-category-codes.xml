@@ -3,10 +3,6 @@
     <hint>Role category codes.  Used to group roles.</hint>
     <items>
         <item>
-            <label>Select a role category...</label>
-            <value/>
-        </item>
-        <item>
             <label>Secretaries</label>
             <value>secretary</value>
             <definition>None.</definition>
