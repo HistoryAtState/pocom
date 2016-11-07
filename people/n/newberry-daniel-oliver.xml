@@ -9,7 +9,9 @@
     <birth>1922</birth>
     <death>1999</death>
     <career-type>fso</career-type>
-    <residence><state-id/></residence>
+    <residence>
+        <state-id/>
+    </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>
     <last-modified-by>marrsaw</last-modified-by>

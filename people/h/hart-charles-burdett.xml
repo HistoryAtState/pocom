@@ -8,7 +8,9 @@
     <birth>1851</birth>
     <death>1930</death>
     <career-type>appointee</career-type>
-    <residence><state-id>wv</state-id></residence>
+    <residence>
+        <state-id>wv</state-id>
+    </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>
     <last-modified-by>marrsaw</last-modified-by>

@@ -5,10 +5,12 @@
         <surname>Guthrie-Corn</surname>
         <forename>Jeri</forename>
     </persName>
-    <birth></birth>
-    <death></death>
+    <birth type="unknown"/>
+    <death/>
     <career-type>fso</career-type>
-    <residence><state-id/></residence>
+    <residence>
+        <state-id/>
+    </residence>
     <created-by>marrsaw</created-by>
     <created-date>2016-10-25</created-date>
     <last-modified-by>marrsaw</last-modified-by>
