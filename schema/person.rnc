@@ -11,7 +11,8 @@ start =
             element altname { text }*
         },
         element birth {
-            xsd:gYear
+            (xsd:gYear,
+             attribute certainty { "high" })
             | attribute type {
                   
                   ## Unknown Year
@@ -19,7 +20,8 @@ start =
               }
         },
         element death {
-            xsd:gYear
+            (xsd:gYear,
+             attribute certainty { "high" })
             | attribute type {
                   
                   ## Unknown Year
