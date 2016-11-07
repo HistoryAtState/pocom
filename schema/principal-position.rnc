@@ -16,7 +16,7 @@ element principal-position {
     },
     element end {
         attribute accuracy { "yyyy" },
-        xsd:gYear
+        xsd:gYear?
     },
     element ongoing { "true" | "false" },
     element description {
