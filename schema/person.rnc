@@ -1,0 +1,207 @@
+start =
+    element person {
+        element id { xsd:NCName },
+        element old-ids {
+            element old-id { xsd:NCName }+
+        }?,
+        element persName {
+            element surname { text },
+            element forename { text },
+            element genName { text }?,
+            element altname { text }*
+        },
+        element birth {
+            xsd:gYear
+            | attribute type {
+                  
+                  ## Unknown Year
+                  "unknown"
+              }
+        },
+        element death {
+            xsd:gYear
+            | attribute type {
+                  
+                  ## Unknown Year
+                  "unknown"
+                  | 
+                    ## Still Living
+                    "still-living"
+              }
+        },
+        element career-type {
+            
+            ## Non-career appointee
+            "appointee"
+            | 
+              ## Foreign Service Officer
+              "fso"
+            | 
+              ## Foreign Service Officer and Non-career appointee
+              "both"
+        },
+        element residence {
+            element state-id {
+                
+                ## Alabama
+                "al"
+                | 
+                  ## Alaska
+                  "ak"
+                | 
+                  ## Arizona
+                  "az"
+                | 
+                  ## Arkansas
+                  "ar"
+                | 
+                  ## California
+                  "ca"
+                | 
+                  ## Colorado
+                  "co"
+                | 
+                  ## Connecticut
+                  "ct"
+                | 
+                  ## Delaware
+                  "de"
+                | 
+                  ## District of Columbia
+                  "dc"
+                | 
+                  ## Florida
+                  "fl"
+                | 
+                  ## Georgia
+                  "ga"
+                | 
+                  ## Hawaii
+                  "hi"
+                | 
+                  ## Idaho
+                  "id"
+                | 
+                  ## Illinois
+                  "il"
+                | 
+                  ## Indiana
+                  "in"
+                | 
+                  ## Iowa
+                  "ia"
+                | 
+                  ## Kansas
+                  "ks"
+                | 
+                  ## Kentucky
+                  "ky"
+                | 
+                  ## Louisiana
+                  "la"
+                | 
+                  ## Maine
+                  "me"
+                | 
+                  ## Maryland
+                  "md"
+                | 
+                  ## Massachusetts
+                  "ma"
+                | 
+                  ## Michigan
+                  "mi"
+                | 
+                  ## Minnesota
+                  "mn"
+                | 
+                  ## Mississippi
+                  "ms"
+                | 
+                  ## Missouri
+                  "mo"
+                | 
+                  ## Montana
+                  "mt"
+                | 
+                  ## Nebraska
+                  "ne"
+                | 
+                  ## Nevada
+                  "nv"
+                | 
+                  ## New Hampshire
+                  "nh"
+                | 
+                  ## New Jersey
+                  "nj"
+                | 
+                  ## New Mexico
+                  "nm"
+                | 
+                  ## New York
+                  "ny"
+                | 
+                  ## North Carolina
+                  "nc"
+                | 
+                  ## North Dakota
+                  "nd"
+                | 
+                  ## Ohio
+                  "oh"
+                | 
+                  ## Oklahoma
+                  "ok"
+                | 
+                  ## Oregon
+                  "or"
+                | 
+                  ## Pennsylvania
+                  "pa"
+                | 
+                  ## Puerto Rico
+                  "pr"
+                | 
+                  ## Rhode Island
+                  "ri"
+                | 
+                  ## South Carolina
+                  "sc"
+                | 
+                  ## South Dakota
+                  "sd"
+                | 
+                  ## Tennessee
+                  "tn"
+                | 
+                  ## Texas
+                  "tx"
+                | 
+                  ## Utah
+                  "ut"
+                | 
+                  ## Vermont
+                  "vt"
+                | 
+                  ## Virginia
+                  "va"
+                | 
+                  ## Washington
+                  "wa"
+                | 
+                  ## West Virginia
+                  "wv"
+                | 
+                  ## Wisconsin
+                  "wi"
+                | 
+                  ## Wyoming
+                  "wy"
+            }+
+        },
+        element created-by { xsd:NCName },
+        element created-date { xsd:date },
+        element last-modified-by { xsd:NCName },
+        element last-modified-date { xsd:date }
+    }

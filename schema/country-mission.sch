@@ -2,28 +2,6 @@
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
     <pattern>
-        <rule context="/">
-            <assert test="exists(country-mission)">The document's root element must be country-mission</assert>
-        </rule>
-    </pattern>
-    <pattern>
-        <rule context="country-mission">
-            <assert test="exists(territory-id)">Missing territory-id element</assert>
-            <assert test="count(territory-id) le 1">Only one territory-id element allowed</assert>
-            <assert test="exists(chiefs)">Missing chiefs element</assert>
-            <assert test="count(chiefs) le 1">Only one chiefs element allowed</assert>
-            <assert test="exists(other-nominees)">Missing other-nominees element</assert>
-            <assert test="count(other-nominees) le 1">Only one other-nominees element
-                allowed</assert>
-            <assert test="exists(last-modified-by)">Missing last-modified-by element</assert>
-            <assert test="count(last-modified-by) le 1">Only one last-modified-by element
-                allowed</assert>
-            <assert test="exists(last-modified-date)">Missing last-modified-date element</assert>
-            <assert test="count(last-modified-date) le 1">Only one last-modified-date element
-                allowed</assert>
-        </rule>
-    </pattern>
-    <pattern>
         <rule context="country-mission/territory-id">
             <let name="basename" value="replace(base-uri(.), '^.*/(.*?)$', '$1')"/>
             <assert test="$basename = concat(., '.xml')">The id “<value-of select="."/>” does
@@ -42,32 +20,6 @@
             <assert test="not(../date[. ne '']) or tokenize(., '-')[2] = substring(subsequence(..//date[. ne ''], 1, 1), 1, 4)">The second portion of the id should be the year portion of the first date in the record; or if no date, the year closest to the beginning of events described</assert>
             <assert test="tokenize(., '-')[3] = substring(tokenize(./following-sibling::person-id, '-')[1], 1, 4)">The third portion of the id should be the first four letters of the surname portion of a person's ID, e.g., “<value-of select="substring(tokenize(./following-sibling::person-id, '-')[1], 1, 4)"/>”</assert>
             <assert test="string-length(tokenize(., '-')[4]) = 2">The fourth portion of the id should be a two digit increment, starting 01 unless there's already a previous ID matching 01</assert>
-        </rule>
-    </pattern>
-    <pattern>
-        <rule context="chief">
-            <assert test="exists(id)">Missing id element</assert>
-            <assert test="count(id) le 1">Only one id element allowed</assert>
-            <assert test="exists(person-id)">Missing person-id element</assert>
-            <assert test="count(person-id) le 1">Only one person-id element allowed</assert>
-            <assert test="exists(role-title-id)">Missing role-title-id element</assert>
-            <assert test="count(role-title-id) le 1">Only one role-title-id element allowed</assert>
-            <assert test="exists(contemporary-territory-id)">Missing contemporary-territory-id element</assert>
-            <assert test="count(contemporary-territory-id) le 1">Only one contemporary-territory-id element allowed</assert>
-            <assert test="exists(appointed)">Missing appointed element</assert>
-            <assert test="count(appointed) le 1">Only one appointed element allowed</assert>
-            <assert test="exists(started)">Missing started element</assert>
-            <assert test="count(started) le 1">Only one started element allowed</assert>
-            <assert test="exists(ended)">Missing ended element</assert>
-            <assert test="count(ended) le 1">Only one ended element allowed</assert>
-            <assert test="exists(note)">Missing note element</assert>
-            <assert test="count(note) le 1">Only one note element allowed</assert>
-            <assert test="exists(last-modified-by)">Missing last-modified-by element</assert>
-            <assert test="count(last-modified-by) le 1">Only one last-modified-by element
-                allowed</assert>
-            <assert test="exists(last-modified-date)">Missing last-modified-date element</assert>
-            <assert test="count(last-modified-date) le 1">Only one last-modified-date element
-                allowed</assert>
         </rule>
     </pattern>
     <pattern>
@@ -91,11 +43,6 @@
     <pattern>
         <rule context="date">
             <assert test="(. = '') or matches(., '^\d{4}$') or matches(., '^\d{4}-\d{2}$') or . castable as xs:date">Date should be yyyy-mm-dd, yyyy-mm, or empty</assert>
-        </rule>
-    </pattern>
-    <pattern>
-        <rule context="created-date | last-modified-date">
-            <assert test=". castable as xs:date">Should be a valid date, yyyy-mm-dd</assert>
         </rule>
     </pattern>
     <pattern>

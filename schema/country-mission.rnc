@@ -1,0 +1,64 @@
+element country-mission {
+    element territory-id { xsd:NCName },
+    element chiefs {
+        (element chief {
+             element id { xsd:NCName },
+             element person-id { xsd:NCName },
+             element role-title-id { xsd:NCName },
+             element contemporary-territory-id { xsd:NCName },
+             element appointed {
+                 element date { text },
+                 element note { text }
+             },
+             element started {
+                 element date { text },
+                 element note { text }
+             },
+             element ended {
+                 element date { text },
+                 element note { text }
+             },
+             element note { text }*,
+             element created-by { text },
+             element created-date { xsd:date },
+             element last-modified-by { text },
+             element last-modified-date { xsd:date }
+         }
+         | element mission-note {
+               element text { text },
+               element created-by { xsd:NCName },
+               element created-date { xsd:date },
+               element last-modified-by { xsd:NCName },
+               element last-modified-date { xsd:date }
+           })+
+    },
+    element other-nominees {
+        element chief {
+            element id { xsd:NCName },
+            element person-id { xsd:NCName },
+            element role-title-id { xsd:NCName },
+            element contemporary-territory-id { xsd:NCName },
+            element appointed {
+                element date { text },
+                element note { text }
+            },
+            element started {
+                element date { text },
+                element note { text }
+            },
+            element ended {
+                element date { text },
+                element note { text }
+            },
+            element note { text }*,
+            element created-by { xsd:NCName },
+            element created-date { xsd:date },
+            element last-modified-by { xsd:NCName },
+            element last-modified-date { xsd:date }
+        }*
+    },
+    element created-by { xsd:NCName },
+    element created-date { xsd:date },
+    element last-modified-by { xsd:NCName },
+    element last-modified-date { xsd:date }
+}
