@@ -11,8 +11,7 @@
     <description>
         <div>
             <p>The Chief of Mission holds the title of U.S. Representative to the Vienna Office of
-                the United Nations, with the rank of
-                Ambassador</p>
+                the United Nations, with the rank of Ambassador</p>
         </div>
     </description>
     <chiefs>
@@ -122,6 +121,27 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>unvo-2005-schu</id>
+            <person-id>schulte-gregory-l</person-id>
+            <role-title-id>representative-unvo</role-title-id>
+            <appointed>
+                <date>2005-06-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>2009-06-20</date>
+                <note/>
+            </ended>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-11-14</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-11-14</last-modified-date>
+        </chief>
+        <chief>
             <id>unvo-2009-davi</id>
             <person-id>davies-glyn-t</person-id>
             <role-title-id>representative-unvo</role-title-id>
@@ -176,7 +196,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <created-by>marrsaw</created-by>
@@ -184,8 +204,31 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-10-25</last-modified-date>
         </chief>
-            </chiefs>
-    <other-appointees/>
+    </chiefs>
+    <other-appointees>
+        <chief>
+            <id>unvo-2004-cunn</id>
+            <person-id>cunningham-james-b</person-id>
+            <role-title-id>representative-unvo</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of April 8, 2004, withdrawn on October 8, 2004.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-11-14</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-11-14</last-modified-date>
+        </chief>
+    </other-appointees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>
