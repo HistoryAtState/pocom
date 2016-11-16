@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>wilson-huntington-francis-mairs-huntington-wilson</id>
+    <id>wilson-francis-mairs-huntington</id>
+    <old-ids>
+        <old-id>wilson-huntington-francis-mairs-huntington-wilson</old-id>
+    </old-ids>
     <persName>
         <surname>Wilson</surname>
-        <forename>Huntington (Francis Mairs Huntington-Wilson)</forename>
+        <forename>Francis Mairs Huntington</forename>
         <altname>Huntington Wilson</altname>
     </persName>
     <birth>1875</birth>
@@ -14,6 +17,6 @@
     </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2010-05-20</last-modified-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-11-16</last-modified-date>
 </person>
