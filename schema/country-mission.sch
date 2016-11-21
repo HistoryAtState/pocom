@@ -46,6 +46,13 @@
         </rule>
     </pattern>
     <pattern>
+        <title>Report possible missing termination dates</title>
+        <rule context="ended[date = '']">
+            <let name="start-date" value="(./preceding-sibling::started/date, ./preceding-sibling::appointed/date)[. ne ''][1]"/>
+            <assert test="if (substring($start-date, 1, 4) castable as xs:gYear) then (year-from-date(current-date()) - substring($start-date, 1, 4) cast as xs:integer lt 6) else true()">Missing termination date? More than 5 years has passed since appointment or presentation of credentials (<value-of select="substring($start-date, 1, 4)"/>).</assert>
+        </rule>
+    </pattern>
+    <pattern>
         <rule context="last-modified-date">
             <assert test="xs:date(.) ge xs:date(./preceding-sibling::created-date)">Last
                 updated date should come after the created date</assert>
