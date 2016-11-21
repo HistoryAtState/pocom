@@ -12,7 +12,7 @@ start =
         },
         element birth {
             (xsd:gYear,
-             attribute certainty { "high" })
+             attribute certainty { "high" }?)
             | attribute type {
                   
                   ## Unknown Year
@@ -21,7 +21,7 @@ start =
         },
         element death {
             (xsd:gYear,
-             attribute certainty { "high" })
+             attribute certainty { "high" }?)
             | attribute type {
                   
                   ## Unknown Year
