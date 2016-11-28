@@ -200,6 +200,30 @@ start =
                 | 
                   ## Wyoming
                   "wy"
+                | 
+                  ## American Samoa
+                  "as"
+                | 
+                  ## Federated States of Micronesia
+                  "fm"
+                | 
+                  ## Guam
+                  "gu"
+                | 
+                  ## Marshall Islands
+                  "mh"
+                | 
+                  ## Northern Mariana Islands
+                  "mp"
+                | 
+                  ## Palau
+                  "pw"
+                | 
+                  ## Puerto Rico
+                  "pr"
+                | 
+                  ## U.S. Virgin Islands
+                  "vi"
             }+
         },
         element created-by { xsd:NCName },
