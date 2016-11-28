@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <code-table>
     <name>us-state-code</name>
-    <description>US State Codes for classifying the home state of a Principal of Chief.</description>
+    <description>U.S. State Codes for classifying the home state of a Principal Officer or Chief of
+        Mission.</description>
+    <note>See USPS, <a href="http://pe.usps.gov/text/pub28/28apb.htm">Two–Letter State and
+            Possession Abbreviations</a>. Whereas this document uses "Virgin Islands," we prepend
+        "U.S." for clarify; USPS does this too, e.g., <a
+            href="https://about.usps.com/publications/pub14/pub14_ch7_004.htm">Publication 14</a>.
+        Also, see USPS Historian, <a
+            href="http://about.usps.com/who-we-are/postal-history/state-abbreviations.pdf">State
+            Abbreviations</a>.</note>
     <items>
         <item>
             <label>Alabama</label>
@@ -210,6 +218,38 @@
         <item>
             <label>Wyoming</label>
             <value>wy</value>
+        </item>
+        <item>
+            <label>American Samoa</label>
+            <value>as</value>
+        </item>
+        <item>
+            <label>Federated States of Micronesia</label>
+            <value>fm</value>
+        </item>
+        <item>
+            <label>Guam</label>
+            <value>gu</value>
+        </item>
+        <item>
+            <label>Marshall Islands</label>
+            <value>mh</value>
+        </item>
+        <item>
+            <label>Northern Mariana Islands</label>
+            <value>mp</value>
+        </item>
+        <item>
+            <label>Palau</label>
+            <value>pw</value>
+        </item>
+        <item>
+            <label>Puerto Rico</label>
+            <value>pr</value>
+        </item>
+        <item>
+            <label>U.S. Virgin Islands</label>
+            <value>vi</value>
         </item>
     </items>
 </code-table>
