@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
+<schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt3"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
     <pattern>
         <rule context="/">
@@ -15,6 +15,11 @@
             <assert test="$parent-dir = substring(., 1, 1)">The file should be stored in the “<value-of select="substring(., 1, 1)"/>” directory, not in the “<value-of select="$parent-dir"/>” directory</assert>
             <assert test="matches(., '^[a-z-]+(\d+)?$')">The id 
                 “<value-of select="."/>” must contain only lower case letters and hyphens, and can optionally end with a number</assert>
+        </rule>
+    </pattern>
+    <pattern>
+        <rule context="surname | forename">
+            <assert test="every $word in tokenize(., '\s+') satisfies matches($word, '^([A-Z][a-z]+)$|^([A-Z]\.)+$')">Unexpected capitalization found in name: <value-of select="string-join(tokenize(., '\s+')[not(matches(., '^([A-Z][a-z]+)$|^([A-Z]\.)+$'))], '; ')"/>.</assert>
         </rule>
     </pattern>
     <pattern>
