@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>cook-suzan-johnson</id>
+    <id>cook-suzan-denise-johnson</id>
+    <old-ids>
+        <old-id>cook-suzan-johnson</old-id>
+    </old-ids>
     <persName>
         <surname>Cook</surname>
-        <forename>Suzan Johnson</forename>
+        <forename>Suzan Denise Johnson</forename>
     </persName>
-    <birth type="unknown"/>
+    <birth>1957</birth>
     <death type=""/>
     <career-type>appointee</career-type>
     <residence>
@@ -14,5 +17,5 @@
     <created-by>marrsaw</created-by>
     <created-date>2014-07-15</created-date>
     <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2014-07-15</last-modified-date>
+    <last-modified-date>2016-12-02</last-modified-date>
 </person>
