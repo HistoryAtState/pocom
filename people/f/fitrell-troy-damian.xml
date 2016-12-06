@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>fitrell-troy-d</id>
+    <id>fitrell-troy-damian</id>
+    <old-ids>
+        <old-id>fitrell-troy-d</old-id>
+    </old-ids>
     <persName>
         <surname>Fitrell</surname>
         <forename>Troy D.</forename>
@@ -9,10 +12,10 @@
     <death type=""/>
     <career-type>fso</career-type>
     <residence>
-        <state-id/>
+        <state-id>va</state-id>
     </residence>
     <created-by>marrsaw</created-by>
     <created-date>2015-10-29</created-date>
     <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2015-10-29</last-modified-date>
+    <last-modified-date>2016-12-06</last-modified-date>
 </person>
