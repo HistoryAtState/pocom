@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>bivins-miles-t</id>
+    <id>bivins-miles-teel</id>
+    <old-ids>
+        <old-id>bivins-miles-t</old-id>
+    </old-ids>
     <persName>
         <surname>Bivins</surname>
-        <forename>Miles T.</forename>
+        <forename>Miles Teel</forename>
     </persName>
     <birth>1947</birth>
-    <death type=""/>
+    <death>2009</death>
     <career-type>appointee</career-type>
     <residence>
-        <state-id/>
+        <state-id>tx</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2010-05-20</last-modified-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-12-06</last-modified-date>
 </person>
