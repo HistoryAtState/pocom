@@ -256,6 +256,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>tg-1986-korn-01</id>
+            <person-id>korn-david-adolph</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>togo</contemporary-territory-id>
+            <appointed>
+                <date>1986-10-16</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1986-11-04</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1988-04-04</date>
+                <note>Left post on</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-12-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-12-06</last-modified-date>
+        </chief>
+        <chief>
             <id>tg-1988-tayl-01</id>
             <person-id>taylor-rush-walker</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -476,8 +499,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
