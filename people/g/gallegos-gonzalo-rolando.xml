@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>gallegos-gonzalo</id>
+    <id>gallegos-gonzalo-rolando</id>
+    <old-ids>
+        <old-id>gallegos-gonzalo</old-id>
+    </old-ids>
     <persName>
         <surname>Gallegos</surname>
-        <forename>Gonzalo</forename>
-        <altname>Gonzalo Gallegos</altname>
+        <forename>Gonzalo Rolando</forename>
+        <altname>Gonzalo Rolando Gallegos</altname>
     </persName>
     <birth type="unknown"/>
     <death type=""/>
     <career-type>fso</career-type>
     <residence>
-        <state-id/>
+        <state-id>tx</state-id>
     </residence>
     <created-by>marrsaw</created-by>
     <created-date>2015-11-17</created-date>
     <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2015-11-17</last-modified-date>
+    <last-modified-date>2016-12-07</last-modified-date>
 </person>

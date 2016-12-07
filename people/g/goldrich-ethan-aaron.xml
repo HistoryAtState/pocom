@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>goldrich-ethan-a</id>
+    <id>goldrich-ethan-aaron</id>
+    <old-ids>
+        <old-id>goldrich-ethan-a</old-id>
+    </old-ids>
     <persName>
         <surname>Goldrich</surname>
-        <forename>Ethan A.</forename>
+        <forename>Ethan Aaron</forename>
     </persName>
     <birth type="unknown"/>
     <death type=""/>
     <career-type>fso</career-type>
     <residence>
-        <state-id/>
+        <state-id>md</state-id>
     </residence>
     <created-by>marrsaw</created-by>
     <created-date>2015-07-09</created-date>
     <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2015-07-09</last-modified-date>
+    <last-modified-date>2016-12-07</last-modified-date>
 </person>
