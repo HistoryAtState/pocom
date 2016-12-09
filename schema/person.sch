@@ -19,7 +19,11 @@
     </pattern>
     <pattern>
         <rule context="surname | forename">
-            <assert test="every $word in tokenize(., '\s+') satisfies matches($word, '^([A-Z][a-z]+)$|^([A-Z]\.)+$')">Unexpected capitalization found in name: <value-of select="string-join(tokenize(., '\s+')[not(matches(., '^([A-Z][a-z]+)$|^([A-Z]\.)+$'))], '; ')"/>.</assert>
+            <let name="word-regex" value="'[-\s’;\(\)]+'"/>
+            <let name="words-to-ignore" value="'de', 'van', 'von', 'D', 'O', 'St.'"/>
+            <let name="name-regex" value="'^((de|De|di|Di|Du|Fitz|La|Le|Mac|Mc)?\p{Lu}\p{Ll}+)$|^(\p{Lu}\.)+$'"/>
+            <let name="words" value="tokenize(., $word-regex)[. ne ''][not(. = $words-to-ignore)]"/>
+            <assert test="every $word in $words satisfies matches($word, $name-regex)">Unexpected capitalization or punctuation found in name: <value-of select="string-join($words[not(matches(., $name-regex))], '; ')"/>.</assert>
         </rule>
     </pattern>
     <pattern>
