@@ -28,6 +28,14 @@
         </rule>
     </pattern>
     <pattern>
+        <title>Report large gaps between appointment and presentation of credentials</title>
+        <rule context="appointed">
+            <let name="appointed-date" value="./date[. ne '']"/>
+            <let name="started-date" value="./following-sibling::started/date[. ne '']"/>
+            <assert test="if ($appointed-date castable as xs:date and $started-date castable as xs:date) then (xs:date($started-date) - xs:date($appointed-date) le xs:dayTimeDuration('P365D')) else true()">Typo? More than 1 year between appointment (<value-of select="$appointed-date"/>) &amp; presentation of credentials (<value-of select="$started-date"/>).</assert>
+        </rule>
+    </pattern>
+    <pattern>
         <rule context="created-date | last-modified-date">
             <assert test=". castable as xs:date">Should be a valid date, yyyy-mm-dd</assert>
         </rule>
