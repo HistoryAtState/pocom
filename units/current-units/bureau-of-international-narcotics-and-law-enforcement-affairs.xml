@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-international-narcotics-and-law-enforcement-affairs</id>
+    <name>Bureau of International Narcotics and Law Enforcement Affairs</name>
+    <office-symbol>INL</office-symbol>
+    <child-of>department-of-state</child-of>
+    <valid-from>1995-02-11</valid-from>
+    <valid-until/>
+    <predecessors>
+        <predecessor>bureau-of-international-narcotics-matters-1995</predecessor>
+    </predecessors>
+    <successors/>
+    <note/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2015-11-17</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-09-30</last-modified-date>
+</unit>

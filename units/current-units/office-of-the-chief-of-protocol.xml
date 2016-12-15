@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>office-of-the-chief-of-protocol</id>
+    <name>Office of the Chief of Protocol</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1947-04-17</valid-from>
+    <valid-until/>
+    <predecessors>
+        <predecessor>division-of-protocol-1947</predecessor>
+    </predecessors>
+    <successors/>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-07-10</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-07-10</last-modified-date>
+</unit>

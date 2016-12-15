@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-international-narcotics-matters-1995</id>
+    <name>Bureau of International Narcotics Matters</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1978-10-01</valid-from>
+    <valid-until>1995-02-10</valid-until>
+    <predecessors/>
+    <successors>
+        <successor>bureau-of-international-narcotics-and-law-enforcement-affairs</successor>
+    </successors>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-09-30</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-09-30</last-modified-date>
+</unit>

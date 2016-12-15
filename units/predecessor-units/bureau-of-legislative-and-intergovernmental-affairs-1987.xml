@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-legislative-and-intergovernmental-affairs-1987</id>
+    <name>Bureau of Legislative Affairs</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1983-04-11</valid-from>
+    <valid-until>1987-09-30</valid-until>
+    <predecessors>
+        <predecessor>bureau-of-congressional-relations-1983</predecessor>
+    </predecessors>
+    <successors>
+        <successor>bureau-of-legislative-affairs</successor>
+    </successors>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-09-24</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-09-24</last-modified-date>
+</unit>

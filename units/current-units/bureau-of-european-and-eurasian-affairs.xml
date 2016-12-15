@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-european-and-eurasian-affairs</id>
+    <name>Bureau of European and Eurasian Affairs</name>
+    <office-symbol>EUR</office-symbol>
+    <child-of>department-of-state</child-of>
+    <valid-from>2001-08-08</valid-from>
+    <valid-until/>
+    <predecessors>
+        <predecessor>bureau-of-european-affairs-2001</predecessor>
+    </predecessors>
+    <successors/>
+    <note/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2015-11-17</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-07-29</last-modified-date>
+</unit>

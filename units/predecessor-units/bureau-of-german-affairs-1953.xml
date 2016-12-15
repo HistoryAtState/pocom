@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-german-affairs-1953</id>
+    <name>Bureau of German Affairs</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1949-11-01</valid-from>
+    <valid-until>1953-11-02</valid-until>
+    <predecessors/>
+    <successors>
+        <successor>bureau-of-european-affairs-1983</successor>
+    </successors>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-07-28</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-08-21</last-modified-date>
+</unit>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-non-proliferation-2005</id>
+    <name>Bureau of Non-Proliferation</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1999-04-01</valid-from>
+    <valid-until>2005-07-28</valid-until>
+    <predecessors/>
+    <successors>
+        <successor>bureau-of-international-security-and-nonproliferation</successor>
+    </successors>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-07-10</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-07-10</last-modified-date>
+</unit>

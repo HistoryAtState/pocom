@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-consular-affairs</id>
+    <name>Bureau of Consular Affairs</name>
+    <office-symbol>CA</office-symbol>
+    <child-of>department-of-state</child-of>
+    <valid-from>1979-01-08</valid-from>
+    <valid-until/>
+    <predecessors>
+        <predecessor>bureau-of-security-and-consular-affairs-1979</predecessor>
+    </predecessors>
+    <successors/>
+    <note/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2015-11-17</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-10-31</last-modified-date>
+</unit>

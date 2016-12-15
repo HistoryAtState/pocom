@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-international-security-and-nonproliferation</id>
+    <name>Bureau of International Security and Nonproliferation</name>
+    <office-symbol>ISN</office-symbol>
+    <child-of>department-of-state</child-of>
+    <valid-from>2005-07-29</valid-from>
+    <valid-until/>
+    <predecessors>
+        <predecessor>bureau-of-arms-control-2005</predecessor>
+        <predecessor>bureau-of-non-proliferation-2005</predecessor>
+    </predecessors>
+    <successors/>
+    <note/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2015-11-17</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-07-10</last-modified-date>
+</unit>

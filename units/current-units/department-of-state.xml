@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>department-of-state</id>
+    <name>Department of State</name>
+    <office-symbol/>
+    <child-of/>
+    <valid-from>1789-09-15</valid-from>
+    <valid-until/>
+    <predecessors>
+        <predecessor>department-of-foreign-affairs-1789</predecessor>
+    </predecessors>
+    <successors/>
+    <note>On September 15, 1789, an “act to provide for the safe-keeping of the Acts, Records, and
+        Seal of the United States, and for other purposes” (1 Stat. 68) changed the name of the
+        Department of Foreign Affairs to the Department of State and assigned to it certain domestic
+        duties, nearly all of which were later reassigned to other agencies.</note>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-01-19</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-03-28</last-modified-date>
+</unit>

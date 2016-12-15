@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-economic-energy-and-business-affairs</id>
+    <name>Bureau of Economic, Energy and Business Affairs</name>
+    <office-symbol>EEB</office-symbol>
+    <child-of>department-of-state</child-of>
+    <valid-from>2006-10-26</valid-from>
+    <valid-until/>
+    <predecessors>
+        <predecessor>bureau-of-economic-and-business-affairs-2006</predecessor>
+    </predecessors>
+    <successors/>
+    <note/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2015-11-17</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-09-04</last-modified-date>
+</unit>

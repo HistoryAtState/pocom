@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-education-and-cultural-relations-1978</id>
+    <name>Bureau of Education and Cultural Relations</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1960-04-16</valid-from>
+    <valid-until>1978-03-31</valid-until>
+    <predecessors>
+        <predecessor>bureau-of-international-cultural-relations-1960</predecessor>
+    </predecessors>
+    <successors>
+        <successor>bureau-of-educational-and-cultural-affairs</successor>
+    </successors>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-09-10</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-09-10</last-modified-date>
+</unit>

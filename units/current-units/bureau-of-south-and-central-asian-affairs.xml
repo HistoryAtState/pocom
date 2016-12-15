@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-south-and-central-asian-affairs</id>
+    <name>Bureau of South and Central Asian Affairs</name>
+    <office-symbol>SCA</office-symbol>
+    <child-of>department-of-state</child-of>
+    <valid-from>1992-08-24</valid-from>
+    <valid-until/>
+    <predecessors>
+        <predecessor>bureau-of-south-asian-affairs-2006</predecessor>
+    </predecessors>
+    <successors/>
+    <note/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2015-11-17</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-07-27</last-modified-date>
+</unit>

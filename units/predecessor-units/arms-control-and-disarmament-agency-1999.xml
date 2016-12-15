@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>arms-control-and-disarmament-agency-1999</id>
+    <name>Arms Control and Disarmament Agency</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1961-09-26</valid-from>
+    <valid-until>1999-04-01</valid-until>
+    <predecessors/>
+    <successors>
+        <successor>department-of-state</successor>
+    </successors>
+    <note>The Foreign Affairs Reform and Restructuring Act of October 21, 1998 (112 State 2681-767)
+        authorized the incorporation of the Arms Control and Disarmament Agency into the Department
+        of State.</note>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-18</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-07-10</last-modified-date>
+</unit>

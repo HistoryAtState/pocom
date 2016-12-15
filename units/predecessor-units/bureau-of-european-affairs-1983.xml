@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-european-affairs-1983</id>
+    <name>Bureau of European Affairs</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1949-05-26</valid-from>
+    <valid-until>1983-09-14</valid-until>
+    <predecessors/>
+    <successors>
+        <successor>bureau-of-european-and-canadian-affairs-1999</successor>
+    </successors>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-07-28</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-07-28</last-modified-date>
+</unit>

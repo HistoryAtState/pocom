@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-energy-resources</id>
+    <name>Bureau of Energy Resources</name>
+    <office-symbol>ENR</office-symbol>
+    <child-of>department-of-state</child-of>
+    <valid-from>2011-10-14</valid-from>
+    <valid-until/>
+    <predecessors/>
+    <successors/>
+    <note/>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2015-11-17</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-09-17</last-modified-date>
+</unit>

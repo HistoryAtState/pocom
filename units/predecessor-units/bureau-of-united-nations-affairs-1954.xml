@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-united-nations-affairs-1954</id>
+    <name>Bureau of United Nations Affairs</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1949-10-27</valid-from>
+    <valid-until>1954-08-24</valid-until>
+    <predecessors>
+        <predecessor>bureau-of-international-organization-affairs-1949</predecessor>
+    </predecessors>
+    <successors>
+        <successor>bureau-of-international-organization-affairs</successor>
+    </successors>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-04-24</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-04-24</last-modified-date>
+</unit>

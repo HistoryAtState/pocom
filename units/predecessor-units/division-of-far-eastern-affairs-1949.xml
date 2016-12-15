@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>division-of-far-eastern-affairs-1949</id>
+    <name>Division of Far Eastern Affairs</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1908-03-20</valid-from>
+    <valid-until>1949-10-03</valid-until>
+    <predecessors/>
+    <successors>
+        <successor>bureau-of-east-asian-and-pacific-affairs</successor>
+    </successors>
+    <note>The Division of Far Eastern Affairs was the first geographical division to be established
+        in the Department of State.</note>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2014-09-18</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-07-10</last-modified-date>
+</unit>

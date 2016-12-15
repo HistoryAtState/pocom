@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-economic-and-business-affairs-2006</id>
+    <name>Bureau of Economic and Business Affairs</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1972-09-15</valid-from>
+    <valid-until>2006-10-25</valid-until>
+    <predecessors>
+        <predecessor>bureau-of-economic-affairs-1972</predecessor>
+    </predecessors>
+    <successors>
+        <successor>bureau-of-economic-energy-and-business-affairs</successor>
+    </successors>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-09-04</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-09-04</last-modified-date>
+</unit>

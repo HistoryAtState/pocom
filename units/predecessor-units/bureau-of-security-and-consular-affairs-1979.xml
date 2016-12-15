@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>bureau-of-security-and-consular-affairs-1979</id>
+    <name>Bureau of Security and Consular Affairs</name>
+    <office-symbol/>
+    <child-of>department-of-state</child-of>
+    <valid-from>1954-12-31</valid-from>
+    <valid-until>1979-01-07</valid-until>
+    <predecessors>
+        <predecessor>bureau-of-inspection-security-and-consular-affairs-1954</predecessor>
+    </predecessors>
+    <successors>
+        <successor>bureau-of-consular-affairs</successor>
+    </successors>
+    <note/>
+    <created-by>jacksonse</created-by>
+    <created-date>2016-10-31</created-date>
+    <last-modified-by>jacksonse</last-modified-by>
+    <last-modified-date>2016-10-31</last-modified-date>
+</unit>
