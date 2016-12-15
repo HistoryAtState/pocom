@@ -1,0 +1,10 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+element rank {
+    element id { xsd:NCName },
+    element name { text },
+    element created-by { xsd:NCName },
+    element created-date { xsd:date },
+    element last-modified-by { xsd:NCName },
+    element last-modified-date { xsd:date }
+}

@@ -1,0 +1,21 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+element unit {
+    element id { xsd:NCName },
+    element name { text },
+    element office-symbol { text },
+    element child-of { empty | xsd:NCName },
+    element valid-from { empty | xsd:date },
+    element valid-until { empty | xsd:date },
+    element predecessors {
+        element predecessor { xsd:NCName }*
+    },
+    element successors {
+        element successor { xsd:NCName }*
+    },
+    element note { text },
+    element created-by { xsd:NCName },
+    element created-date { xsd:date },
+    element last-modified-by { xsd:NCName },
+    element last-modified-date { xsd:date }
+}
