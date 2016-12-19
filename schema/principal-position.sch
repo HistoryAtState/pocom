@@ -40,14 +40,14 @@
     </pattern>
     <pattern>
         <title>Report possible missing termination dates (skipped for Career Ambassadors)</title>
-        <rule context="ended[date = ''][ancestor::principals]">
+        <rule context="ended[date = ''][not(date/@certainty='high')][ancestor::principals]">
             <let name="start-date" value="(./preceding-sibling::started/date, ./preceding-sibling::appointed/date)[. ne ''][1]"/>
             <assert test="if (ancestor::principal-position/id ne 'career-ambassador' and substring($start-date, 1, 4) castable as xs:gYear) then (year-from-date(current-date()) - substring($start-date, 1, 4) cast as xs:integer lt 6) else true()">Missing termination date? More than 5 years has passed since appointment or entry on duty (<value-of select="substring($start-date, 1, 4)"/>).</assert>
         </rule>
     </pattern>
     <pattern>
         <title>Report large gaps between appointment and entry on duty</title>
-        <rule context="started[not(date/@certainty='true')]">
+        <rule context="started[not(date/@certainty='high')]">
             <let name="started-date" value="./date[. ne '']"/>
             <let name="appointed-date" value="./preceding-sibling::appointed/date[. ne '']"/>
             <assert test="if (ancestor::principal-position/id ne 'career-ambassador' and $appointed-date castable as xs:date and $started-date castable as xs:date) then (xs:date($started-date) - xs:date($appointed-date) le xs:dayTimeDuration('P365D')) else true()">Typo? More than 1 year (<value-of select="format-number(days-from-duration(xs:date($started-date) - xs:date($appointed-date)), '#,###')"/> days) between appointment (<value-of select="$appointed-date"/>) &amp; entry on duty (<value-of select="$started-date"/>).</assert>
