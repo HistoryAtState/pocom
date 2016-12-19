@@ -54,10 +54,10 @@
     </pattern>
     <pattern>
         <title>Report large gaps between appointment and presentation of credentials</title>
-        <rule context="appointed">
-            <let name="appointed-date" value="./date[. ne '']"/>
-            <let name="started-date" value="./following-sibling::started/date[. ne '']"/>
-            <assert test="if ($appointed-date castable as xs:date and $started-date castable as xs:date) then (xs:date($started-date) - xs:date($appointed-date) le xs:dayTimeDuration('P365D')) else true()">Typo? More than 1 year between appointment (<value-of select="$appointed-date"/>) &amp; presentation of credentials (<value-of select="$started-date"/>).</assert>
+        <rule context="started">
+            <let name="started-date" value="./date[. ne '']"/>
+            <let name="appointed-date" value="./preceding-sibling::appointed/date[. ne '']"/>
+            <assert test="if ($appointed-date castable as xs:date and $started-date castable as xs:date) then (xs:date($started-date) - xs:date($appointed-date) le xs:dayTimeDuration('P365D')) else true()">Typo? More than 1 year (<value-of select="format-number(days-from-duration(xs:date($started-date) - xs:date($appointed-date)), '#,###')"/> days) between appointment (<value-of select="$appointed-date"/>) &amp; presentation of credentials (<value-of select="$started-date"/>).</assert>
         </rule>
     </pattern>
     <pattern>
