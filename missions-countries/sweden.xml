@@ -3,30 +3,6 @@
     <territory-id>sweden</territory-id>
     <chiefs>
         <chief>
-            <id>se-1782-fran-01</id>
-            <person-id>franklin-benjamin</person-id>
-            <role-title-id>minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>sweden</contemporary-territory-id>
-            <appointed>
-                <date>1782-09-28</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not proceed to Stockholm, but negotiated a treaty with Sweden which was signed
-                at Paris on April 3, 1783.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-05</last-modified-date>
-        </chief>
-        <chief>
             <id>se-1814-russ-01</id>
             <person-id>russell-jonathan</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
@@ -1288,6 +1264,30 @@
         </chief>
     </chiefs>
     <other-nominees>
+        <chief>
+            <id>se-1782-fran-01</id>
+            <person-id>franklin-benjamin</person-id>
+            <role-title-id>minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>sweden</contemporary-territory-id>
+            <appointed>
+                <date>1782-09-28</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not proceed to Stockholm, but negotiated a treaty with Sweden which was signed
+                at Paris on April 3, 1783.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
+        </chief>
         <chief>
             <id>se-1825-some-01</id>
             <person-id>somerville-william-clark</person-id>
