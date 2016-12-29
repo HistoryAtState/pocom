@@ -19,7 +19,9 @@
                 <date>1974-06-23</date>
                 <note>Appointment terminated</note>
             </ended>
-            <note>During Stolzfus’s tenure as non-resident Ambassador, Embassy Abu Dhabi was established on May 15, 1972, with Philip J. Griffin as Chargé d’Affaires ad interim.</note>
+            <note>During Stolzfus’s tenure as non-resident Ambassador, Embassy Abu Dhabi was
+                established on May 15, 1972, with Philip J. Griffin as Chargé d’Affaires ad
+                interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -88,36 +90,13 @@
                 <date>1981-04-06</date>
                 <note>Left post on</note>
             </ended>
-            <note>Patrick N. Theros served as Chargé d’Affaires ad interim, Apr 1981-Oct 1982.</note>
+            <note></note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-12-29</last-modified-date>
         </chief>
         <chief>
-            <id>ae-1981-ther-01</id>
-            <person-id>theros-patrick-nickolas</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
-            <appointed>
-                <date></date>
-                <note/>
-            </appointed>
-            <started>
-                <date>1981-04</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1982-01</date>
-                <note></note>
-            </ended>
-            <note></note>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-01-04</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-04</last-modified-date>
-        </chief>
-                <chief>
             <id>ae-1982-lums-01</id>
             <person-id>lumsden-george-quincey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -361,8 +340,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
