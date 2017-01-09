@@ -33,14 +33,17 @@ start =
         },
         element career-type {
             
-            ## Non-career appointee
-            "appointee"
+            ## Non-career
+            "non-career"
             | 
-              ## Foreign Service Officer
-              "fso"
+              ## Career
+              "career"
             | 
-              ## Foreign Service Officer and Non-career appointee
+              ## Career and Non-career
               "both"
+            | 
+              ## Pre-1915
+              "pre-1915"
         },
         element residence {
             element state-id {
