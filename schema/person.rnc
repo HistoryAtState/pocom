@@ -12,22 +12,42 @@ start =
         },
         element birth {
             (xsd:gYear,
-             attribute certainty { "high" }?)
+             attribute certainty {
+                 
+                 ## High (confirms the year and overrides warnings about unexpected ages)
+                 "high"
+             }?)
+            | (xsd:gYear,
+               attribute precision {
+                   
+                   ## Low (indicates "circa")
+                   "low"
+               })
             | attribute type {
                   
-                  ## Unknown Year
+                  ## Unknown year (indicates research has failed to locate the year of birth)
                   "unknown"
               }
         },
         element death {
             (xsd:gYear,
-             attribute certainty { "high" }?)
+             attribute certainty {
+                 
+                 ## High (confirms the year and overrides warnings about unexpected ages)
+                 "high"
+             }?)
+            | (xsd:gYear,
+               attribute precision {
+                   
+                   ## Low (indicates "circa")
+                   "low"
+               })
             | attribute type {
                   
-                  ## Unknown Year
+                  ## Unknown year (indicates research has failed to locate the year of death)
                   "unknown"
                   | 
-                    ## Still Living
+                    ## Still living (confirms the year and overrides warnings about unexpected ages)
                     "still-living"
               }
         },
