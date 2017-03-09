@@ -4,17 +4,23 @@
     <description>A list of codes to indicate if a person is non-career appointee or a Foreign Service officer.</description>
     <items>
         <item>
+            <label>Served before the passage of the Foreign Service Act of February 5, 1915</label>
+            <value>pre-1915</value>
+            <definition>Appointees are not categorized as “career” or “non-career” before the
+                passage of the Foreign Service Act of February 5, 1915</definition>
+        </item>
+        <item>
             <label>Non-career appointee</label>
-            <value>appointee</value>
+            <value>non-career</value>
             <definition>Put definition here.</definition>
         </item>
         <item>
-            <label>Foreign Service Officer</label>
-            <value>fso</value>
+            <label>Career Foreign Service Officer</label>
+            <value>career</value>
             <definition>Put definition here.</definition>
         </item>
         <item>
-            <label>Foreign Service Officer and Non-career appointee</label>
+            <label>Career Foreign Service Officer and Non-career appointee</label>
             <value>both</value>
             <definition>Put definition here.</definition>
         </item>
