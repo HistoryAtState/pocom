@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>murphy-sean</id>
     <persName>
@@ -6,11 +6,11 @@
         <forename>Sean</forename>
         <altname>Sean Murphy</altname>
     </persName>
-    <birth></birth>
+    <birth/>
     <death/>
     <career-type>fso</career-type>
     <residence>
-        <state-id></state-id>
+        <state-id/>
     </residence>
     <created-by>marrsaw</created-by>
     <created-date>2015-11-17</created-date>

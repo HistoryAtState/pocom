@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>libya</territory-id>
     <chiefs>
@@ -375,7 +375,8 @@
             </started>
             <ended>
                 <date>2015-09-12</date>
-                <note>Embassy closed July 26, 2014 and facilities moved to Valetta. Facilities moved to Tunis, June-July 2015. Left Tunis on</note>
+                <note>Embassy closed July 26, 2014 and facilities moved to Valetta. Facilities moved
+                    to Tunis, June-July 2015. Left Tunis on</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -393,12 +394,12 @@
                 <note/>
             </appointed>
             <started>
-                <date></date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
@@ -406,7 +407,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-            </chiefs>
+    </chiefs>
     <other-nominees/>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>panama</territory-id>
     <chiefs>
@@ -946,7 +946,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>
@@ -1068,8 +1068,8 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of June 8, 1994, not acted upon by the Senate; withdrawn on January
-                31, 1995.</note>
+            <note>Nomination of June 8, 1994, not acted upon by the Senate; withdrawn on January 31,
+                1995.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>

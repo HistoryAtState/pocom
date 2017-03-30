@@ -1,6 +1,6 @@
-<code-table>
+﻿<code-table>
     <name>role-category-code</name>
-    <hint>Role category codes.  Used to group roles.</hint>
+    <hint>Role category codes. Used to group roles.</hint>
     <items>
         <item>
             <label>Secretaries</label>
@@ -33,7 +33,8 @@
             <definition>None.</definition>
         </item>
         <item>
-            <label>Assistant Secretaries of State or Equivalents with Functional Designations</label>
+            <label>Assistant Secretaries of State or Equivalents with Functional
+                Designations</label>
             <value>assistant-secretary-or-equiv</value>
             <definition>None.</definition>
         </item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>serbia</territory-id>
     <chiefs>
@@ -323,7 +323,7 @@
                 <date>1918-12-17</date>
                 <note>Relieved of active functions pertaining to the Legation in Belgrade on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -371,7 +371,9 @@
                 <date>2007-08-03</date>
                 <note/>
             </ended>
-            <note>Commissioned to Serbia and Montenegro. Polt continued to serve in Serbia after the United States recognized Montenegro on June 13, 2006, and established relations with Montenegro on August 15.</note>
+            <note>Commissioned to Serbia and Montenegro. Polt continued to serve in Serbia after the
+                United States recognized Montenegro on June 13, 2006, and established relations with
+                Montenegro on August 15.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -460,8 +462,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
@@ -469,7 +471,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-            </chiefs>
+    </chiefs>
     <other-nominees>
         <chief>
             <id>rs-1891-snow-01</id>

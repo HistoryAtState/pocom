@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>india</territory-id>
     <chiefs>
@@ -8,7 +8,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>india</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -16,10 +16,10 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-10-27</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -42,7 +42,7 @@
                 <date>1948-06-22</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -65,7 +65,9 @@
                 <date>1951-09-21</date>
                 <note>Left post on</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after confirmation. Reaccredited when India became a republic; presented new credentials on February 24, 1950.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after
+                confirmation. Reaccredited when India became a republic; presented new credentials
+                on February 24, 1950.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -88,7 +90,7 @@
                 <date>1953-03-23</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -111,7 +113,7 @@
                 <date>1954-11-30</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -134,7 +136,7 @@
                 <date>1956-04-23</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -157,7 +159,8 @@
                 <date>1961-03-23</date>
                 <note>Left India</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on January 25, 1957, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 25, 1957,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -410,7 +413,7 @@
                 <date>1993-03-23</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -422,7 +425,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>india</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -591,8 +594,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>

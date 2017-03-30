@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <org-mission>
     <id>representative-to-icao</id>
     <category>international-organization</category>
@@ -52,7 +52,8 @@
                 <date>1953-08-01</date>
                 <note/>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on December 13, 1949, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 13, 1949,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>

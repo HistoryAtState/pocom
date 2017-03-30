@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>bulgaria</territory-id>
     <chiefs>
@@ -808,8 +808,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
@@ -817,7 +817,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-            </chiefs>
+    </chiefs>
     <other-nominees>
         <chief>
             <id>bg-1901-dick-01</id>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>azerbaijan</territory-id>
     <chiefs>
@@ -134,7 +134,7 @@
                 <date>2009-01-22</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -146,7 +146,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -155,9 +155,9 @@
             </started>
             <ended>
                 <date>2010-07</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-08-26</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -170,7 +170,7 @@
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
             <appointed>
                 <date>2010-12-29</date>
-                <note></note>
+                <note/>
             </appointed>
             <started>
                 <date>2011-02-17</date>
@@ -180,7 +180,8 @@
                 <date>2012-01-03</date>
                 <note>Recess appointment expired. Left post on</note>
             </ended>
-            <note>Commissioned during a recess of the Senate. Re-nominated January 26, 2012; nomination withdrawn April 26, 2012.</note>
+            <note>Commissioned during a recess of the Senate. Re-nominated January 26, 2012;
+                nomination withdrawn April 26, 2012.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-04-02</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -223,8 +224,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
@@ -240,16 +241,16 @@
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
             <appointed>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </appointed>
             <started>
-                <date></date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note>Nomination of January 26, 2012, withdrawn on April 26, 2012.</note>
             <created-by>marrsaw</created-by>

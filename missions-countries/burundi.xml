@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>burundi</territory-id>
     <chiefs>
@@ -19,7 +19,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -42,7 +42,8 @@
                 <date>1963-09-16</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on March 12, 1963, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 12, 1963,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -65,8 +66,8 @@
                 <date>1966-01-11</date>
                 <note>Left post on</note>
             </ended>
-            <note>Recall requested by the Government of Burundi on December 29, 1965 (request received on January
-                10, 1966).</note>
+            <note>Recall requested by the Government of Burundi on December 29, 1965 (request
+                received on January 10, 1966).</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -273,7 +274,7 @@
                 <date>1993-02-28</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -296,13 +297,13 @@
                 <date>1994-06</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-12-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
-                <chief>
+        <chief>
             <id>bi-1994-krue-01</id>
             <person-id>krueger-robert-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>

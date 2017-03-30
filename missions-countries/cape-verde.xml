@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>cape-verde</territory-id>
     <chiefs>
@@ -19,7 +19,7 @@
                 <date>1977-03-23</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -42,7 +42,8 @@
                 <date>1980-07-11</date>
                 <note>Left post on</note>
             </ended>
-            <note>During Marks’s tenure as non-resident Ambassador, Embassy Praia was established on January 28, 1978, with Howard McGowan as Charge d’affaires ad interim.</note>
+            <note>During Marks’s tenure as non-resident Ambassador, Embassy Praia was established on
+                January 28, 1978, with Howard McGowan as Charge d’affaires ad interim.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -65,7 +66,7 @@
                 <date>1983-03-30</date>
                 <note>Left Bissau</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -311,14 +312,14 @@
                 <note/>
             </appointed>
             <started>
-                <date></date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>

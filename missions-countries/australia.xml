@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>australia</territory-id>
     <chiefs>
@@ -42,7 +42,7 @@
                 <date>1945-04-20</date>
                 <note>Left Australia</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -65,7 +65,8 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Minter was serving as Chargé d’Affaires ad interim when Legation Canberra was raised to Embassy status, July 19, 1946.</note>
+            <note>Minter was serving as Chargé d’Affaires ad interim when Legation Canberra was
+                raised to Embassy status, July 19, 1946.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -111,7 +112,8 @@
                 <date>1949-03-17</date>
                 <note>Left post on</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on March 2, 1949, after
+                confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -364,7 +366,7 @@
                 <date>1981-01-23</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -548,7 +550,7 @@
                 <date>2006-07</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -624,30 +626,30 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>                
+    <other-nominees>
         <chief>
-        <id>au-1945-flyn-01</id>
-        <person-id>flynn-edward-joseph</person-id>
-        <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-        <contemporary-territory-id>australia</contemporary-territory-id>
-        <appointed>
-            <date/>
-            <note/>
-        </appointed>
-        <started>
-            <date/>
-            <note/>
-        </started>
-        <ended>
-            <date/>
-            <note/>
-        </ended>
-        <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-        <created-by>wicentowskijc</created-by>
-        <created-date>2010-05-20</created-date>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-date>2010-05-20</last-modified-date>
-    </chief>
+            <id>au-1945-flyn-01</id>
+            <person-id>flynn-edward-joseph</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>australia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
     </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>

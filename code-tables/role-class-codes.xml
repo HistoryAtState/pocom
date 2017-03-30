@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <code-table>
     <name>role-class-code</name>
-    <hint>Role class codes.  I.E. Principal or Chief.  Used to classify roles.</hint>
+    <hint>Role class codes. I.E. Principal or Chief. Used to classify roles.</hint>
     <items>
         <item>
             <label>Prinicpal</label>
             <value>principal</value>
-            <definition>A role in the US Department of State with no country associated with it.</definition>
+            <definition>A role in the US Department of State with no country associated with
+                it.</definition>
         </item>
         <item>
             <label>Chief</label>
             <value>chief</value>
-            <definition>A role in the US Department of State with a country associated with it.</definition>
+            <definition>A role in the US Department of State with a country associated with
+                it.</definition>
         </item>
     </items>
 </code-table>

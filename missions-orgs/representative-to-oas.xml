@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <org-mission>
     <id>representative-to-oas</id>
     <category>international-organization</category>
@@ -410,7 +410,7 @@
                 <note/>
             </appointed>
             <started>
-                <date></date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -422,7 +422,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-25</last-modified-date>
         </chief>
-            </chiefs>
+    </chiefs>
     <other-appointees>
         <chief>
             <id>oas-2007-boni</id>
@@ -462,7 +462,8 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nomination of July 31, 2014, was not acted upon by the Senate. Re-nominated on July 8, 2015.</note>
+            <note>Nomination of July 31, 2014, was not acted upon by the Senate. Re-nominated on
+                July 8, 2015.</note>
             <created-by>marrsaw</created-by>
             <created-date>2015-05-05</created-date>
             <last-modified-by>marrsaw</last-modified-by>

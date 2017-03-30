@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>rwanda</territory-id>
     <chiefs>
@@ -19,13 +19,13 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-                <chief>
+        <chief>
             <id>rw-1963-with-01</id>
             <person-id>withers-charles-dudley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -42,7 +42,7 @@
                 <date>1966-09-15</date>
                 <note>Left post on</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -430,7 +430,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>

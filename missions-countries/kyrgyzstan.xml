@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>kyrgyzstan</territory-id>
     <chiefs>
@@ -13,7 +13,7 @@
             </appointed>
             <started>
                 <date>1992-02-01</date>
-                <note></note>
+                <note/>
             </started>
             <ended>
                 <date/>
@@ -272,7 +272,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>

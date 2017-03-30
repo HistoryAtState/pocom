@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>sudan</territory-id>
     <chiefs>
@@ -19,7 +19,8 @@
                 <date>1956-05-17</date>
                 <note>Superseded</note>
             </ended>
-            <note>Not commissioned; letter of credence dated March 2, 1956. The Embassy in Khartoum was established on February 15, 1956, with Beach in charge.</note>
+            <note>Not commissioned; letter of credence dated March 2, 1956. The Embassy in Khartoum
+                was established on February 15, 1956, with Beach in charge.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -111,7 +112,8 @@
                 <date>1967-06-07</date>
                 <note>Sudan severed diplomatic relations with the United States on</note>
             </ended>
-            <note>Embassy Khartoum closed as of June 6, 1967. Weathersby left post on June 18, 1967.</note>
+            <note>Embassy Khartoum closed as of June 6, 1967. Weathersby left post on June 18,
+                1967.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -131,7 +133,7 @@
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -140,9 +142,9 @@
             </started>
             <ended>
                 <date>1969-06</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-01-29</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -154,7 +156,7 @@
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -163,9 +165,9 @@
             </started>
             <ended>
                 <date>1972-07</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-01-29</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -178,13 +180,13 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </mission-note>
-                <chief>
+        <chief>
             <id>sd-1972-moor-01</id>
             <person-id>moore-george-curtis</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -195,7 +197,7 @@
                 <date>1972-12-23</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -218,7 +220,8 @@
                 <date>1973-03-02</date>
                 <note>Assassinated at post on</note>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on February 8, 1973, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on February 8, 1973,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -414,7 +417,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -437,7 +440,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -460,7 +463,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -483,7 +486,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -506,7 +509,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -529,7 +532,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -546,13 +549,13 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-22</last-modified-date>
         </chief>
-                <chief>
+        <chief>
             <id>sd-2005-hume-01</id>
             <person-id>hume-cameron-r</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -575,7 +578,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -586,7 +589,7 @@
                 <date>2009-05</date>
                 <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -598,7 +601,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -621,7 +624,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -644,7 +647,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -667,7 +670,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -684,13 +687,13 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-31</last-modified-date>
         </chief>
-                <chief>
+        <chief>
             <id>sd-2012-staf-01</id>
             <person-id>stafford-joseph-d</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -713,7 +716,7 @@
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>

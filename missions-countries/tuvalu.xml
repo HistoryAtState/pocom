@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>tuvalu</territory-id>
     <chiefs>
@@ -19,7 +19,7 @@
                 <date>1980-07-27</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -42,7 +42,7 @@
                 <date>1981-08-15</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -65,7 +65,7 @@
                 <date>1984-05-07</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -88,7 +88,7 @@
                 <date>1987-07-15</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -111,7 +111,7 @@
                 <date>1989-08-31</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -134,7 +134,7 @@
                 <date>1993-03-05</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -163,7 +163,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-                <chief>
+        <chief>
             <id>tv-1995-gevi-01</id>
             <person-id>gevirtz-don-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -180,7 +180,7 @@
                 <date>1997-09-28</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -203,7 +203,7 @@
                 <date>2001-06-30</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -232,7 +232,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-                <chief>
+        <chief>
             <id>tv-2002-lyon-01</id>
             <person-id>lyon-david-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -249,7 +249,7 @@
                 <date>2005-07-23</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -295,7 +295,7 @@
                 <date>2011-07-13</date>
                 <note>Left Suva</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -318,7 +318,7 @@
                 <date>2015-01-18</date>
                 <note>Left Suva.</note>
             </ended>
-            <note></note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2012-09-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -338,10 +338,10 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <org-mission>
     <id>representative-to-osce</id>
     <category>international-organization</category>
@@ -11,7 +11,8 @@
     <description>
         <div>
             <p>The Chief of Mission has the title of Representative of the U.S.A. to the
-                Organization for Security and Cooperation in Europe, with the rank of Ambassador.</p>
+                Organization for Security and Cooperation in Europe, with the rank of
+                Ambassador.</p>
         </div>
     </description>
     <chiefs>
@@ -29,7 +30,7 @@
             </started>
             <ended>
                 <date>2013-09-09</date>
-                <note></note>
+                <note/>
             </ended>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-24</created-date>
