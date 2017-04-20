@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
+    <!-- See documentation on Saxon-specific collection syntax used below: http://www.saxonica.com/documentation/index.html#!sourcedocs/collections --> 
     <let name="chief-ids" value="(collection('../missions-orgs?select=*.xml')//chief/id, collection('../missions-countries?select=*.xml')//chief/id)"/>
     <pattern>
         <rule context="id">
