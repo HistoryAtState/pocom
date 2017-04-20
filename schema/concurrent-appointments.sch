@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
+    <let name="chief-ids" value="(collection('../missions-orgs?select=*.xml')//chief/id, collection('../missions-countries?select=*.xml')//chief/id)"/>
     <pattern>
         <rule context="id">
             <let name="basename" value="replace(base-uri(.), '^.*/(.*?)$', '$1')"/>
@@ -27,6 +28,11 @@
         <rule context="contemporary-territory-id">
             <!-- NOTE: THIS PATH TO GSH ASSUMES THAT GSH APP IS IN THE HSG-PROJECT REPOS DIRECTORY -->
             <assert test="doc-available(concat('../../gsh/data/territories/', ., '.xml'))">The contemporary-territory-id “<value-of select="."/>” was not found in the gsh territory collection.</assert>
+        </rule>
+    </pattern>
+    <pattern>
+        <rule context="chief-id">
+            <assert test=". = $chief-ids">The chief-id “<value-of select="."/>” was not found in the missions-countries or missions-orgs collection as a chief/id.</assert>
         </rule>
     </pattern>
     <pattern>
