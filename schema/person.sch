@@ -10,11 +10,22 @@
         <rule context="id">
             <let name="basename" value="replace(base-uri(.), '^.*/(.*?)$', '$1')"/>
             <let name="parent-dir" value="replace(base-uri(.), '^.*/(.*?)/.*?$', '$1')"/>
+            <let name="original-id" value="./string()"/>
+            <let name="generated-id" value="lower-case(replace(replace(string-join(./following-sibling::persName/(surname, forename, genName), ' '), '\p{P}', ''), '\s+', '-'))"/>
             <assert test="$basename = concat(., '.xml')">The id “<value-of select="."/>” does
                 not match filename “<value-of select="$basename"/>”</assert>
             <assert test="$parent-dir = substring(., 1, 1)">The file should be stored in the “<value-of select="substring(., 1, 1)"/>” directory, not in the “<value-of select="$parent-dir"/>” directory</assert>
             <assert test="matches(., '^[a-z-]+(\d+)?$')">The id 
                 “<value-of select="."/>” must contain only lower case letters and hyphens, and can optionally end with a number</assert>
+            <assert test=". eq $generated-id" sqf:fix="update-id">Based on the name elements, the ID should be <value-of select="$generated-id"/>.</assert>
+            <sqf:fix id="update-id">
+                <sqf:description>
+                    <sqf:title>Update ID from name</sqf:title>
+                </sqf:description>
+                <sqf:add use-when="not(following-sibling::old-ids)" match="." position="after" target="old-ids" node-type="element"/>
+                <sqf:add match="following-sibling::old-ids" target="old-id" node-type="element"><value-of select="$original-id"/></sqf:add>
+                <sqf:replace match="." target="id" node-type="element" select="$generated-id"/>
+            </sqf:fix>
         </rule>
     </pattern>
     <pattern>
