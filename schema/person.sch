@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt3"
+    xmlns:sch="http://purl.oclc.org/dsdl/schematron"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
     <pattern>
         <rule context="/">
@@ -22,9 +23,17 @@
                 <sqf:description>
                     <sqf:title>Update ID from name</sqf:title>
                 </sqf:description>
-                <sqf:add use-when="not(following-sibling::old-ids)" match="." position="after" target="old-ids" node-type="element"/>
-                <sqf:add match="following-sibling::old-ids" target="old-id" node-type="element"><value-of select="$original-id"/></sqf:add>
-                <sqf:replace match="." target="id" node-type="element" select="$generated-id"/>
+                <sqf:add use-when="not(following-sibling::old-ids)" match="." position="after" target="old-ids" node-type="element">
+                    <old-id xmlns="">
+                        <sch:value-of select="$original-id"/>
+                    </old-id>
+                </sqf:add>
+                <sqf:add use-when="following-sibling::old-ids"  match="following-sibling::old-ids" position="last-child">
+                    <old-id xmlns="">
+                        <sch:value-of select="$original-id"/>
+                    </old-id>
+                </sqf:add>
+                <sqf:replace match="text()" select="$generated-id"/>
             </sqf:fix>
         </rule>
     </pattern>
