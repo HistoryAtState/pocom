@@ -408,17 +408,61 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2016-02-28</date>
                 <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-05</last-modified-date>
+            <last-modified-date>2017-08-22</last-modified-date>
         </principal>
     </principals>
-    <other-appointees/>
+    <other-appointees>
+        <principal>
+            <id>terr-2016-sibe</id>
+            <person-id>siberell-justin-h</person-id>
+            <role-title-id>coordinator-combatting-terrorism</role-title-id>
+            <appointed>
+                <date></date>
+                <note></note>
+            </appointed>
+            <started>
+                <date></date>
+                <note></note>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note>Nomination of September 19, 2016, not acted upon by the Senate.</note>
+            <created-by>marrsaw</created-by>
+            <created-date>2017-08-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2017-08-22</last-modified-date>
+        </principal>
+        <principal>
+            <id>terr-2017-sale</id>
+            <person-id>sales-nathan-alexander</person-id>
+            <role-title-id>coordinator-combatting-terrorism</role-title-id>
+            <appointed>
+                <date></date>
+                <note></note>
+            </appointed>
+            <started>
+                <date></date>
+                <note></note>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <created-by>marrsaw</created-by>
+            <created-date>2017-08-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2017-08-22</last-modified-date>
+        </principal>
+    </other-appointees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-18</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

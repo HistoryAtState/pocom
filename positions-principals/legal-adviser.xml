@@ -511,6 +511,30 @@
             <last-modified-date>2014-07-29</last-modified-date>
         </principal>
         <principal>
+            <id>advi-2014-egan</id>
+            <person-id>egan-brian-james</person-id>
+            <role-title-id>legal-adviser</role-title-id>
+            <appointed>
+                <date>2016-02-22</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2016-02-22</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2017-01-24</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2014-07-15</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2017-08-22</last-modified-date>
+        </principal>
+    </principals>
+    <other-appointees>
+        <principal>
             <id>advi-2013-hain</id>
             <person-id>haines-avril-d</person-id>
             <role-title-id>legal-adviser</role-title-id>
@@ -533,30 +557,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-15</last-modified-date>
         </principal>
-        <principal>
-            <id>advi-2014-egan</id>
-            <person-id>egan-brian-james</person-id>
-            <role-title-id>legal-adviser</role-title-id>
-            <appointed>
-                <date>2016-02-22</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>2016-02-22</date>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2014-07-15</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-08-25</last-modified-date>
-        </principal>
-    </principals>
-    <other-appointees/>
+    </other-appointees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-18</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>
