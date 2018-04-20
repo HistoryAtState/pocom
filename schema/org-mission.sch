@@ -21,6 +21,13 @@
         </rule>
     </pattern>
     <pattern>
+        <rule context="chief[.//date[. ne '']][preceding-sibling::chief[1]//date[. ne '']]" role="warn">
+            <let name="current-position-start-date" value="(started/date, appointed/date)[. ne ''][1]"/>
+            <let name="previous-position-end-date" value="(preceding-sibling::chief[1]//date[. ne ''])[last()]"/>
+            <assert test="$current-position-start-date ge $previous-position-end-date">Possible position ordering problem: This position started on <value-of select="if ($current-position-start-date castable as xs:date) then format-date($current-position-start-date, '[MNn] [D], [Y0001]') else $current-position-start-date"/>, but the previous position didn't end until afterward, <value-of select="if ($previous-position-end-date castable as xs:date) then format-date($previous-position-end-date, '[MNn] [D], [Y0001]') else $previous-position-end-date"/>.</assert>
+        </rule>
+    </pattern>
+    <pattern>
         <title>Report possible missing termination dates</title>
         <rule context="ended[date = ''][not(date/@certainty='high')][ancestor::chiefs]">
             <let name="start-date" value="(./preceding-sibling::started/date, ./preceding-sibling::appointed/date)[. ne ''][1]"/>
