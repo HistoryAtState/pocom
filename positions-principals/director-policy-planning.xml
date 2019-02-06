@@ -664,7 +664,7 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </ended>
             <created-by>marrsaw</created-by>
@@ -672,10 +672,31 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </principal>
+        <principal>
+            <id>plan-2017-hook</id>
+            <person-id>hook-brian-h</person-id>
+            <role-title-id>director-policy-planning</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2017-02-17</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2018-09-01</date>
+                <note/>
+            </ended>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-02-06</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-02-06</last-modified-date>
+        </principal>
     </principals>
     <other-appointees/>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-18</created-date>
-    <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2014-11-13</last-modified-date>
+    <last-modified-by>bottsjd</last-modified-by>
+    <last-modified-date>2019-02-06</last-modified-date>
 </principal-position>

@@ -688,14 +688,36 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2016-12-16</date>
                 <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-15</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-05</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-02-06</last-modified-date>
+        </principal>
+        <principal>
+            <id>prot-2017-lawl</id>
+            <person-id>lawler-sean-p</person-id>
+            <role-title-id>chief-of-protocol</role-title-id>
+            <appointed>
+                <date>2017-12-01</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2017-12-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-02-06</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-02-06</last-modified-date>
         </principal>
     </principals>
     <other-appointees/>
