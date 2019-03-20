@@ -487,6 +487,30 @@
             <last-modified-date>2019-02-06</last-modified-date>
         </principal>
         <principal>
+            <id>inst-2018-smit</id>
+            <person-id>smith-daniel-bennett</person-id>
+            <role-title-id>director-foreign-service-institute</role-title-id>
+            <appointed>
+                <date>2018-10-23</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2018-10-26</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-03-20</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-03-20</last-modified-date>
+        </principal>
+    </principals>
+    <other-appointees>
+        <principal>
             <id>inst--bash</id>
             <person-id>bash-edward-john</person-id>
             <role-title-id>director-foreign-service-institute</role-title-id>
@@ -508,8 +532,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </principal>
-    </principals>
-    <other-appointees/>
+    </other-appointees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-18</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>
