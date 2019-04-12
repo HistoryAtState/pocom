@@ -1,7 +1,5 @@
 xquery version "3.1";
 
-declare namespace tei="http://www.tei-c.org/ns/1.0";
-declare namespace frus="http://history.state.gov/frus/ns/1.0";
 declare namespace output="http://www.w3.org/2010/xslt-xquery-serialization";
 
 declare option output:method "html";
@@ -18,7 +16,6 @@ declare function local:wrap-html($title, $body, $q, $sort) {
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
             <style type="text/css">
                 body {{ font-family: HelveticaNeue, Helvetica, Arial, sans; }}
-                table {{ page-break-inside: avoid; }}
                 .missing-target {{ text-decoration-line: underline; text-decoration-style: dashed; }}
                 .highlight {{ background-color: yellow }}
                 .form-check {{ justify-content: left !important }}
@@ -44,18 +41,28 @@ declare function local:wrap-html($title, $body, $q, $sort) {
         </head>
         <body>
             <div class="container-fluid">
-                <h3><a href="/exist/apps/pocom/modules/facets-people.xq">POCOM People</a></h3>
-                <form class="form-inline" action="?" method="get">
-                    <div class="form-group">
-                        <label for="q" class="control-label mb-2 mr-2">Search POCOM People</label>
-                        <input type="text" name="q" id="q" class="form-control mb-2 mr-2" value="{$q}"/>
-                        <label for="sort-country" class="control-label mb-2 mr-2">Sort by country</label>
-                        <input type="radio" name="sort" id="sort-country" class="form-control mb-2 mr-2" value="country"/>{if ($sort eq "country" or $sort eq "") then attribute checked { "checked" } else ()}
-                        <label for="sort-date" class="control-label mb-2 mr-2">by date</label>
-                        <input type="radio" name="sort" id="sort-date" class="form-control mb-2 mr-2" value="date"/>{if ($sort eq "date") then attribute checked { "checked" } else ()}
+                <div class="row">
+                    <div class="col">
+                        <h3><a href="/exist/apps/pocom/modules/facets-people.xq">POCOM People</a></h3>
                     </div>
-                    <button type="submit" class="btn btn-primary mb-2 mr-2">Submit</button>
-                    { if (request:get-query-string() ne "") then <a class="btn btn-secondary mb-2 mr-2" href="{request:get-url()}">Reset</a> else () }
+                </div>
+                <form action="?" method="get">
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-group form-inline">
+                                <label for="q" class="control-label mb-2 mr-2">Search POCOM People</label>
+                                <input type="text" name="q" id="q" class="form-control mb-2 mr-2" value="{$q}"/>
+                                <!--
+                                <label for="sort-country" class="control-label mb-2 mr-2">Sort by country</label>
+                                <input type="radio" name="sort" id="sort-country" class="form-control mb-2 mr-2" value="country"/>{if ($sort eq "country" or $sort eq "") then attribute checked { "checked" } else ()}
+                                <label for="sort-date" class="control-label mb-2 mr-2">by date</label>
+                                <input type="radio" name="sort" id="sort-date" class="form-control mb-2 mr-2" value="date"/>{if ($sort eq "date") then attribute checked { "checked" } else ()}
+                                -->
+                                <button type="submit" class="btn btn-primary mb-2 mr-2">Submit</button>
+                                { if (request:get-query-string() ne "") then <a class="btn btn-secondary mb-2 mr-2" href="{request:get-url()}">Reset</a> else () }
+                            </div>
+                        </div>
+                    </div>
                     {$body}
                 </form>
             </div>
@@ -221,7 +228,7 @@ declare function local:format-date($date as xs:string) {
 let $q := request:get-parameter("q", ())[. ne ""]
 let $start := request:get-parameter("start", 1) cast as xs:integer
 let $per-page := request:get-parameter("per-page", 25) cast as xs:integer
-let $sort := request:get-parameter("sort", "country")
+let $sort := request:get-parameter("sort", "name")
 let $default-facets-max := request:get-parameter("facets-max", 10) cast as xs:integer
 
 let $alive := request:get-parameter("alive", ())[. ne ""]
