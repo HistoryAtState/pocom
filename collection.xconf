@@ -6,7 +6,7 @@
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
             <text qname="persName"/>
-            <module prefix="pc" uri="http://history.state.gov/ns/xquery/pocom" at="modules/pc.xqm"/>
+            <module prefix="pc" uri="http://history.state.gov/ns/xquery/pocom" at="pc.xqm"/>
             <text qname="chief">
                 <facet dimension="person-id" expression="person-id"/>
                 <field name="name" expression="pc:name-last-first(person-id)"/>
