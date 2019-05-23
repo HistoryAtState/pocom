@@ -278,18 +278,72 @@
                 <date>2016-06-27</date>
                 <note/>
             </appointed>
+            <arrived>
+                <date>2016-07-09</date>
+                <note/>
+            </arrived>
             <started>
-                <date/>
+                <date>2016-07-13</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2017-01-18</date>
                 <note/>
             </ended>
             <created-by>marrsaw</created-by>
             <created-date>2016-10-25</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-10-25</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>iaea-2017-sham</id>
+            <person-id>shampaine-nicole-d</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date></date>
+                <note/>
+            </arrived>
+            <started>
+                <date>2017-08-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2018-10-19</date>
+                <note/>
+            </ended>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-23</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>iaea-2018-wolc</id>
+            <person-id>wolcott-jackie</person-id>
+            <role-title-id>representative-to-iaea</role-title-id>
+            <appointed>
+                <date>2018-09-26</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2018-10-19</date>
+                <note/>
+            </arrived>
+            <started>
+                <date></date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-23</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
     <other-appointees>

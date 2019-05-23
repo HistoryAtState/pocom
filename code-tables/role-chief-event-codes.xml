@@ -10,10 +10,16 @@
             <definition>The date a person is appointed to this position.</definition>
         </item>
         <item>
+            <label>Arrived</label>
+            <value>arrived</value>
+            <class>chief</class>
+            <definition>The date a person arrived and assumed charge of a diplomatic post.</definition>
+        </item>
+        <item>
             <label>Credentialed</label>
             <value>credentialed</value>
             <class>chief</class>
-            <definition>The date a person is credentialed for this position.</definition>
+            <definition>The date a person formally presented their diplomatic credentials to the host government.</definition>
         </item>
         <item>
             <label>Mission Terminated</label>

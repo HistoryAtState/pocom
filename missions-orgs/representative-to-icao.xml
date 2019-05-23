@@ -313,26 +313,56 @@
             <last-modified-date>2014-07-29</last-modified-date>
         </chief>
         <chief>
-            <id>icao-2014-woer</id>
+            <id>icao-2014-laws</id>
             <person-id>lawson-michael-anderson</person-id>
             <role-title-id>representative-to-icao</role-title-id>
             <appointed>
                 <date>2014-07-22</date>
                 <note/>
             </appointed>
+            <arrived>
+                <date>2014-07-24</date>
+                <note/>
+            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2017-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-15</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-10-24</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>icao-2017-cart</id>
+            <person-id>carter-thomas-l</person-id>
+            <role-title-id>representative-to-icao</role-title-id>
+            <appointed>
+                <date>2017-10-27</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2017-12-11</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-23</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
     <other-appointees/>

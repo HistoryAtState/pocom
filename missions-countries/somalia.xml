@@ -312,19 +312,73 @@
                 <date>2016-05-20</date>
                 <note/>
             </appointed>
+            <arrived>
+                <date>2016-07-20</date>
+                <note/>
+            </arrived>
             <started>
-                <date/>
+                <date>2016-08-09</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2017-07-21</date>
                 <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-08-24</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-08-31</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>so-2017-dale-01</id>
+            <person-id>dale-martin</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>somalia</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>            
+            <started>
+                <date>2017-07-21</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2018-11-13</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-23</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>so-2018-yama-01</id>
+            <person-id>yamamoto-donald-y</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>somalia</contemporary-territory-id>
+            <appointed>
+                <date>2018-10-17</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2018-11-13</date>
+                <note/>
+            </arrived>
+            <started>
+                <date>2018-11-17</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-23</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

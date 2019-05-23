@@ -414,13 +414,34 @@
                 <note/>
             </started>
             <ended>
-                <date>2016-07-01</date>
+                <date></date>
                 <note/>
             </ended>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-10-25</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>oas-2018-truj</id>
+            <person-id>trujillo-carlos</person-id>
+            <role-title-id>representative-to-oas</role-title-id>
+            <appointed>
+                <date>2018-03-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-23</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
     <other-appointees>
@@ -463,7 +484,7 @@
                 <note/>
             </ended>
             <note>Nomination of July 31, 2014, was not acted upon by the Senate. Re-nominated on
-                July 8, 2015.</note>
+                July 8, 2015. Nomination returned by the Senate on January 3, 2017.</note>
             <created-by>marrsaw</created-by>
             <created-date>2015-05-05</created-date>
             <last-modified-by>marrsaw</last-modified-by>

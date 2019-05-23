@@ -499,14 +499,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2019-03-12</date>
                 <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-08-25</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-08-25</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>tg-2019-stro-01</id>
+            <person-id>stromayer-eric</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>togo</contemporary-territory-id>
+            <appointed>
+                <date>2019-01-07</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2019-03-26</date>
+                <note/>
+            </arrived>
+            <started>
+                <date>2019-04-11</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-23</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
