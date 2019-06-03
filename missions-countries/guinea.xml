@@ -509,7 +509,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>gn-2012-hank-01</id>
+            <id>gn-2015-hank-01</id>
             <person-id>hankins-dennis-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea</contemporary-territory-id>
@@ -522,14 +522,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2019-01-29</date>
                 <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-08-24</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2017-08-22</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-21</last-modified-date>
+        </chief>
+        <chief>
+            <id>gn-2019-hens-01</id>
+            <person-id>henshaw-simon</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>guinea</contemporary-territory-id>
+            <appointed>
+                <date>2019-01-07</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2019-02-14</date>
+                <note/>
+            </arrived>
+            <started>
+                <date>2019-03-04</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-21</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
