@@ -417,6 +417,16 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
+        <mission-note>
+            <text>The United States resumed diplomatic relations with Iraq and elevated the U.S.
+                Interests Section in Baghdad to Embassy status on November 26, 1984, when President
+                Ronald Reagan and Deputy Prime Minister and Foreign Minister Tariq Aziz concluded an
+                agreement to that effect.</text>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-08-07</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-08-07</last-modified-date>
+        </mission-note>
         <chief>
             <id>iq-1985-newt-01</id>
             <person-id>newton-david-george</person-id>
@@ -488,6 +498,24 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
+        <mission-note>
+            <text>The Embassy in Baghdad was closed January 12, 1991, following Iraq’s invasion of
+                Kuwait, the application of international sanctions against Iraq, and the buildup of
+                military forces in the region. The United States and its allies began military
+                operations against Iraq on January 16, 1991. Iraq severed diplomatic relations with
+                the United States February 9, 1991, after which each nation maintained a modest
+                Interests Section in the other’s capital. Following the 2003 invasion of Iraq, the
+                United States and its allies established the Coalition Provisional Authority to
+                manage the post-war reconstruction program and define a clear path for the
+                restoration of Iraqi sovereignty. In June 2004, the Coalition Provisional Authority
+                transferred sovereignty to an Iraqi Interim Government. The United States
+                reestablished diplomatic relations with Iraq on June 28, 2004, when the United
+                States reopened its Embassy within Baghdad’s “Green Zone.”</text>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-08-07</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-08-07</last-modified-date>
+        </mission-note>
         <chief>
             <id>iq-2004-negr-01</id>
             <person-id>negroponte-john-dimitri</person-id>
@@ -668,7 +696,7 @@
             </started>
             <ended>
                 <date>2019-01-31</date>
-                <note></note>
+                <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
@@ -694,8 +722,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
