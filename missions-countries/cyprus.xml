@@ -476,14 +476,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2019-01-31</date>
                 <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-08-24</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-08-24</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-21</last-modified-date>
+        </chief>
+        <chief>
+            <id>cy-2019-garb-01</id>
+            <person-id>garber-judith-gail</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>cyprus</contemporary-territory-id>
+            <appointed>
+                <date>2019-01-07</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2019-03-07</date>
+                <note/>
+            </arrived>
+            <started>
+                <date>2019-03-18</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-21</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

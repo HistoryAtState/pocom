@@ -372,17 +372,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
+                <date>2018-09-19</date>
+                <note>Departed post on</note>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-21</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-09</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-16</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>al-2018-kava-01</id>
+            <person-id>kavalec-katherine-a</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>albania</contemporary-territory-id>
+            <appointed>
+                <date></date>
+                <note/>
+            </appointed>
+            <started>
+                <date></date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note>Nominated July 3, 2018; nominaion returned by the Senate on January 3, 2019.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-29</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-29</last-modified-date>
+        </chief>
+    </other-nominees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>

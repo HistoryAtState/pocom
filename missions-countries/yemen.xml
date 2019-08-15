@@ -675,14 +675,53 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date>2019-05-16</date>
+                <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-07-13</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-14</last-modified-date>
+            <last-modified-date>2019-05-23</last-modified-date>
+        </chief>
+        <mission-note>
+            <text>The U.S. Embassy in Sanaa suspended operations on February 11, 2015, and all U.S.
+                personnel were withdrawn after security conditions deteriorated in the midst of the
+                Yemeni civil war; however, the United States did not sever diplomatic relations with
+                Yemen. Working from the U.S. Embassy in Riyadh, Saudi Arabia under the authority of
+                the U.S. Ambassador to Yemen, U.S. diplomats in the Yemeni Affairs Unit maintained
+                regular dialogue with the Republic of Yemen Government.</text>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-08-07</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-08-07</last-modified-date>
+        </mission-note>
+        <chief>
+            <id>ye-2019-henz-01</id>
+            <person-id>henzel-christopher</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>yemen</contemporary-territory-id>
+            <appointed>
+                <date>2019-01-07</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2019-05-18</date>
+                <note/>
+            </arrived>
+            <started>
+                <date>2019-05-20</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-23</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

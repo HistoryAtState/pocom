@@ -769,29 +769,6 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>no-2009-whit-01</id>
-            <person-id>white-barry-b</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>norway</contemporary-territory-id>
-            <appointed>
-                <date>2009-09-23</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>2009-11-05</date>
-                <note/>
-            </started>
-            <ended>
-                <date>2013-09-28</date>
-                <note>Left post on</note>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2012-04-03</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-07-22</last-modified-date>
-        </chief>
-        <chief>
             <id>no-2016-hein-01</id>
             <person-id>heins-samuel-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -814,10 +791,35 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
+        <chief>
+            <id>no-2018-brai-01</id>
+            <person-id>braithwaite-kenneth-j</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>norway</contemporary-territory-id>
+            <appointed>
+                <date>2018-01-04</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2018-02-04</date>
+                <note/>
+            </arrived>
+            <started>
+                <date>2018-02-08</date>
+                <note/>
+            </started>
+            <ended>
+                <date></date>
+                <note></note>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-22</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-22</last-modified-date>
+        </chief>
     </chiefs>
-    <other-nominees>
-        
-    </other-nominees>
+    <other-nominees/>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-17</created-date>
     <last-modified-by>wicentowskijc</last-modified-by>
