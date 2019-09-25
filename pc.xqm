@@ -27,35 +27,31 @@ declare function pc:person-id-to-name-last-first($person-id as xs:string) as xs:
     pc:person($person-id) => pc:person-to-name-last-first()
 };
 
-declare function pc:alive-status($birth as xs:string, $death as xs:string) as xs:string {
-    if ($birth ne "" and $death eq "") then 
-        "Yes"
-    else
-        "No"
+declare function pc:alive-status($birth-year as xs:string, $death-year as xs:string) as xs:string {
+    if ($birth-year ne "" and $death-year eq "") then 
+        "Alive"
+    else if ($birth-year ne "" and $death-year ne "") then 
+        "Passed away"
+    else if ($birth-year eq "" and $death-year ne "") then 
+        "Passed away (Birth year unknown)"
+    else (: if ($birth-year eq "" and $death-year eq "") then :)
+        "Unknown (No birth or death information)"
 };
 
-declare function pc:age-group($birth as xs:string, $death as xs:string) as xs:string {
-    let $current-age := pc:current-age($birth, $death)
-    return
-        if ($current-age castable as xs:integer) then
-            ((($current-age cast as xs:integer div 10) => floor()) * 10) ! (. || "–" || . + 9)
-        else
-            $current-age
+declare function pc:age-group($birth-year as xs:string, $death-year as xs:string) as xs:string? {
+    (: only determine age group if birth year is known, we have no record of death, and person is thus presumed alive :)
+    if ($birth-year ne "" and $death-year eq "") then 
+        let $current-age := pc:current-age($birth-year cast as xs:integer)
+        return
+            ((($current-age div 10) => floor()) * 10) ! (. || "–" || . + 9)
+    else
+        ()
 };
 
-declare function pc:current-age($birth as xs:string, $death as xs:string) as xs:string {
-    (: person is dead :)
-    if ($birth ne "" and $death ne "") then
-        "Death year recorded"
-    else if ($birth ne "" and $death eq "") then
-        (
-            (current-date() => year-from-date() => xs:integer()) 
-            - 
-            ($birth cast as xs:integer)
-        ) cast as xs:string
-    (: no info available :)
-    else
-        "Birth year unknown"
+declare function pc:current-age($birth-year as xs:integer) as xs:integer {
+    current-date() => year-from-date() => xs:integer()
+    - 
+    $birth-year
 };
 
 declare function pc:title-label($role-title-id as xs:string) as xs:string {
@@ -115,11 +111,13 @@ declare function pc:role-types($person-id as xs:string) {
     let $principal-officer := collection($pc:POSITIONS-PRINCIPALS-COL)//person-id[. eq $person-id]
     let $country-chief := collection($pc:MISSIONS-COUNTRIES-COL)//person-id[. eq $person-id]
     let $org-chief := collection($pc:MISSIONS-ORGS-COL)//person-id[. eq $person-id]
+    let $person := collection($pc:PEOPLE-COL)//person[id eq $person-id]
     return
         (
             if (exists($principal-officer)) then "Principal Officer" else (),
             if (exists($country-chief)) then "Chief of Mission (Country)" else (),
-            if (exists($org-chief)) then "Chief of Mission (Int’l Org.)" else ()
+            if (exists($org-chief)) then "Chief of Mission (Int’l Org.)" else (),
+            if (exists($person) and (not($principal-officer) and not($country-chief) and not($org-chief))) then "No roles" else ()
         )
 };
 

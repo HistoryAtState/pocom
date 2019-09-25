@@ -92,11 +92,11 @@ declare function local:results-to-list($q, $facet-query, $query-hits, $facet-res
                         let $is-hierarchical := $facet?hierarchical 
                         let $is-hierarchical-request := $is-hierarchical and exists($facet?request)
                         return
-                            <fieldset class="form-group">
-                                <h4>{$facet?label, " ", if ($facet?max ne -1 and $facet?max lt 10) then () else <small>{
+                            <fieldset class="form-group" id="{$facet-name}">
+                                <h4>{if (empty($result?*?*)) then attribute style { "color: gray" } else (), $facet?label, " ", if (($facet?max ne -1 and $facet?max lt 10) or empty($result?*?*)) then () else <small>{
                                 let $max := if ($facet?max eq 10) then -1 else 10 
                                 return
-                                    <a href="{request:get-url() || (if (request:get-query-string() ne "") then ("?" || replace(request:get-query-string(), "&amp;?" || $facet-name || "-max=-?\d+", "") || "&amp;") else "?") || $facet-name || "-max=" || $max}">{if ($max eq -1) then "Show all" else "Limit to top 10"}</a>
+                                    <a href="{request:get-url() || (if (request:get-query-string() ne "") then ("?" || replace(request:get-query-string(), "&amp;?" || $facet-name || "-max=-?\d+", "") || "&amp;") else "?") || $facet-name || "-max=" || $max}#{$facet-name}">{if ($max eq -1) then "Show all choices" else "Limit to top 10"}</a>
                                 , if ($facet?hierarchical) then " [hierarchical]" else ()}</small>}</h4>
                                 {
                                     if ($is-hierarchical) then
@@ -364,15 +364,15 @@ let $country-chief-roles := request:get-parameter("country-chief-roles", ())[. n
 let $org-chief-roles := request:get-parameter("org-chief-roles", ())[. ne ""]
 let $states-of-residence := request:get-parameter("state-of-residence", ())[. ne ""]
 
-let $alive-max := 2
+let $alive-max := 4
 let $age-groups-max := request:get-parameter("age-group-max", $default-facets-max) cast as xs:integer
 let $career-types-max := 4
-let $role-types-max := 3
+let $role-types-max := 4
 let $principal-roles-max := request:get-parameter("principal-roles-max", $default-facets-max) cast as xs:integer
 let $countries-as-chief-max := request:get-parameter("countries-as-chief-max", $default-facets-max) cast as xs:integer
 let $country-chief-roles-max := request:get-parameter("country-chief-roles-max", $default-facets-max) cast as xs:integer
 let $org-chief-roles-max := request:get-parameter("org-chief-roles-max", $default-facets-max) cast as xs:integer
-let $states-of-residence-max := request:get-parameter("states-of-residence-max", $default-facets-max) cast as xs:integer
+let $states-of-residence-max := request:get-parameter("state-of-residence-max", $default-facets-max) cast as xs:integer
 
 let $facet-query :=
     map { 
@@ -395,7 +395,7 @@ let $facet-prefs :=
     (
         map {
             "name": "alive",
-            "label": "Alive",
+            "label": "Living",
             "max": $alive-max,
             "sort": "value",
             "order": "ascending",
