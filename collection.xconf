@@ -7,6 +7,7 @@
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
             <text qname="persName"/>
             <module prefix="pc" uri="http://history.state.gov/ns/xquery/pocom" at="pc.xqm"/>
+            <!--
             <text qname="chief">
                 <facet dimension="person-id" expression="person-id"/>
                 <field name="name" expression="pc:name-last-first(person-id)"/>
@@ -18,20 +19,24 @@
                 <facet dimension="start-date" expression="if (started/date ne '') then ((tokenize(started/date, '-'), 0, 0) => subsequence(1, 3)) else '(unknown)'" hierarchical="yes"/>
                 <facet dimension="end-date" expression="if (ended/date ne '') then ((tokenize(ended/date, '-'), 0, 0) => subsequence(1, 3)) else '(unknown)'" hierarchical="yes"/>
             </text>
+            -->
             <text qname="person">
-                <field name="name" expression="pc:name-last-first(id)"/>
-                <facet dimension="alive" expression="death eq ''"/>
-                <facet dimension="age-group" expression="pc:age-group(id)"/>
-                <facet dimension="state-id" expression="if (string-join(.//state-id) eq '') then '(unknown)' else .//state-id"/>
-                <facet dimension="chief-roles" expression="pc:chief-roles(id)"/>
+                <field name="name" expression="pc:person-to-name-last-first(.)"/>
+                <facet dimension="alive" expression="pc:alive-status(birth, death)"/>
+                <facet dimension="age-group" expression="pc:age-group(birth, death)"/>
+                <facet dimension="career-type" expression="pc:career-type(career-type)"/>
+                <facet dimension="state-of-residence" expression="residence/state-id ! pc:state-id-to-label(.)"/>
                 <facet dimension="countries-as-chief" expression="pc:countries-as-chief(id)"/>
+                <facet dimension="country-chief-roles" expression="pc:country-chief-roles(id)"/>
+                <facet dimension="org-chief-roles" expression="pc:org-chief-roles(id)"/>
                 <facet dimension="principal-roles" expression="pc:principal-roles(id)"/>
+                <facet dimension="role-types" expression="pc:role-types(id)"/>
             </text>
         </lucene>
         <range>
             <create qname="category" type="xs:string"/>
             <create qname="class" type="xs:string"/>
-            <create qname="date" type="xs:date"/>
+            <create qname="date" type="xs:string"/>
             <create qname="id" type="xs:string"/>
             <create qname="old-id" type="xs:string"/>
             <create qname="person-id" type="xs:string"/>
