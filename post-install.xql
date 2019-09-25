@@ -1,4 +1,4 @@
-xquery version "1.0";
+xquery version "3.0";
 
 import module namespace xmldb="http://exist-db.org/xquery/xmldb";
 
@@ -28,8 +28,6 @@ declare function local:mkcol($collection, $path) {
 };
 
 (: store the collection configuration :)
-(:
 local:mkcol("/db/system/config", $target),
-xmldb:store-files-from-pattern(concat("/system/config", $target), $dir, "*.xconf")
-:)
-"noop! we're going to handle indexing after the data is stored."
+xmldb:store-files-from-pattern(concat("/system/config", $target), $dir, "*.xconf"),
+xmldb:reindex($target)
