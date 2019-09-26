@@ -111,13 +111,12 @@ declare function pc:role-types($person-id as xs:string) {
     let $principal-officer := collection($pc:POSITIONS-PRINCIPALS-COL)//person-id[. eq $person-id]
     let $country-chief := collection($pc:MISSIONS-COUNTRIES-COL)//person-id[. eq $person-id]
     let $org-chief := collection($pc:MISSIONS-ORGS-COL)//person-id[. eq $person-id]
-    let $person := collection($pc:PEOPLE-COL)//person[id eq $person-id]
     return
         (
             if (exists($principal-officer)) then "Principal Officer" else (),
             if (exists($country-chief)) then "Chief of Mission (Country)" else (),
             if (exists($org-chief)) then "Chief of Mission (Int’l Org.)" else (),
-            if (exists($person) and (not($principal-officer) and not($country-chief) and not($org-chief))) then "No roles" else ()
+            if (empty($principal-officer) and empty($country-chief) and empty($org-chief)) then "No roles" else ()
         )
 };
 
