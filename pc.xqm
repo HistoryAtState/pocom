@@ -86,7 +86,7 @@ declare function pc:countries-as-chief($person-id as xs:string) {
 declare function pc:country-chief-roles($person-id as xs:string) {
     let $chief-roles := collection($pc:MISSIONS-COUNTRIES-COL)//person-id[. eq $person-id]/parent::chief
     let $role-title-ids := $chief-roles/role-title-id
-    let $roleinfo := collection($pc:DATA-COL)//*[id eq $role-title-ids]
+    let $roleinfo := collection($pc:DATA-COL)//*[id = $role-title-ids]
     return
         $roleinfo/names/singular/string()
 };
@@ -94,7 +94,7 @@ declare function pc:country-chief-roles($person-id as xs:string) {
 declare function pc:org-chief-roles($person-id as xs:string) {
     let $chief-roles := collection($pc:MISSIONS-ORGS-COL)//person-id[. eq $person-id]/parent::chief
     let $role-title-ids := $chief-roles/role-title-id
-    let $roleinfo := collection($pc:DATA-COL)//*[id eq $role-title-ids]
+    let $roleinfo := collection($pc:DATA-COL)//*[id = $role-title-ids]
     return
         $roleinfo/names/singular/string()
 };
@@ -102,7 +102,7 @@ declare function pc:org-chief-roles($person-id as xs:string) {
 declare function pc:principal-roles($person-id as xs:string) {
     let $principal-roles := collection($pc:POSITIONS-PRINCIPALS-COL)//person-id[. eq $person-id]/parent::principal
     let $role-title-ids := $principal-roles/ancestor::principal-position/id
-    let $roleinfo := collection($pc:DATA-COL)//*[id eq $role-title-ids]
+    let $roleinfo := collection($pc:DATA-COL)//*[id = $role-title-ids]
     return
         $roleinfo/names/singular/string()
 };
