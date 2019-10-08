@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>singapore</territory-id>
     <chiefs>
@@ -422,7 +422,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -431,7 +431,7 @@
             </started>
             <ended>
                 <date>2019-07-26</date>
-                <note></note>
+                <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
@@ -447,16 +447,16 @@
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date></date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note>Nominated June 15, 2017 and renominated January 8, 2018. Nomination withdrawn by the president on February 5, 2018.</note>
             <created-by>bottsjd</created-by>

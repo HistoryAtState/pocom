@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>redman-charles-edgar</id>
     <persName>
@@ -10,7 +10,7 @@
     <death type=""/>
     <career-type>career</career-type>
     <residence>
-        <state-id>fl</state-id>
+        <state-id sort="1">fl</state-id>
         <state-id>in</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>

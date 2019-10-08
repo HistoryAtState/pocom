@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>davezac-auguste-genevieve-valentin</id>
     <persName>
@@ -10,7 +10,7 @@
     <death>1851</death>
     <career-type>pre-1915</career-type>
     <residence>
-        <state-id>la</state-id>
+        <state-id sort="1">la</state-id>
         <state-id>ny</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>

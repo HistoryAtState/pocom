@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>chile</territory-id>
     <chiefs>
@@ -1275,7 +1275,7 @@
             </started>
             <ended>
                 <date>2019-01-25</date>
-                <note></note>
+                <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
@@ -1361,7 +1361,7 @@
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>eagleburger-lawrence-sidney</id>
     <persName>
@@ -12,7 +12,7 @@
     <residence>
         <state-id>fl</state-id>
         <state-id>va</state-id>
-        <state-id>wi</state-id>
+        <state-id sort="1">wi</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>ricciardone-francis-joseph</id>
     <persName>
@@ -9,7 +9,7 @@
     <death type=""/>
     <career-type>career</career-type>
     <residence>
-        <state-id>nh</state-id>
+        <state-id sort="1">nh</state-id>
         <state-id>ma</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>

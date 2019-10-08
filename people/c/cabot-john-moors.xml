@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>cabot-john-moors</id>
     <persName>
@@ -11,7 +11,7 @@
     <career-type>career</career-type>
     <residence>
         <state-id>dc</state-id>
-        <state-id>ma</state-id>
+        <state-id sort="1">ma</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>
