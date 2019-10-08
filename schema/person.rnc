@@ -67,7 +67,12 @@ start =
         },
         element residence {
             element state-id {
-                
+                attribute sort {
+                 
+                 ## High (confirms the year and overrides warnings about unexpected ages)
+                 xsd:integer
+                }?,
+                (
                 ## Alabama
                 "al"
                 | 
@@ -247,6 +252,7 @@ start =
                 | 
                   ## U.S. Virgin Islands
                   "vi"
+                )
             }+
         },
         element created-by { xsd:NCName },
