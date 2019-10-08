@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <org-mission>
     <id>representative-unvo</id>
     <category>international-organization</category>
@@ -213,11 +213,11 @@
             <person-id>shampaine-nicole-d</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <arrived>
-                <date></date>
+                <date/>
                 <note/>
             </arrived>
             <started>
@@ -250,7 +250,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <created-by>bottsjd</created-by>

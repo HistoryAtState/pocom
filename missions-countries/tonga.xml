@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>tonga</territory-id>
     <chiefs>
@@ -422,7 +422,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -430,7 +430,7 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>

@@ -28,7 +28,7 @@
                         <sch:value-of select="$original-id"/>
                     </old-id>
                 </sqf:add>
-                <sqf:add use-when="following-sibling::old-ids"  match="following-sibling::old-ids" position="last-child">
+                <sqf:add use-when="following-sibling::old-ids" match="following-sibling::old-ids" position="last-child">
                     <old-id xmlns="">
                         <sch:value-of select="$original-id"/>
                     </old-id>

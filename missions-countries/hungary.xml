@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
     <territory-id>hungary</territory-id>
     <chiefs>
@@ -724,7 +724,7 @@
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
             <started>
@@ -733,7 +733,7 @@
             </started>
             <ended>
                 <date>2018-06-22</date>
-                <note></note>
+                <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
@@ -759,8 +759,8 @@
                 <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>bpttsjd</created-by>
