@@ -12,7 +12,7 @@
     <death type=""/>
     <career-type>non-career</career-type>
     <residence>
-        <state-id>ct</state-id>
+        <state-id sort="1">ct</state-id>
         <state-id>va</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>
