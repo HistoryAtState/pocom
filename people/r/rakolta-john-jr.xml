@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>rakolta-john-jr</id>
+    <persName>
+        <surname>Rakolta</surname>
+        <forename>John</forename>
+        <genName>Jr.</genName>
+        <altname></altname>
+    </persName>
+    <birth></birth>
+    <death></death>
+    <career-type>non-career</career-type>
+    <residence>
+        <state-id>mi</state-id>
+    </residence>
+    <created-by>DIDit.app</created-by>
+    <created-date>2019-11-05</created-date>
+    <last-modified-by>DIDit.app</last-modified-by>
+    <last-modified-date>2019-11-05</last-modified-date>
+</person>
