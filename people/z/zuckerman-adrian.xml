@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>zuckerman-adrian</id>
+    <persName>
+        <surname>Zuckerman</surname>
+        <forename>Adrian</forename>
+        <genName></genName>
+        <altname></altname>
+    </persName>
+    <birth></birth>
+    <death></death>
+    <career-type>non-career</career-type>
+    <residence>
+        <state-id>nj</state-id>
+    </residence>
+    <created-by>DIDit.app</created-by>
+    <created-date>2019-12-12</created-date>
+    <last-modified-by>DIDit.app</last-modified-by>
+    <last-modified-date>2019-12-12</last-modified-date>
+</person>
