@@ -26,12 +26,18 @@
         <echo message="Apply values to expath-pkg.xml..."/>
         <copy todir="${build.dir}/${app.name}-${app.version}" overwrite="true" verbose="true">
             <fileset file="expath-pkg.xml.tmpl"/>
-            <filterset>
-                <filter token="name" value="${app.name}"/>
-                <filter token="version" value="${app.version}"/>
-                <filter token="url" value="${app.url}"/>
-                <filter token="title" value="${app.title}"/>
-            </filterset>
+            <filterchain>
+                <replacetokens>
+                    <token key="name" value="${app.name}"/>
+                    <token key="version" value="${app.version}"/>
+                    <token key="url" value="${app.url}"/>
+                    <token key="title" value="${app.title}"/>                    
+                </replacetokens>
+                <tokenfilter>
+                    <!-- until we move template processing to XSLT, take care with reserved characters -->
+                    <replacestring from="&amp;" to="&amp;amp;"/>
+                </tokenfilter>
+            </filterchain>
             <globmapper from="*.tmpl" to="*"/>
         </copy>
     </target>
@@ -131,6 +137,6 @@
             <exclude name="${build.dir}/**"/>
             <exclude name="**/*.tmpl"/>
         </zip>
-        <delete dir="${build.dir}/${app.name}-${app.version}"/>
+<!--        <delete dir="${build.dir}/${app.name}-${app.version}"/>-->
     </target>
 </project>
