@@ -3,8 +3,8 @@
     <app>
         <name>pocom</name>
         <url>http://history.state.gov/ns/data/pocom</url>
-        <title>Principal Officers &amp; Chiefs of Mission (data)</title>
-        <version>0.5</version>
+        <title>Principal Officers &amp;amp; Chiefs of Mission (data)</title>
+        <version>0.6</version>
     </app>
     <trigger>
         <provider-url>
