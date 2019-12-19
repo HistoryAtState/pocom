@@ -51,25 +51,29 @@
         <chief>
             <id>pw-2005-bezn-01</id>
             <person-id>bezner-mark-j</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>
             <appointed>
                 <date/>
                 <note/>
             </appointed>
+            <arrived>
+                <date>2006-08-25</date>
+                <note/>
+            </arrived>
             <started>
-                <date>2005-08</date>
+                <date></date>
                 <note/>
             </started>
             <ended>
-                <date>2009-10</date>
+                <date>2009-10-14</date>
                 <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-11-02</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-02</last-modified-date>
+            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
             <id>pw-2010-reed-01</id>
