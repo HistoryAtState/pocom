@@ -1288,30 +1288,6 @@
             <last-modified-date>2019-02-06</last-modified-date>
         </principal>
         <principal>
-            <id>larg--malo</id>
-            <person-id>malone-james-l</person-id>
-            <role-title-id>ambassador-at-large</role-title-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination of Mar 8, 1982, was withdrawn before the Senate acted
-                on it. Nominated as Ambassador at Large and Special Representative of the President
-                for the Law of the Sea Conference, and Chief of Delegation.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </principal>
-        <principal>
             <id>larg-2014-birx</id>
             <person-id>birx-deborah-l</person-id>
             <role-title-id>ambassador-at-large</role-title-id>
@@ -1468,7 +1444,32 @@
             <last-modified-date>2020-01-15</last-modified-date>
         </principal>
     </principals>
-    <other-appointees/>
+    <other-appointees>
+        <principal>
+            <id>larg--malo</id>
+            <person-id>malone-james-l</person-id>
+            <role-title-id>ambassador-at-large</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination of Mar 8, 1982, was withdrawn before the Senate acted
+                on it. Nominated as Ambassador at Large and Special Representative of the President
+                for the Law of the Sea Conference, and Chief of Delegation.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+    </other-appointees>
     <created-by>wicentowskijc</created-by>
     <created-date>2014-09-18</created-date>
     <last-modified-by>bottsjd</last-modified-by>
