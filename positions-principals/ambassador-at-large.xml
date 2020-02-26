@@ -1176,6 +1176,29 @@
             <last-modified-date>2016-12-05</last-modified-date>
         </principal>
         <principal>
+            <id>larg-2009-benj</id>
+            <person-id>benjamin-daniel</person-id>
+            <role-title-id>ambassador-at-large</role-title-id>
+            <appointed>
+                <date>2009-05-22</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2009-05-28</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2012-12-31</date>
+                <note/>
+            </ended>
+            <note>Commissioned as Coordinator for Counter-Terrorism, with the Rank of Ambassador at
+                Large</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2020-02-26</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2020-02-26</last-modified-date>
+        </principal>
+        <principal>
             <id>larg-2009-goos</id>
             <person-id>goosby-eric</person-id>
             <role-title-id>ambassador-at-large</role-title-id>
