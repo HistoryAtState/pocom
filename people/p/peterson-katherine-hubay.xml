@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>peterson-katherine-h</id>
+    <id>peterson-katherine-hubay</id>
     <persName>
         <surname>Peterson</surname>
-        <forename>Katherine H.</forename>
+        <forename>Katherine Hubay</forename>
+        <altname>Katherine Hubay Peterson</altname>
     </persName>
     <birth>1949</birth>
     <death type=""/>
@@ -12,7 +13,7 @@
         <state-id>ca</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>
-    <created-date>2010-11-05</created-date>
-    <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2016-12-15</last-modified-date>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>bottsjd</last-modified-by>
+    <last-modified-date>2020-04-29</last-modified-date>
 </person>
