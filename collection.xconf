@@ -7,7 +7,9 @@
         <!-- Lucene index configuration -->
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
-            <text qname="persName"/>
+            <text qname="persName">
+                <field name="within" expression="'department'"/>
+            </text>
         </lucene>
         
         <!-- Range index configuration -->
