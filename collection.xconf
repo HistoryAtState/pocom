@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <!-- Disable the standard full text index -->
@@ -7,8 +6,13 @@
         <!-- Lucene index configuration -->
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
-            <text qname="persName">
-                <field name="within" expression="'department'"/>
+            <text qname="persName" index="no">
+                <!-- start required facets and fields -->
+                <facet dimension="hsg-category" expression="'department'"/>
+                <facet dimension="hsg-publication" expression="'pocom'"/>
+                <field name="hsg-fulltext"/>
+                <field name="hsg-url" expression="'/departmenthistory/people/' || parent::person/id"/>
+                <!-- end required facets and fields -->
             </text>
         </lucene>
         
