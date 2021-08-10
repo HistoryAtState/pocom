@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>brown-natalie</id>
+    <id>brown-natalie-e</id>
+    <old-ids>
+        <old-id>brown-natalie</old-id>
+    </old-ids>
     <persName>
         <surname>Brown</surname>
-        <forename>Natalie</forename>
+        <forename>Natalie E.</forename>
     </persName>
     <birth/>
     <death type=""/>
@@ -14,5 +17,5 @@
     <created-by>bottsjd</created-by>
     <created-date>2019-05-15</created-date>
     <last-modified-by>bottsjd</last-modified-by>
-    <last-modified-date>2019-05-15</last-modified-date>
+    <last-modified-date>2021-08-10</last-modified-date>
 </person>
