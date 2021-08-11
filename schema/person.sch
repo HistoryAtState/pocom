@@ -47,16 +47,6 @@
         </rule>
     </pattern>
     <pattern>
-        <rule context="birth">
-            <assert test="(not(@type) and . castable as xs:gYear) or @type='unknown'">Birth must either contain a valid year or a @type attribute of "unknown"</assert>
-        </rule>
-    </pattern>
-    <pattern>
-        <rule context="death">
-            <assert test="(not(@type) and . castable as xs:gYear) or @type = ('unknown', 'still-living')">Death must either contain a valid year or a @type attribute of "unknown" or "still-living".</assert>
-        </rule>
-    </pattern>
-    <pattern>
         <rule context="death[. castable as xs:double]">
             <assert test=". gt '1600' and xs:double(.) le year-from-date(current-date())">Death element must be a 4-digit year in the form yyyy, and can't be in the future (unless you know something that I don't know).</assert>
             <assert test="if (preceding-sibling::birth castable as xs:double) then xs:double(.) gt xs:double(preceding-sibling::birth) else true()">Wrong birth/death years. (The dates show born in <value-of select="preceding-sibling::birth"/>, died in <value-of select="."/>.)</assert>
