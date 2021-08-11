@@ -60,8 +60,6 @@
         <rule context="death[. castable as xs:double]">
             <assert test=". gt '1600' and xs:double(.) le year-from-date(current-date())">Death element must be a 4-digit year in the form yyyy, and can't be in the future (unless you know something that I don't know).</assert>
             <assert test="if (preceding-sibling::birth castable as xs:double) then xs:double(.) gt xs:double(preceding-sibling::birth) else true()">Wrong birth/death years. (The dates show born in <value-of select="preceding-sibling::birth"/>, died in <value-of select="."/>.)</assert>
-            <assert test="if (preceding-sibling::birth castable as xs:double and xs:double(.) gt xs:double(preceding-sibling::birth) and not(./@certainty = 'high')) then xs:double(.) - xs:double(preceding-sibling::birth) ge 25 else true()">Really? This person lived to only <value-of select="xs:double(.) - xs:double(preceding-sibling::birth)"/> years old? (The dates show born in <value-of select="preceding-sibling::birth"/>, died in <value-of select="."/>.)</assert>
-            <assert test="if (preceding-sibling::birth castable as xs:double and not(./@certainty = 'high')) then xs:double(.) - xs:double(preceding-sibling::birth) le 100 else true()">Really? This person lived to <value-of select="xs:double(.) - xs:double(preceding-sibling::birth)"/> years old? (The dates show born in <value-of select="preceding-sibling::birth"/>, died in <value-of select="."/>.)</assert>
         </rule>
     </pattern>
     <pattern>
