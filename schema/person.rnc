@@ -10,47 +10,8 @@ start =
             element genName { text }?,
             element altname { text }*
         },
-        element birth {
-            (xsd:gYear,
-             attribute certainty {
-                 
-                 ## High (confirms the year and overrides warnings about unexpected ages)
-                 "high"
-             }?)
-            | (xsd:gYear,
-               attribute precision {
-                   
-                   ## Low (indicates "circa")
-                   "low"
-               })
-            | attribute type {
-                  
-                  ## Unknown year (indicates research has failed to locate the year of birth)
-                  "unknown"
-              }
-        },
-        element death {
-            (xsd:gYear,
-             attribute certainty {
-                 
-                 ## High (confirms the year and overrides warnings about unexpected ages)
-                 "high"
-             }?)
-            | (xsd:gYear,
-               attribute precision {
-                   
-                   ## Low (indicates "circa")
-                   "low"
-               })
-            | attribute type {
-                  
-                  ## Unknown year (indicates research has failed to locate the year of death)
-                  "unknown"
-                  | 
-                    ## Still living (confirms the year and overrides warnings about unexpected ages)
-                    "still-living"
-              }
-        },
+        element birth { xsd:gYear? },
+        element death { xsd:gYear? },
         element career-type {
             
             ## Non-career
