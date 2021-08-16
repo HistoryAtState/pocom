@@ -3,11 +3,6 @@
     xmlns:sch="http://purl.oclc.org/dsdl/schematron"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
     <pattern>
-        <rule context="/">
-            <assert test="exists(person)">The document's root element must be person</assert>
-        </rule>
-    </pattern>
-    <pattern>
         <rule context="id">
             <let name="basename" value="replace(base-uri(.), '^.*/(.*?)$', '$1')"/>
             <let name="parent-dir" value="replace(base-uri(.), '^.*/(.*?)/.*?$', '$1')"/>
