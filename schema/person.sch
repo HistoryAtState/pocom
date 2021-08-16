@@ -49,7 +49,7 @@
     </pattern>
     <pattern>
         <rule context="death[. = '']">
-            <assert test="if (preceding-sibling::birth castable as xs:double) then year-from-date(current-date()) - xs:double(preceding-sibling::birth) le 100 else true()">Call Willard Scott! Born in <value-of select="preceding-sibling::birth"/>, <value-of select="year-from-date(current-date()) - xs:double(preceding-sibling::birth) + 1"/> years ago!</assert>
+            <assert role="warn" test="if (preceding-sibling::birth castable as xs:double) then year-from-date(current-date()) - xs:double(preceding-sibling::birth) le 100 else true()">Call Willard Scott! Born in <value-of select="preceding-sibling::birth"/>, <value-of select="year-from-date(current-date()) - xs:double(preceding-sibling::birth) + 1"/> years ago!</assert>
         </rule>
     </pattern>
     <pattern>
