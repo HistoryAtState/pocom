@@ -2,8 +2,8 @@
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt3"
     xmlns:sch="http://purl.oclc.org/dsdl/schematron"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
-    <pattern>
-        <rule context="id">
+    <pattern id="id">
+        <rule id="id-checks" context="id">
             <let name="basename" value="replace(base-uri(.), '^.*/(.*?)$', '$1')"/>
             <let name="parent-dir" value="replace(base-uri(.), '^.*/(.*?)/.*?$', '$1')"/>
             <let name="original-id" value="./string()"/>
@@ -11,9 +11,9 @@
             <assert test="$basename = concat(., '.xml')">The id “<value-of select="."/>” does
                 not match filename “<value-of select="$basename"/>”</assert>
             <assert test="$parent-dir = substring(., 1, 1)">The file should be stored in the “<value-of select="substring(., 1, 1)"/>” directory, not in the “<value-of select="$parent-dir"/>” directory</assert>
-            <assert test="matches(., '^[a-z-]+(\d+)?$')">The id 
+            <assert id="expected-format" test="matches(., '^[a-z-]+(\d+)?$')">The id 
                 “<value-of select="."/>” must contain only lower case letters and hyphens, and can optionally end with a number</assert>
-            <assert test=". eq $generated-id" sqf:fix="update-id">Based on the name elements, the ID should be <value-of select="$generated-id"/>.</assert>
+            <assert id="expected-value" test=". eq $generated-id" sqf:fix="update-id">Based on the name elements, the ID should be “<value-of select="$generated-id"/>”.</assert>
             <sqf:fix id="update-id">
                 <sqf:description>
                     <sqf:title>Update ID from name</sqf:title>
