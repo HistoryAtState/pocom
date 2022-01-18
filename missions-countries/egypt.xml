@@ -51,7 +51,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>eg-1853-de-01</id>
+            <id>eg-1853-de-l-01</id>
             <person-id>de-leon-edwin</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -454,7 +454,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>eg-1909-jay-01</id>
+            <id>eg-1909-jay--01</id>
             <person-id>jay-peter-augustus</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -508,7 +508,7 @@
                 <date>1917-10-02</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1918-02-07</date>
                 <note>Received by the Sultan</note>
             </started>
@@ -531,7 +531,7 @@
                 <date>1920-05-11</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1920-08-02</date>
                 <note>Received by the Sultan</note>
             </started>
@@ -554,7 +554,7 @@
                 <date>1921-10-07</date>
                 <note/>
             </appointed>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note>No record has been found of the date on which Howell was presented to the
                     Sultan as Agent and Consul General.</note>
@@ -920,7 +920,7 @@
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
         <chief>
-            <id>eg-1967-nes-01</id>
+            <id>eg--nes--01</id>
             <person-id>nes-david-gulick</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -951,7 +951,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </mission-note>
         <chief>
-            <id>eg-1967-berg-01</id>
+            <id>eg--berg-01</id>
             <person-id>bergus-donald-c</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -960,11 +960,11 @@
                 <note/>
             </appointed>
             <started>
-                <date>1967-09</date>
+                <date>1967-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1972-02</date>
+                <date>1972-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -974,7 +974,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>eg-1972-gree-01</id>
+            <id>eg--gree-01</id>
             <person-id>greene-joseph-nathaniel</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -983,11 +983,11 @@
                 <note/>
             </appointed>
             <started>
-                <date>1972-02</date>
+                <date>1972-02-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1973-07</date>
+                <date>1973-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -997,7 +997,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>eg-1973-eilt-01</id>
+            <id>eg--eilt-01</id>
             <person-id>eilts-hermann-frederick</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1006,11 +1006,11 @@
                 <note/>
             </appointed>
             <started>
-                <date>1973-11</date>
+                <date>1973-11-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1974-02</date>
+                <date>1974-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1305,30 +1305,30 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>eg-2017-gold-01</id>
+            <id>eg--gold-01</id>
             <person-id>goldberger-thomas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
             <appointed>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </appointed>
-            <arrived>
-                <date></date>
-                <note></note>
-            </arrived>
             <started>
-                <date>2017-06-30</date>
-                <note></note>
+                <date/>
+                <note/>
             </started>
+            <arrived>
+                <date>2017-06-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-10-16</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
         <chief>
@@ -1338,24 +1338,24 @@
             <contemporary-territory-id>egypt</contemporary-territory-id>
             <appointed>
                 <date>2019-11-13</date>
-                <note></note>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2019-11-16</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2019-12-12</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-12</last-modified-date>
         </chief>
     </chiefs>
@@ -1409,8 +1409,4 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

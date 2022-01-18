@@ -3,7 +3,7 @@
     <territory-id>sao-tome-and-principe</territory-id>
     <chiefs>
         <chief>
-            <id>st-1975-stei-01</id>
+            <id>sa-1975-stei-01</id>
             <person-id>steigman-andrew-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -26,7 +26,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-1978-tien-01</id>
+            <id>sa-1978-tien-01</id>
             <person-id>tienken-arthur-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -49,7 +49,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-1981-mcna-01</id>
+            <id>sa-1981-mcna-01</id>
             <person-id>mcnamara-francis-terry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -72,7 +72,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-1984-will-01</id>
+            <id>sa-1984-will-01</id>
             <person-id>williamson-larry-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -95,7 +95,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-1987-clar-01</id>
+            <id>sa-1987-clar-01</id>
             <person-id>clark-warren-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -118,7 +118,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-1989-wauc-01</id>
+            <id>sa-1989-wauc-01</id>
             <person-id>wauchope-keith-leveret</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -141,7 +141,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-1992-wils-01</id>
+            <id>sa-1992-wils-01</id>
             <person-id>wilson-joseph-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -164,7 +164,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-1995-rasp-01</id>
+            <id>sa-1995-rasp-01</id>
             <person-id>raspolic-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -187,7 +187,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-1998-lede-01</id>
+            <id>sa-1998-lede-01</id>
             <person-id>ledesma-james-vela</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -210,7 +210,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-2001-daug-01</id>
+            <id>sa--daug-01</id>
             <person-id>daughton-thomas-frederick</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -219,11 +219,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2001-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2001-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2002-06</date>
+                <date>2002-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -233,7 +237,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-2002-moor-01</id>
+            <id>sa-2002-moor-01</id>
             <person-id>moorefield-kenneth-price</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -256,7 +260,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-2004-walk-01</id>
+            <id>sa-2004-walk-01</id>
             <person-id>walkley-r-barrie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -279,7 +283,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-2007-redd-01</id>
+            <id>sa-2007-redd-01</id>
             <person-id>reddick-eunice-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -302,7 +306,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-2010-benj-01</id>
+            <id>sa-2010-benj-01</id>
             <person-id>benjaminson-eric-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -325,7 +329,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>st-2014-akue-01</id>
+            <id>sa-2014-akue-01</id>
             <person-id>akuetteh-cynthia-helen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -348,7 +352,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>st-2018-dani-01</id>
+            <id>sa-2018-dani-01</id>
             <person-id>danies-joel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sao-tome-and-principe</contemporary-territory-id>
@@ -356,14 +360,14 @@
                 <date>2018-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-03-30</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-04-20</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-03-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-03-01</date>
                 <note/>
@@ -376,8 +380,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

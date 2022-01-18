@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>de-pree-willard-ames</id>
-    <old-ids>
-        <old-id>de-pree-william-ames</old-id>
-    </old-ids>
     <persName>
         <surname>De Pree</surname>
         <forename>Willard Ames</forename>
         <altname>Willard A. De Pree</altname>
-        <altname>Willard Ames De Pree</altname>
     </persName>
     <birth>1928</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
+        <state-id>mi</state-id>
         <state-id>md</state-id>
-        <state-id sort="1">mi</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>

@@ -3,7 +3,7 @@
     <territory-id>cyprus</territory-id>
     <chiefs>
         <chief>
-            <id>cy-1960-heck-01</id>
+            <id>cy--heck-01</id>
             <person-id>heck-louis-douglas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1960-08-16</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1960-08-16</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -256,7 +260,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>cy-1989-nix-01</id>
+            <id>cy--nix--01</id>
             <person-id>nix-john-u</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -265,11 +269,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1989-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1989-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1990-07</date>
+                <date>1990-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -494,14 +502,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-03-07</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-03-18</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-03-07</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -514,8 +522,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

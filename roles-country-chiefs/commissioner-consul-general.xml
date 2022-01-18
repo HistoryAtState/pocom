@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <role mode="active">
     <id>commissioner-consul-general</id>
-    <class>chief</class>
-    <category>country</category>
+    <class/>
+    <category/>
     <names>
-        <singular>Commissioner and Consul General</singular>
-        <plural>Commissioners and Consuls General</plural>
+        <singular>Commissioner Consul General</singular>
+        <plural/>
     </names>
     <description>
         <div>

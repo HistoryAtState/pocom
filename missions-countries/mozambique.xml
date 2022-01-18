@@ -3,7 +3,7 @@
     <territory-id>mozambique</territory-id>
     <chiefs>
         <chief>
-            <id>mz-1975-cars-01</id>
+            <id>mo--cars-01</id>
             <person-id>carson-johnnie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1975-11-08</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1975-11-08</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mz-1976-de-01</id>
+            <id>mo-1976-de-p-01</id>
             <person-id>de-pree-willard-ames</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>mz-1980-twad-01</id>
+            <id>mo--twad-01</id>
             <person-id>twaddell-william-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -58,11 +62,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1980-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1980-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1983-11</date>
+                <date>1983-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -72,7 +80,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mz-1983-de-01</id>
+            <id>mo-1983-de-v-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -95,7 +103,7 @@
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>mz-1987-well-01</id>
+            <id>mo-1987-well-01</id>
             <person-id>wells-melissa-foelsch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -118,7 +126,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>mz-1990-frie-01</id>
+            <id>mo-1990-frie-01</id>
             <person-id>friedman-townsend-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -141,7 +149,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mz-1993-jett-01</id>
+            <id>mo-1993-jett-01</id>
             <person-id>jett-dennis-coleman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -164,7 +172,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mz-1996-mcki-01</id>
+            <id>mo--mcki-01</id>
             <person-id>mckinley-peter-michael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -173,11 +181,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1996-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1996-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1997-12</date>
+                <date>1997-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -187,7 +199,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mz-1997-curr-01</id>
+            <id>mo-1997-curr-01</id>
             <person-id>curran-brian-dean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -210,7 +222,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mz-2000-wilk-01</id>
+            <id>mo-2000-wilk-01</id>
             <person-id>wilkinson-sharon-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -233,7 +245,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mz-2003-la-01</id>
+            <id>mo-2003-la-l-01</id>
             <person-id>la-lime-helen-r-meagher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -256,7 +268,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mz-2006-dudl-01</id>
+            <id>mo--dudl-01</id>
             <person-id>dudley-james</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -265,11 +277,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2006-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2006-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2007-07</date>
+                <date>2007-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -279,7 +295,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mz-2007-chap-01</id>
+            <id>mo--chap-01</id>
             <person-id>chapman-todd-c</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -288,11 +304,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2007-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2007-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2010-01</date>
+                <date>2010-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -302,7 +322,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mz-2009-rowe-01</id>
+            <id>mo-2009-rowe-01</id>
             <person-id>rowe-leslie-ventura</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -325,7 +345,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>mz-2012-grif-01</id>
+            <id>mo-2012-grif-01</id>
             <person-id>griffiths-douglas-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -348,7 +368,7 @@
             <last-modified-date>2017-09-12</last-modified-date>
         </chief>
         <chief>
-            <id>mz-2015-pitt-01</id>
+            <id>mo-2015-pitt-01</id>
             <person-id>pittman-h-dean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -371,7 +391,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>mz-2019-hear-01</id>
+            <id>mo-2019-hear-01</id>
             <person-id>hearne-dennis-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -379,14 +399,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-02-22</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-04-03</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-02-22</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -400,30 +420,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>mz--simc-01</id>
-            <person-id>simcox-david-e</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>mozambique</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination not acted upon by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-12-01</last-modified-date>
-        </chief>
-        <chief>
-            <id>mz-2007-stei-01</id>
+            <id>mo--stei-01</id>
             <person-id>steiger-william-raymond</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mozambique</contemporary-territory-id>
@@ -445,9 +442,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
+        <chief>
+            <id>mo--simc-01</id>
+            <person-id>simcox-david-e</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>mozambique</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-12-01</last-modified-date>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

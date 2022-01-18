@@ -6,8 +6,6 @@
     <names>
         <singular>Chief of Protocol</singular>
         <plural>Chiefs of Protocol</plural>
-        <alternate>Chief of the Division of Protocol and Conferences</alternate>
-        <alternate>Chief of Protocol for the White House</alternate>
     </names>
     <start accuracy="yyyy">1928</start>
     <end accuracy="yyyy">2002</end>
@@ -326,7 +324,7 @@
                 <date>1969-01-28</date>
                 <note/>
             </appointed>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -349,7 +347,7 @@
                 <date>1974-03-01</date>
                 <note/>
             </appointed>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -710,19 +708,37 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2019-07-06</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-02-06</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-02-06</last-modified-date>
+            <last-modified-date>2021-02-18</last-modified-date>
+        </principal>
+        <principal>
+            <id>prot-2019-hend</id>
+            <person-id>henderson-katherine-camille</person-id>
+            <role-title-id>chief-of-protocol</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>2019-08-12</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2021-01-20</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </principal>
     </principals>
     <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-18</last-modified-date>
 </principal-position>

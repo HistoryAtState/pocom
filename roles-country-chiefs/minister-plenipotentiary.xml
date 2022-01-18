@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <role mode="active">
     <id>minister-plenipotentiary</id>
-    <class>chief</class>
-    <category>country</category>
+    <class/>
+    <category/>
     <names>
         <singular>Minister Plenipotentiary</singular>
-        <plural>Ministers Plenipotentiary</plural>
+        <plural/>
     </names>
     <description>
         <div>

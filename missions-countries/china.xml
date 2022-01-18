@@ -15,7 +15,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </mission-note>
         <chief>
-            <id>cn-1843-cush-01</id>
+            <id>ch-1843-cush-01</id>
             <person-id>cushing-caleb</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -41,7 +41,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1845-ever-01</id>
+            <id>ch-1845-ever-01</id>
             <person-id>everett-alexander-hill</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -49,7 +49,7 @@
                 <date>1845-03-13</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1846-10-26</date>
                 <note/>
             </started>
@@ -64,7 +64,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1848-davi-01</id>
+            <id>ch-1848-davi-01</id>
             <person-id>davis-john-wesley</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -72,7 +72,7 @@
                 <date>1848-01-03</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1848-10-06</date>
                 <note/>
             </started>
@@ -87,7 +87,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1850-park-01</id>
+            <id>ch--park-01</id>
             <person-id>parker-peter</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -96,11 +96,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1850-05</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1850-05-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1853-07</date>
+                <date>1853-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -110,7 +114,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1852-mars-01</id>
+            <id>ch-1852-mars-01</id>
             <person-id>marshall-humphrey</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -118,7 +122,7 @@
                 <date>1852-08-04</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1853-07-04</date>
                 <note/>
             </started>
@@ -133,7 +137,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1853-mcla-01</id>
+            <id>ch-1853-mcla-01</id>
             <person-id>mclane-robert-milligan</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -141,7 +145,7 @@
                 <date>1853-10-18</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1854-11-03</date>
                 <note/>
             </started>
@@ -157,7 +161,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1855-park-01</id>
+            <id>ch-1855-park-01</id>
             <person-id>parker-peter</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -165,7 +169,7 @@
                 <date>1855-08-16</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1856-07-15</date>
                 <note/>
             </started>
@@ -181,7 +185,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1857-reed-01</id>
+            <id>ch-1857-reed-01</id>
             <person-id>reed-william-bradford</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -189,7 +193,7 @@
                 <date>1857-04-18</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1858-05-03</date>
                 <note/>
             </started>
@@ -205,7 +209,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1858-ward-01</id>
+            <id>ch-1858-ward-01</id>
             <person-id>ward-john-elliott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -213,7 +217,7 @@
                 <date>1858-12-15</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1859-08-10</date>
                 <note/>
             </started>
@@ -228,7 +232,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1861-burl-01</id>
+            <id>ch-1861-burl-01</id>
             <person-id>burlingame-anson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -236,7 +240,7 @@
                 <date>1861-06-14</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1862-08-20</date>
                 <note/>
             </started>
@@ -252,7 +256,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1868-brow-01</id>
+            <id>ch-1868-brow-01</id>
             <person-id>browne-john-ross</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -262,7 +266,7 @@
             </appointed>
             <started>
                 <date>1868-10-28</date>
-                <note>Between September 29, 1868, and </note>
+                <note>Between September 29, 1868, and</note>
             </started>
             <ended>
                 <date>1869-07-05</date>
@@ -275,7 +279,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1869-low-01</id>
+            <id>ch-1869-low--01</id>
             <person-id>low-frederick-ferdinand</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -283,7 +287,7 @@
                 <date>1869-09-28</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1870-04-27</date>
                 <note/>
             </started>
@@ -299,7 +303,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1874-aver-01</id>
+            <id>ch-1874-aver-01</id>
             <person-id>avery-benjamin-parke</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -307,7 +311,7 @@
                 <date>1874-04-10</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1874-11-29</date>
                 <note/>
             </started>
@@ -322,7 +326,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1876-sewa-01</id>
+            <id>ch-1876-sewa-01</id>
             <person-id>seward-george-frederick</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -330,7 +334,7 @@
                 <date>1876-01-07</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1876-04-24</date>
                 <note/>
             </started>
@@ -345,7 +349,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1880-ange-01</id>
+            <id>ch-1880-ange-01</id>
             <person-id>angell-james-burrill</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -353,7 +357,7 @@
                 <date>1880-04-09</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1880-08-16</date>
                 <note/>
             </started>
@@ -368,7 +372,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1882-youn-01</id>
+            <id>ch-1882-youn-01</id>
             <person-id>young-john-russell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -376,7 +380,7 @@
                 <date>1882-03-15</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1882-08-17</date>
                 <note/>
             </started>
@@ -391,7 +395,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1885-denb-01</id>
+            <id>ch-1885-denb-01</id>
             <person-id>denby-charles</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -399,7 +403,7 @@
                 <date>1885-05-29</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1885-10-01</date>
                 <note/>
             </started>
@@ -415,7 +419,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1898-cong-01</id>
+            <id>ch-1898-cong-01</id>
             <person-id>conger-edwin-hurd</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -438,7 +442,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1905-rock-01</id>
+            <id>ch-1905-rock-01</id>
             <person-id>rockhill-william-woodville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -461,7 +465,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1909-calh-01</id>
+            <id>ch-1909-calh-01</id>
             <person-id>calhoun-william-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -485,7 +489,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1913-rein-01</id>
+            <id>ch-1913-rein-01</id>
             <person-id>reinsch-paul-samuel</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -508,7 +512,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1920-cran-01</id>
+            <id>ch-1920-cran-01</id>
             <person-id>crane-charles-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -531,7 +535,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1921-schu-01</id>
+            <id>ch-1921-schu-01</id>
             <person-id>schurman-jacob-gould</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -554,7 +558,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1925-macm-01</id>
+            <id>ch-1925-macm-01</id>
             <person-id>macmurray-john-van-antwerp</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -578,7 +582,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1929-john-01</id>
+            <id>ch-1929-john-01</id>
             <person-id>johnson-nelson-trusler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -601,7 +605,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1935-john-01</id>
+            <id>ch-1935-john-01</id>
             <person-id>johnson-nelson-trusler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -624,7 +628,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1941-gaus-01</id>
+            <id>ch-1941-gaus-01</id>
             <person-id>gauss-clarence-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -647,7 +651,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1944-hurl-01</id>
+            <id>ch-1944-hurl-01</id>
             <person-id>hurley-patrick-jay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -670,7 +674,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1946-stua-01</id>
+            <id>ch-1946-stua-01</id>
             <person-id>stuart-john-leighton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -693,7 +697,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1950-rank-01</id>
+            <id>ch--rank-01</id>
             <person-id>rankin-karl-lott</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -702,11 +706,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1950-08</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1950-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1953-04</date>
+                <date>1953-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -716,7 +724,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1953-rank-01</id>
+            <id>ch-1953-rank-01</id>
             <person-id>rankin-karl-lott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -739,7 +747,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1958-drum-01</id>
+            <id>ch-1958-drum-01</id>
             <person-id>drumright-everett-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -762,7 +770,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1962-kirk-01</id>
+            <id>ch-1962-kirk-01</id>
             <person-id>kirk-alan-goodrich</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -785,7 +793,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1963-wrig-01</id>
+            <id>ch-1963-wrig-01</id>
             <person-id>wright-jerauld</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -808,7 +816,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1966-mcco-01</id>
+            <id>ch-1966-mcco-01</id>
             <person-id>mcconaughy-walter-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -831,7 +839,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1973-bruc-01</id>
+            <id>ch-1973-bruc-01</id>
             <person-id>bruce-david-kirkpatrick-este</person-id>
             <role-title-id>chief</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -854,7 +862,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1974-unge-01</id>
+            <id>ch-1974-unge-01</id>
             <person-id>unger-leonard-seidman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -876,19 +884,9 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <mission-note>
-            <text> The United States established diplomatic relations with the People’s Republic of
-                China, and terminated them with the Republic of China, on January 1, 1979. Embassy
-                Taipei closed February 28, 1979. U.S. Liaison Office Beijing became Embassy Beijing
-                on March 1, 1979.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-12-31</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-12-31</last-modified-date>
-        </mission-note>
         <chief>
-            <id>cn-1974-bush-01</id>
-            <person-id>bush-george-herbert-walker</person-id>
+            <id>ch-1974-bush-01</id>
+            <person-id>bush-george-h-w</person-id>
             <role-title-id>chief</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
             <appointed>
@@ -910,7 +908,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1976-gate-01</id>
+            <id>ch-1976-gate-01</id>
             <person-id>gates-thomas-sovereign</person-id>
             <role-title-id>chief</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -933,7 +931,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1977-wood-01</id>
+            <id>ch-1977-wood-01</id>
             <person-id>woodcock-leonard-f</person-id>
             <role-title-id>chief</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -955,8 +953,18 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
+        <mission-note>
+            <text>The United States established diplomatic relations with the People’s Republic of
+                China, and terminated them with the Republic of China, on January 1, 1979. Embassy
+                Taipei closed February 28, 1979. U.S. Liaison Office Beijing became Embassy Beijing
+                on March 1, 1979.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-12-31</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </mission-note>
         <chief>
-            <id>cn-1979-wood-01</id>
+            <id>ch-1979-wood-01</id>
             <person-id>woodcock-leonard-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -979,7 +987,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1981-humm-01</id>
+            <id>ch-1981-humm-01</id>
             <person-id>hummel-arthur-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1002,7 +1010,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1985-lord-01</id>
+            <id>ch-1985-lord-01</id>
             <person-id>lord-winston</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1025,7 +1033,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1989-lill-01</id>
+            <id>ch-1989-lill-01</id>
             <person-id>lilley-james-roderick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1048,7 +1056,7 @@
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1991-roy-01</id>
+            <id>ch-1991-roy--01</id>
             <person-id>roy-j-stapleton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1071,7 +1079,7 @@
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1995-sass-01</id>
+            <id>ch-1995-sass-01</id>
             <person-id>sasser-james-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1094,7 +1102,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1999-prue-01</id>
+            <id>ch-1999-prue-01</id>
             <person-id>prueher-joseph-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1117,7 +1125,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-2001-rand-01</id>
+            <id>ch-2001-rand-01</id>
             <person-id>randt-clark-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1140,7 +1148,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>cn-2009-hunt-01</id>
+            <id>ch-2009-hunt-01</id>
             <person-id>huntsman-jon-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1163,7 +1171,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>cn-2011-lock-01</id>
+            <id>ch-2011-lock-01</id>
             <person-id>locke-gary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1186,7 +1194,7 @@
             <last-modified-date>2014-07-23</last-modified-date>
         </chief>
         <chief>
-            <id>cn-2014-bauc-01</id>
+            <id>ch-2014-bauc-01</id>
             <person-id>baucus-max-sieben</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1209,7 +1217,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>cn-2017-bran-01</id>
+            <id>ch-2017-bran-01</id>
             <person-id>branstad-terry-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1217,14 +1225,14 @@
                 <date>2017-05-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-06-27</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-07-12</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-06-27</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-10-04</date>
                 <note/>
@@ -1238,7 +1246,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>cn-1843-ever-01</id>
+            <id>ch-1843-ever-01</id>
             <person-id>everett-edward</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1261,7 +1269,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1845-ever-02</id>
+            <id>ch--ever-01</id>
             <person-id>everett-alexander-hill</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1284,7 +1292,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1851-nels-01</id>
+            <id>ch-1851-nels-01</id>
             <person-id>nelson-thomas-ames-rogers</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1307,7 +1315,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1851-blun-01</id>
+            <id>ch-1851-blun-01</id>
             <person-id>blunt-joseph</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1331,7 +1339,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1853-walk-01</id>
+            <id>ch-1853-walk-01</id>
             <person-id>walker-robert-james</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1355,30 +1363,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cn--howa-01</id>
-            <person-id>howard-william-alanson</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>china</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to China. Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cn-1891-blai-01</id>
+            <id>ch-1891-blai-01</id>
             <person-id>blair-henry-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1402,7 +1387,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1897-brya-01</id>
+            <id>ch-1897-brya-01</id>
             <person-id>bryan-charles-page</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1426,7 +1411,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cn-1909-cran-01</id>
+            <id>ch-1909-cran-01</id>
             <person-id>crane-charles-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>china</contemporary-territory-id>
@@ -1448,9 +1433,28 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
+        <chief>
+            <id>ch--howa-01</id>
+            <person-id>howard-william-alanson</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>china</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to China. Took oath of office, but did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>solomon-islands</territory-id>
     <chiefs>
         <chief>
-            <id>sb-1978-olms-01</id>
+            <id>so-1978-olms-01</id>
             <person-id>olmsted-mary-seymour</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -26,7 +26,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-1979-feld-01</id>
+            <id>so-1979-feld-01</id>
             <person-id>feldman-harvey-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -49,7 +49,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-1981-scha-01</id>
+            <id>so-1981-scha-01</id>
             <person-id>schafer-m-virginia</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -72,7 +72,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-1984-gard-01</id>
+            <id>so-1984-gard-01</id>
             <person-id>gardner-paul-fisher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -95,7 +95,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>sb-1986-bier-01</id>
+            <id>so-1986-bier-01</id>
             <person-id>bierman-everett-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -120,7 +120,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-1990-farr-01</id>
+            <id>so-1990-farr-01</id>
             <person-id>farrand-robert-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -143,7 +143,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-1993-tear-01</id>
+            <id>so-1993-tear-01</id>
             <person-id>teare-richard-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -166,7 +166,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-1997-kara-01</id>
+            <id>so-1997-kara-01</id>
             <person-id>karaer-arma-jane</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -189,7 +189,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-2000-jaco-01</id>
+            <id>so-2000-jaco-01</id>
             <person-id>jacobs-susan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -212,7 +212,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-2003-fitt-01</id>
+            <id>so-2003-fitt-01</id>
             <person-id>fitts-robert-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -235,7 +235,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-2006-rowe-01</id>
+            <id>so-2006-rowe-01</id>
             <person-id>rowe-leslie-ventura</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -258,7 +258,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-2009-tayl-01</id>
+            <id>so-2009-tayl-01</id>
             <person-id>taylor-teddy-bernard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -281,7 +281,7 @@
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
         <chief>
-            <id>sb-2012-nort-01</id>
+            <id>so-2012-nort-01</id>
             <person-id>north-walter-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
@@ -304,63 +304,55 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>sb-2015-eber-01</id>
+            <id>so-2015-eber-01</id>
             <person-id>ebert-gray-catherine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
             <appointed>
                 <date>2015-12-15</date>
-                <note></note>
+                <note/>
             </appointed>
-            <arrived>
-                <date></date>
-                <note></note>
-            </arrived>
             <started>
                 <date>2016-04-14</date>
-                <note></note>
+                <note/>
             </started>
             <ended>
                 <date>2019-11-17</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-08-24</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-12</last-modified-date>
         </chief>
         <chief>
-            <id>sb-2019-mcke-01</id>
+            <id>so-2019-mcke-01</id>
             <person-id>mckee-erin-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>solomon-islands</contemporary-territory-id>
             <appointed>
                 <date>2019-09-30</date>
-                <note></note>
+                <note/>
             </appointed>
-            <arrived>
-                <date>2019-11-21</date>
-                <note></note>
-            </arrived>
             <started>
                 <date>2020-01-23</date>
-                <note></note>
+                <note/>
             </started>
+            <arrived>
+                <date>2019-11-21</date>
+                <note/>
+            </arrived>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2019-11-13</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-28</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees> </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
+    <other-nominees/>
 </country-mission>

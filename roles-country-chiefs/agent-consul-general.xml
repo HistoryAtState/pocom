@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <role mode="active">
     <id>agent-consul-general</id>
-    <class>chief</class>
-    <category>country</category>
+    <class/>
+    <category/>
     <names>
-        <singular>Agent/Consul General</singular>
-        <plural>Agents/Consuls General</plural>
+        <singular>Agent Consul General</singular>
+        <plural/>
     </names>
     <description>
         <div>

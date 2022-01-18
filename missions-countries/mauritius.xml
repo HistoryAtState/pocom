@@ -3,7 +3,7 @@
     <territory-id>mauritius</territory-id>
     <chiefs>
         <chief>
-            <id>mu-1968-huss-01</id>
+            <id>ma--huss-01</id>
             <person-id>hussey-william-bertrand</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1968-03-12</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1968-03-12</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1968-king-01</id>
+            <id>ma-1968-king-01</id>
             <person-id>king-david-sjodahl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1970-brew-01</id>
+            <id>ma-1970-brew-01</id>
             <person-id>brewer-william-dodd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -72,7 +76,7 @@
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1974-manh-01</id>
+            <id>ma-1974-manh-01</id>
             <person-id>manhard-philip-wallace</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -95,7 +99,7 @@
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1976-keel-01</id>
+            <id>ma-1976-keel-01</id>
             <person-id>keeley-robert-vossler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -118,7 +122,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1978-gamm-01</id>
+            <id>ma-1978-gamm-01</id>
             <person-id>gammon-samuel-rhea</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -141,7 +145,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1980-gord-01</id>
+            <id>ma-1980-gord-01</id>
             <person-id>gordon-robert-charles-frost</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -164,7 +168,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1983-andr-01</id>
+            <id>ma-1983-andr-01</id>
             <person-id>andrews-george-roberts</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -187,7 +191,7 @@
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1986-palm-01</id>
+            <id>ma-1986-palm-01</id>
             <person-id>palmer-ronald-dewayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -210,7 +214,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1989-kort-01</id>
+            <id>ma-1989-kort-01</id>
             <person-id>korth-penne-percy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -233,7 +237,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1993-alex-01</id>
+            <id>ma-1993-alex-01</id>
             <person-id>alexander-leslie-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -256,7 +260,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1996-geis-01</id>
+            <id>ma-1996-geis-01</id>
             <person-id>geisel-harold-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -279,7 +283,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mu-1999-erwi-01</id>
+            <id>ma-1999-erwi-01</id>
             <person-id>erwin-mark-wylea</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -302,7 +306,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mu-2002-pric-01</id>
+            <id>ma-2002-pric-01</id>
             <person-id>price-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -325,7 +329,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mu-2005-schw-01</id>
+            <id>ma--schw-01</id>
             <person-id>schwartz-stephen-michael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -334,11 +338,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2005-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2005-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2006-10</date>
+                <date>2006-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -348,7 +356,7 @@
             <last-modified-date>2016-08-31</last-modified-date>
         </chief>
         <chief>
-            <id>mu-2006-cabr-01</id>
+            <id>ma-2006-cabr-01</id>
             <person-id>cabrera-cesar-benito</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -371,7 +379,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mu-2009-will-01</id>
+            <id>ma-2009-will-01</id>
             <person-id>wills-mary-jo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -394,7 +402,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mu-2011-fitr-01</id>
+            <id>ma--fitr-01</id>
             <person-id>fitrell-troy-damian</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -403,11 +411,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2011-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2011-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2012-11</date>
+                <date>2012-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -417,7 +429,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>mu-2012-vill-01</id>
+            <id>ma-2012-vill-01</id>
             <person-id>villarosa-sharon-english-woods</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -440,7 +452,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>mu-2016-zimm-01</id>
+            <id>ma--zimm-01</id>
             <person-id>zimmerman-melanie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -449,9 +461,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2016-08-31</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-08-31</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2018-01-10</date>
                 <note/>
@@ -463,7 +479,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>mu-2017-reim-01</id>
+            <id>ma-2017-reim-01</id>
             <person-id>reimer-david-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritius</contemporary-territory-id>
@@ -471,28 +487,24 @@
                 <date>2017-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-01-10</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-01-16</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-01-10</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-22</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-22</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

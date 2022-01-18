@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>watson-samuel-robert</id>
-    <old-ids>
-        <old-id>watson-samuel-r</old-id>
-    </old-ids>
     <persName>
         <surname>Watson</surname>
         <forename>Samuel Robert</forename>
         <genName>III</genName>
     </persName>
     <birth/>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>va</state-id>

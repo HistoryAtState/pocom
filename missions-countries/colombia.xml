@@ -35,7 +35,7 @@
                 <date>1827-03-03</date>
                 <note/>
             </appointed>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -110,9 +110,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1833-07-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1833-07-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1837-06-20</date>
                 <note>Presented recall on</note>
@@ -133,9 +137,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1838-04-21</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1838-04-21</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1842-03-04</date>
                 <note>Left post on or soon after</note>
@@ -156,9 +164,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1842-09-17</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1842-09-17</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1844-12-24</date>
                 <note>Left post on</note>
@@ -179,9 +191,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1845-12-05</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1845-12-05</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1849-02-06</date>
                 <note>Died at post on</note>
@@ -203,9 +219,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1850-01-05</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1850-01-05</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1850-10-15</date>
                 <note>Left post about</note>
@@ -227,9 +247,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1851-08-25</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1851-08-25</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1853-04-05</date>
                 <note>Presented recall on</note>
@@ -250,9 +274,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1853-12-19</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1853-12-19</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1854-08-13</date>
                 <note>Left post on</note>
@@ -311,7 +339,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>co-1861-burt-02</id>
+            <id>co-1861-burt-01</id>
             <person-id>burton-allan-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1574,14 +1602,14 @@
                 <date>2019-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-09-14</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-09-19</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-09-14</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -1594,29 +1622,6 @@
         </chief>
     </chiefs>
     <other-nominees>
-        <chief>
-            <id>co--kerr-01</id>
-            <person-id>kerr-john-bozman</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>colombia</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
         <chief>
             <id>co-1854-gree-01</id>
             <person-id>green-james-stephen</person-id>
@@ -1641,7 +1646,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>co-1856-bowl-01</id>
+            <id>co--bowl-01</id>
             <person-id>bowlin-james-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1682,29 +1687,6 @@
             </ended>
             <note>Commissioned during a recess of the Senate, but seems not to have served under
                 this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>co--john-01</id>
-            <person-id>johnson-james</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>colombia</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination not confirmed by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1757,7 +1739,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>co-2017-macm-01</id>
+            <id>co--macm-01</id>
             <person-id>macmanus-joseph-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1773,15 +1755,57 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nominated  onNovember 29, 2017; nomination returned by the Senate on January 4, 2019.</note>
+            <note>Nominated on November 29, 2017; nomination returned by the Senate on January 4, 2019.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>co--kerr-01</id>
+            <person-id>kerr-john-bozman</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>colombia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>co--john-01</id>
+            <person-id>johnson-james</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>colombia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination not confirmed by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

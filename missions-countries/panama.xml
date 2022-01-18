@@ -379,7 +379,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pa-1945-hine-02</id>
+            <id>pa-1945-hine-01</id>
             <person-id>hines-frank-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -518,7 +518,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pa-1964-stua-01</id>
+            <id>pa--stua-01</id>
             <person-id>stuart-wallace-wyman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -541,7 +541,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pa-1964-tayl-01</id>
+            <id>pa--tayl-01</id>
             <person-id>taylor-henry-landes</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -550,9 +550,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1964-04-03</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1964-04-03</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -749,7 +753,7 @@
             <last-modified-date>2016-01-02</last-modified-date>
         </chief>
         <chief>
-            <id>pa-1994-garz-01</id>
+            <id>pa--garz-01</id>
             <person-id>garza-oliver-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -758,11 +762,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1994-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1994-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1995-11</date>
+                <date>1995-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -933,7 +941,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>pa-2016-feel-01</id>
+            <id>pa-2015-feel-01</id>
             <person-id>feeley-john-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -956,30 +964,30 @@
             <last-modified-date>2020-10-06</last-modified-date>
         </chief>
         <chief>
-            <id>pa-2018-cabr-01</id>
+            <id>pa--cabr-01</id>
             <person-id>cabral-roxanne-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
             <appointed>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2018-03-09</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
                 <date>2020-01-16</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-22</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-23</last-modified-date>
         </chief>
     </chiefs>
@@ -1056,7 +1064,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pa-1972-bow-01</id>
+            <id>pa-1972-bow--01</id>
             <person-id>bow-frank-townsend</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1079,7 +1087,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pa-1994-past-01</id>
+            <id>pa--past-01</id>
             <person-id>pastor-robert-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1102,9 +1110,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
+        <chief>
+            <id>pa--beth-01</id>
+            <person-id>bethel-erik-paul</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>panama</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of May 4, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

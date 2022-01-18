@@ -3,7 +3,7 @@
     <territory-id>slovenia</territory-id>
     <chiefs>
         <chief>
-            <id>si-1993-wend-01</id>
+            <id>sl-1993-wend-01</id>
             <person-id>wendt-e-allan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -26,7 +26,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>si-1995-jack-01</id>
+            <id>sl-1995-jack-01</id>
             <person-id>jackovich-victor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -49,7 +49,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>si-1998-ely-01</id>
+            <id>sl-1998-ely--01</id>
             <person-id>ely-raphel-nancy-halliday</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -72,7 +72,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>si-2001-youn-01</id>
+            <id>sl-2001-youn-01</id>
             <person-id>young-johnny</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -95,7 +95,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>si-2004-robe-01</id>
+            <id>sl-2004-robe-01</id>
             <person-id>robertson-thomas-bolling</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -118,7 +118,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>si-2008-ghaf-01</id>
+            <id>sl-2008-ghaf-01</id>
             <person-id>ghafari-yousif-boutros</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -141,7 +141,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>si-2009-fred-01</id>
+            <id>sl--fred-01</id>
             <person-id>freden-bradley</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -150,11 +150,11 @@
                 <note/>
             </appointed>
             <started>
-                <date>2009-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2010-11</date>
+                <date>2010-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -164,7 +164,7 @@
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
-            <id>si-2010-muss-01</id>
+            <id>sl-2010-muss-01</id>
             <person-id>mussomeli-joseph-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -187,7 +187,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>si-2014-hart-01</id>
+            <id>sl-2014-hart-01</id>
             <person-id>hartley-brent-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -210,7 +210,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>si-2019-blan-01</id>
+            <id>sl-2019-blan-01</id>
             <person-id>blanchard-lynda</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -218,28 +218,24 @@
                 <date>2019-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-17</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-08-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-08-05</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>si-2007-obsi-01</id>
+            <id>sl--obsi-01</id>
             <person-id>obsitnik-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -262,8 +258,4 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

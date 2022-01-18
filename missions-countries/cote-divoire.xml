@@ -3,7 +3,7 @@
     <territory-id>cote-divoire</territory-id>
     <chiefs>
         <chief>
-            <id>ci-1960-norl-01</id>
+            <id>co--norl-01</id>
             <person-id>norland-donald-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1960-08-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1960-08-07</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1960-ream-01</id>
+            <id>co-1960-ream-01</id>
             <person-id>reams-robert-borden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -50,7 +54,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1962-wine-01</id>
+            <id>co-1962-wine-01</id>
             <person-id>wine-james-wilmer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -73,7 +77,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1965-morg-01</id>
+            <id>co-1965-morg-01</id>
             <person-id>morgan-george-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -96,7 +100,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1969-root-01</id>
+            <id>co-1969-root-01</id>
             <person-id>root-john-frick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -119,7 +123,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1974-smit-01</id>
+            <id>co-1974-smit-01</id>
             <person-id>smith-robert-solwin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -142,7 +146,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1976-stea-01</id>
+            <id>co-1976-stea-01</id>
             <person-id>stearns-monteagle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -165,7 +169,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1979-rawl-01</id>
+            <id>co-1979-rawl-01</id>
             <person-id>rawls-nancy-vivian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -188,7 +192,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1983-mill-01</id>
+            <id>co-1983-mill-01</id>
             <person-id>miller-robert-hopkins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -211,7 +215,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1986-kux-01</id>
+            <id>co-1986-kux--01</id>
             <person-id>kux-dennis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -234,7 +238,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1989-brow-01</id>
+            <id>co-1989-brow-01</id>
             <person-id>brown-kenneth-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -257,7 +261,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1992-hora-01</id>
+            <id>co-1992-hora-01</id>
             <person-id>horan-hume-alexander</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -280,7 +284,7 @@
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1995-walk-01</id>
+            <id>co-1995-walk-01</id>
             <person-id>walker-lannon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -303,7 +307,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-1998-mu-01</id>
+            <id>co-1998-mu-g-01</id>
             <person-id>mu-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -326,7 +330,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-2001-rend-01</id>
+            <id>co-2001-rend-01</id>
             <person-id>render-arlene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -349,7 +353,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-2004-hook-01</id>
+            <id>co-2004-hook-01</id>
             <person-id>hooks-aubrey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -372,7 +376,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ci-2007-nesb-01</id>
+            <id>co-2007-nesb-01</id>
             <person-id>nesbitt-wanda-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -395,7 +399,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>ci-2010-cart-01</id>
+            <id>co-2010-cart-01</id>
             <person-id>carter-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -418,7 +422,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>ci-2013-mccu-01</id>
+            <id>co-2013-mccu-01</id>
             <person-id>mcculley-terence-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -441,7 +445,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ci-2016-havi-01</id>
+            <id>co--havi-01</id>
             <person-id>haviland-andrew-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -450,9 +454,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2016-08-23</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-08-23</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2017-08-28</date>
                 <note/>
@@ -464,7 +472,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ci-2017-bruc-01</id>
+            <id>co--bruc-01</id>
             <person-id>brucker-katherine-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
@@ -473,9 +481,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2017-08-28</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-08-28</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -487,36 +499,32 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ci-2019-bell-01</id>
+            <id>co-2019-bell-01</id>
             <person-id>bell-richard-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cote-divoire</contemporary-territory-id>
             <appointed>
                 <date>2019-08-08</date>
-                <note></note>
+                <note/>
             </appointed>
-            <arrived>
-                <date>2019-09-29</date>
-                <note></note>
-            </arrived>
             <started>
                 <date>2019-10-10</date>
-                <note></note>
+                <note/>
             </started>
+            <arrived>
+                <date>2019-09-29</date>
+                <note/>
+            </arrived>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-09-10</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

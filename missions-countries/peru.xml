@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1827-05-21</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1827-05-21</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1828-02-24</date>
                 <note>Died at post on</note>
@@ -35,9 +39,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1829-11-30</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1829-11-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1837-03-06</date>
                 <note>Left post on</note>
@@ -59,9 +67,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1837-03-16</date>
+                <date/>
                 <note>Officially recognized on</note>
             </started>
+            <arrived>
+                <date>1837-03-16</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1837-12-10</date>
                 <note>Left Peru</note>
@@ -84,9 +96,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1840-01-30</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1840-01-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1845-04-28</date>
                 <note>Superseded</note>
@@ -108,9 +124,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1845-04-28</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1845-04-28</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1845-08-04</date>
                 <note>Superseded</note>
@@ -131,9 +151,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1845-08-04</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1845-08-04</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1846-04-11</date>
                 <note>Recall requested by the Government of Peru on</note>
@@ -155,9 +179,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1847-12-15</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1847-12-15</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1853-03-16</date>
                 <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
@@ -866,7 +894,7 @@
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
         <chief>
-            <id>pe-1963-jone-01</id>
+            <id>pe-1962-jone-01</id>
             <person-id>jones-john-wesley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1073,7 +1101,7 @@
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
         <chief>
-            <id>pe-1992-bray-01</id>
+            <id>pe--bray-01</id>
             <person-id>brayshaw-charles-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1082,11 +1110,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1992-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1992-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1993-12</date>
+                <date>1993-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1280,7 +1312,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>pe-2017-urs-01</id>
+            <id>pe-2017-urs--01</id>
             <person-id>urs-krishna-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1288,14 +1320,14 @@
                 <date>2017-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-10-17</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-10-18</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-10-17</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-07-29</date>
                 <note/>
@@ -1306,31 +1338,35 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-08-03</last-modified-date>
         </chief>
-    </chiefs>
-    <other-nominees>
         <chief>
-            <id>pe--prev-01</id>
-            <person-id>prevost-john-b</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
+            <id>pe-2020-kenn-01</id>
+            <person-id>kenna-lisa-d</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
             <appointed>
-                <date/>
+                <date>2020-12-01</date>
                 <note/>
             </appointed>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2021-03-10</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-03-14</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-05-17</last-modified-date>
         </chief>
+    </chiefs>
+    <other-nominees>
         <chief>
             <id>pe-1829-west-01</id>
             <person-id>west-emanuel-j</person-id>
@@ -1379,9 +1415,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
+        <chief>
+            <id>pe--prev-01</id>
+            <person-id>prevost-john-b</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>peru</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

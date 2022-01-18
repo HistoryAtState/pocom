@@ -3,7 +3,7 @@
     <territory-id>nauru</territory-id>
     <chiefs>
         <chief>
-            <id>nr-1974-gree-01</id>
+            <id>na-1974-gree-01</id>
             <person-id>green-marshall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -26,7 +26,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nr-1976-harg-01</id>
+            <id>na-1976-harg-01</id>
             <person-id>hargrove-james-ward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -49,7 +49,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-1979-alst-01</id>
+            <id>na-1979-alst-01</id>
             <person-id>alston-philip-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -72,7 +72,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-1981-nese-01</id>
+            <id>na-1981-nese-01</id>
             <person-id>nesen-robert-dean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -95,7 +95,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-1985-lane-01</id>
+            <id>na-1985-lane-01</id>
             <person-id>lane-laurence-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -118,7 +118,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-1989-semb-01</id>
+            <id>na-1989-semb-01</id>
             <person-id>sembler-melvin-floyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -141,7 +141,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-1995-gevi-01</id>
+            <id>na-1995-gevi-01</id>
             <person-id>gevirtz-don-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -164,7 +164,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-1999-sidd-01</id>
+            <id>na-1999-sidd-01</id>
             <person-id>siddique-m-osman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -187,7 +187,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-2001-mcmu-01</id>
+            <id>na--mcmu-01</id>
             <person-id>mcmullen-ronald-keith</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -196,11 +196,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2001-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2001-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2002-06</date>
+                <date>2002-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -210,7 +214,7 @@
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
-            <id>nr-2002-lyon-01</id>
+            <id>na-2002-lyon-01</id>
             <person-id>lyon-david-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -233,7 +237,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-2005-ding-01</id>
+            <id>na-2005-ding-01</id>
             <person-id>dinger-larry-miles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -256,7 +260,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-2008-mcga-01</id>
+            <id>na-2008-mcga-01</id>
             <person-id>mcgann-c-steven</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -279,7 +283,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-2011-reed-01</id>
+            <id>na-2011-reed-01</id>
             <person-id>reed-frankie-annette</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -302,7 +306,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr-2014-cefk-01</id>
+            <id>na-2014-cefk-01</id>
             <person-id>cefkin-judith-beth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -325,7 +329,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>nr-2018-gold-01</id>
+            <id>na--gold-01</id>
             <person-id>goldman-michael-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -334,9 +338,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2018-02-25</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-02-25</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-12-16</date>
                 <note/>
@@ -348,36 +356,32 @@
             <last-modified-date>2019-12-19</last-modified-date>
         </chief>
         <chief>
-            <id>nr-2019-cell-01</id>
+            <id>na-2019-cell-01</id>
             <person-id>cella-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
             <appointed>
                 <date>2019-09-26</date>
-                <note></note>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2019-12-16</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date>2021-01-20</date>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-12-19</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

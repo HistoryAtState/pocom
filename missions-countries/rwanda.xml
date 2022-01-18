@@ -3,7 +3,7 @@
     <territory-id>rwanda</territory-id>
     <chiefs>
         <chief>
-            <id>rw-1962-manb-01</id>
+            <id>rw--manb-01</id>
             <person-id>manbey-david-john-stanger</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>rwanda</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1962-07-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1962-07-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -49,7 +53,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>rw-1966-cyr-01</id>
+            <id>rw-1966-cyr--01</id>
             <person-id>cyr-leo-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>rwanda</contemporary-territory-id>
@@ -448,14 +452,14 @@
                 <date>2018-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-03-30</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-04-07</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-03-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -468,8 +472,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

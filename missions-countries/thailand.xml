@@ -266,7 +266,7 @@
                 <date>1925-09-28</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1926-01-09</date>
                 <note>Official received on</note>
             </started>
@@ -422,18 +422,22 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>th-1946-yost-01</id>
+            <id>th--yost-01</id>
             <person-id>yost-charles-woodruff</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
-            <appointed subtype="see-note">
+            <appointed>
                 <date/>
                 <note/>
             </appointed>
             <started>
-                <date>1946-01-05</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1946-01-05</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1946-07-04</date>
                 <note>Superseded</note>
@@ -962,14 +966,14 @@
                 <date>2015-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2015-09-22</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-09-22</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2015-09-22</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2018-09-29</date>
                 <note/>
@@ -987,25 +991,25 @@
             <contemporary-territory-id>thailand</contemporary-territory-id>
             <appointed>
                 <date>2020-01-09</date>
-                <note></note>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2020-01-30</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date>2021-01-20</date>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2020-01-15</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
-            <last-modified-date>2020-01-31</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -1027,29 +1031,6 @@
                 <note/>
             </ended>
             <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>th--swee-01</id>
-            <person-id>sweek-alexander</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>thailand</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination not confirmed by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1078,9 +1059,28 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
+        <chief>
+            <id>th--swee-01</id>
+            <person-id>sweek-alexander</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>thailand</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination not confirmed by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

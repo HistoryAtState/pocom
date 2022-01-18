@@ -48,17 +48,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-02-13</last-modified-date>
         </chief>
-        <mission-note>
-            <text>During Dreyfus’ tenure as non-resident Minister, and in the interval between
-                Engert’s appointment and his arrival at his post, Legation Kabul was opened on June
-                6, 1942.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-02-12</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-02-12</last-modified-date>
-        </mission-note>
         <chief>
-            <id>af-1942-thay-01</id>
+            <id>af--thay-01</id>
             <person-id>thayer-charles-wheeler</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -67,9 +58,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1942-06-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1942-06-06</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1942-07-02</date>
                 <note/>
@@ -80,6 +75,15 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-02-12</last-modified-date>
         </chief>
+        <mission-note>
+            <text>During Dreyfus’ tenure as non-resident Minister, and in the interval between
+                Engert’s appointment and his arrival at his post, Legation Kabul was opened on June
+                6, 1942.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-02-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-02-12</last-modified-date>
+        </mission-note>
         <chief>
             <id>af-1942-enge-01</id>
             <person-id>engert-cornelius-van-hemert</person-id>
@@ -357,7 +361,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>af-1979-amst-01</id>
+            <id>af--amst-01</id>
             <person-id>amstutz-j-bruce</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -366,11 +370,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1979-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1979-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1980-02</date>
+                <date>1980-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -380,7 +388,7 @@
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
         <chief>
-            <id>af-1980-mill-01</id>
+            <id>af--mill-01</id>
             <person-id>mills-hawthorne-quinn</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -389,11 +397,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1980-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1980-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1982-01</date>
+                <date>1982-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -403,7 +415,7 @@
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
         <chief>
-            <id>af-1982-dunb-01</id>
+            <id>af--dunb-01</id>
             <person-id>dunbar-charles-franklin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -412,11 +424,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1982-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1982-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1983-05</date>
+                <date>1983-05-01</date>
                 <note/>
             </ended>
             <note/>
@@ -426,7 +442,7 @@
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
         <chief>
-            <id>af-1983-hurw-01</id>
+            <id>af--hurw-01</id>
             <person-id>hurwitz-edward</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -435,11 +451,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1983-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1983-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1986-03</date>
+                <date>1986-03-01</date>
                 <note/>
             </ended>
             <note/>
@@ -449,7 +469,7 @@
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
         <chief>
-            <id>af-1986-ealu-01</id>
+            <id>af--ealu-01</id>
             <person-id>ealum-james-maurice</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -458,11 +478,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1986-03</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1986-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1987-09</date>
+                <date>1987-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -480,7 +504,7 @@
             <last-modified-date>2015-02-13</last-modified-date>
         </mission-note>
         <chief>
-            <id>af-1987-glas-01</id>
+            <id>af--glas-01</id>
             <person-id>glassman-jon-david</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -489,11 +513,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1987-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1987-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1989-01</date>
+                <date>1989-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -511,7 +539,7 @@
             <last-modified-date>2015-02-12</last-modified-date>
         </mission-note>
         <chief>
-            <id>af-2002-croc-01</id>
+            <id>af--croc-01</id>
             <person-id>crocker-ryan-clark</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -520,9 +548,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2002-01-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2002-01-02</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2002-04-03</date>
                 <note/>
@@ -726,28 +758,48 @@
                 <date>2017-10-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-12-11</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-12-12</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-12-11</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-01-06</date>
-                <note></note>
+                <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-16</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-06</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
+    <other-nominees>
+        <chief>
+            <id>af--ruge-01</id>
+            <person-id>ruger-william</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>afghanistan</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of September 10, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+    </other-nominees>
 </country-mission>

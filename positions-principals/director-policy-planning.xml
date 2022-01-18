@@ -29,7 +29,7 @@
             <id>plan-1947-kenn</id>
             <person-id>kennan-george-frost</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1947-05-05</date>
                 <note/>
             </appointed>
@@ -51,7 +51,7 @@
             <id>plan-1950-nitz</id>
             <person-id>nitze-paul-henry</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1950-01-01</date>
                 <note/>
             </appointed>
@@ -73,7 +73,7 @@
             <id>plan-1953-bowi</id>
             <person-id>bowie-robert-richardson</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1953-05-28</date>
                 <note/>
             </appointed>
@@ -188,7 +188,7 @@
             <id>plan-1966-owen</id>
             <person-id>owen-henry-david</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1966-06-19</date>
                 <note/>
             </appointed>
@@ -211,7 +211,7 @@
             <id>plan-1969-carg</id>
             <person-id>cargo-william-ira</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1969-08-04</date>
                 <note/>
             </appointed>
@@ -234,7 +234,7 @@
             <id>plan-1973-sutt</id>
             <person-id>sutterlin-james-s</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1973-09-04</date>
                 <note/>
             </appointed>
@@ -257,7 +257,7 @@
             <id>plan-1973-lord</id>
             <person-id>lord-winston</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1973-10-12</date>
                 <note/>
             </appointed>
@@ -280,7 +280,7 @@
             <id>plan-1977-lake</id>
             <person-id>lake-william-anthony-kirsopp</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1977-01-21</date>
                 <note/>
             </appointed>
@@ -302,7 +302,7 @@
             <id>plan-1981-wolf</id>
             <person-id>wolfowitz-paul-dundes</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1981-02-13</date>
                 <note/>
             </appointed>
@@ -324,7 +324,7 @@
             <id>plan-1983-bosw</id>
             <person-id>bosworth-stephen-warren</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1983-01-03</date>
                 <note/>
             </appointed>
@@ -346,7 +346,7 @@
             <id>plan-1984-rodm</id>
             <person-id>rodman-peter-warren</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1984-04-09</date>
                 <note/>
             </appointed>
@@ -369,7 +369,7 @@
             <id>plan-1986-solo</id>
             <person-id>solomon-richard-h</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1986-03-03</date>
                 <note/>
             </appointed>
@@ -391,7 +391,7 @@
             <id>plan-1989-ross</id>
             <person-id>ross-dennis-b</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1989-01-21</date>
                 <note/>
             </appointed>
@@ -413,7 +413,7 @@
             <id>plan-1993-lewi</id>
             <person-id>lewis-samuel-winfield</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1993-03-21</date>
                 <note/>
             </appointed>
@@ -435,7 +435,7 @@
             <id>plan-1994-stei</id>
             <person-id>steinberg-james-b</person-id>
             <role-title-id>director-policy-planning</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1994-03-21</date>
                 <note/>
             </appointed>
@@ -667,6 +667,7 @@
                 <date>2017-01-20</date>
                 <note/>
             </ended>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2017-08-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -688,6 +689,7 @@
                 <date>2018-09-01</date>
                 <note/>
             </ended>
+            <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-02-06</created-date>
             <last-modified-by>bottsjd</last-modified-by>
@@ -706,40 +708,37 @@
                 <note/>
             </started>
             <ended>
-                <date>2019-08</date>
+                <date>2019-08-30</date>
                 <note/>
             </ended>
+            <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-08-08</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-08-08</last-modified-date>
+            <last-modified-date>2021-02-18</last-modified-date>
         </principal>
         <principal>
             <id>plan-2019-berk</id>
             <person-id>berkowitz-peter</person-id>
             <role-title-id>director-policy-planning</role-title-id>
             <appointed>
-                <date>2019-01-01</date>
-                <note></note>
+                <date/>
+                <note/>
             </appointed>
             <started>
-                <date></date>
-                <note></note>
+                <date>2020-01-01</date>
+                <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date>2021-01-20</date>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2020-01-17</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
-            <last-modified-date>2020-01-17</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-02-19</last-modified-date>
         </principal>
     </principals>
     <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>bottsjd</last-modified-by>
-    <last-modified-date>2019-02-06</last-modified-date>
 </principal-position>

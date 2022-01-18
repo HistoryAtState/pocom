@@ -3,7 +3,7 @@
     <territory-id>lesotho</territory-id>
     <chiefs>
         <chief>
-            <id>ls-1966-post-01</id>
+            <id>le--post-01</id>
             <person-id>post-richard-st-francis</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -12,11 +12,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1966-10</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1966-10-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1968-07</date>
+                <date>1968-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1968-bart-01</id>
+            <id>le--bart-01</id>
             <person-id>barth-norman-edwin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -35,11 +39,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1968-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1968-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1969-08</date>
+                <date>1969-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -49,7 +57,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1969-gebe-01</id>
+            <id>le--gebe-01</id>
             <person-id>gebelt-stephen-gurney</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -58,11 +66,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1969-10</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1969-10-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1970-12</date>
+                <date>1970-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -72,7 +84,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1971-nels-01</id>
+            <id>le-1971-nels-01</id>
             <person-id>nelson-charles-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -95,7 +107,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1974-bole-01</id>
+            <id>le-1974-bole-01</id>
             <person-id>bolen-david-benjamin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -118,7 +130,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1976-norl-01</id>
+            <id>le-1976-norl-01</id>
             <person-id>norland-donald-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -142,7 +154,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1979-clin-01</id>
+            <id>le-1979-clin-01</id>
             <person-id>clingerman-john-rufus</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -165,7 +177,7 @@
             <last-modified-date>2013-03-29</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1982-brow-01</id>
+            <id>le-1982-brow-01</id>
             <person-id>brown-keith-lapham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -188,7 +200,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1984-abbo-01</id>
+            <id>le-1984-abbo-01</id>
             <person-id>abbott-shirley-levoy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -211,7 +223,7 @@
             <last-modified-date>2014-04-15</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1987-smal-01</id>
+            <id>le-1987-smal-01</id>
             <person-id>smalley-robert-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -234,7 +246,7 @@
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1989-jete-01</id>
+            <id>le--jete-01</id>
             <person-id>jeter-howard-franklin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -243,11 +255,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1989-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1989-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1991-01</date>
+                <date>1991-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -257,7 +273,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1990-spea-01</id>
+            <id>le-1990-spea-01</id>
             <person-id>spearman-leonard-h-o</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -280,7 +296,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1993-hofm-01</id>
+            <id>le--hofm-01</id>
             <person-id>hofmann-karl-william</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -289,11 +305,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1993-04</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1993-04-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1995-04</date>
+                <date>1995-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -303,7 +323,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1995-myri-01</id>
+            <id>le-1995-myri-01</id>
             <person-id>myrick-bismarck</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -326,7 +346,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ls-1998-cana-01</id>
+            <id>le-1998-pete-01</id>
             <person-id>peterson-katherine-hubay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -349,7 +369,7 @@
             <last-modified-date>2020-04-29</last-modified-date>
         </chief>
         <chief>
-            <id>ls-2001-loft-01</id>
+            <id>le-2001-loft-01</id>
             <person-id>loftis-robert-geers</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -372,7 +392,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ls-2004-perr-01</id>
+            <id>le-2004-perr-01</id>
             <person-id>perry-june-carter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -395,7 +415,7 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
-            <id>ls-2007-nola-01</id>
+            <id>le-2007-nola-01</id>
             <person-id>nolan-robert-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -418,7 +438,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>ls-2010-bond-01</id>
+            <id>le-2010-bond-01</id>
             <person-id>bond-michele-thoren</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -441,7 +461,7 @@
             <last-modified-date>2013-08-07</last-modified-date>
         </chief>
         <chief>
-            <id>ls-2012-fox-01</id>
+            <id>le--fox--01</id>
             <person-id>fox-carl-benjamin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -450,11 +470,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2012-12</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2012-12-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2014-07</date>
+                <date>2014-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -464,7 +488,7 @@
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
         <chief>
-            <id>ls-2014-harr-01</id>
+            <id>le-2014-harr-01</id>
             <person-id>harrington-matthew-tracy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -487,7 +511,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ls-2018-gonz-01</id>
+            <id>le-2017-gonz-01</id>
             <person-id>gonzales-rebecca-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -495,14 +519,14 @@
                 <date>2017-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-01-25</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-02-08</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-01-25</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -516,7 +540,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ls-1989-moor-01</id>
+            <id>le--moor-01</id>
             <person-id>moore-jerry-alexander</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>lesotho</contemporary-territory-id>
@@ -539,8 +563,4 @@
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

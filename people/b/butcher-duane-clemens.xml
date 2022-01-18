@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>butcher-duane-clemens</id>
-    <old-ids>
-        <old-id>butcher-duane-c</old-id>
-    </old-ids>
     <persName>
         <surname>Butcher</surname>
         <forename>Duane Clemens</forename>
     </persName>
     <birth>1965</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>or</state-id>

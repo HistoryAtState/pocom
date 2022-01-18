@@ -3,7 +3,7 @@
     <territory-id>mauritania</territory-id>
     <chiefs>
         <chief>
-            <id>mr-1960-vill-01</id>
+            <id>ma-1960-vill-01</id>
             <person-id>villard-henry-serrano</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -27,7 +27,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1961-kais-01</id>
+            <id>ma-1961-kais-01</id>
             <person-id>kaiser-philip-mayer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -52,7 +52,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1965-lewi-01</id>
+            <id>ma-1965-lewi-01</id>
             <person-id>lewis-geoffrey-whitney</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -82,7 +82,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </mission-note>
         <chief>
-            <id>mr-1970-stei-01</id>
+            <id>ma--stei-01</id>
             <person-id>stein-robert-andrew</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -91,9 +91,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1970-03-04</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1970-03-04</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -105,7 +109,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1971-murp-01</id>
+            <id>ma-1971-murp-01</id>
             <person-id>murphy-richard-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -128,7 +132,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1975-hand-01</id>
+            <id>ma-1975-hand-01</id>
             <person-id>handyside-holsey-gates</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -151,7 +155,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1977-kryz-01</id>
+            <id>ma-1977-kryz-01</id>
             <person-id>kryza-elmer-gregory</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -174,7 +178,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1980-schr-01</id>
+            <id>ma--schr-01</id>
             <person-id>schrager-stanley-n</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -183,11 +187,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1980-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1980-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1982-07</date>
+                <date>1982-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -197,7 +205,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1982-peck-01</id>
+            <id>ma-1982-peck-01</id>
             <person-id>peck-edward-lionel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -220,7 +228,7 @@
             <last-modified-date>2012-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1985-pugh-01</id>
+            <id>ma-1985-pugh-01</id>
             <person-id>pugh-robert-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -243,7 +251,7 @@
             <last-modified-date>2014-07-24</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1988-twad-01</id>
+            <id>ma-1988-twad-01</id>
             <person-id>twaddell-william-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -266,7 +274,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1991-brow-01</id>
+            <id>ma-1991-brow-01</id>
             <person-id>brown-gordon-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -289,7 +297,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1994-samp-01</id>
+            <id>ma-1994-samp-01</id>
             <person-id>sampas-dorothy-myers</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -312,7 +320,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1997-fost-01</id>
+            <id>ma-1997-fost-01</id>
             <person-id>foster-timberlake</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -335,7 +343,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-2000-limb-01</id>
+            <id>ma-2000-limb-01</id>
             <person-id>limbert-john-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -358,7 +366,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-2003-leba-01</id>
+            <id>ma-2003-leba-01</id>
             <person-id>lebaron-joseph-evan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -381,7 +389,7 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
-            <id>mr-2007-boul-01</id>
+            <id>ma-2007-boul-01</id>
             <person-id>boulware-mark-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -404,7 +412,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>mr-2010-powe-01</id>
+            <id>ma-2010-powe-01</id>
             <person-id>powell-jo-ellen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -427,7 +435,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>mr-2014-andr-01</id>
+            <id>ma-2014-andr-01</id>
             <person-id>andre-larry-edward-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -450,7 +458,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>mr-2017-dodm-01</id>
+            <id>ma-2017-dodm-01</id>
             <person-id>dodman-michael-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -458,14 +466,14 @@
                 <date>2017-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-01-05</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-03-13</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-01-05</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -476,10 +484,37 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
+        <chief>
+            <id>ma-2021-kier-01</id>
+            <person-id>kierscht-cynthia</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>mauritania</contemporary-territory-id>
+            <appointed>
+                <date>2021-01-05</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <arrived>
+                <date>2021-03-29</date>
+                <note/>
+            </arrived>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-03-14</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-05-17</last-modified-date>
+        </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>mr-1990-prec-01</id>
+            <id>ma--prec-01</id>
             <person-id>precht-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -502,7 +537,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>mr-2006-libe-01</id>
+            <id>ma--libe-01</id>
             <person-id>liberi-dawn-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -525,8 +560,4 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

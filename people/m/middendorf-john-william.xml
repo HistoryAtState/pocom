@@ -6,13 +6,12 @@
         <forename>John William</forename>
         <genName>II</genName>
         <altname>J. William Middendorf II</altname>
-        <altname>J. William Middendorf, II</altname>
     </persName>
     <birth>1924</birth>
-    <death type=""/>
+    <death/>
     <career-type>non-career</career-type>
     <residence>
-        <state-id sort="1">ct</state-id>
+        <state-id>ct</state-id>
         <state-id>va</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>

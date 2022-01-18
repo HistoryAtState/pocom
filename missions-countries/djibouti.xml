@@ -3,7 +3,7 @@
     <territory-id>djibouti</territory-id>
     <chiefs>
         <chief>
-            <id>dj-1977-clar-01</id>
+            <id>dj--clar-01</id>
             <person-id>clarke-walter-sheldon</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1977-06-27</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1977-06-27</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -95,7 +99,7 @@
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>dj-1987-mcat-01</id>
+            <id>dj--mcat-01</id>
             <person-id>mcateer-john-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -104,11 +108,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1987-08</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1987-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1988-09</date>
+                <date>1988-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -187,7 +195,7 @@
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>dj-1996-robl-01</id>
+            <id>dj--robl-01</id>
             <person-id>robl-terri-louise</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -196,11 +204,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1996-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1996-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1998-01</date>
+                <date>1998-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -379,12 +391,35 @@
                 <date>2017-11-20</date>
                 <note/>
             </appointed>
+            <started>
+                <date>2018-02-19</date>
+                <note/>
+            </started>
             <arrived>
                 <date>2018-01-27</date>
                 <note/>
             </arrived>
+            <ended>
+                <date>2021-01-10</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-21</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>dj-2020-prat-01</id>
+            <person-id>pratt-jonathan</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>djibouti</contemporary-territory-id>
+            <appointed>
+                <date>2020-12-22</date>
+                <note/>
+            </appointed>
             <started>
-                <date>2018-02-19</date>
+                <date>2021-02-22</date>
                 <note/>
             </started>
             <ended>
@@ -393,14 +428,14 @@
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
-            <created-date>2019-05-21</created-date>
+            <created-date>2021-01-14</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-05-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>dj-1996-schr-01</id>
+            <id>dj--schr-01</id>
             <person-id>schrager-stanley-n</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -423,8 +458,4 @@
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

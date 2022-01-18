@@ -3,7 +3,7 @@
     <territory-id>tanzania</territory-id>
     <chiefs>
         <chief>
-            <id>tz-1961-dugg-01</id>
+            <id>ta--dugg-01</id>
             <person-id>duggan-william-redman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1961-12-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1961-12-09</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -25,20 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <mission-note>
-            <text>On December 10, 1963, the Embassy in Zanzibar was established with Frederick P.
-                Picard III as Chargé d’Affaires ad interim. An Ambassador to Zanzibar had not yet
-                been appointed when that country was united with the Republic of Tanganyika on April
-                27, 1964. Frank C. Carlucci III was serving as Charge d’Affaires ad interim when
-                Embassy Zanzibar was changed in rank to a Consulate General, effective June 27,
-                1964.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-01-29</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-29</last-modified-date>
-        </mission-note>
         <chief>
-            <id>tz-1962-leon-01</id>
+            <id>ta-1962-leon-01</id>
             <person-id>leonhart-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -62,8 +54,20 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
+        <mission-note>
+            <text>On December 10, 1963, the Embassy in Zanzibar was established with Frederick P.
+                Picard III as Chargé d’Affaires ad interim. An Ambassador to Zanzibar had not yet
+                been appointed when that country was united with the Republic of Tanganyika on April
+                27, 1964. Frank C. Carlucci III was serving as Charge d’Affaires ad interim when
+                Embassy Zanzibar was changed in rank to a Consulate General, effective June 27,
+                1964.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </mission-note>
         <chief>
-            <id>tz-1965-burn-01</id>
+            <id>ta-1965-burn-01</id>
             <person-id>burns-john-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -86,7 +90,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1969-ross-01</id>
+            <id>ta-1969-ross-01</id>
             <person-id>ross-claude-george-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -109,7 +113,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1972-cart-01</id>
+            <id>ta-1972-cart-01</id>
             <person-id>carter-william-beverly</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -132,7 +136,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1975-spai-01</id>
+            <id>ta-1975-spai-01</id>
             <person-id>spain-james-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -155,7 +159,7 @@
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1979-viet-01</id>
+            <id>ta-1979-viet-01</id>
             <person-id>viets-richard-noyes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -178,7 +182,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1981-mill-01</id>
+            <id>ta-1981-mill-01</id>
             <person-id>miller-david-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -201,7 +205,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1984-shir-01</id>
+            <id>ta-1984-shir-01</id>
             <person-id>shirley-john-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -224,7 +228,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1986-pett-01</id>
+            <id>ta-1986-pett-01</id>
             <person-id>petterson-donald-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -247,7 +251,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1989-deja-01</id>
+            <id>ta-1989-deja-01</id>
             <person-id>dejarnette-edmund-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -270,7 +274,7 @@
             <last-modified-date>2013-02-21</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1992-de-01</id>
+            <id>ta-1992-de-v-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -293,7 +297,7 @@
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1994-ande-01</id>
+            <id>ta-1994-ande-01</id>
             <person-id>anderson-j-brady</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -316,7 +320,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1998-stit-01</id>
+            <id>ta-1998-stit-01</id>
             <person-id>stith-charles-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -339,7 +343,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2001-roya-01</id>
+            <id>ta-2001-roya-01</id>
             <person-id>royall-robert-v</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -362,7 +366,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2003-roya-01</id>
+            <id>ta--owen-01</id>
             <person-id>owen-michael-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -371,11 +375,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2003-11</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2003-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2005-07</date>
+                <date>2005-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -385,7 +393,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2005-retz-01</id>
+            <id>ta-2005-retz-01</id>
             <person-id>retzer-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -408,7 +416,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2007-gree-01</id>
+            <id>ta-2007-gree-01</id>
             <person-id>green-mark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -431,7 +439,7 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2009-lenh-01</id>
+            <id>ta-2009-lenh-01</id>
             <person-id>lenhardt-alfonso-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -454,7 +462,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2014-chil-01</id>
+            <id>ta-2014-chil-01</id>
             <person-id>childress-mark-bradley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -477,7 +485,7 @@
             <last-modified-date>2019-05-14</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2017-patt-01</id>
+            <id>ta--patt-01</id>
             <person-id>patterson-inmi-k</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -486,9 +494,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2017-06-05</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-06-05</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-06-22</date>
                 <note/>
@@ -500,7 +512,7 @@
             <last-modified-date>2020-06-23</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2020-wrig-01</id>
+            <id>ta-2020-wrig-01</id>
             <person-id>wright-donald-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -508,17 +520,17 @@
                 <date>2020-02-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2020-07-26</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2020-08-02</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2020-07-26</date>
+                <note/>
+            </arrived>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
@@ -528,8 +540,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

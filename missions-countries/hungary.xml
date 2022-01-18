@@ -162,7 +162,7 @@
             <note>Chapin left post on February 17, 1949.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsqw</last-modified-by>
+            <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
@@ -212,7 +212,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1957-acke-01</id>
+            <id>hu--acke-01</id>
             <person-id>ackerson-garret-g</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -221,11 +221,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1957-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1957-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1961-02</date>
+                <date>1961-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -235,7 +239,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1961-torb-01</id>
+            <id>hu--torb-01</id>
             <person-id>torbert-horace-gates</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -244,11 +248,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1961-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1961-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1962-12</date>
+                <date>1962-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -258,7 +266,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1962-jone-01</id>
+            <id>hu--jone-01</id>
             <person-id>jones-owen-thomas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -267,11 +275,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1962-12</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1962-12-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1964-07</date>
+                <date>1964-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -281,7 +293,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1964-osha-01</id>
+            <id>hu--osha-01</id>
             <person-id>oshaunessy-elim</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -290,11 +302,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1964-11</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1964-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1966-09</date>
+                <date>1966-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -304,7 +320,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1966-tims-01</id>
+            <id>hu--tims-01</id>
             <person-id>tims-richard-womser</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -313,11 +329,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1966-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1966-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1967-10</date>
+                <date>1967-10-01</date>
                 <note/>
             </ended>
             <note>Tims was serving as Chargé d’Affaires ad interim when Legation Budapest was raised
@@ -673,7 +693,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>hu-2013-good-01</id>
+            <id>hu--good-01</id>
             <person-id>goodfriend-mark-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -682,11 +702,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2013-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2013-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2015-01</date>
+                <date>2015-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -719,7 +743,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>hu-2017-kost-01</id>
+            <id>hu--kost-01</id>
             <person-id>kostelancik-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -728,9 +752,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-01-20</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2018-06-22</date>
                 <note/>
@@ -750,20 +778,20 @@
                 <date>2018-05-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-06-22</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-06-25</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-06-22</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-10-30</date>
                 <note/>
             </ended>
             <note/>
-            <created-by>bpttsjd</created-by>
+            <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-10-30</last-modified-date>
@@ -795,8 +823,4 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

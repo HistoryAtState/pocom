@@ -3,7 +3,7 @@
     <territory-id>cameroon</territory-id>
     <chiefs>
         <chief>
-            <id>cm-1960-more-01</id>
+            <id>ca--more-01</id>
             <person-id>more-james-bolard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1960-01-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1960-01-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1960-barr-01</id>
+            <id>ca-1960-barr-01</id>
             <person-id>barrows-leland-judd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1967-payt-01</id>
+            <id>ca-1967-payt-01</id>
             <person-id>payton-robert-lewis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -72,7 +76,7 @@
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1969-hoff-01</id>
+            <id>ca-1969-hoff-01</id>
             <person-id>hoffacker-roscoe-lewis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -95,7 +99,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1972-moor-01</id>
+            <id>ca-1972-moor-01</id>
             <person-id>moore-charles-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -118,7 +122,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1975-spir-01</id>
+            <id>ca-1975-spir-01</id>
             <person-id>spiro-herbert-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -141,7 +145,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1977-smyt-01</id>
+            <id>ca-1977-smyt-01</id>
             <person-id>smythe-mabel-murphy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -164,7 +168,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1980-hora-01</id>
+            <id>ca-1980-hora-01</id>
             <person-id>horan-hume-alexander</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -187,7 +191,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1983-frec-01</id>
+            <id>ca-1983-frec-01</id>
             <person-id>frechette-myles-robert-rene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -210,7 +214,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1987-edel-01</id>
+            <id>ca-1987-edel-01</id>
             <person-id>edelman-mark-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -233,7 +237,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1989-cook-01</id>
+            <id>ca-1989-cook-01</id>
             <person-id>cook-frances-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -256,7 +260,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1992-isom-01</id>
+            <id>ca-1992-isom-01</id>
             <person-id>isom-harriet-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -279,7 +283,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1995-twin-01</id>
+            <id>ca-1995-twin-01</id>
             <person-id>twining-charles-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -302,7 +306,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-1998-yate-01</id>
+            <id>ca-1998-yate-01</id>
             <person-id>yates-john-melvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -325,7 +329,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-2001-stap-01</id>
+            <id>ca-2001-stap-01</id>
             <person-id>staples-george-mcdade</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -348,7 +352,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-2004-marq-01</id>
+            <id>ca-2004-marq-01</id>
             <person-id>marquardt-r-niels</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -371,7 +375,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cm-2007-garv-01</id>
+            <id>ca-2007-garv-01</id>
             <person-id>garvey-janet-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -394,7 +398,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>cm-2010-jack-01</id>
+            <id>ca-2010-jack-01</id>
             <person-id>jackson-robert-porter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -417,7 +421,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>cm-2014-hoza-01</id>
+            <id>ca-2014-hoza-01</id>
             <person-id>hoza-michael-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -440,7 +444,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>cm-2017-barl-01</id>
+            <id>ca-2017-barl-01</id>
             <person-id>barlerin-peter-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cameroon</contemporary-territory-id>
@@ -448,14 +452,14 @@
                 <date>2017-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-12-14</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-12-22</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-12-14</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-07-16</date>
                 <note/>
@@ -468,8 +472,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

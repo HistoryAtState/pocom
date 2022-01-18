@@ -3,7 +3,7 @@
     <territory-id>kenya</territory-id>
     <chiefs>
         <chief>
-            <id>ke-1963-vass-01</id>
+            <id>ke--vass-01</id>
             <person-id>vass-laurence-coolidge</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1963-12-12</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1963-12-12</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -403,28 +407,24 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-02-17</date>
-                <norte/>
-            </arrived>
             <started>
                 <date>2019-03-12</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-02-17</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

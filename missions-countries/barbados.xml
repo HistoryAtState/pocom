@@ -3,7 +3,7 @@
     <territory-id>barbados</territory-id>
     <chiefs>
         <chief>
-            <id>bb-1966-dolg-01</id>
+            <id>ba--dolg-01</id>
             <person-id>dolgin-george</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1966-11-30</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1966-11-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1967-mann-01</id>
+            <id>ba-1967-mann-01</id>
             <person-id>mann-fredric-rand</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1969-dono-01</id>
+            <id>ba-1969-dono-01</id>
             <person-id>donovan-eileen-roberta</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -72,7 +76,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1974-brit-01</id>
+            <id>ba-1974-brit-01</id>
             <person-id>britton-theodore-roosevelt</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -95,7 +99,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1977-orti-01</id>
+            <id>ba-1977-orti-01</id>
             <person-id>ortiz-francis-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -119,7 +123,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1979-shel-01</id>
+            <id>ba-1979-shel-01</id>
             <person-id>shelton-sally-angela</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -143,7 +147,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1981-bish-01</id>
+            <id>ba-1981-bish-01</id>
             <person-id>bish-milan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -166,7 +170,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1984-ande-01</id>
+            <id>ba-1984-ande-01</id>
             <person-id>anderson-thomas-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -189,7 +193,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1986-russ-01</id>
+            <id>ba-1986-russ-01</id>
             <person-id>russo-paul-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -212,7 +216,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1988-clar-01</id>
+            <id>ba--clar-01</id>
             <person-id>clark-john-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -221,11 +225,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1988-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1988-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1990-07</date>
+                <date>1990-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -235,7 +243,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1990-hugh-01</id>
+            <id>ba-1990-hugh-01</id>
             <person-id>hughes-g-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -258,7 +266,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1994-hyde-01</id>
+            <id>ba-1994-hyde-01</id>
             <person-id>hyde-jeanette-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -281,7 +289,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-1998-crot-01</id>
+            <id>ba-1998-crot-01</id>
             <person-id>crotty-e-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -304,7 +312,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>bb-2000-dale-01</id>
+            <id>ba-2000-dale-01</id>
             <person-id>daley-james-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -328,7 +336,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-2002-phil-01</id>
+            <id>ba-2002-phil-01</id>
             <person-id>phillips-earl-norfleet</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -351,7 +359,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-2003-kram-01</id>
+            <id>ba-2003-kram-01</id>
             <person-id>kramer-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -374,7 +382,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-2006-ouri-01</id>
+            <id>ba-2006-ouri-01</id>
             <person-id>ourisman-mary-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -397,7 +405,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>bb-2009-hard-01</id>
+            <id>ba--hard-01</id>
             <person-id>hardt-d-brent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -406,11 +414,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2009-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2009-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2011-06</date>
+                <date>2011-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -420,7 +432,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>bb-2012-palm-01</id>
+            <id>ba-2012-palm-01</id>
             <person-id>palmer-larry-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -443,7 +455,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>bb-2015-tagl-01</id>
+            <id>ba-2015-tagl-01</id>
             <person-id>taglialatela-linda-swartz</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -468,7 +480,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>bb-1989-silv-01</id>
+            <id>ba--silv-01</id>
             <person-id>silverman-joy-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -490,9 +502,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
+        <chief>
+            <id>ba--rizz-01</id>
+            <person-id>rizzuto-leandro</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>barbados</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of January 8, 2018 and renomination of January 16, 2019 returned to the president on January 3, 2020.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

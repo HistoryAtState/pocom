@@ -96,7 +96,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>lu-1913-van-01</id>
+            <id>lu-1913-van--01</id>
             <person-id>van-dyke-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -127,7 +127,7 @@
                 <date>1917-08-23</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1917-11-11</date>
                 <note>Transmitted credentials by note on</note>
             </started>
@@ -388,7 +388,7 @@
                 <date>1944-03-21</date>
                 <note/>
             </appointed>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note>No record has been found of the issuance or presentation of a letter of
                     credence.</note>
@@ -405,7 +405,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>lu-1944-gree-01</id>
+            <id>lu--gree-01</id>
             <person-id>greene-winthrop-stephenson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -414,9 +414,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1944-09-23</date>
+                <date/>
                 <note>Legation Luxembourg reestablished on</note>
             </started>
+            <arrived>
+                <date>1944-09-23</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -892,7 +896,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>lu-2001-loft-01</id>
+            <id>lu--loft-01</id>
             <person-id>loftus-gerald-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -901,11 +905,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2001-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2001-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2002-04</date>
+                <date>2002-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1038,23 +1046,23 @@
                 <date>2018-05-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-06-18</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-06-19</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-06-18</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-21</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -1129,8 +1137,4 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

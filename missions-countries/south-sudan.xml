@@ -3,7 +3,7 @@
     <territory-id>south-sudan</territory-id>
     <chiefs>
         <chief>
-            <id>ss-2011-walk-01</id>
+            <id>so--walk-01</id>
             <person-id>walkley-r-barrie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>south-sudan</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2011-07-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2011-07-09</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2011-09-19</date>
                 <note/>
@@ -22,11 +26,11 @@
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-01-29</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
-            <id>ss-2011-page-01</id>
+            <id>so-2011-page-01</id>
             <person-id>page-susan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-sudan</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>ss-2015-phee-01</id>
+            <id>so-2015-phee-01</id>
             <person-id>phee-mary-catherine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-sudan</contemporary-territory-id>
@@ -72,7 +76,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>ss-2018-hush-01</id>
+            <id>so-2018-hush-01</id>
             <person-id>hushek-thomas-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-sudan</contemporary-territory-id>
@@ -80,14 +84,14 @@
                 <date>2018-04-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-05-31</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-06-04</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-05-31</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-07-17</date>
                 <note/>
@@ -100,8 +104,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

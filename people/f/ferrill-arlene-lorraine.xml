@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>ferrill-arlene-lorraine</id>
-    <old-ids>
-        <old-id>ferrill-arlene</old-id>
-    </old-ids>
     <persName>
         <surname>Ferrill</surname>
         <forename>Arlene Lorraine</forename>
     </persName>
     <birth>1960</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>ca</state-id>

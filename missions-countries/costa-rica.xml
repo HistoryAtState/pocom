@@ -3,7 +3,7 @@
     <territory-id>costa-rica</territory-id>
     <chiefs>
         <chief>
-            <id>cr-1858-lama-01</id>
+            <id>co-1858-lama-01</id>
             <person-id>lamar-mirabeau-buonaparte</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -27,7 +27,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1859-dimi-01</id>
+            <id>co-1859-dimi-01</id>
             <person-id>dimitry-alexander</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -51,7 +51,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1861-riot-01</id>
+            <id>co-1861-riot-01</id>
             <person-id>riotte-charles-n</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -75,7 +75,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1866-lawr-01</id>
+            <id>co-1866-lawr-01</id>
             <person-id>lawrence-albert-gallatin</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -99,7 +99,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1868-blai-01</id>
+            <id>co-1868-blai-01</id>
             <person-id>blair-jacob-beeson</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -122,7 +122,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1873-will-01</id>
+            <id>co-1873-will-01</id>
             <person-id>williamson-george-mcwillie</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -147,7 +147,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1879-loga-01</id>
+            <id>co-1879-loga-01</id>
             <person-id>logan-cornelius-ambrose</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -155,7 +155,7 @@
                 <date>1879-04-02</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1879-12-25</date>
                 <note>Officially recognized on</note>
             </started>
@@ -170,7 +170,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1882-hall-01</id>
+            <id>co-1882-hall-01</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -194,7 +194,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1882-hall-02</id>
+            <id>co-1882-hall-01</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -217,7 +217,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1889-mizn-01</id>
+            <id>co-1889-mizn-01</id>
             <person-id>mizner-lansing-bond</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -240,7 +240,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1890-pach-01</id>
+            <id>co-1890-pach-01</id>
             <person-id>pacheco-romualdo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -263,7 +263,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1891-shan-01</id>
+            <id>co-1891-shan-01</id>
             <person-id>shannon-richard-cutts</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -287,7 +287,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1893-bake-01</id>
+            <id>co-1893-bake-01</id>
             <person-id>baker-lewis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -295,7 +295,7 @@
                 <date>1893-04-04</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1893-05-20</date>
                 <note>Transmitted credentials by note from Managua on</note>
             </started>
@@ -310,7 +310,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1897-merr-01</id>
+            <id>co-1897-merr-01</id>
             <person-id>merry-william-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -333,7 +333,7 @@
             <last-modified-date>2016-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1907-merr-01</id>
+            <id>co-1907-merr-01</id>
             <person-id>merry-william-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -356,7 +356,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1908-merr-01</id>
+            <id>co-1908-merr-01</id>
             <person-id>merry-william-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -380,7 +380,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1911-eins-01</id>
+            <id>co-1911-eins-01</id>
             <person-id>einstein-lewis-david</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -403,7 +403,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1913-hale-01</id>
+            <id>co-1913-hale-01</id>
             <person-id>hale-edward-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -427,7 +427,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1918-john-01</id>
+            <id>co--john-01</id>
             <person-id>johnson-stewart</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -450,7 +450,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1920-mart-01</id>
+            <id>co--mart-01</id>
             <person-id>martin-john-funk</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -459,9 +459,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1920-10-15</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1920-10-15</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -473,7 +477,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1921-thur-01</id>
+            <id>co--thur-01</id>
             <person-id>thurston-walter-clarence</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -482,11 +486,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1921-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1921-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1922-03</date>
+                <date>1922-03-01</date>
                 <note/>
             </ended>
             <note/>
@@ -496,7 +504,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1922-davi-01</id>
+            <id>co-1922-davi-01</id>
             <person-id>davis-roy-tasco</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -519,7 +527,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1930-eber-01</id>
+            <id>co-1930-eber-01</id>
             <person-id>eberhardt-charles-christopher</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -542,7 +550,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1933-sack-01</id>
+            <id>co-1933-sack-01</id>
             <person-id>sack-leo-r</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -566,7 +574,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1937-horn-01</id>
+            <id>co-1937-horn-01</id>
             <person-id>hornibrook-william-harrison</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -589,7 +597,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1941-lane-01</id>
+            <id>co-1941-lane-01</id>
             <person-id>lane-arthur-bliss</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -612,7 +620,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1942-scot-01</id>
+            <id>co-1942-scot-01</id>
             <person-id>scotten-robert-mcgregor</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -635,7 +643,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1943-des-01</id>
+            <id>co-1943-des--01</id>
             <person-id>des-portes-fay-allen</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -658,7 +666,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1944-john-01</id>
+            <id>co-1944-john-01</id>
             <person-id>johnson-hallett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -681,7 +689,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1947-donn-01</id>
+            <id>co-1947-donn-01</id>
             <person-id>donnelly-walter-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -704,7 +712,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1947-davi-01</id>
+            <id>co-1947-davi-01</id>
             <person-id>davis-nathaniel-penistone</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -728,7 +736,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1949-flac-01</id>
+            <id>co-1949-flac-01</id>
             <person-id>flack-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -751,7 +759,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1951-flem-01</id>
+            <id>co-1951-flem-01</id>
             <person-id>fleming-philip-bracken</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -774,7 +782,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1953-hill-01</id>
+            <id>co-1953-hill-01</id>
             <person-id>hill-robert-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -798,7 +806,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1954-wood-01</id>
+            <id>co-1954-wood-01</id>
             <person-id>woodward-robert-forbes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -822,7 +830,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1958-will-01</id>
+            <id>co-1958-will-01</id>
             <person-id>willauer-whiting</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -845,7 +853,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1961-tell-01</id>
+            <id>co-1961-tell-01</id>
             <person-id>telles-raymond-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -868,7 +876,7 @@
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1967-boon-01</id>
+            <id>co-1967-boon-01</id>
             <person-id>boonstra-clarence-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -891,7 +899,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1970-ploe-01</id>
+            <id>co-1970-ploe-01</id>
             <person-id>ploeser-walter-christian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -914,7 +922,7 @@
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1972-vaky-01</id>
+            <id>co-1972-vaky-01</id>
             <person-id>vaky-viron-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -937,7 +945,7 @@
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1974-todm-01</id>
+            <id>co-1974-todm-01</id>
             <person-id>todman-terence-alphonso</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -960,7 +968,7 @@
             <last-modified-date>2014-09-08</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1977-weis-01</id>
+            <id>co-1977-weis-01</id>
             <person-id>weissman-marvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -983,7 +991,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1980-mcne-01</id>
+            <id>co-1980-mcne-01</id>
             <person-id>mcneil-francis-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1006,7 +1014,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1983-wins-01</id>
+            <id>co-1983-wins-01</id>
             <person-id>winsor-curtin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1029,7 +1037,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1985-tamb-01</id>
+            <id>co-1985-tamb-01</id>
             <person-id>tambs-lewis-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1052,7 +1060,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1987-hint-01</id>
+            <id>co-1987-hint-01</id>
             <person-id>hinton-deane-roesch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1075,7 +1083,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1991-guin-01</id>
+            <id>co-1991-guin-01</id>
             <person-id>guinot-luis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1098,7 +1106,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1993-bece-01</id>
+            <id>co--bece-01</id>
             <person-id>beceila-joseph</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1107,11 +1115,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1993-08</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1993-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1994-10</date>
+                <date>1994-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1121,7 +1133,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1994-de-01</id>
+            <id>co-1994-de-v-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1144,7 +1156,7 @@
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1997-dodd-01</id>
+            <id>co-1997-dodd-01</id>
             <person-id>dodd-thomas-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1167,7 +1179,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-2001-dani-01</id>
+            <id>co-2001-dani-01</id>
             <person-id>danilovich-john-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1190,7 +1202,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-2004-barn-01</id>
+            <id>co--barn-01</id>
             <person-id>barnes-douglas-malcolm</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1199,11 +1211,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2004-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2004-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2005-07</date>
+                <date>2005-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1213,7 +1229,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>cr-2005-lang-01</id>
+            <id>co-2005-lang-01</id>
             <person-id>langdale-mark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1236,7 +1252,7 @@
             <last-modified-date>2013-03-12</last-modified-date>
         </chief>
         <chief>
-            <id>cr-2008-cian-01</id>
+            <id>co-2008-cian-01</id>
             <person-id>cianchette-peter-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1259,7 +1275,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>cr-2009-andr-01</id>
+            <id>co-2009-andr-01</id>
             <person-id>andrews-anne-slaughter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1282,7 +1298,7 @@
             <last-modified-date>2015-07-15</last-modified-date>
         </chief>
         <chief>
-            <id>cr-2013-gall-01</id>
+            <id>co--gall-01</id>
             <person-id>gallegos-gonzalo-rolando</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1291,11 +1307,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2013-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2013-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2015-02</date>
+                <date>2015-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1305,7 +1325,7 @@
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
         <chief>
-            <id>cr-2015-hane-01</id>
+            <id>co-2015-hane-01</id>
             <person-id>haney-stafford-fitzgerald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1328,7 +1348,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>cr-2017-day-01</id>
+            <id>co-2017-day--01</id>
             <person-id>day-sharon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1336,28 +1356,28 @@
                 <date>2017-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-10-02</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-10-03</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-10-02</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>cr-1853-slid-01</id>
+            <id>co-1853-slid-01</id>
             <person-id>slidell-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1381,7 +1401,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1853-borl-01</id>
+            <id>co-1853-borl-01</id>
             <person-id>borland-solon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1406,53 +1426,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>cr--mott-01</id>
-            <person-id>mott-thaddeus-phelps</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cr--riot-01</id>
-            <person-id>riotte-charles-n</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>costa-rica</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination tabled by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2014-02-12</last-modified-date>
-        </chief>
-        <chief>
-            <id>cr-1929-scho-01</id>
+            <id>co-1929-scho-01</id>
             <person-id>schoenfeld-hans-frederick-arthur</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1475,7 +1449,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1937-albr-01</id>
+            <id>co-1937-albr-01</id>
             <person-id>albright-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1499,7 +1473,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>cr-1974-ande-01</id>
+            <id>co--ande-01</id>
             <person-id>anderson-stanton-dean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>costa-rica</contemporary-territory-id>
@@ -1522,9 +1496,51 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
+        <chief>
+            <id>co--mott-01</id>
+            <person-id>mott-thaddeus-phelps</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>costa-rica</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>co--riot-01</id>
+            <person-id>riotte-charles-n</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>costa-rica</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination tabled by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2014-02-12</last-modified-date>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>
