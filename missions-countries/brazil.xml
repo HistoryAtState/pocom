@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1825-10-29</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1825-10-29</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1827-04-16</date>
                 <note>Left post on</note>
@@ -35,9 +39,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1828-06-25</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1828-06-25</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1830-03-09</date>
                 <note>Died at post on</note>
@@ -59,9 +67,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1831-02-18</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1831-02-18</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1834-04-11</date>
                 <note>Presented recall on</note>
@@ -82,9 +94,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1835-01-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1835-01-07</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1842-01-01</date>
                 <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
@@ -166,7 +182,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>br-1847-tod-01</id>
+            <id>br-1847-tod--01</id>
             <person-id>tod-david</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -455,7 +471,7 @@
                 <date>1893-04-24</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1893-09-09</date>
                 <note>Officially recognized on</note>
             </started>
@@ -517,7 +533,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>br-1902-thom-02</id>
+            <id>br-1902-thom-01</id>
             <person-id>thompson-david-eugene</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1115,7 +1131,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>br-2001-oroz-01</id>
+            <id>br--oroz-01</id>
             <person-id>orozco-cristobal-roberto</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1124,11 +1140,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2001-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2001-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2002-04</date>
+                <date>2002-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1184,7 +1204,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>br-2005-chic-01</id>
+            <id>br--chic-01</id>
             <person-id>chicola-philip-t</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1193,11 +1213,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2005-11</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2005-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2006-11</date>
+                <date>2006-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1284,14 +1308,14 @@
                 <date>2016-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-01-11</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-01-20</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-01-11</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2018-11-03</date>
                 <note/>
@@ -1303,30 +1327,30 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>br-2018-popp-01</id>
+            <id>br--popp-01</id>
             <person-id>popp-william-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
             <appointed>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2018-11-04</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2019-12-16</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-16</last-modified-date>
         </chief>
         <chief>
@@ -1338,16 +1362,16 @@
                 <date>2020-02-14</date>
                 <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2020-03-29</date>
                 <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note/>
-            </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>
@@ -1358,29 +1382,6 @@
         </chief>
     </chiefs>
     <other-nominees>
-        <chief>
-            <id>br--pile-01</id>
-            <person-id>pile-william-anderson</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>brazil</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination first rejected and then tabled by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
         <chief>
             <id>br-1890-adam-01</id>
             <person-id>adams-robert</person-id>
@@ -1453,7 +1454,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>br-1992-wats-01</id>
+            <id>br--wats-01</id>
             <person-id>watson-alexander-fletcher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1476,7 +1477,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>br-1999-atwo-01</id>
+            <id>br--atwo-01</id>
             <person-id>atwood-john-brian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1498,9 +1499,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
+        <chief>
+            <id>br--pile-01</id>
+            <person-id>pile-william-anderson</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>brazil</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination first rejected and then tabled by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -6,12 +6,6 @@
     <names>
         <singular>Director of the Bureau of Counterterrorism</singular>
         <plural>Directors of the Bureau of Counterterrorism</plural>
-        <alternate>Coordinator for Counter-Terrorism</alternate>
-        <alternate>Special Assistant to the Secretary of State and Coordinator of the Office for
-            Combating Terrorism</alternate>
-        <alternate>Director of the Office for Combating Terrorism</alternate>
-        <alternate>Ambassador at Large for Counter-Terrorism</alternate>
-        <alternate>Coordinator for Combatting Terrorism</alternate>
     </names>
     <start accuracy="yyyy">1976</start>
     <end accuracy="yyyy"/>
@@ -36,7 +30,7 @@
             <id>terr-1976-heck</id>
             <person-id>heck-louis-douglas</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1976-08-29</date>
                 <note/>
             </appointed>
@@ -59,7 +53,7 @@
             <id>terr-1977-isha</id>
             <person-id>isham-heyward</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1977-10-26</date>
                 <note/>
             </appointed>
@@ -81,7 +75,7 @@
             <id>terr-1978-quai</id>
             <person-id>quainton-anthony-cecil-eden</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1978-08-16</date>
                 <note/>
             </appointed>
@@ -103,7 +97,7 @@
             <id>terr-1982-sayr</id>
             <person-id>sayre-robert-marion</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1982-05-11</date>
                 <note/>
             </appointed>
@@ -125,7 +119,7 @@
             <id>terr-1984-oakl</id>
             <person-id>oakley-robert-bigger</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1984-09-10</date>
                 <note/>
             </appointed>
@@ -149,7 +143,7 @@
             <id>terr-1986-brem</id>
             <person-id>bremer-l-paul</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1986-10-16</date>
                 <note/>
             </appointed>
@@ -171,7 +165,7 @@
             <id>terr-1989-busb</id>
             <person-id>busby-morris-dempson</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1989-05-01</date>
                 <note/>
             </appointed>
@@ -197,7 +191,7 @@
             <id>terr-1991-burl</id>
             <person-id>burleigh-albert-peter</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1991-07-24</date>
                 <note/>
             </appointed>
@@ -221,7 +215,7 @@
             <id>terr-1994-wilc</id>
             <person-id>wilcox-philip-c</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1994-08-16</date>
                 <note/>
             </appointed>
@@ -243,7 +237,7 @@
             <id>terr-1995-ross</id>
             <person-id>ross-christopher-w-s</person-id>
             <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1998-03-30</date>
                 <note/>
             </appointed>
@@ -454,17 +448,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2017-08-22</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2020-10-06</last-modified-date>
+            <last-modified-date>2021-02-18</last-modified-date>
         </principal>
     </other-appointees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-18</last-modified-date>
 </principal-position>

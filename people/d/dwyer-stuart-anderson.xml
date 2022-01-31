@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>dwyer-stuart-anderson</id>
-    <old-ids>
-        <old-id>dwyer-stuart</old-id>
-    </old-ids>
     <persName>
         <surname>Dwyer</surname>
         <forename>Stuart Anderson</forename>
     </persName>
     <birth>1964</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>me</state-id>

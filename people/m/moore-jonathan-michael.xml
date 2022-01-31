@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>moore-jonathan-michael</id>
-    <old-ids>
-        <old-id>moore-jonathan-m</old-id>
-    </old-ids>
     <persName>
         <surname>Moore</surname>
         <forename>Jonathan Michael</forename>
     </persName>
     <birth>1966</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>ma</state-id>

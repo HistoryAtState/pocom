@@ -3,10 +3,8 @@
     <id>representative-to-usoarn</id>
     <category>international-organization</category>
     <names>
-        <singular>Ambassador Extraordinary and Plenipotentiary to the U.S. Office for Arms Reduction
-            Negotiations (Geneva)</singular>
-        <plural>Ambassadors Extraordinary and Plenipotentiary to the U.S. Office for Arms Reduction
-            Negotiations (Geneva)</plural>
+        <singular>Ambassador Extraordinary and Plenipotentiary to the U.S. Office for Arms Reduction Negotiations (Geneva)</singular>
+        <plural>Ambassadors Extraordinary and Plenipotentiary to the U.S. Office for Arms Reduction Negotiations (Geneva)</plural>
     </names>
     <description>
         <div>
@@ -26,12 +24,11 @@
                 <date/>
                 <note/>
             </started>
-            <ended subtype="see-note">
+            <ended>
                 <date/>
                 <note/>
             </ended>
-            <note>Resigned as Chief of Mission, but continued to serve as head of the U.S.
-                Delegation until January 20, 1989.</note>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -53,6 +50,7 @@
                 <date>1991-03-31</date>
                 <note/>
             </ended>
+            <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -60,8 +58,4 @@
         </chief>
     </chiefs>
     <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </org-mission>

@@ -150,9 +150,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1836-09-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1836-09-02</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1837-08-05</date>
                 <note>Left post on</note>
@@ -191,7 +195,7 @@
             <person-id>cambreleng-churchill-caldom</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1840-05-25</date>
                 <note>Commission not of record; letter of credence issued on</note>
             </appointed>
@@ -464,7 +468,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ru-1872-orr-01</id>
+            <id>ru-1872-orr--01</id>
             <person-id>orr-james-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -727,7 +731,7 @@
                 <date>1894-07-20</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1894-11-01</date>
                 <note>Officially recognized on</note>
             </started>
@@ -975,7 +979,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>ru-1919-cole-01</id>
+            <id>ru--cole-01</id>
             <person-id>cole-felix</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1301,7 +1305,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>ru-1973-dubs-01</id>
+            <id>ru--dubs-01</id>
             <person-id>dubs-adolph</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1310,11 +1314,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1973-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1973-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1974-03</date>
+                <date>1974-03-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1632,24 +1640,24 @@
             <contemporary-territory-id>russia</contemporary-territory-id>
             <appointed>
                 <date>2017-09-29</date>
-                <note></note>
+                <note/>
             </appointed>
-            <arrived>
-                <date>2017-10-02</date>
-                <note></note>
-            </arrived>
             <started>
                 <date>2017-10-02</date>
-                <note></note>
+                <note/>
             </started>
+            <arrived>
+                <date>2017-10-02</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-10-03</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-22</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
         <chief>
@@ -1659,24 +1667,24 @@
             <contemporary-territory-id>russia</contemporary-territory-id>
             <appointed>
                 <date>2019-12-20</date>
-                <note></note>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2020-01-16</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2019-12-30</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-17</last-modified-date>
         </chief>
     </chiefs>
@@ -1800,6 +1808,53 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>ru-1889-rice-01</id>
+            <person-id>rice-charles-allen-thorndike</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date>1889-03-30</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but died in the United States before proceeding to
+                post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ru-1914-pind-01</id>
+            <person-id>pindell-henry-means</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>russia</contemporary-territory-id>
+            <appointed>
+                <date>1914-01-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>ru--daws-01</id>
             <person-id>dawson-john-littleton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1891,56 +1946,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1889-rice-01</id>
-            <person-id>rice-charles-allen-thorndike</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date>1889-03-30</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but died in the United States before proceeding to
-                post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ru-1914-pind-01</id>
-            <person-id>pindell-henry-means</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed>
-                <date>1914-01-27</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

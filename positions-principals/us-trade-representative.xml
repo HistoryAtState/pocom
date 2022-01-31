@@ -6,7 +6,6 @@
     <names>
         <singular>U.S. Trade Representative</singular>
         <plural>U.S. Trade Representatives</plural>
-        <alternate>Special Representative for Trade Negotiations</alternate>
     </names>
     <start accuracy="yyyy">1962</start>
     <end accuracy="yyyy">1997</end>
@@ -260,14 +259,14 @@
                 <date>1993-09-21</date>
                 <note/>
             </appointed>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
             <started>
                 <date>1993-01-22</date>
                 <note/>
             </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
@@ -298,8 +297,4 @@
         </principal>
     </principals>
     <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-18</last-modified-date>
 </principal-position>

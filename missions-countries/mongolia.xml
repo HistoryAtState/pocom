@@ -3,7 +3,7 @@
     <territory-id>mongolia</territory-id>
     <chiefs>
         <chief>
-            <id>mn-1988-mann-01</id>
+            <id>mo--mann-01</id>
             <person-id>mann-steven-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1988-04-17</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1988-04-17</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mn-1988-will-01</id>
+            <id>mo-1988-will-01</id>
             <person-id>williams-richard-llewellen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mn-1990-lake-01</id>
+            <id>mo-1990-lake-01</id>
             <person-id>lake-joseph-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -72,7 +76,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mn-1993-john-01</id>
+            <id>mo-1993-john-01</id>
             <person-id>johnson-donald-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -95,7 +99,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mn-1996-hedg-01</id>
+            <id>mo--hedg-01</id>
             <person-id>hedgbeth-llewellyn-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -104,11 +108,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1996-08</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1996-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1997-12</date>
+                <date>1997-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -118,7 +126,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mn-1997-la-01</id>
+            <id>mo-1997-la-p-01</id>
             <person-id>la-porta-alphonse-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -141,7 +149,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mn-2000-ding-01</id>
+            <id>mo-2000-ding-01</id>
             <person-id>dinger-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -164,7 +172,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mn-2003-slut-01</id>
+            <id>mo-2003-slut-01</id>
             <person-id>slutz-pamela-jo-howell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -187,7 +195,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>mn-2006-mint-01</id>
+            <id>mo-2006-mint-01</id>
             <person-id>minton-mark-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -210,7 +218,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>mn-2009-addl-01</id>
+            <id>mo-2009-addl-01</id>
             <person-id>addleton-jonathan-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -233,7 +241,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>mn-2012-camp-01</id>
+            <id>mo-2012-camp-01</id>
             <person-id>campbell-piper-anne-wind</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -256,7 +264,7 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>mn-2015-galt-01</id>
+            <id>mo-2015-galt-01</id>
             <person-id>galt-jennifer-zimdahl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -279,7 +287,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>mn-2017-mica-01</id>
+            <id>mo--mica-01</id>
             <person-id>micaller-manuel-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -288,9 +296,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2017-11-10</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-11-10</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-02-19</date>
                 <note/>
@@ -302,7 +314,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>mn-2019-klec-01</id>
+            <id>mo-2019-klec-01</id>
             <person-id>klecheski-michael-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mongolia</contemporary-territory-id>
@@ -310,14 +322,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-02-19</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-02-22</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-02-19</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -330,8 +342,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

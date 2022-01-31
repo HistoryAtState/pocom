@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>goldrich-ethan-aaron</id>
-    <old-ids>
-        <old-id>goldrich-ethan-a</old-id>
-    </old-ids>
     <persName>
         <surname>Goldrich</surname>
         <forename>Ethan Aaron</forename>
     </persName>
     <birth>1966</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>md</state-id>

@@ -3,7 +3,7 @@
     <territory-id>holy-see</territory-id>
     <chiefs>
         <chief>
-            <id>va-1848-mart-01</id>
+            <id>ho-1848-mart-01</id>
             <person-id>martin-jacob-l</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1848-08-19</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1848-08-19</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1848-08-26</date>
                 <note>Died at post on</note>
@@ -26,7 +30,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>va-1849-cass-01</id>
+            <id>ho-1849-cass-01</id>
             <person-id>cass-lewis-jr</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -35,9 +39,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1849-11-19</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1849-11-19</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1854-11-09</date>
                 <note>Promoted to Minister Resident</note>
@@ -49,7 +57,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1854-cass-01</id>
+            <id>ho-1854-cass-01</id>
             <person-id>cass-lewis-jr</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -72,7 +80,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>va-1858-stoc-01</id>
+            <id>ho-1858-stoc-01</id>
             <person-id>stockton-john-potter</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -95,7 +103,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>va-1861-rand-01</id>
+            <id>ho-1861-rand-01</id>
             <person-id>randall-alexander-williams</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -118,7 +126,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>va-1862-blat-01</id>
+            <id>ho-1862-blat-01</id>
             <person-id>blatchford-richard-milford</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -142,7 +150,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1863-king-01</id>
+            <id>ho-1863-king-01</id>
             <person-id>king-rufus2</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -166,7 +174,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1939-tayl-01</id>
+            <id>ho--tayl-01</id>
             <person-id>taylor-myron-charles</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -189,18 +197,22 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1941-titt-01</id>
+            <id>ho--titt-01</id>
             <person-id>tittmann-harold-hilgard</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
-            <appointed subtype="see-note">
+            <appointed>
                 <date/>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
-                <date>1941-12-29</date>
+            <started>
+                <date/>
                 <note>Received by the Pope in private audience on</note>
             </started>
+            <arrived>
+                <date>1941-12-29</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1944-07-08</date>
                 <note>Left Vatican City</note>
@@ -215,7 +227,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1970-lodg-01</id>
+            <id>ho--lodg-01</id>
             <person-id>lodge-henry-cabot</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -238,7 +250,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1977-walt-01</id>
+            <id>ho--walt-01</id>
             <person-id>walters-david</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -261,7 +273,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1978-wagn-01</id>
+            <id>ho--wagn-01</id>
             <person-id>wagner-robert-ferdinand</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -284,7 +296,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1981-wils-01</id>
+            <id>ho--wils-01</id>
             <person-id>wilson-william-a</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -307,7 +319,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1984-wils-01</id>
+            <id>ho-1984-wils-01</id>
             <person-id>wilson-william-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -330,7 +342,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1986-shak-01</id>
+            <id>ho-1986-shak-01</id>
             <person-id>shakespeare-frank-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -353,7 +365,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>va-1989-mela-01</id>
+            <id>ho-1989-mela-01</id>
             <person-id>melady-thomas-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -376,7 +388,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>va-1993-flyn-01</id>
+            <id>ho-1993-flyn-01</id>
             <person-id>flynn-raymond-leo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -399,7 +411,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>va-1997-bogg-01</id>
+            <id>ho-1997-bogg-01</id>
             <person-id>boggs-corinne-clairborne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -422,7 +434,7 @@
             <last-modified-date>2013-08-06</last-modified-date>
         </chief>
         <chief>
-            <id>va-2001-nich-01</id>
+            <id>ho-2001-nich-01</id>
             <person-id>nicholson-james-jim</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -445,7 +457,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>va-2005-roon-01</id>
+            <id>ho-2005-roon-01</id>
             <person-id>rooney-laurence-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -468,7 +480,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-2007-glen-01</id>
+            <id>ho-2007-glen-01</id>
             <person-id>glendon-mary-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -491,7 +503,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>va-2009-diaz-01</id>
+            <id>ho-2009-diaz-01</id>
             <person-id>diaz-miguel-humberto</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -514,7 +526,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>va-2013-hack-01</id>
+            <id>ho-2013-hack-01</id>
             <person-id>hackett-kenneth-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -537,7 +549,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>va-2017-ging-01</id>
+            <id>ho-2017-ging-01</id>
             <person-id>gingrich-callista-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -545,14 +557,14 @@
                 <date>2017-10-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-11-03</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-12-22</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-11-03</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2021-01-20</date>
                 <note/>
@@ -566,7 +578,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>va-1856-cass-01</id>
+            <id>ho--cass-01</id>
             <person-id>cass-lewis-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -590,7 +602,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1861-king-01</id>
+            <id>ho-1861-king-01</id>
             <person-id>king-rufus2</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -613,31 +625,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>va--arms-01</id>
-            <person-id>armstrong-david</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>holy-see</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; letter of credence dated April 30, 1869, but later
-                cancelled.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-11</last-modified-date>
-        </chief>
-        <chief>
-            <id>va-1951-clar-01</id>
+            <id>ho--clar-01</id>
             <person-id>clark-mark-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -660,9 +648,29 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
+        <chief>
+            <id>ho--arms-01</id>
+            <person-id>armstrong-david</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>holy-see</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; letter of credence dated April 30, 1869, but later
+                cancelled.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-11</last-modified-date>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

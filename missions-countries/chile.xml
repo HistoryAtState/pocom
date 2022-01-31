@@ -3,7 +3,7 @@
     <territory-id>chile</territory-id>
     <chiefs>
         <chief>
-            <id>cl-1823-alle-01</id>
+            <id>ch-1823-alle-01</id>
             <person-id>allen-heman</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -26,7 +26,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1828-larn-01</id>
+            <id>ch-1828-larn-01</id>
             <person-id>larned-samuel</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -35,9 +35,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1828-11-09</date>
+                <date/>
                 <note>On or before</note>
             </started>
+            <arrived>
+                <date>1828-11-09</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1829-10-29</date>
                 <note>Left Chile</note>
@@ -49,7 +53,7 @@
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1830-hamm-01</id>
+            <id>ch-1830-hamm-01</id>
             <person-id>hamm-john</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -58,9 +62,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1831-05-24</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1831-05-24</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1833-10-19</date>
                 <note>Presented recall on</note>
@@ -72,7 +80,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1834-poll-01</id>
+            <id>ch-1834-poll-01</id>
             <person-id>pollard-richard</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -81,9 +89,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1835-03-13</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1835-03-13</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1842-05-12</date>
                 <note>Requested passports from Valparaiso</note>
@@ -95,7 +107,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1841-pend-01</id>
+            <id>ch-1841-pend-01</id>
             <person-id>pendleton-john-strother</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -104,9 +116,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1842-05-24</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1842-05-24</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1844-06-06</date>
                 <note>Left Chile soon after</note>
@@ -118,7 +134,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1844-crum-01</id>
+            <id>ch-1844-crum-01</id>
             <person-id>crump-william-wood</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -127,9 +143,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1845-08-18</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1845-08-18</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1847-11-01</date>
                 <note>Left Chile</note>
@@ -141,7 +161,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1847-bart-01</id>
+            <id>ch-1847-bart-01</id>
             <person-id>barton-seth</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -150,9 +170,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1848-01-05</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1848-01-05</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1849-05-22</date>
                 <note>Left post on</note>
@@ -165,7 +189,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1849-peyt-01</id>
+            <id>ch-1849-peyt-01</id>
             <person-id>peyton-balie</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -189,7 +213,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1854-star-01</id>
+            <id>ch-1854-star-01</id>
             <person-id>starkweather-david-austin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -212,7 +236,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1857-bigl-01</id>
+            <id>ch-1857-bigl-01</id>
             <person-id>bigler-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -236,7 +260,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1861-nels-01</id>
+            <id>ch-1861-nels-01</id>
             <person-id>nelson-thomas-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -260,7 +284,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1865-kilp-01</id>
+            <id>ch-1865-kilp-01</id>
             <person-id>kilpatrick-hugh-judson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -284,7 +308,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1870-root-01</id>
+            <id>ch-1870-root-01</id>
             <person-id>root-joseph-pomeroy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -308,7 +332,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1873-loga-01</id>
+            <id>ch-1873-loga-01</id>
             <person-id>logan-cornelius-ambrose</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -331,7 +355,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1877-osbo-01</id>
+            <id>ch-1877-osbo-01</id>
             <person-id>osborn-thomas-andrew</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -355,7 +379,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1881-kilp-01</id>
+            <id>ch-1881-kilp-01</id>
             <person-id>kilpatrick-hugh-judson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -378,7 +402,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1882-loga-01</id>
+            <id>ch-1882-loga-01</id>
             <person-id>logan-cornelius-ambrose</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -401,7 +425,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1885-robe-01</id>
+            <id>ch-1885-robe-01</id>
             <person-id>roberts-william-randall</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -424,7 +448,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1889-egan-01</id>
+            <id>ch-1889-egan-01</id>
             <person-id>egan-patrick</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -447,7 +471,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1893-port-01</id>
+            <id>ch-1893-port-01</id>
             <person-id>porter-james-davis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -470,7 +494,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1894-stro-01</id>
+            <id>ch-1894-stro-01</id>
             <person-id>strobel-edward-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -493,7 +517,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1897-wils-01</id>
+            <id>ch-1897-wils-01</id>
             <person-id>wilson-henry-lane</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -516,7 +540,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1905-hick-01</id>
+            <id>ch-1905-hick-01</id>
             <person-id>hicks-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -540,7 +564,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1909-daws-01</id>
+            <id>ch-1909-daws-01</id>
             <person-id>dawson-thomas-cleland</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -563,7 +587,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1909-flet-01</id>
+            <id>ch-1909-flet-01</id>
             <person-id>fletcher-henry-prather</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -586,7 +610,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1914-flet-01</id>
+            <id>ch-1914-flet-01</id>
             <person-id>fletcher-henry-prather</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -609,7 +633,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1916-shea-01</id>
+            <id>ch-1916-shea-01</id>
             <person-id>shea-joseph-hooker</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -632,7 +656,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1921-coll-01</id>
+            <id>ch-1921-coll-01</id>
             <person-id>collier-william-miller</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -655,7 +679,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1928-culb-01</id>
+            <id>ch-1928-culb-01</id>
             <person-id>culbertson-william-smith</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -679,7 +703,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1933-sevi-01</id>
+            <id>ch-1933-sevi-01</id>
             <person-id>sevier-henry-hulme</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -703,7 +727,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1935-phil-01</id>
+            <id>ch-1935-phil-01</id>
             <person-id>philip-hoffman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -726,7 +750,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1938-armo-01</id>
+            <id>ch-1938-armo-01</id>
             <person-id>armour-norman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -749,7 +773,7 @@
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1939-bowe-01</id>
+            <id>ch-1939-bowe-01</id>
             <person-id>bowers-claude-gernade</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -772,7 +796,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1953-beau-01</id>
+            <id>ch-1953-beau-01</id>
             <person-id>beaulac-willard-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -796,7 +820,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1956-lyon-01</id>
+            <id>ch-1956-lyon-01</id>
             <person-id>lyon-cecil-burton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -819,7 +843,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1958-howe-01</id>
+            <id>ch-1958-howe-01</id>
             <person-id>howe-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -842,7 +866,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1961-wood-01</id>
+            <id>ch-1961-wood-01</id>
             <person-id>woodward-robert-forbes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -865,7 +889,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1961-cole-01</id>
+            <id>ch-1961-cole-01</id>
             <person-id>cole-charles-woolsey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -888,7 +912,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1964-dung-01</id>
+            <id>ch-1964-dung-01</id>
             <person-id>dungan-ralph-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -912,7 +936,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1967-korr-01</id>
+            <id>ch-1967-korr-01</id>
             <person-id>korry-edward-malcolm</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -935,7 +959,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1971-davi-01</id>
+            <id>ch-1971-davi-01</id>
             <person-id>davis-nathaniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -954,11 +978,11 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowski</last-modified-by>
+            <last-modified-by>admin</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1973-popp-01</id>
+            <id>ch-1973-popp-01</id>
             <person-id>popper-david-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -981,7 +1005,7 @@
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1977-land-01</id>
+            <id>ch-1977-land-01</id>
             <person-id>landau-george-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1004,7 +1028,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1982-theb-01</id>
+            <id>ch-1982-theb-01</id>
             <person-id>theberge-james-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1027,7 +1051,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1985-barn-01</id>
+            <id>ch-1985-barn-01</id>
             <person-id>barnes-harry-george-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1050,7 +1074,7 @@
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1988-gill-01</id>
+            <id>ch-1988-gill-01</id>
             <person-id>gillespie-charles-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1073,7 +1097,7 @@
             <last-modified-date>2013-04-09</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1991-kamm-01</id>
+            <id>ch-1991-kamm-01</id>
             <person-id>kamman-curtis-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1096,7 +1120,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1994-guer-01</id>
+            <id>ch-1994-guer-01</id>
             <person-id>guerra-mondragon-gabrial</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1119,7 +1143,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-1998-olea-01</id>
+            <id>ch-1998-olea-01</id>
             <person-id>oleary-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1142,7 +1166,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-2002-brow-01</id>
+            <id>ch-2002-brow-01</id>
             <person-id>brownfield-william-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1165,7 +1189,7 @@
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
         <chief>
-            <id>cl-2004-kell-01</id>
+            <id>ch-2004-kell-01</id>
             <person-id>kelly-craig-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1188,7 +1212,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-2007-simo-01</id>
+            <id>ch-2007-simo-01</id>
             <person-id>simons-paul-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1211,7 +1235,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>cl-2010-wolf-01</id>
+            <id>ch-2010-wolf-01</id>
             <person-id>wolff-alejandro-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1234,7 +1258,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>cl-2014-hamm-01</id>
+            <id>ch-2014-hamm-01</id>
             <person-id>hammer-michael-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1257,7 +1281,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>cl-2016-pere-01</id>
+            <id>ch-2016-pere-01</id>
             <person-id>perez-carol-z</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1265,14 +1289,14 @@
                 <date>2016-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2016-10-13</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-11-11</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-10-13</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-01-25</date>
                 <note/>
@@ -1284,22 +1308,22 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>cl-2019-hunt-01</id>
+            <id>ch--hunt-01</id>
             <person-id>hunt-baxter</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2019-01-24</date>
                 <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note/>
-            </started>
             <ended>
                 <date>2020-08-10</date>
                 <note/>
@@ -1313,7 +1337,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>cl-1853-meda-01</id>
+            <id>ch-1853-meda-01</id>
             <person-id>medary-samuel</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1337,30 +1361,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl--dent-01</id>
-            <person-id>dent-lewis-louis</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>chile</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination not confirmed by Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>cl-1902-jack-01</id>
+            <id>ch-1902-jack-01</id>
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1383,7 +1384,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl-2018-gell-01</id>
+            <id>ch--gell-01</id>
             <person-id>gellert-andrew-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1405,9 +1406,51 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-29</last-modified-date>
         </chief>
+        <chief>
+            <id>ch--levy-01</id>
+            <person-id>levy-leora-rosenberg</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>chile</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of October 15, 2019 and renomination of May 4, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+        <chief>
+            <id>ch--dent-01</id>
+            <person-id>dent-lewis-louis</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>chile</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination not confirmed by Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

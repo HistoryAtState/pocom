@@ -3,7 +3,7 @@
     <territory-id>grenada</territory-id>
     <chiefs>
         <chief>
-            <id>gd-1974-brit-01</id>
+            <id>gr-1974-brit-01</id>
             <person-id>britton-theodore-roosevelt</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -26,7 +26,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-1977-orti-01</id>
+            <id>gr-1977-orti-01</id>
             <person-id>ortiz-francis-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -50,7 +50,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-1979-shel-01</id>
+            <id>gr-1979-shel-01</id>
             <person-id>shelton-sally-angela</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -73,15 +73,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-10-24</last-modified-date>
         </chief>
-        <mission-note>
-            <text>Embassy St. Georges was established on February 2, 1984.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-11-12</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-12</last-modified-date>
-        </mission-note>
         <chief>
-            <id>gd-1984-gill-01</id>
+            <id>gr--gill-01</id>
             <person-id>gillespie-charles-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -90,9 +83,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1984-02-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1984-02-02</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -103,8 +100,15 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy St. Georges was established on February 2, 1984.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-12</last-modified-date>
+        </mission-note>
         <chief>
-            <id>gd-1984-have-01</id>
+            <id>gr--have-01</id>
             <person-id>haverkamp-roy-t</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -113,11 +117,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1984-12</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1984-12-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1986-03</date>
+                <date>1986-03-01</date>
                 <note/>
             </ended>
             <note/>
@@ -127,7 +135,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-1986-lear-01</id>
+            <id>gr--lear-01</id>
             <person-id>leary-john-charles</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -136,11 +144,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1986-03</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1986-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1988-05</date>
+                <date>1988-05-01</date>
                 <note/>
             </ended>
             <note/>
@@ -158,7 +170,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </mission-note>
         <chief>
-            <id>gd-1988-coop-01</id>
+            <id>gr--coop-01</id>
             <person-id>cooper-james-ford</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -167,11 +179,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1988-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1988-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1991-01</date>
+                <date>1991-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -181,7 +197,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-1991-vele-01</id>
+            <id>gr--vele-01</id>
             <person-id>veler-annette-t</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -190,11 +206,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1991-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1991-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1993-07</date>
+                <date>1993-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -204,7 +224,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-1993-ande-01</id>
+            <id>gr--ande-01</id>
             <person-id>anderson-ollie-palmer-jr</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -213,11 +233,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1993-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1993-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1994-09</date>
+                <date>1994-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -227,7 +251,7 @@
             <last-modified-date>2017-04-17</last-modified-date>
         </chief>
         <chief>
-            <id>gd-1995-hyde-01</id>
+            <id>gr-1995-hyde-01</id>
             <person-id>hyde-jeanette-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -250,7 +274,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-1998-crot-01</id>
+            <id>gr-1998-crot-01</id>
             <person-id>crotty-e-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -273,7 +297,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-2000-dale-01</id>
+            <id>gr-2000-dale-01</id>
             <person-id>daley-james-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -297,7 +321,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-2002-phil-01</id>
+            <id>gr-2002-phil-01</id>
             <person-id>phillips-earl-norfleet</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -320,7 +344,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-2003-kram-01</id>
+            <id>gr-2003-kram-01</id>
             <person-id>kramer-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -343,7 +367,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-2006-ouri-01</id>
+            <id>gr-2006-ouri-01</id>
             <person-id>ourisman-mary-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -366,7 +390,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-2009-hard-01</id>
+            <id>gr--hard-01</id>
             <person-id>hardt-d-brent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -375,11 +399,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2009-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2009-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2011-06</date>
+                <date>2011-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -389,7 +417,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>gd-2012-palm-01</id>
+            <id>gr-2012-palm-01</id>
             <person-id>palmer-larry-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -412,7 +440,7 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>gd-2015-tagl-01</id>
+            <id>gr-2015-tagl-01</id>
             <person-id>taglialatela-linda-swartz</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>grenada</contemporary-territory-id>
@@ -435,9 +463,29 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
+    <other-nominees>
+        <chief>
+            <id>gr--rizz-01</id>
+            <person-id>rizzuto-leandro</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>grenada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of January 8, 2018 and renomination of January 16, 2019 returned to the president on January 3, 2020.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+    </other-nominees>
 </country-mission>

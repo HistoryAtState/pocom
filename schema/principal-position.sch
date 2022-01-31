@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
-    xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
+<schema xmlns="http://purl.oclc.org/dsdl/schematron" xmlns:sqf="http://www.schematron-quickfix.com/validator/process" queryBinding="xslt2">
     <pattern>
         <rule context="principal-position/id">
             <let name="basename" value="replace(base-uri(.), '^.*/(.*?)$', '$1')"/>
@@ -16,7 +15,8 @@
                 “<value-of select="."/>” should take the form xxxx-yyyy-xxxx, where x is a lower case letter and y is a digit</assert>
             <let name="principal-position-id" value="root(.)/principal-position/id"/>
             <let name="expected-truncation" value="substring(tokenize($principal-position-id, '-')[last()], 1, 4)"/>
-            <assert test="tokenize(., '-')[1] = $expected-truncation">The first portion of the id should be <value-of select="$expected-truncation"/></assert>
+            <assert test="tokenize(., '-')[1] = $expected-truncation">The first portion of the id should be <value-of select="$expected-truncation"/>
+            </assert>
             <assert test="not(../date[. ne '']) or tokenize(., '-')[2] = substring(subsequence(..//date[. ne ''], 1, 1), 1, 4)">The second portion of the id should be the year portion of the first date in the record</assert>
             <assert test="tokenize(., '-')[3] = substring(tokenize(./following-sibling::person-id, '-')[1], 1, 4)">The third portion of the id should be the first (up to) four letters of the surname portion of a person's ID, e.g., “<value-of select="substring(tokenize(./following-sibling::person-id, '-')[1], 1, 4)"/>”</assert>
         </rule>

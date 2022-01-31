@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1848-08-12</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1848-08-12</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1849-11-12</date>
                 <note>Transmitted recall by note</note>
@@ -26,7 +30,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ec-1849-van-01</id>
+            <id>ec-1849-van--01</id>
             <person-id>van-alen-john-trumbull</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -35,9 +39,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1849-11-19</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1849-11-19</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1850-07-18</date>
                 <note>Left Ecuador on or soon after</note>
@@ -59,9 +67,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1851-06-03</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1851-06-03</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1853-10-12</date>
                 <note>Transmitted recall by note</note>
@@ -82,9 +94,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1853-12-27</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1853-12-27</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1854-09-02</date>
                 <note>Promoted to Minister Resident</note>
@@ -330,7 +346,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>ec-1905-lee-01</id>
+            <id>ec-1905-lee--01</id>
             <person-id>lee-joseph-wilcox-jenkins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -354,7 +370,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>ec-1907-fox-01</id>
+            <id>ec-1907-fox--01</id>
             <person-id>fox-williams-carlton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -931,7 +947,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ec-1992-mack-01</id>
+            <id>ec--mack-01</id>
             <person-id>mack-james-f</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -940,11 +956,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1992-02</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1992-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1993-11</date>
+                <date>1993-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1083,8 +1103,7 @@
             </started>
             <ended>
                 <date>2011-04-06</date>
-                <note>Declared <hi rend="italic">persona non grata</hi> by the Government of
-                    Ecuador</note>
+                <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -1147,14 +1166,14 @@
                 <date>2019-05-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-06-19</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-07-03</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-06-19</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -1168,7 +1187,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ec-1856-whit-01</id>
+            <id>ec--whit-01</id>
             <person-id>white-philo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1189,6 +1208,122 @@
             <created-date>2015-12-31</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>ec-1869-nunn-01</id>
+            <person-id>nunn-david-alexander</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>ecuador</contemporary-territory-id>
+            <appointed>
+                <date>1869-04-21</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-12-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>ec-1875-bidd-01</id>
+            <person-id>biddle-thomas</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>ecuador</contemporary-territory-id>
+            <appointed>
+                <date>1875-02-02</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Died at Guayaquil on May 7, 1875, before his official reception.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>ec-1930-gunt-01</id>
+            <person-id>gunther-franklin-mott</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>ecuador</contemporary-territory-id>
+            <appointed>
+                <date>1930-01-22</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ec-1960-karr-01</id>
+            <person-id>karrick-david-brewer</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>ecuador</contemporary-territory-id>
+            <appointed>
+                <date>1960-07-16</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned during a recess of the Senate. Took oath of office, but died in the
+                United States before proceeding to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-12-31</last-modified-date>
+        </chief>
+        <chief>
+            <id>ec--ligh-01</id>
+            <person-id>light-walter-scott</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>ecuador</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of July 25, 1992, not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
             <id>ec--hubb-01</id>
@@ -1283,29 +1418,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ec-1869-nunn-01</id>
-            <person-id>nunn-david-alexander</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>ecuador</contemporary-territory-id>
-            <appointed>
-                <date>1869-04-21</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-12-29</last-modified-date>
-        </chief>
-        <chief>
             <id>ec--mane-01</id>
             <person-id>maney-george-earl</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -1328,102 +1440,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1875-bidd-01</id>
-            <person-id>biddle-thomas</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>ecuador</contemporary-territory-id>
-            <appointed>
-                <date>1875-02-02</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Died at Guayaquil on May 7, 1875, before his official reception.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-12-31</last-modified-date>
-        </chief>
-        <chief>
-            <id>ec-1930-gunt-01</id>
-            <person-id>gunther-franklin-mott</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>ecuador</contemporary-territory-id>
-            <appointed>
-                <date>1930-01-22</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ec-1960-karr-01</id>
-            <person-id>karrick-david-brewer</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>ecuador</contemporary-territory-id>
-            <appointed>
-                <date>1960-07-16</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned during a recess of the Senate. Took oath of office, but died in the
-                United States before proceeding to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-12-31</last-modified-date>
-        </chief>
-        <chief>
-            <id>ec-1992-ligh-01</id>
-            <person-id>light-walter-scott</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>ecuador</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of July 25, 1992, not acted upon by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-12-30</last-modified-date>
-        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

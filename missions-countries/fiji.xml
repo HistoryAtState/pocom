@@ -3,7 +3,7 @@
     <territory-id>fiji</territory-id>
     <chiefs>
         <chief>
-            <id>fj-1971-skif-01</id>
+            <id>fi--skif-01</id>
             <person-id>skiff-robert-woltz</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1971-11-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1971-11-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1972-fran-01</id>
+            <id>fi-1972-fran-01</id>
             <person-id>franzheim-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1972-wood-01</id>
+            <id>fi--wood-01</id>
             <person-id>wood-chalmers-benedict</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -58,11 +62,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1972-11</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1972-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1974-04</date>
+                <date>1974-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -72,7 +80,7 @@
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1974-seld-01</id>
+            <id>fi-1974-seld-01</id>
             <person-id>selden-armistead-inge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -95,7 +103,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1978-cond-01</id>
+            <id>fi-1978-cond-01</id>
             <person-id>condon-john-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -118,7 +126,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1980-bodd-01</id>
+            <id>fi-1980-bodd-01</id>
             <person-id>bodde-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -141,7 +149,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1982-ecke-01</id>
+            <id>fi-1982-ecke-01</id>
             <person-id>eckert-fred-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -164,7 +172,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1984-dill-01</id>
+            <id>fi-1984-dill-01</id>
             <person-id>dillery-carl-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -187,7 +195,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1987-roch-01</id>
+            <id>fi-1987-roch-01</id>
             <person-id>rochwarger-leonard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -210,7 +218,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1989-teeg-01</id>
+            <id>fi-1989-teeg-01</id>
             <person-id>teegan-evelyn-irene-hoopes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -233,7 +241,7 @@
             <last-modified-date>2015-11-25</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1993-mari-01</id>
+            <id>fi--mari-01</id>
             <person-id>marine-michael-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -242,11 +250,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1993-03</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1993-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1995-06</date>
+                <date>1995-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -256,7 +268,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1995-gevi-01</id>
+            <id>fi-1995-gevi-01</id>
             <person-id>gevirtz-don-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -279,7 +291,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-1999-sidd-01</id>
+            <id>fi-1999-sidd-01</id>
             <person-id>siddique-m-osman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -302,7 +314,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-2001-mcmu-01</id>
+            <id>fi--mcmu-01</id>
             <person-id>mcmullen-ronald-keith</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -311,11 +323,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2001-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2001-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2002-06</date>
+                <date>2002-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -325,7 +341,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>fj-2002-lyon-01</id>
+            <id>fi-2002-lyon-01</id>
             <person-id>lyon-david-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -348,7 +364,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-2005-ding-01</id>
+            <id>fi-2005-ding-01</id>
             <person-id>dinger-larry-miles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -371,7 +387,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-2008-mcga-01</id>
+            <id>fi-2008-mcga-01</id>
             <person-id>mcgann-c-steven</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -394,7 +410,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-2011-reed-01</id>
+            <id>fi-2011-reed-01</id>
             <person-id>reed-frankie-annette</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -417,7 +433,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>fj-2014-cefk-01</id>
+            <id>fi-2014-cefk-01</id>
             <person-id>cefkin-judith-beth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -440,7 +456,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>fj-2018-gold-01</id>
+            <id>fi--gold-01</id>
             <person-id>goldman-michael-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -449,9 +465,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2018-02-25</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-02-25</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-12-16</date>
                 <note/>
@@ -463,36 +483,36 @@
             <last-modified-date>2019-12-19</last-modified-date>
         </chief>
         <chief>
-            <id>fj-2019-cell-01</id>
+            <id>fi-2019-cell-01</id>
             <person-id>cella-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
             <appointed>
                 <date>2019-09-26</date>
-                <note></note>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2019-12-16</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date>2021-01-20</date>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-12-19</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>fj-1973-farl-01</id>
+            <id>fi--farl-01</id>
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>fiji</contemporary-territory-id>
@@ -516,8 +536,4 @@
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

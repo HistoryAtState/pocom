@@ -3,7 +3,7 @@
     <territory-id>uganda</territory-id>
     <chiefs>
         <chief>
-            <id>ug-1962-demi-01</id>
+            <id>ug--demi-01</id>
             <person-id>deming-olcott-hawthorne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1962-11-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1962-11-09</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -120,7 +124,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>ug-1973-keel-01</id>
+            <id>ug--keel-01</id>
             <person-id>keeley-robert-vossler</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -143,7 +147,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>ug-1979-hals-01</id>
+            <id>ug--hals-01</id>
             <person-id>halsted-david-crane</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -152,9 +156,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1979-06-18</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1979-06-18</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -448,24 +456,20 @@
             <contemporary-territory-id>uganda</contemporary-territory-id>
             <appointed>
                 <date>2015-12-18</date>
-                <note></note>
+                <note/>
             </appointed>
-            <arrived>
-                <date></date>
-                <note></note>
-            </arrived>
             <started>
                 <date>2016-02-27</date>
-                <note></note>
+                <note/>
             </started>
             <ended>
                 <date>2020-01-26</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-08-25</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-28</last-modified-date>
         </chief>
         <chief>
@@ -475,21 +479,21 @@
             <contemporary-territory-id>uganda</contemporary-territory-id>
             <appointed>
                 <date>2020-08-12</date>
-                <note></note>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2020-10-31</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>bottsjd</created-by>
             <created-date>2020-10-30</created-date>
             <last-modified-by>bottsjd</last-modified-by>
@@ -497,8 +501,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>namibia</territory-id>
     <chiefs>
         <chief>
-            <id>na-1990-mcgu-01</id>
+            <id>na--mcgu-01</id>
             <person-id>mcguire-roger-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1990-03-21</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1990-03-21</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1990-08-30</date>
                 <note/>
@@ -241,14 +245,14 @@
                 <date>2017-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-02-03</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-02-21</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-02-03</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -261,8 +265,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

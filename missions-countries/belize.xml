@@ -3,7 +3,7 @@
     <territory-id>belize</territory-id>
     <chiefs>
         <chief>
-            <id>bz-1983-barn-01</id>
+            <id>be--barn-01</id>
             <person-id>barnebey-malcolm-r</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1981-10-29</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1981-10-29</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1983-06-23</date>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
         <chief>
-            <id>bz-1983-barn-01</id>
+            <id>be-1983-barn-01</id>
             <person-id>barnebey-malcolm-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
         <chief>
-            <id>bz-1985-guth-01</id>
+            <id>be--guth-01</id>
             <person-id>guthrie-donald-keith</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -58,11 +62,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1985-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1985-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1987-09</date>
+                <date>1987-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -72,7 +80,7 @@
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
         <chief>
-            <id>bz-1987-rich-01</id>
+            <id>be-1987-rich-01</id>
             <person-id>rich-robert-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -95,7 +103,7 @@
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>bz-1990-scas-01</id>
+            <id>be-1990-scas-01</id>
             <person-id>scassa-eugene-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -118,7 +126,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>bz-1994-brun-01</id>
+            <id>be-1994-brun-01</id>
             <person-id>bruno-george-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -141,7 +149,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bz-1997-curi-01</id>
+            <id>be-1997-curi-01</id>
             <person-id>curiel-carolyn</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -164,7 +172,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bz-2001-free-01</id>
+            <id>be-2001-free-01</id>
             <person-id>freeman-russell-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -187,7 +195,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bz-2005-diet-01</id>
+            <id>be-2005-diet-01</id>
             <person-id>dieter-robert-johann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -210,7 +218,7 @@
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>bz-2009-thum-01</id>
+            <id>be-2009-thum-01</id>
             <person-id>thummalapally-vinai-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -233,7 +241,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>bz-2014-more-01</id>
+            <id>be-2014-more-01</id>
             <person-id>moreno-carlos-roberto</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -256,7 +264,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>bz-2017-gala-01</id>
+            <id>be--gala-01</id>
             <person-id>galanek-adrienne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -265,9 +273,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-01-20</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2018-07-21</date>
                 <note/>
@@ -279,36 +291,36 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>bz-2018-gilg-01</id>
+            <id>be--gilg-01</id>
             <person-id>gilges-keith-r</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
             <appointed>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2018-07-21</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2019-12-16</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-16</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>bz-1986-malo-01</id>
+            <id>be--malo-01</id>
             <person-id>malone-james-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -330,9 +342,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
+        <chief>
+            <id>be--baue-01</id>
+            <person-id>bauer-andre</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>belize</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of July 21, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

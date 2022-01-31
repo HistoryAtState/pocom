@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>jones-paul-wayne</id>
-    <old-ids>
-        <old-id>jones-paul-w</old-id>
-    </old-ids>
     <persName>
         <surname>Jones</surname>
         <forename>Paul Wayne</forename>
     </persName>
     <birth>1960</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
-        <state-id sort="1">ny</state-id>
+        <state-id>ny</state-id>
         <state-id>md</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>

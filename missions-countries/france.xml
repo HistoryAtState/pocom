@@ -170,11 +170,11 @@
             <person-id>russell-jonathan</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1810-11-05</date>
                 <note>Commission not of record, but enclosed with an instruction of</note>
             </appointed>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -320,9 +320,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1833-04-20</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1833-04-20</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1833-09-30</date>
                 <note>Superseded</note>
@@ -358,7 +362,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>fr-1835-bart-01</id>
+            <id>fr--bart-01</id>
             <person-id>barton-thomas-pennant</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -569,7 +573,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>fr-1866-dix-01</id>
+            <id>fr-1866-dix--01</id>
             <person-id>dix-john-adams</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -732,7 +736,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>fr-1893-eust-02</id>
+            <id>fr-1893-eust-01</id>
             <person-id>eustis-james-biddle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1032,7 +1036,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>fr-1942-tuck-01</id>
+            <id>fr--tuck-01</id>
             <person-id>tuck-somerville-pinkney</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1547,23 +1551,23 @@
                 <date>2017-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-12-14</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-12-18</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-12-14</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-31</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -1594,6 +1598,52 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
+            <id>fr-1801-baya-01</id>
+            <person-id>bayard-james-asheton</person-id>
+            <role-title-id>minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>france</contemporary-territory-id>
+            <appointed>
+                <date>1801-02-19</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>fr-1893-eust-01</id>
+            <person-id>eustis-james-biddle</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>france</contemporary-territory-id>
+            <appointed>
+                <date>1893-03-20</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post in this capacity.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>fr--murr-01</id>
             <person-id>murray-william-vans</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
@@ -1612,29 +1662,6 @@
             </ended>
             <note>Not commissioned; nomination superseded by a nomination of Murray and two others
                 to serve on a joint commission.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>fr-1801-baya-01</id>
-            <person-id>bayard-james-asheton</person-id>
-            <role-title-id>minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>france</contemporary-territory-id>
-            <appointed>
-                <date>1801-02-19</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1686,32 +1713,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1893-eust-01</id>
-            <person-id>eustis-james-biddle</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>france</contemporary-territory-id>
-            <appointed>
-                <date>1893-03-20</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post in this capacity.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

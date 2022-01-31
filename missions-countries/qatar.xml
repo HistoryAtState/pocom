@@ -349,28 +349,28 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>qa-2018-gran-01</id>
+            <id>qa--gran-01</id>
             <person-id>grant-william</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
             <appointed>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2018-08-01</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
                 <date>2020-03-02</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2019-12-16</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-03-06</last-modified-date>
@@ -378,7 +378,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>qa-2018-phee-01</id>
+            <id>qa--phee-01</id>
             <person-id>phee-mary-catherine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -400,9 +400,28 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
+        <chief>
+            <id>qa--wend-01</id>
+            <person-id>wendt-eric-p</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>qatar</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of September 22, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>samoa</territory-id>
     <chiefs>
         <chief>
-            <id>ws-1971-fran-01</id>
+            <id>sa-1971-fran-01</id>
             <person-id>franzheim-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -26,7 +26,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1972-wood-01</id>
+            <id>sa--wood-01</id>
             <person-id>wood-chalmers-benedict</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -35,11 +35,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1972-11</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1972-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1974-04</date>
+                <date>1974-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -49,7 +53,7 @@
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1974-seld-01</id>
+            <id>sa-1974-seld-01</id>
             <person-id>selden-armistead-inge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -72,7 +76,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1979-mart-01</id>
+            <id>sa-1979-mart-01</id>
             <person-id>martindell-anne-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -95,7 +99,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1981-brow-01</id>
+            <id>sa-1981-brow-01</id>
             <person-id>browne-h-monroe</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -118,7 +122,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1986-clev-01</id>
+            <id>sa-1986-clev-01</id>
             <person-id>cleveland-paul-matthews</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -143,7 +147,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1989-newm-01</id>
+            <id>sa-1989-newm-01</id>
             <person-id>newman-della-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -166,7 +170,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1994-beem-01</id>
+            <id>sa-1994-beem-01</id>
             <person-id>beeman-josiah-horton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -189,7 +193,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1999-mose-01</id>
+            <id>sa-1999-mose-01</id>
             <person-id>moseley-braun-carol</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -212,7 +216,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-2001-swin-01</id>
+            <id>sa-2001-swin-01</id>
             <person-id>swindells-charles-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -235,7 +239,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-2005-mcco-01</id>
+            <id>sa-2005-mcco-01</id>
             <person-id>mccormick-william-paul</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -258,7 +262,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-2009-hueb-01</id>
+            <id>sa-2009-hueb-01</id>
             <person-id>huebner-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -281,7 +285,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-2014-gilb-01</id>
+            <id>sa-2014-gilb-01</id>
             <person-id>gilbert-mark-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -304,7 +308,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-2017-brow-01</id>
+            <id>sa-2017-brow-01</id>
             <person-id>brown-scott-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -312,14 +316,14 @@
                 <date>2017-06-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-06-25</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-07-27</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-06-25</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -330,10 +334,33 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-30</last-modified-date>
         </chief>
+        <chief>
+            <id>sa-2021-udal-01</id>
+            <person-id>udall-tom</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>samoa</contemporary-territory-id>
+            <appointed>
+                <date>2021-10-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-12-08</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ws-1970-fran-01</id>
+            <id>sa--fran-01</id>
             <person-id>franzheim-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -356,7 +383,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1973-farl-01</id>
+            <id>sa--farl-01</id>
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -380,7 +407,7 @@
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1992-good-01</id>
+            <id>sa--good-01</id>
             <person-id>goodwin-robert-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -403,8 +430,4 @@
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

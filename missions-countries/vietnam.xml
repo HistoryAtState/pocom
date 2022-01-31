@@ -3,7 +3,7 @@
     <territory-id>vietnam</territory-id>
     <chiefs>
         <chief>
-            <id>vn-1995-ande-01</id>
+            <id>vi--ande-01</id>
             <person-id>anderson-l-desaix</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>vietnam</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1995-08-26</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1995-08-26</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1997-05-07</date>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2019-12-12</last-modified-date>
         </chief>
         <chief>
-            <id>vn-1997-pete-01</id>
+            <id>vi-1997-pete-01</id>
             <person-id>peterson-pete-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vietnam</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>vn-2001-burg-01</id>
+            <id>vi-2001-burg-01</id>
             <person-id>burghardt-raymond-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vietnam</contemporary-territory-id>
@@ -72,7 +76,7 @@
             <last-modified-date>2016-02-04</last-modified-date>
         </chief>
         <chief>
-            <id>vn-2004-mari-01</id>
+            <id>vi-2004-mari-01</id>
             <person-id>marine-michael-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vietnam</contemporary-territory-id>
@@ -95,7 +99,7 @@
             <last-modified-date>2013-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>vn-2007-mich-01</id>
+            <id>vi-2007-mich-01</id>
             <person-id>michalak-michael-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vietnam</contemporary-territory-id>
@@ -118,7 +122,7 @@
             <last-modified-date>2012-04-09</last-modified-date>
         </chief>
         <chief>
-            <id>vn-2011-shea-01</id>
+            <id>vi-2011-shea-01</id>
             <person-id>shear-david-bruce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vietnam</contemporary-territory-id>
@@ -141,7 +145,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>vn-2014-osiu-01</id>
+            <id>vi-2014-osiu-01</id>
             <person-id>osius-theodore-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vietnam</contemporary-territory-id>
@@ -164,7 +168,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>vn-2017-krit-01</id>
+            <id>vi-2017-krit-01</id>
             <person-id>kritenbrink-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vietnam</contemporary-territory-id>
@@ -172,28 +176,24 @@
                 <date>2017-10-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-11-04</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-11-06</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-11-04</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-04-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-05-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

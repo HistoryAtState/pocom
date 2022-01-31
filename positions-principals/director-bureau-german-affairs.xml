@@ -29,7 +29,7 @@
                 <date>1950-09-22</date>
                 <note/>
             </appointed>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -48,7 +48,7 @@
             <id>affa-1952-ridd</id>
             <person-id>riddleberger-james-williams</person-id>
             <role-title-id>director-bureau-german-affairs</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1952-05-14</date>
                 <note/>
             </appointed>
@@ -68,8 +68,4 @@
         </principal>
     </principals>
     <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-18</last-modified-date>
 </principal-position>

@@ -11,10 +11,14 @@
                 <date>1851-03-12</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
-                <date>1852-02-18</date>
+            <started>
+                <date/>
                 <note>Officailly recognized on</note>
             </started>
+            <arrived>
+                <date>1852-02-18</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1853-06-01</date>
                 <note>Left post on</note>
@@ -249,7 +253,7 @@
                 <date>1879-04-02</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1879-07-30</date>
                 <note>Officially recognized on</note>
             </started>
@@ -272,7 +276,7 @@
                 <date>1882-04-17</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
+            <started>
                 <date>1882-08-12</date>
                 <note>Officially recognized on</note>
             </started>
@@ -287,7 +291,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>ni-1882-hall-02</id>
+            <id>ni-1882-hall-01</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1072,7 +1076,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>ni-1988-leon-01</id>
+            <id>ni--leon-01</id>
             <person-id>leonard-john-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1081,11 +1085,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1988-07</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1988-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1990-06</date>
+                <date>1990-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1118,7 +1126,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>ni-1992-goda-01</id>
+            <id>ni--goda-01</id>
             <person-id>godard-ronald-d</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1127,11 +1135,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1992-03</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1992-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1993-09</date>
+                <date>1993-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1333,14 +1345,14 @@
                 <date>2018-10-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-11-14</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-11-14</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-11-14</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -1353,29 +1365,6 @@
         </chief>
     </chiefs>
     <other-nominees>
-        <chief>
-            <id>ni--evan-01</id>
-            <person-id>evans-george</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>nicaragua</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
         <chief>
             <id>ni-1853-slid-01</id>
             <person-id>slidell-john</person-id>
@@ -1424,29 +1413,6 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>ni--part-01</id>
-            <person-id>partridge-james-rudolph</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>nicaragua</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>ni-1909-know-01</id>
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1468,6 +1434,75 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
+        </chief>
+        <chief>
+            <id>ni--farr-01</id>
+            <person-id>farrar-jonathan-d</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>nicaragua</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of April 14, 2011, withdrawn on December 5, 2011.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2012-09-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>ni--evan-01</id>
+            <person-id>evans-george</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>nicaragua</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ni--part-01</id>
+            <person-id>partridge-james-rudolph</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>nicaragua</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
             <id>ni--sull-01</id>
@@ -1492,32 +1527,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ni-2011-farr-01</id>
-            <person-id>farrar-jonathan-d</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>nicaragua</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of April 14, 2011, withdrawn on December 5, 2011.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2012-09-24</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-19</last-modified-date>
-        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -28,7 +28,7 @@
             <id>poli-1975-sohm</id>
             <person-id>sohm-earl-david</person-id>
             <role-title-id>director-office-mgmt-policy</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1975-06-08</date>
                 <note/>
             </appointed>
@@ -50,7 +50,7 @@
             <id>poli-1976-mcma</id>
             <person-id>mcmanaway-clayton-e</person-id>
             <role-title-id>director-office-mgmt-policy</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1976-06-28</date>
                 <note/>
             </appointed>
@@ -72,7 +72,7 @@
             <id>poli-1977-clar</id>
             <person-id>clark-joan-margaret</person-id>
             <role-title-id>director-office-mgmt-policy</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1977-04-10</date>
                 <note/>
             </appointed>
@@ -94,7 +94,7 @@
             <id>poli-1979-conl</id>
             <person-id>conlin-michael-m</person-id>
             <role-title-id>director-office-mgmt-policy</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1979-01-31</date>
                 <note/>
             </appointed>
@@ -116,7 +116,7 @@
             <id>poli-1983-de</id>
             <person-id>de-pree-willard-ames</person-id>
             <role-title-id>director-office-mgmt-policy</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1983-07-11</date>
                 <note/>
             </appointed>
@@ -138,7 +138,7 @@
             <id>poli-1987-moos</id>
             <person-id>moose-george-edward</person-id>
             <role-title-id>director-office-mgmt-policy</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1987-04-15</date>
                 <note/>
             </appointed>
@@ -158,8 +158,4 @@
         </principal>
     </principals>
     <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-18</last-modified-date>
 </principal-position>

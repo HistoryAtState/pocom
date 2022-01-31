@@ -3,7 +3,7 @@
     <territory-id>kazakhstan</territory-id>
     <chiefs>
         <chief>
-            <id>kz-1992-cour-01</id>
+            <id>ka-1992-cour-01</id>
             <person-id>courtney-william-harrison</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -26,7 +26,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kz-1995-jone-01</id>
+            <id>ka-1995-jone-01</id>
             <person-id>jones-a-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -49,7 +49,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kz-1998-jone-01</id>
+            <id>ka-1998-jone-01</id>
             <person-id>jones-richard-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -72,7 +72,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kz-2001-napp-01</id>
+            <id>ka-2001-napp-01</id>
             <person-id>napper-larry-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -95,7 +95,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kz-2004-ordw-01</id>
+            <id>ka-2004-ordw-01</id>
             <person-id>ordway-john-malcolm</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -118,7 +118,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kz-2008-hoag-01</id>
+            <id>ka-2008-hoag-01</id>
             <person-id>hoagland-richard-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -141,7 +141,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>kz-2011-fair-01</id>
+            <id>ka-2011-fair-01</id>
             <person-id>fairfax-kenneth-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -164,7 +164,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>kz-2013-ordw-01</id>
+            <id>ka--ordw-01</id>
             <person-id>ordway-john-malcolm</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -173,11 +173,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2013-10</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2013-10-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2014-12</date>
+                <date>2014-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -187,7 +191,7 @@
             <last-modified-date>2016-08-08</last-modified-date>
         </chief>
         <chief>
-            <id>kz-2014-krol-01</id>
+            <id>ka-2014-krol-01</id>
             <person-id>krol-george-albert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -210,7 +214,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>kz-2019-mose-01</id>
+            <id>ka-2019-mose-01</id>
             <person-id>moser-william-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kazakhstan</contemporary-territory-id>
@@ -218,14 +222,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-02-16</date>
-            <note/>
-            </arrived>
             <started>
                 <date>2019-02-18</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-02-16</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -238,8 +242,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

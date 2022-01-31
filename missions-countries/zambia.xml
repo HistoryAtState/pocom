@@ -3,7 +3,7 @@
     <territory-id>zambia</territory-id>
     <chiefs>
         <chief>
-            <id>zm-1964-foul-01</id>
+            <id>za--foul-01</id>
             <person-id>foulon-robert-cartwright</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1964-10-24</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1964-10-24</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1965-good-01</id>
+            <id>za-1965-good-01</id>
             <person-id>good-robert-crocker</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -49,7 +53,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1969-trox-01</id>
+            <id>za-1969-trox-01</id>
             <person-id>troxel-oliver-leonard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -72,7 +76,7 @@
             <last-modified-date>2013-10-30</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1972-wilk-01</id>
+            <id>za-1972-wilk-01</id>
             <person-id>wilkowski-jean-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -95,7 +99,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1976-low-01</id>
+            <id>za-1976-low--01</id>
             <person-id>low-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -118,7 +122,7 @@
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1979-wisn-01</id>
+            <id>za-1979-wisn-01</id>
             <person-id>wisner-frank-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -141,7 +145,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1982-plat-01</id>
+            <id>za-1982-plat-01</id>
             <person-id>platt-nicholas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -164,7 +168,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1985-hare-01</id>
+            <id>za-1985-hare-01</id>
             <person-id>hare-paul-julian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -187,7 +191,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1988-davi-01</id>
+            <id>za-1988-davi-01</id>
             <person-id>davidow-jeffrey-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -210,7 +214,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1990-stre-01</id>
+            <id>za-1990-stre-01</id>
             <person-id>streeb-gordon-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -233,7 +237,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1993-kuch-01</id>
+            <id>za-1993-kuch-01</id>
             <person-id>kuchel-ronald-karl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -256,7 +260,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1996-rend-01</id>
+            <id>za-1996-rend-01</id>
             <person-id>render-arlene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -279,7 +283,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1999-dunn-01</id>
+            <id>za-1999-dunn-01</id>
             <person-id>dunn-david-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -302,7 +306,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-2002-bren-01</id>
+            <id>za-2002-bren-01</id>
             <person-id>brennan-martin-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -325,7 +329,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-2005-mart-01</id>
+            <id>za-2005-mart-01</id>
             <person-id>martinez-carmen-maria</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -348,7 +352,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-2008-boot-01</id>
+            <id>za-2008-boot-01</id>
             <person-id>booth-donald-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -371,7 +375,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>zm-2010-stor-01</id>
+            <id>za-2010-stor-01</id>
             <person-id>storella-mark-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -394,7 +398,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>zm-2014-schu-01</id>
+            <id>za-2014-schu-01</id>
             <person-id>schultz-eric-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -417,7 +421,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>zm-2017-foot-01</id>
+            <id>za-2017-foot-01</id>
             <person-id>foote-daniel-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -425,14 +429,14 @@
                 <date>2017-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-12-07</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-12-14</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-12-07</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-01-02</date>
                 <note/>
@@ -440,13 +444,9 @@
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-06</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

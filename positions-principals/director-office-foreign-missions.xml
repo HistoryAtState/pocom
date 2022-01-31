@@ -213,44 +213,40 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2020-08-07</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-09-18</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-09-18</last-modified-date>
+            <last-modified-date>2021-02-18</last-modified-date>
         </principal>
     </principals>
     <other-appointees>
         <principal>
-        <id>miss--cond</id>
-        <person-id>condayan-john</person-id>
-        <role-title-id>director-office-foreign-missions</role-title-id>
-        <appointed subtype="see-note">
-            <date/>
-            <note/>
-        </appointed>
-        <started>
-            <date/>
-            <note/>
-        </started>
-        <ended>
-            <date/>
-            <note/>
-        </ended>
-        <note>Served as Acting Director, Jan 1988-Jun 1989; a nomination of Sep 16, 1988, was
+            <id>miss--cond</id>
+            <person-id>condayan-john</person-id>
+            <role-title-id>director-office-foreign-missions</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Served as Acting Director, Jan 1988-Jun 1989; a nomination of Sep 16, 1988, was
             not acted upon by the Senate. Harry W. Porter III served as Acting Director, Jun
             1989-Mar 1990 and Jul 1992-May 1993.</note>
-        <created-by>wicentowskijc</created-by>
-        <created-date>2010-05-20</created-date>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-date>2010-05-20</last-modified-date>
-    </principal>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
     </other-appointees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-18</last-modified-date>
 </principal-position>

@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1884-03-26</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1884-03-26</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1885-06-23</date>
                 <note>Transmitted recall by mail</note>
@@ -36,9 +40,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1885-03-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1885-03-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1889-10-17</date>
                 <note>Relinquished charge at Port-au-Prince about</note>
@@ -64,11 +72,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1890-01-25</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1890-01-25</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1891-07</date>
+                <date>1891-07-01</date>
                 <note>Left Port-au-Prince</note>
             </ended>
             <note>Commissioned during a recess of the Senate; recommissioned on December 16, 1889,
@@ -91,9 +103,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1892-01-14</date>
+                <date/>
                 <note>Presented credentials between January 8 and</note>
             </started>
+            <arrived>
+                <date>1892-01-14</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1893-11-18</date>
                 <note>Presented recall on</note>
@@ -118,9 +134,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1893-11-18</date>
+                <date/>
                 <note>Credentials presented by Smythe's predecessor on</note>
             </started>
+            <arrived>
+                <date>1893-11-18</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1897-03-20</date>
                 <note>Left Santo Domingo</note>
@@ -144,10 +164,14 @@
                 <date>1897-06-17</date>
                 <note/>
             </appointed>
-            <started subtype="bracketed">
-                <date>1897-11</date>
+            <started>
+                <date/>
                 <note>Credentials transmitted by mail in</note>
             </started>
+            <arrived>
+                <date>1897-11-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1904-07-23</date>
                 <note>Superseded</note>
@@ -649,7 +673,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>do-1960-dear-01</id>
+            <id>do--dear-01</id>
             <person-id>dearborn-henry-mark-valpey</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -673,7 +697,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>do-1962-hill-01</id>
+            <id>do--hill-01</id>
             <person-id>hill-john-calvin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -682,9 +706,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1962-01-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1962-01-06</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -1019,7 +1047,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>do-2009-lamb-01</id>
+            <id>do--lamb-01</id>
             <person-id>lambert-christopher</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1028,17 +1056,21 @@
                 <note/>
             </appointed>
             <started>
-                <date>2009-08</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2009-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2010-11</date>
+                <date>2010-11-01</date>
                 <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-01-12</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
@@ -1096,14 +1128,14 @@
                 <date>2018-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-08-30</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-09-06</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-08-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -1140,7 +1172,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>do-1998-apon-01</id>
+            <id>do--apon-01</id>
             <person-id>aponte-mari-del-carmen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1163,8 +1195,4 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

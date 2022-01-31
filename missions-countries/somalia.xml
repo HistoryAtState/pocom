@@ -3,7 +3,7 @@
     <territory-id>somalia</territory-id>
     <chiefs>
         <chief>
-            <id>so-1960-lync-01</id>
+            <id>so--lync-01</id>
             <person-id>lynch-andrew-green</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>somalia</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1960-07-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1960-07-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1960-07-11</date>
                 <note/>
@@ -26,7 +30,7 @@
             <last-modified-date>2016-01-27</last-modified-date>
         </chief>
         <chief>
-            <id>so-1960-lync-02</id>
+            <id>so-1960-lync-01</id>
             <person-id>lynch-andrew-green</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>somalia</contemporary-territory-id>
@@ -324,14 +328,14 @@
                 <date>2016-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2016-07-20</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-08-09</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-07-20</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2017-07-21</date>
                 <note/>
@@ -343,7 +347,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>so-2017-dale-01</id>
+            <id>so--dale-01</id>
             <person-id>dale-martin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>somalia</contemporary-territory-id>
@@ -352,9 +356,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>2017-07-21</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-07-21</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2018-11-13</date>
                 <note/>
@@ -374,14 +382,14 @@
                 <date>2018-10-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-11-13</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-11-17</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-11-13</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -395,7 +403,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>so-2015-dhan-01</id>
+            <id>so--dhan-01</id>
             <person-id>dhanani-katherine-simmons</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>somalia</contemporary-territory-id>
@@ -418,8 +426,4 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

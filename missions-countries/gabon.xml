@@ -3,7 +3,7 @@
     <territory-id>gabon</territory-id>
     <chiefs>
         <chief>
-            <id>ga-1960-luke-01</id>
+            <id>ga--luke-01</id>
             <person-id>lukens-alan-wood</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -12,9 +12,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1960-08-17</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1960-08-17</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -351,7 +355,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>ga-2001-daug-01</id>
+            <id>ga--daug-01</id>
             <person-id>daughton-thomas-frederick</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -360,11 +364,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>2001-06</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2001-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2002-06</date>
+                <date>2002-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -497,14 +505,14 @@
                 <date>2018-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-03-30</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-04-18</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-03-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-03-01</date>
                 <note/>
@@ -516,22 +524,22 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ga-2019-whit-01</id>
+            <id>ga--whit-01</id>
             <person-id>whitehead-robert-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2019-07-08</date>
                 <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note/>
-            </started>
             <ended>
                 <date>2020-08-17</date>
                 <note/>
@@ -543,24 +551,24 @@
             <last-modified-date>2020-10-06</last-modified-date>
         </chief>
         <chief>
-            <id>ga-2020-wats-01</id>
+            <id>ga--wats-01</id>
             <person-id>watson-samuel-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
             <appointed>
-                <date></date>
+                <date/>
                 <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2020-09-28</date>
                 <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note/>
-            </started>
             <ended>
-                <date></date>
+                <date/>
                 <note/>
             </ended>
             <note/>
@@ -571,8 +579,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

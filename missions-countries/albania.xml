@@ -50,7 +50,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>al-1928-hart-01</id>
+            <id>al--hart-01</id>
             <person-id>hart-charles-calmer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>albania-1946</contemporary-territory-id>
@@ -152,7 +152,7 @@
             <last-modified-date>2015-04-27</last-modified-date>
         </mission-note>
         <chief>
-            <id>al-1991-hill-01</id>
+            <id>al--hill-01</id>
             <person-id>hill-christopher-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>albania</contemporary-territory-id>
@@ -161,9 +161,13 @@
                 <note/>
             </appointed>
             <started>
-                <date>1991-10-01</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1991-10-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1991-12-21</date>
                 <note/>
@@ -359,7 +363,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>al-2014-lu-01</id>
+            <id>al-2014-lu-d-01</id>
             <person-id>lu-donald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>albania</contemporary-territory-id>
@@ -382,30 +386,30 @@
             <last-modified-date>2019-05-16</last-modified-date>
         </chief>
         <chief>
-            <id>al-2018-mose-01</id>
+            <id>al--mose-01</id>
             <person-id>moses-ones-leyla</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>albania</contemporary-territory-id>
             <appointed>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2018-09-19</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2019-12-16</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-16</last-modified-date>
         </chief>
         <chief>
@@ -415,31 +419,31 @@
             <contemporary-territory-id>albania</contemporary-territory-id>
             <appointed>
                 <date>2019-12-31</date>
-                <note></note>
+                <note/>
             </appointed>
-            <arrived>
-                <date>2020-01-22</date>
-                <note></note>
-            </arrived>
             <started>
                 <date>2020-01-27</date>
-                <note></note>
+                <note/>
             </started>
+            <arrived>
+                <date>2020-01-22</date>
+                <note/>
+            </arrived>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2020-01-15</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-28</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>al-2018-kava-01</id>
-            <person-id>kavalec-katherine-a</person-id>
+            <id>al--kava-01</id>
+            <person-id>kavalec-kathleen-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>albania</contemporary-territory-id>
             <appointed>
@@ -461,8 +465,4 @@
             <last-modified-date>2019-05-29</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

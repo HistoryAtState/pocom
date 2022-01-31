@@ -235,7 +235,7 @@
             <last-modified-date>2015-02-23</last-modified-date>
         </chief>
         <chief>
-            <id>la-1975-corc-01</id>
+            <id>la--corc-01</id>
             <person-id>corcoran-thomas-james</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -244,11 +244,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1975-08</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1975-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1978-03</date>
+                <date>1978-03-01</date>
                 <note/>
             </ended>
             <note/>
@@ -258,7 +262,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>la-1975-robe-01</id>
+            <id>la--robe-01</id>
             <person-id>roberts-george-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -267,11 +271,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1978-03</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1978-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1979-09</date>
+                <date>1979-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -281,7 +289,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>la-1979-mose-01</id>
+            <id>la--mose-01</id>
             <person-id>moser-leo-john</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -290,11 +298,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1979-09</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1979-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1981-10</date>
+                <date>1981-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -304,7 +316,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>la-1981-thom-01</id>
+            <id>la--thom-01</id>
             <person-id>thomas-william-wayt</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -313,11 +325,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1981-11</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1981-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1983-11</date>
+                <date>1983-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -327,7 +343,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>la-1983-tull-01</id>
+            <id>la--tull-01</id>
             <person-id>tull-theresa-anne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -336,11 +352,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1983-11</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1983-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1986-08</date>
+                <date>1986-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -350,7 +370,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>la-1986-isom-01</id>
+            <id>la--isom-01</id>
             <person-id>isom-harriet-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -359,11 +379,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1986-08</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1986-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1989-08</date>
+                <date>1989-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -381,7 +405,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </mission-note>
         <chief>
-            <id>la-1989-salm-01</id>
+            <id>la--salm-01</id>
             <person-id>salmon-charles-b</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -390,11 +414,15 @@
                 <note/>
             </appointed>
             <started>
-                <date>1989-08</date>
+                <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>1989-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1992-08</date>
+                <date>1992-08-01</date>
                 <note>Promoted to Ambassador Extraordinary and Plenipotentiary</note>
             </ended>
             <note/>
@@ -594,24 +622,24 @@
             <contemporary-territory-id>laos</contemporary-territory-id>
             <appointed>
                 <date>2016-10-03</date>
-                <note></note>
+                <note/>
             </appointed>
-            <arrived>
-                <date>2016-10-29</date>
-                <note></note>
-            </arrived>
             <started>
                 <date>2016-11-01</date>
-                <note></note>
+                <note/>
             </started>
+            <arrived>
+                <date>2016-10-29</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-01-26</date>
-                <note></note>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-28</last-modified-date>
         </chief>
         <chief>
@@ -621,24 +649,24 @@
             <contemporary-territory-id>laos</contemporary-territory-id>
             <appointed>
                 <date>2019-12-31</date>
-                <note></note>
+                <note/>
             </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
             <arrived>
                 <date>2020-01-31</date>
-                <note></note>
+                <note/>
             </arrived>
-            <started>
-                <date></date>
-                <note></note>
-            </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
-            <created-by>DIDit.app</created-by>
+            <note/>
+            <created-by>bottsjd</created-by>
             <created-date>2020-01-15</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-02-04</last-modified-date>
         </chief>
     </chiefs>
@@ -652,7 +680,7 @@
                 <date>1975-06-11</date>
                 <note/>
             </appointed>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -667,8 +695,4 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>
