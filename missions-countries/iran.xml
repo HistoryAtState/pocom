@@ -834,6 +834,29 @@
     </chiefs>
     <other-nominees>
         <chief>
+            <id>ir--jess-01</id>
+            <person-id>jessup-henry-harris</person-id>
+            <role-title-id>charge-daffaires-consul-general</role-title-id>
+            <contemporary-territory-id>iran</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>ir-1883-benj-01</id>
             <person-id>benjamin-samuel-greene-wheeler</person-id>
             <role-title-id>charge-daffaires-consul-general</role-title-id>
@@ -954,6 +977,29 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
+            <id>ir--holm-01</id>
+            <person-id>holmes-julius-cecil</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>iran</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>ir-1979-cutl-01</id>
             <person-id>cutler-walter-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -976,52 +1022,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
-        </chief>
-        <chief>
-            <id>ir--jess-01</id>
-            <person-id>jessup-henry-harris</person-id>
-            <role-title-id>charge-daffaires-consul-general</role-title-id>
-            <contemporary-territory-id>iran</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ir--holm-01</id>
-            <person-id>holmes-julius-cecil</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>iran</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

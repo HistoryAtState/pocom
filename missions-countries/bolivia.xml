@@ -13,11 +13,11 @@
             </appointed>
             <started>
                 <date/>
-                <note>Officially recognized on.</note>
+                <note/>
             </started>
             <arrived>
                 <date>1849-01-03</date>
-                <note/>
+                <note>Officially recognized on.</note>
             </arrived>
             <ended>
                 <date>1849-05-04</date>
@@ -1654,29 +1654,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bo-1929-youn-01</id>
-            <person-id>young-evan-erastus</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>bolivia</contemporary-territory-id>
-            <appointed>
-                <date>1929-12-16</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>bo--tayl-01</id>
             <person-id>taylor-charles-henry-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1698,6 +1675,29 @@
             <created-date>2015-11-19</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>bo-1929-youn-01</id>
+            <person-id>young-evan-erastus</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>bolivia</contemporary-territory-id>
+            <appointed>
+                <date>1929-12-16</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

@@ -84,7 +84,7 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1802-01-01</date>
                 <note>January-March 1802</note>
             </started>
             <ended>
@@ -1052,13 +1052,9 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1939-04-13</date>
                 <note>Embassy re-established when Matthews was received at Burgos on</note>
             </started>
-            <arrived>
-                <date>1939-04-13</date>
-                <note/>
-            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -1845,6 +1841,52 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>sp--rose-01</id>
+            <person-id>rosecrans-william-starke</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination tabled by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
+        </chief>
+        <chief>
+            <id>sp--sanf-01</id>
+            <person-id>sanford-henry-shelton</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination not confirmed by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
+        </chief>
+        <chief>
             <id>sp-1913-will-01</id>
             <person-id>willard-joseph-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1866,6 +1908,29 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>sp--brig-01</id>
+            <person-id>briggs-ellis-ormsbee</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
             <id>sp-1968-mcki-01</id>
@@ -1913,75 +1978,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
-        </chief>
-        <chief>
-            <id>sp--rose-01</id>
-            <person-id>rosecrans-william-starke</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination tabled by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-21</last-modified-date>
-        </chief>
-        <chief>
-            <id>sp--sanf-01</id>
-            <person-id>sanford-henry-shelton</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination not confirmed by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-21</last-modified-date>
-        </chief>
-        <chief>
-            <id>sp--brig-01</id>
-            <person-id>briggs-ellis-ormsbee</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>spain</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-21</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

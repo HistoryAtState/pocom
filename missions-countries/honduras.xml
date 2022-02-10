@@ -1240,6 +1240,29 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
+            <id>ho--chur-01</id>
+            <person-id>churchwell-william-montgomery</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>honduras</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination not confirmed by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-16</last-modified-date>
+        </chief>
+        <chief>
             <id>ho-1861-well-01</id>
             <person-id>wells-hezekiah-g</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -1402,29 +1425,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>ho--chur-01</id>
-            <person-id>churchwell-william-montgomery</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>honduras</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination not confirmed by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-16</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

@@ -411,6 +411,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </principal>
+        <principal>
+            <id>terr-2017-sale</id>
+            <person-id>sales-nathan-alexander</person-id>
+            <role-title-id>coordinator-combatting-terrorism</role-title-id>
+            <appointed>
+                <date>2017-08-09</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2017-08-10</date>
+                <note/>
+            </started>
+            <ended>
+                <date>2021-01-20</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2017-08-22</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-02-18</last-modified-date>
+        </principal>
     </principals>
     <other-appointees>
         <principal>
@@ -434,28 +456,6 @@
             <created-date>2017-08-22</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
-        </principal>
-        <principal>
-            <id>terr-2017-sale</id>
-            <person-id>sales-nathan-alexander</person-id>
-            <role-title-id>coordinator-combatting-terrorism</role-title-id>
-            <appointed>
-                <date>2017-08-09</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>2017-08-10</date>
-                <note/>
-            </started>
-            <ended>
-                <date>2021-01-20</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2017-08-22</created-date>
-            <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2021-02-18</last-modified-date>
         </principal>
     </other-appointees>
 </principal-position>

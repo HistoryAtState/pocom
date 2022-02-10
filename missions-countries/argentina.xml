@@ -144,11 +144,11 @@
             </appointed>
             <started>
                 <date/>
-                <note>On or about</note>
+                <note/>
             </started>
             <arrived>
                 <date>1851-09-12</date>
-                <note/>
+                <note>On or about</note>
             </arrived>
             <ended>
                 <date>1854-03-31</date>
@@ -1484,6 +1484,54 @@
     </chiefs>
     <other-nominees>
         <chief>
+            <id>ar--poll-01</id>
+            <person-id>pollard-richard</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>argentina</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination (which had been submitted in error) withdrawn before
+                the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-12-30</last-modified-date>
+        </chief>
+        <chief>
+            <id>ar--watt-01</id>
+            <person-id>watterson-harvey-magee</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>argentina</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination of February 1844 rejected by the Senate in June
+                1844.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-08-14</last-modified-date>
+        </chief>
+        <chief>
             <id>ar-1853-biss-01</id>
             <person-id>bissell-william-henry</person-id>
             <role-title-id>charge-daffaires</role-title-id>
@@ -1574,6 +1622,30 @@
             </ended>
             <note>Commissioned to the Argentine Confederation. Commissioned during a recess of the
                 Senate; did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-08-14</last-modified-date>
+        </chief>
+        <chief>
+            <id>ar--lege-01</id>
+            <person-id>legendre-charles-william</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>argentina</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>To be commissioned to the Argentine Republic. Not commissioned; nomination not
+                confirmed by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -1741,78 +1813,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
-        </chief>
-        <chief>
-            <id>ar--poll-01</id>
-            <person-id>pollard-richard</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>argentina</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination (which had been submitted in error) withdrawn before
-                the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-12-30</last-modified-date>
-        </chief>
-        <chief>
-            <id>ar--watt-01</id>
-            <person-id>watterson-harvey-magee</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>argentina</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination of February 1844 rejected by the Senate in June
-                1844.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-14</last-modified-date>
-        </chief>
-        <chief>
-            <id>ar--lege-01</id>
-            <person-id>legendre-charles-william</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>argentina</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>To be commissioned to the Argentine Republic. Not commissioned; nomination not
-                confirmed by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-14</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

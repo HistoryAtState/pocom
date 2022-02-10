@@ -1383,6 +1383,29 @@
     </chiefs>
     <other-nominees>
         <chief>
+            <id>br--pile-01</id>
+            <person-id>pile-william-anderson</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>brazil</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination first rejected and then tabled by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>br-1890-adam-01</id>
             <person-id>adams-robert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1498,29 +1521,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
-        </chief>
-        <chief>
-            <id>br--pile-01</id>
-            <person-id>pile-william-anderson</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>brazil</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination first rejected and then tabled by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

@@ -67,13 +67,9 @@
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>1837-03-16</date>
                 <note>Officially recognized on</note>
             </started>
-            <arrived>
-                <date>1837-03-16</date>
-                <note/>
-            </arrived>
             <ended>
                 <date>1837-12-10</date>
                 <note>Left Peru</note>
@@ -1368,6 +1364,29 @@
     </chiefs>
     <other-nominees>
         <chief>
+            <id>pe--prev-01</id>
+            <person-id>prevost-john-b</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>peru</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>pe-1829-west-01</id>
             <person-id>west-emanuel-j</person-id>
             <role-title-id>charge-daffaires</role-title-id>
@@ -1414,29 +1433,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
-        </chief>
-        <chief>
-            <id>pe--prev-01</id>
-            <person-id>prevost-john-b</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>peru</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

@@ -613,6 +613,29 @@
     </chiefs>
     <other-nominees>
         <chief>
+            <id>ne--wint-01</id>
+            <person-id>winton-david-judson</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>new-zealand</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>ne--farl-01</id>
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -658,29 +681,6 @@
             <created-date>2015-11-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
-        </chief>
-        <chief>
-            <id>ne--wint-01</id>
-            <person-id>winton-david-judson</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>new-zealand</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

@@ -49,6 +49,30 @@
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
         <chief>
+            <id>au--mint-01</id>
+            <person-id>minter-john-russell</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>australia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Minter was serving as Chargé d’Affaires ad interim when Legation Canberra was
+                raised to Embassy status, July 19, 1946.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-23</last-modified-date>
+        </chief>
+        <chief>
             <id>au-1946-butl-01</id>
             <person-id>butler-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -659,55 +683,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
-        <chief>
-            <id>au--mint-01</id>
-            <person-id>minter-john-russell</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>australia</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Minter was serving as Chargé d’Affaires ad interim when Legation Canberra was
-                raised to Embassy status, July 19, 1946.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-23</last-modified-date>
-        </chief>
     </chiefs>
     <other-nominees>
-        <chief>
-            <id>au--harr-01</id>
-            <person-id>harris-harry-b-jr</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>australia</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of February 13, 2018 withdrawn by the president on May 23, 2018.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-19</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
-        </chief>
         <chief>
             <id>au--flyn-01</id>
             <person-id>flynn-edward-joseph</person-id>
@@ -730,6 +707,29 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>au--harr-01</id>
+            <person-id>harris-harry-b-jr</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>australia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of February 13, 2018 withdrawn by the president on May 23, 2018.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

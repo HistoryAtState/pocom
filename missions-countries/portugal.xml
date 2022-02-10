@@ -1674,6 +1674,30 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>po--appl-01</id>
+            <person-id>appleton-john-james</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>portugal</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination to be Chargé d’Affaires at Rio de Janeiro rejected by
+                the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
+        </chief>
+        <chief>
             <id>po--osul-01</id>
             <person-id>osullivan-john-louis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1767,53 +1791,6 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>po--viet-01</id>
-            <person-id>viets-richard-noyes</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>portugal</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of September 15, 1987, was not acted upon by the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>po--appl-01</id>
-            <person-id>appleton-john-james</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>portugal</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination to be Chargé d’Affaires at Rio de Janeiro rejected by
-                the Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-20</last-modified-date>
-        </chief>
-        <chief>
             <id>po--nich-01</id>
             <person-id>nicholson-meredith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1835,6 +1812,29 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>po--viet-01</id>
+            <person-id>viets-richard-noyes</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>portugal</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of September 15, 1987, was not acted upon by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-20</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

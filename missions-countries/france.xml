@@ -1598,52 +1598,6 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>fr-1801-baya-01</id>
-            <person-id>bayard-james-asheton</person-id>
-            <role-title-id>minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>france</contemporary-territory-id>
-            <appointed>
-                <date>1801-02-19</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>fr-1893-eust-01</id>
-            <person-id>eustis-james-biddle</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>france</contemporary-territory-id>
-            <appointed>
-                <date>1893-03-20</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Took oath of office, but did not proceed to post in this capacity.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
             <id>fr--murr-01</id>
             <person-id>murray-william-vans</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
@@ -1662,6 +1616,29 @@
             </ended>
             <note>Not commissioned; nomination superseded by a nomination of Murray and two others
                 to serve on a joint commission.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>fr-1801-baya-01</id>
+            <person-id>bayard-james-asheton</person-id>
+            <role-title-id>minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>france</contemporary-territory-id>
+            <appointed>
+                <date>1801-02-19</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1712,6 +1689,29 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>fr-1893-eust-01</id>
+            <person-id>eustis-james-biddle</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>france</contemporary-territory-id>
+            <appointed>
+                <date>1893-03-20</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Took oath of office, but did not proceed to post in this capacity.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

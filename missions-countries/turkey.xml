@@ -1315,6 +1315,29 @@
     </chiefs>
     <other-nominees>
         <chief>
+            <id>tu--ervi-01</id>
+            <person-id>erving-george-william</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>turkey</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned, although his nomination was confirmed by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>tu--spen-01</id>
             <person-id>spence-carroll</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1355,29 +1378,6 @@
                 <note/>
             </ended>
             <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>tu--ervi-01</id>
-            <person-id>erving-george-william</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>turkey</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned, although his nomination was confirmed by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>

@@ -1394,52 +1394,6 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>el-1908-dodg-01</id>
-            <person-id>dodge-henry-percival</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>el-salvador</contemporary-territory-id>
-            <appointed>
-                <date>1908-12-10</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not serve under this appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-17</last-modified-date>
-        </chief>
-        <chief>
-            <id>el-2012-apon-01</id>
-            <person-id>aponte-mari-del-carmen</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>el-salvador</contemporary-territory-id>
-            <appointed>
-                <date>2012-06-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Did not present credentials.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-17</last-modified-date>
-        </chief>
-        <chief>
             <id>el--hold-01</id>
             <person-id>holden-william-woods</person-id>
             <role-title-id>minister-resident</role-title-id>
@@ -1463,6 +1417,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>el-1908-dodg-01</id>
+            <person-id>dodge-henry-percival</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>el-salvador</contemporary-territory-id>
+            <appointed>
+                <date>1908-12-10</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not serve under this appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
+        </chief>
+        <chief>
             <id>el--koza-01</id>
             <person-id>kozak-michael-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -1484,6 +1461,29 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>el-2012-apon-01</id>
+            <person-id>aponte-mari-del-carmen</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>el-salvador</contemporary-territory-id>
+            <appointed>
+                <date>2012-06-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Did not present credentials.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-17</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

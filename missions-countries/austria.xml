@@ -1426,8 +1426,8 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>au---01</id>
-            <person-id/>
+            <id>au--youn-01</id>
+            <person-id>young-eugene</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
             <appointed>
@@ -1552,77 +1552,6 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>au-1867-gree-01</id>
-            <person-id>greeley-horace</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>austria</contemporary-territory-id>
-            <appointed>
-                <date>1867-11-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-19</last-modified-date>
-        </chief>
-        <chief>
-            <id>au-1885-keil-01</id>
-            <person-id>keiley-anthony-michael</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>austria</contemporary-territory-id>
-            <appointed>
-                <date>1885-04-29</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Commissioned to Austria-Hungary. Commissioned during a recess of the Senate; did
-                not serve, the Government of Austria-Hungary having objected to his
-                appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-19</last-modified-date>
-        </chief>
-        <chief>
-            <id>au--garg-01</id>
-            <person-id>gargano-charles-a</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>austria</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of November 7, 2007, withdrawn March 13, 2008.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-08-19</last-modified-date>
-        </chief>
-        <chief>
             <id>au--cowa-01</id>
             <person-id>cowan-edgar</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1738,6 +1667,29 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
+            <id>au-1867-gree-01</id>
+            <person-id>greeley-horace</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>austria</contemporary-territory-id>
+            <appointed>
+                <date>1867-11-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-08-19</last-modified-date>
+        </chief>
+        <chief>
             <id>au--cox--01</id>
             <person-id>cox-samuel-sullivan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1778,6 +1730,54 @@
                 <note/>
             </ended>
             <note>Not commissioned; nomination rejected by the Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-08-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>au-1885-keil-01</id>
+            <person-id>keiley-anthony-michael</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>austria</contemporary-territory-id>
+            <appointed>
+                <date>1885-04-29</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Commissioned to Austria-Hungary. Commissioned during a recess of the Senate; did
+                not serve, the Government of Austria-Hungary having objected to his
+                appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-08-19</last-modified-date>
+        </chief>
+        <chief>
+            <id>au--garg-01</id>
+            <person-id>gargano-charles-a</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>austria</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of November 7, 2007, withdrawn March 13, 2008.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>

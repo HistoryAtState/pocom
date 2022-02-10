@@ -797,29 +797,6 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ca--wos--01</id>
-            <person-id>wos-aldona</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>canada</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of February 25, 2020 returned to the president on January 3, 2021.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-19</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
-        </chief>
-        <chief>
             <id>ca--macc-01</id>
             <person-id>macchesney-nathan-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -841,6 +818,29 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ca--wos--01</id>
+            <person-id>wos-aldona</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>canada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of February 25, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

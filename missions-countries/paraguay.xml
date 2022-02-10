@@ -129,12 +129,11 @@
             </appointed>
             <started>
                 <date/>
-                <note>No record found of presentation of credentials; acknowledged receipt of his
-                    commission on</note>
+                <note/>
             </started>
             <arrived>
                 <date>1876-10-06</date>
-                <note/>
+                <note>No record found of presentation of credentials; acknowledged receipt of his commission on</note>
             </arrived>
             <ended>
                 <date>1882-07-10</date>
@@ -1205,29 +1204,6 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>pa-1881-rusk-01</id>
-            <person-id>rusk-jeremiah-mclain</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>paraguay</contemporary-territory-id>
-            <appointed>
-                <date>1881-05-19</date>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Declined appointment.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-24</last-modified-date>
-        </chief>
-        <chief>
             <id>pa--wall-01</id>
             <person-id>wallace-lewis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
@@ -1250,6 +1226,29 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>pa-1881-rusk-01</id>
+            <person-id>rusk-jeremiah-mclain</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>paraguay</contemporary-territory-id>
+            <appointed>
+                <date>1881-05-19</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Declined appointment.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>pa--robb-01</id>

@@ -83,11 +83,11 @@
             </appointed>
             <started>
                 <date/>
-                <note>Soon after</note>
+                <note/>
             </started>
             <arrived>
                 <date>1877-01-20</date>
-                <note/>
+                <note>Soon after</note>
             </arrived>
             <ended>
                 <date>1879-05-24</date>
@@ -1301,6 +1301,29 @@
     </chiefs>
     <other-nominees>
         <chief>
+            <id>gr--smit-01</id>
+            <person-id>smith-nicholas</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>gr-1892-beal-01</id>
             <person-id>beale-truxtun</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1371,6 +1394,29 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
+            <id>gr--mats-01</id>
+            <person-id>matson-roderick-nathaniel</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>greece</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>gr-1957-ridd-01</id>
             <person-id>riddleberger-james-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -1416,52 +1462,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-29</last-modified-date>
-        </chief>
-        <chief>
-            <id>gr--smit-01</id>
-            <person-id>smith-nicholas</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>greece</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>gr--mats-01</id>
-            <person-id>matson-roderick-nathaniel</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>greece</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination withdrawn before the Senate acted upon it.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
             <id>gr--good-01</id>

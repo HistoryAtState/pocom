@@ -1418,6 +1418,30 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
+            <id>sw--carl-01</id>
+            <person-id>carlile-john-snyder</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>sweden</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination first confirmed and then reconsidered by the Senate,
+                with no final action taken.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>sw-1947-matt-01</id>
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1462,30 +1486,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
-        </chief>
-        <chief>
-            <id>sw--carl-01</id>
-            <person-id>carlile-john-snyder</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>sweden</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination first confirmed and then reconsidered by the Senate,
-                with no final action taken.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>

@@ -36,11 +36,11 @@
             </appointed>
             <started>
                 <date/>
-                <note>On or before</note>
+                <note/>
             </started>
             <arrived>
                 <date>1828-11-09</date>
-                <note/>
+                <note>On or before</note>
             </arrived>
             <ended>
                 <date>1829-10-29</date>
@@ -1361,6 +1361,29 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>ch--dent-01</id>
+            <person-id>dent-lewis-louis</person-id>
+            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
+            <contemporary-territory-id>chile</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination not confirmed by Senate.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
             <id>ch-1902-jack-01</id>
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
@@ -1428,29 +1451,6 @@
             <created-date>2021-02-19</created-date>
             <last-modified-by/>
             <last-modified-date/>
-        </chief>
-        <chief>
-            <id>ch--dent-01</id>
-            <person-id>dent-lewis-louis</person-id>
-            <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
-            <contemporary-territory-id>chile</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Not commissioned; nomination not confirmed by Senate.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
 </country-mission>
