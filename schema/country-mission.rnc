@@ -13,6 +13,13 @@ element country-mission {
                  },
                  element note { text }
              },
+             element arrived {
+                 element date {
+                     attribute certainty { "high" }?,
+                     text
+                 },
+                 element note { text }
+             },
              element started {
                  element date {
                      attribute certainty { "high" }?,
@@ -48,6 +55,13 @@ element country-mission {
             element role-title-id { xsd:NCName },
             element contemporary-territory-id { xsd:NCName },
             element appointed {
+                element date {
+                    attribute certainty { "high" }?,
+                    text
+                },
+                element note { text }
+            },
+            element arrived {
                 element date {
                     attribute certainty { "high" }?,
                     text

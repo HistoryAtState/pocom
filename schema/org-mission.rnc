@@ -22,6 +22,13 @@ element org-mission {
                  },
                  element note { text }
              },
+             element arrived {
+                 element date {
+                     attribute certainty { "high" }?,
+                     text
+                 },
+                 element note { text }
+             },
              element started {
                  element date {
                      attribute certainty { "high" }?,
@@ -62,6 +69,13 @@ element org-mission {
                 },
                 element note { text }
             },
+            element arrived {
+                 element date {
+                     attribute certainty { "high" }?,
+                     text
+                 },
+                 element note { text }
+             },
             element started {
                 element date {
                     attribute certainty { "high" }?,
