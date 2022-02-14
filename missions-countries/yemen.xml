@@ -11,10 +11,6 @@
                 <date>1946-08-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1946-09-30</date>
                 <note/>
@@ -39,10 +35,6 @@
                 <date>1950-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1951-07-22</date>
                 <note/>
@@ -66,10 +58,6 @@
                 <date>1953-10-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1954-09-13</date>
                 <note/>
@@ -94,10 +82,6 @@
                 <date>1959-02-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1959-03-11</date>
                 <note/>
@@ -123,10 +107,6 @@
                 <date>1960-01-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-04-28</date>
                 <note/>
@@ -150,10 +130,6 @@
                 <date>1961-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-10-01</date>
                 <note/>
@@ -169,60 +145,6 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>ye-1963-cort-01</id>
-            <person-id>cortada-james-nicholas</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>yemen</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1963-02</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1964-08</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-04</last-modified-date>
-        </chief>
-        <chief>
-            <id>ye-1964-clar-01</id>
-            <person-id>clark-harlan-bendell</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>yemen</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1964-08</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1966-08</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-04</last-modified-date>
-        </chief>
-        <chief>
             <id>ye--stoo-01</id>
             <person-id>stookey-robert-wilson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
@@ -231,10 +153,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -251,6 +169,60 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>ye--cort-01</id>
+            <person-id>cortada-james-nicholas</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>yemen</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <arrived>
+                <date>1963-02-01</date>
+                <note/>
+            </arrived>
+            <ended>
+                <date>1964-08-01</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
+            <id>ye--clar-01</id>
+            <person-id>clark-harlan-bendell</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>yemen</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <arrived>
+                <date>1964-08-01</date>
+                <note/>
+            </arrived>
+            <ended>
+                <date>1966-08-01</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
+        <chief>
             <id>ye--dins-01</id>
             <person-id>dinsmore-lee-fries</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
@@ -259,10 +231,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -287,10 +255,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -306,6 +270,29 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
+        <chief>
+            <id>ye--mccl-01</id>
+            <person-id>mcclintock-david-w</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>yemen</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1970-04-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1972-01-01</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-04</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-04</last-modified-date>
+        </chief>
         <mission-note>
             <text>On April 10, 1970, the United States established an Interests Section in the
                 Italian Embassy.</text>
@@ -315,34 +302,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </mission-note>
         <chief>
-            <id>ye-1970-mccl-01</id>
-            <person-id>mcclintock-david-w</person-id>
-            <role-title-id>principal-officer</role-title-id>
-            <contemporary-territory-id>yemen</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1970-04</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1972-01</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-01-04</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-04</last-modified-date>
-        </chief>
-        <chief>
-            <id>ye-1972-stei-01</id>
+            <id>ye--stei-01</id>
             <person-id>stein-robert-andrew</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -350,16 +310,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1972-02</date>
+                <date>1972-02-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1972-07</date>
+                <date>1972-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -369,7 +325,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>ye-1972-stei-02</id>
+            <id>ye--stei-01</id>
             <person-id>stein-robert-andrew</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -377,14 +333,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1972-07-01</date>
                 <note>Embassy in San'a reestablished on</note>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -404,10 +360,6 @@
                 <date>1972-10-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-12-19</date>
                 <note/>
@@ -431,10 +383,6 @@
                 <date>1974-12-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-01-21</date>
                 <note/>
@@ -458,10 +406,6 @@
                 <date>1978-08-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-10-05</date>
                 <note/>
@@ -485,10 +429,6 @@
                 <date>1981-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-10-24</date>
                 <note/>
@@ -512,10 +452,6 @@
                 <date>1984-09-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-10-28</date>
                 <note/>
@@ -531,7 +467,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ye-1987-katt-02</id>
+            <id>ye--katt-01</id>
             <person-id>kattouf-theodore-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -539,16 +475,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1987-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1987-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1988-08</date>
+                <date>1988-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -566,10 +502,6 @@
                 <date>1988-06-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-08-14</date>
                 <note/>
@@ -593,10 +525,6 @@
                 <date>1991-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1991-10-19</date>
                 <note/>
@@ -620,10 +548,6 @@
                 <date>1994-10-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-01-08</date>
                 <note/>
@@ -647,10 +571,6 @@
                 <date>1997-11-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-12-22</date>
                 <note/>
@@ -674,10 +594,6 @@
                 <date>2001-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-10-01</date>
                 <note/>
@@ -701,10 +617,6 @@
                 <date>2004-05-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-08-16</date>
                 <note/>
@@ -728,10 +640,6 @@
                 <date>2007-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-09-05</date>
                 <note/>
@@ -755,10 +663,6 @@
                 <date>2010-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-10-03</date>
                 <note/>
@@ -782,10 +686,6 @@
                 <date>2014-04-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-06-10</date>
                 <note/>
@@ -821,14 +721,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-05-18</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-05-20</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-05-18</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -850,10 +750,6 @@
                 <date>1957-11-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -871,7 +767,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ye-2000-rans-01</id>
+            <id>ye--rans-01</id>
             <person-id>ransom-marjorie-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -879,10 +775,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -898,8 +790,4 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

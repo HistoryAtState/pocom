@@ -3,7 +3,7 @@
     <territory-id>honduras</territory-id>
     <chiefs>
         <chief>
-            <id>hn-1858-clar-01</id>
+            <id>ho-1858-clar-01</id>
             <person-id>clarke-beverly-leonidas</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1858-01-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1858-08-10</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1862-part-01</id>
+            <id>ho-1862-part-01</id>
             <person-id>partridge-james-rudolph</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1862-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1862-04-25</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1863-clay-01</id>
+            <id>ho-1863-clay-01</id>
             <person-id>clay-thomas-hart</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -65,11 +57,7 @@
                 <date>1863-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1864-04-05</date>
                 <note>Offically recognized on</note>
             </started>
@@ -85,7 +73,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1866-rous-01</id>
+            <id>ho-1866-rous-01</id>
             <person-id>rousseau-richard-hilaire</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -93,10 +81,6 @@
                 <date>1866-05-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1866-10-10</date>
                 <note/>
@@ -112,7 +96,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1869-baxt-01</id>
+            <id>ho-1869-baxt-01</id>
             <person-id>baxter-henry</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -120,10 +104,6 @@
                 <date>1869-04-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-08-10</date>
                 <note/>
@@ -139,7 +119,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1873-will-01</id>
+            <id>ho-1873-will-01</id>
             <person-id>williamson-george-mcwillie</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -147,10 +127,6 @@
                 <date>1873-05-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1874-02-19</date>
                 <note/>
@@ -167,7 +143,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1879-loga-01</id>
+            <id>ho-1879-loga-01</id>
             <person-id>logan-cornelius-ambrose</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -175,11 +151,7 @@
                 <date>1879-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1879-10-10</date>
                 <note>Officially recognized on</note>
             </started>
@@ -194,7 +166,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1882-hall-01</id>
+            <id>ho-1882-hall-01</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -202,11 +174,7 @@
                 <date>1882-04-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1882-04-21</date>
                 <note>Offically recognized on</note>
             </started>
@@ -221,7 +189,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1882-hall-02</id>
+            <id>ho-1882-hall-01</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -229,11 +197,7 @@
                 <date>1882-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1882-09-26</date>
                 <note>Officially recognized on</note>
             </started>
@@ -248,7 +212,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1890-pach-01</id>
+            <id>ho-1890-pach-01</id>
             <person-id>pacheco-romualdo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -256,10 +220,6 @@
                 <date>1890-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1891-04-17</date>
                 <note/>
@@ -275,7 +235,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1891-pach-01</id>
+            <id>ho-1891-pach-01</id>
             <person-id>pacheco-romualdo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -283,10 +243,6 @@
                 <date>1891-07-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -304,7 +260,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1893-youn-01</id>
+            <id>ho-1893-youn-01</id>
             <person-id>young-pierce-manning-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -312,11 +268,7 @@
                 <date>1893-04-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1893-11-12</date>
                 <note>Officially recognized on</note>
             </started>
@@ -331,7 +283,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1897-hunt-01</id>
+            <id>ho-1897-hunt-01</id>
             <person-id>hunter-whiteside-godfrey</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -339,10 +291,6 @@
                 <date>1897-11-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1899-01-19</date>
                 <note>Officially recognized on</note>
@@ -359,7 +307,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1902-comb-01</id>
+            <id>ho-1902-comb-01</id>
             <person-id>combs-leslie</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -367,17 +315,13 @@
                 <date>1902-11-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1903-05-22</date>
                 <note>Transmitted credentials by note on</note>
             </started>
             <ended>
                 <date>1907-02-27</date>
-                <note>Transmitted recall by note on or shortly before </note>
+                <note>Transmitted recall by note on or shortly before</note>
             </ended>
             <note>Commissioned during a recess of the Senate; recommissioned on December 8, 1902
                 after confirmation.</note>
@@ -387,7 +331,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1907-dodg-01</id>
+            <id>ho-1907-dodg-01</id>
             <person-id>dodge-henry-percival</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -395,10 +339,6 @@
                 <date>1907-07-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1908-06-17</date>
                 <note/>
@@ -415,7 +355,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1908-brow-01</id>
+            <id>ho-1908-brow-01</id>
             <person-id>brown-philip-marshall</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -423,10 +363,6 @@
                 <date>1908-11-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1909-02-21</date>
                 <note/>
@@ -443,7 +379,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1909-mccr-01</id>
+            <id>ho-1909-mccr-01</id>
             <person-id>mccreery-fenton-reuben</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -451,10 +387,6 @@
                 <date>1909-12-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1910-03-10</date>
                 <note/>
@@ -470,7 +402,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1911-whit-01</id>
+            <id>ho-1911-whit-01</id>
             <person-id>white-charles-dunning</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -478,10 +410,6 @@
                 <date>1911-07-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1911-09-09</date>
                 <note/>
@@ -497,7 +425,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1913-ewin-01</id>
+            <id>ho-1913-ewin-01</id>
             <person-id>ewing-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -505,10 +433,6 @@
                 <date>1913-09-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-12-26</date>
                 <note/>
@@ -524,7 +448,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1918-jone-01</id>
+            <id>ho-1918-jone-01</id>
             <person-id>jones-thomas-sambola</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -532,10 +456,6 @@
                 <date>1918-06-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1918-10-02</date>
                 <note/>
@@ -552,7 +472,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1921-mora-01</id>
+            <id>ho-1921-mora-01</id>
             <person-id>morales-franklin-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -560,10 +480,6 @@
                 <date>1921-10-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1922-01-18</date>
                 <note/>
@@ -579,7 +495,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1925-summ-01</id>
+            <id>ho-1925-summ-01</id>
             <person-id>summerlin-george-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -587,10 +503,6 @@
                 <date>1925-03-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1925-11-21</date>
                 <note/>
@@ -606,7 +518,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1929-lay-01</id>
+            <id>ho-1929-lay--01</id>
             <person-id>lay-julius-gareche</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -614,10 +526,6 @@
                 <date>1929-12-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-05-31</date>
                 <note/>
@@ -633,7 +541,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1935-keen-01</id>
+            <id>ho-1935-keen-01</id>
             <person-id>keena-leo-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -641,10 +549,6 @@
                 <date>1935-02-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1935-07-19</date>
                 <note/>
@@ -660,7 +564,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1937-erwi-01</id>
+            <id>ho-1937-erwi-01</id>
             <person-id>erwin-john-draper</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -668,10 +572,6 @@
                 <date>1937-07-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-09-08</date>
                 <note/>
@@ -687,7 +587,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1943-erwi-01</id>
+            <id>ho-1943-erwi-01</id>
             <person-id>erwin-john-draper</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -695,10 +595,6 @@
                 <date>1943-03-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1943-04-27</date>
                 <note/>
@@ -714,7 +610,7 @@
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1947-dani-01</id>
+            <id>ho-1947-dani-01</id>
             <person-id>daniels-paul-clement</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -722,10 +618,6 @@
                 <date>1947-04-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-06-23</date>
                 <note/>
@@ -741,7 +633,7 @@
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1947-burs-01</id>
+            <id>ho-1947-burs-01</id>
             <person-id>bursley-herbert-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -749,10 +641,6 @@
                 <date>1947-12-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1948-05-15</date>
                 <note/>
@@ -768,7 +656,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1951-erwi-01</id>
+            <id>ho-1951-erwi-01</id>
             <person-id>erwin-john-draper</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -776,10 +664,6 @@
                 <date>1951-02-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1951-03-14</date>
                 <note/>
@@ -795,7 +679,7 @@
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1954-will-01</id>
+            <id>ho-1954-will-01</id>
             <person-id>willauer-whiting</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -803,10 +687,6 @@
                 <date>1954-02-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1954-03-05</date>
                 <note/>
@@ -822,7 +702,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1958-newb-01</id>
+            <id>ho-1958-newb-01</id>
             <person-id>newbegin-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -830,10 +710,6 @@
                 <date>1958-03-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1958-04-21</date>
                 <note/>
@@ -849,7 +725,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1960-burr-01</id>
+            <id>ho-1960-burr-01</id>
             <person-id>burrows-charles-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -857,10 +733,6 @@
                 <date>1960-08-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-11-03</date>
                 <note/>
@@ -876,7 +748,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1965-jova-01</id>
+            <id>ho-1965-jova-01</id>
             <person-id>jova-joseph-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -884,10 +756,6 @@
                 <date>1965-06-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1965-07-12</date>
                 <note/>
@@ -903,7 +771,7 @@
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1969-ryan-01</id>
+            <id>ho-1969-ryan-01</id>
             <person-id>ryan-hewson-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -911,10 +779,6 @@
                 <date>1969-10-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-11-05</date>
                 <note/>
@@ -930,7 +794,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1973-sanc-01</id>
+            <id>ho-1973-sanc-01</id>
             <person-id>sanchez-phillip-victor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -938,10 +802,6 @@
                 <date>1973-05-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-06-15</date>
                 <note/>
@@ -957,7 +817,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1976-beck-01</id>
+            <id>ho-1976-beck-01</id>
             <person-id>becker-ralph-elihu</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -965,10 +825,6 @@
                 <date>1976-09-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-10-27</date>
                 <note/>
@@ -984,7 +840,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1977-jara-01</id>
+            <id>ho-1977-jara-01</id>
             <person-id>jaramillo-mari-luci</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -992,10 +848,6 @@
                 <date>1977-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-10-27</date>
                 <note/>
@@ -1011,7 +863,7 @@
             <last-modified-date>2016-02-01</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1980-binn-01</id>
+            <id>ho-1980-binn-01</id>
             <person-id>binns-jack-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1019,10 +871,6 @@
                 <date>1980-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-10-10</date>
                 <note/>
@@ -1038,7 +886,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1981-negr-01</id>
+            <id>ho-1981-negr-01</id>
             <person-id>negroponte-john-dimitri</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1046,10 +894,6 @@
                 <date>1981-10-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-11-11</date>
                 <note/>
@@ -1065,7 +909,7 @@
             <last-modified-date>2014-08-12</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1985-ferc-01</id>
+            <id>ho-1985-ferc-01</id>
             <person-id>ferch-john-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1073,10 +917,6 @@
                 <date>1985-07-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-08-22</date>
                 <note/>
@@ -1092,7 +932,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1986-brig-01</id>
+            <id>ho-1986-brig-01</id>
             <person-id>briggs-everett-ellis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1100,10 +940,6 @@
                 <date>1986-10-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-11-04</date>
                 <note/>
@@ -1119,7 +955,7 @@
             <last-modified-date>2014-09-08</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1989-arco-01</id>
+            <id>ho-1989-arco-01</id>
             <person-id>arcos-cresencio-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1127,10 +963,6 @@
                 <date>1989-11-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-01-29</date>
                 <note/>
@@ -1146,7 +978,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1993-pryc-01</id>
+            <id>ho-1993-pryc-01</id>
             <person-id>pryce-william-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1154,10 +986,6 @@
                 <date>1993-05-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-07-21</date>
                 <note/>
@@ -1173,7 +1001,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1996-crea-01</id>
+            <id>ho-1996-crea-01</id>
             <person-id>creagan-james-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1181,10 +1009,6 @@
                 <date>1996-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-08-29</date>
                 <note/>
@@ -1200,7 +1024,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1999-alma-01</id>
+            <id>ho-1999-alma-01</id>
             <person-id>almaguer-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1208,10 +1032,6 @@
                 <date>1999-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-08-25</date>
                 <note/>
@@ -1227,7 +1047,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-2002-palm-01</id>
+            <id>ho-2002-palm-01</id>
             <person-id>palmer-larry-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1235,10 +1055,6 @@
                 <date>2002-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-10-08</date>
                 <note/>
@@ -1254,7 +1070,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>hn-2005-ford-01</id>
+            <id>ho-2005-ford-01</id>
             <person-id>ford-charles-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1262,10 +1078,6 @@
                 <date>2005-10-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-11-08</date>
                 <note/>
@@ -1281,7 +1093,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-2008-llor-01</id>
+            <id>ho-2008-llor-01</id>
             <person-id>llorens-hugo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1289,10 +1101,6 @@
                 <date>2008-05-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-09-19</date>
                 <note/>
@@ -1308,7 +1116,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>hn-2011-kubi-01</id>
+            <id>ho-2011-kubi-01</id>
             <person-id>kubiske-lisa-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1316,10 +1124,6 @@
                 <date>2011-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-08-29</date>
                 <note/>
@@ -1335,7 +1139,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>hn-2014-neal-01</id>
+            <id>ho-2014-neal-01</id>
             <person-id>nealon-james-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1343,10 +1147,6 @@
                 <date>2014-07-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-08-21</date>
                 <note/>
@@ -1362,7 +1162,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>hn-2017-fult-01</id>
+            <id>ho--fult-01</id>
             <person-id>fulton-heide-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1370,14 +1170,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-06-11</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2019-07-12</date>
                 <note/>
@@ -1391,7 +1191,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>hn-1853-slid-01</id>
+            <id>ho-1853-slid-01</id>
             <person-id>slidell-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1399,10 +1199,6 @@
                 <date>1853-03-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1419,7 +1215,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1853-borl-01</id>
+            <id>ho-1853-borl-01</id>
             <person-id>borland-solon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1427,10 +1223,6 @@
                 <date>1853-04-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1448,7 +1240,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1860-chur-01</id>
+            <id>ho--chur-01</id>
             <person-id>churchwell-william-montgomery</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1456,10 +1248,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1475,7 +1263,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1861-well-01</id>
+            <id>ho-1861-well-01</id>
             <person-id>wells-hezekiah-g</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1483,10 +1271,6 @@
                 <date>1861-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1502,7 +1286,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1861-howa-01</id>
+            <id>ho-1861-howa-01</id>
             <person-id>howard-jacob-merritt</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1510,10 +1294,6 @@
                 <date>1861-11-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1529,7 +1309,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1889-mizn-01</id>
+            <id>ho-1889-mizn-01</id>
             <person-id>mizner-lansing-bond</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1537,10 +1317,6 @@
                 <date>1889-03-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1557,7 +1333,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1896-coxe-01</id>
+            <id>ho-1896-coxe-01</id>
             <person-id>coxe-macgrane</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1565,10 +1341,6 @@
                 <date>1896-07-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1585,7 +1357,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1907-lee-01</id>
+            <id>ho-1907-lee--01</id>
             <person-id>lee-joseph-wilcox-jenkins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1593,10 +1365,6 @@
                 <date>1907-01-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1612,7 +1380,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>hn-1908-sors-01</id>
+            <id>ho-1908-sors-01</id>
             <person-id>sorsby-william-brooks</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1620,10 +1388,6 @@
                 <date>1908-06-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1640,7 +1404,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hn-2018-palm-01</id>
+            <id>ho--palm-01</id>
             <person-id>palmieri-francisco-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1648,10 +1412,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1667,8 +1427,4 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

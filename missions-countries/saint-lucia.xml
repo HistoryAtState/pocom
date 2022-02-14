@@ -3,7 +3,7 @@
     <territory-id>saint-lucia</territory-id>
     <chiefs>
         <chief>
-            <id>lc-1979-shel-01</id>
+            <id>sa-1979-shel-01</id>
             <person-id>shelton-sally-angela</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1979-05-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1979-06-11</date>
                 <note/>
@@ -31,7 +27,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-1981-bish-01</id>
+            <id>sa-1981-bish-01</id>
             <person-id>bish-milan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -39,10 +35,6 @@
                 <date>1981-11-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-12-15</date>
                 <note/>
@@ -58,7 +50,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-1984-ande-01</id>
+            <id>sa-1984-ande-01</id>
             <person-id>anderson-thomas-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -66,10 +58,6 @@
                 <date>1984-05-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-08-22</date>
                 <note/>
@@ -85,7 +73,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-1986-russ-01</id>
+            <id>sa-1986-russ-01</id>
             <person-id>russo-paul-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -93,10 +81,6 @@
                 <date>1986-10-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-12-02</date>
                 <note/>
@@ -112,7 +96,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-1988-clar-01</id>
+            <id>sa--clar-01</id>
             <person-id>clark-john-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -120,16 +104,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1988-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1988-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1990-07</date>
+                <date>1990-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -139,7 +123,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>lc-1990-hugh-01</id>
+            <id>sa-1990-hugh-01</id>
             <person-id>hughes-g-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -147,10 +131,6 @@
                 <date>1990-10-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-11-21</date>
                 <note/>
@@ -166,7 +146,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-1994-hyde-01</id>
+            <id>sa-1994-hyde-01</id>
             <person-id>hyde-jeanette-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -174,10 +154,6 @@
                 <date>1994-03-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-05-03</date>
                 <note/>
@@ -193,7 +169,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-1998-crot-01</id>
+            <id>sa-1998-crot-01</id>
             <person-id>crotty-e-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -201,10 +177,6 @@
                 <date>1998-10-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-08-17</date>
                 <note/>
@@ -220,7 +192,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-2000-dale-01</id>
+            <id>sa-2000-dale-01</id>
             <person-id>daley-james-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -228,10 +200,6 @@
                 <date>2000-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-11-06</date>
                 <note/>
@@ -248,7 +216,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-2002-phil-01</id>
+            <id>sa-2002-phil-01</id>
             <person-id>phillips-earl-norfleet</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -256,10 +224,6 @@
                 <date>2002-01-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-03-19</date>
                 <note/>
@@ -275,7 +239,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-2003-kram-01</id>
+            <id>sa-2003-kram-01</id>
             <person-id>kramer-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -283,10 +247,6 @@
                 <date>2003-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-02-11</date>
                 <note/>
@@ -302,7 +262,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-2006-ouri-01</id>
+            <id>sa-2006-ouri-01</id>
             <person-id>ourisman-mary-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -310,10 +270,6 @@
                 <date>2006-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-02-20</date>
                 <note/>
@@ -329,7 +285,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-2009-hard-01</id>
+            <id>sa--hard-01</id>
             <person-id>hardt-d-brent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -337,16 +293,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2009-01</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2009-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2011-06</date>
+                <date>2011-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -356,7 +312,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>lc-2012-palm-01</id>
+            <id>sa-2012-palm-01</id>
             <person-id>palmer-larry-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -364,10 +320,6 @@
                 <date>2012-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-06-04</date>
                 <note/>
@@ -383,7 +335,7 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>lc-2015-tagl-01</id>
+            <id>sa-2015-tagl-01</id>
             <person-id>taglialatela-linda-swartz</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -391,10 +343,6 @@
                 <date>2015-12-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -412,7 +360,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>lc-1989-silv-01</id>
+            <id>sa--silv-01</id>
             <person-id>silverman-joy-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -420,10 +368,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -438,9 +382,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
+        <chief>
+            <id>sa--rizz-01</id>
+            <person-id>rizzuto-leandro</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>saint-lucia</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of January 8, 2018 and renomination of January 16, 2019 returned to the president on January 3, 2020.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

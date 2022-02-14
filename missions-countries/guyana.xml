@@ -3,7 +3,7 @@
     <territory-id>guyana</territory-id>
     <chiefs>
         <chief>
-            <id>gy-1966-carl-01</id>
+            <id>gu-1966-carl-01</id>
             <person-id>carlson-delmar-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1966-06-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-08-17</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1969-king-01</id>
+            <id>gu-1969-king-01</id>
             <person-id>king-spencer-mathews</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1969-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-10-15</date>
                 <note/>
@@ -58,7 +50,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1974-kreb-01</id>
+            <id>gu-1974-kreb-01</id>
             <person-id>krebs-max-vance</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -66,10 +58,6 @@
                 <date>1974-02-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-04-04</date>
                 <note/>
@@ -85,7 +73,7 @@
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1977-burk-01</id>
+            <id>gu-1977-burk-01</id>
             <person-id>burke-john-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -93,10 +81,6 @@
                 <date>1977-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-09-30</date>
                 <note/>
@@ -112,7 +96,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1979-robe-01</id>
+            <id>gu-1979-robe-01</id>
             <person-id>roberts-george-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -120,10 +104,6 @@
                 <date>1979-10-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1979-11-05</date>
                 <note/>
@@ -139,7 +119,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1981-thom-01</id>
+            <id>gu-1981-thom-01</id>
             <person-id>thomas-gerald-eustis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -147,10 +127,6 @@
                 <date>1981-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-02-18</date>
                 <note/>
@@ -166,7 +142,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1984-laud-01</id>
+            <id>gu-1984-laud-01</id>
             <person-id>lauderdale-clint-arlen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -174,10 +150,6 @@
                 <date>1984-06-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-08-02</date>
                 <note/>
@@ -193,7 +165,7 @@
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1987-tull-01</id>
+            <id>gu-1987-tull-01</id>
             <person-id>tull-theresa-anne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -201,10 +173,6 @@
                 <date>1987-07-31</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-09-18</date>
                 <note/>
@@ -220,7 +188,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1990-hays-01</id>
+            <id>gu--hays-01</id>
             <person-id>hays-dennis-k</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -228,16 +196,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1990-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1990-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1992-01</date>
+                <date>1992-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -247,7 +215,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1992-jone-01</id>
+            <id>gu-1991-jone-01</id>
             <person-id>jones-george-fleming</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -255,10 +223,6 @@
                 <date>1991-12-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-01-21</date>
                 <note/>
@@ -274,7 +238,7 @@
             <last-modified-date>2015-08-10</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1995-hobb-01</id>
+            <id>gu-1995-hobb-01</id>
             <person-id>hobbs-david-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -282,10 +246,6 @@
                 <date>1995-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-11-02</date>
                 <note/>
@@ -301,7 +261,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1996-simo-01</id>
+            <id>gu--simo-01</id>
             <person-id>simon-hugh-v</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -309,16 +269,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1996-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1996-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1997-09</date>
+                <date>1997-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -328,7 +288,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>gy-1997-mack-01</id>
+            <id>gu-1997-mack-01</id>
             <person-id>mack-james-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -336,10 +296,6 @@
                 <date>1997-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-09-25</date>
                 <note/>
@@ -355,7 +311,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gy-2000-goda-01</id>
+            <id>gu-2000-goda-01</id>
             <person-id>godard-ronald-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -363,10 +319,6 @@
                 <date>2000-12-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-01-29</date>
                 <note/>
@@ -382,7 +334,7 @@
             <last-modified-date>2013-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>gy-2003-bull-01</id>
+            <id>gu-2003-bull-01</id>
             <person-id>bullen-roland-wentworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -390,10 +342,6 @@
                 <date>2003-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-08-14</date>
                 <note/>
@@ -409,7 +357,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>gy-2006-robi-01</id>
+            <id>gu-2006-robi-01</id>
             <person-id>robinson-david-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -417,10 +365,6 @@
                 <date>2006-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-08-26</date>
                 <note/>
@@ -436,7 +380,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>gy-2008-jone-01</id>
+            <id>gu-2008-jone-01</id>
             <person-id>jones-john-melvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -444,10 +388,6 @@
                 <date>2008-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-10-08</date>
                 <note/>
@@ -463,7 +403,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>gy-2011-hard-01</id>
+            <id>gu-2011-hard-01</id>
             <person-id>hardt-d-brent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -471,10 +411,6 @@
                 <date>2011-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-09-15</date>
                 <note/>
@@ -490,7 +426,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>gy-2015-holl-01</id>
+            <id>gu-2015-holl-01</id>
             <person-id>holloway-perry-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -498,10 +434,6 @@
                 <date>2015-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-10-02</date>
                 <note/>
@@ -517,7 +449,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>gy-2019-lync-01</id>
+            <id>gu-2019-lync-01</id>
             <person-id>lynch-sarah-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -525,14 +457,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-03-08</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-03-13</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-03-08</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -546,7 +478,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>gy--magu-01</id>
+            <id>gu--magu-01</id>
             <person-id>maguire-william-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -554,10 +486,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -573,8 +501,4 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

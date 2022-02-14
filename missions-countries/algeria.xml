@@ -3,7 +3,7 @@
     <territory-id>algeria</territory-id>
     <chiefs>
         <chief>
-            <id>dz-1962-port-01</id>
+            <id>al-1962-port-01</id>
             <person-id>porter-william-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1962-11-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1962-12-17</date>
                 <note/>
@@ -31,7 +27,7 @@
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1965-jern-01</id>
+            <id>al-1965-jern-01</id>
             <person-id>jernegan-john-durnford</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -39,10 +35,6 @@
                 <date>1965-07-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1965-10-13</date>
                 <note/>
@@ -66,7 +58,7 @@
             <last-modified-date>2015-05-22</last-modified-date>
         </mission-note>
         <chief>
-            <id>dz-1967-hoff-01</id>
+            <id>al--hoff-01</id>
             <person-id>hoffacker-roscoe-lewis</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -74,16 +66,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1967-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1967-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1969-11</date>
+                <date>1969-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -93,7 +85,7 @@
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1967-eagl-01</id>
+            <id>al--eagl-01</id>
             <person-id>eagleton-william-lester-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -101,16 +93,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1969-12</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1969-12-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1974-07</date>
+                <date>1974-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -119,15 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
-        <mission-note>
-            <text>Embassy Algiers was re-established November 12, 1974.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-05-22</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-22</last-modified-date>
-        </mission-note>
         <chief>
-            <id>dz-1974-park-01</id>
+            <id>al--park-01</id>
             <person-id>parker-richard-bordeaux</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -135,14 +120,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1974-11-12</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1975-01-17</date>
                 <note>Presented credentials as Ambassador on</note>
@@ -153,8 +138,15 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Algiers was re-established November 12, 1974.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-05-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-05-22</last-modified-date>
+        </mission-note>
         <chief>
-            <id>dz-1974-park-02</id>
+            <id>al-1974-park-01</id>
             <person-id>parker-richard-bordeaux</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -162,10 +154,6 @@
                 <date>1974-12-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-01-17</date>
                 <note/>
@@ -181,7 +169,7 @@
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1977-hayn-01</id>
+            <id>al-1977-hayn-01</id>
             <person-id>haynes-ulric-st-clair</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -189,10 +177,6 @@
                 <date>1977-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-07-13</date>
                 <note/>
@@ -208,7 +192,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1981-newl-01</id>
+            <id>al-1981-newl-01</id>
             <person-id>newlin-michael-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -216,10 +200,6 @@
                 <date>1981-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-10-28</date>
                 <note/>
@@ -235,7 +215,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1985-john-01</id>
+            <id>al-1985-john-01</id>
             <person-id>johnstone-l-craig</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -243,10 +223,6 @@
                 <date>1985-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-09-09</date>
                 <note/>
@@ -262,7 +238,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1988-ross-01</id>
+            <id>al-1988-ross-01</id>
             <person-id>ross-christopher-w-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -270,10 +246,6 @@
                 <date>1988-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-09-20</date>
                 <note/>
@@ -289,7 +261,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1991-case-01</id>
+            <id>al-1991-case-01</id>
             <person-id>casey-mary-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -297,10 +269,6 @@
                 <date>1991-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1991-09-08</date>
                 <note/>
@@ -316,7 +284,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1994-neum-01</id>
+            <id>al-1994-neum-01</id>
             <person-id>neumann-ronald-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -324,10 +292,6 @@
                 <date>1994-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-09-18</date>
                 <note/>
@@ -343,7 +307,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1997-hume-01</id>
+            <id>al-1997-hume-01</id>
             <person-id>hume-cameron-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -351,10 +315,6 @@
                 <date>1997-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-12-28</date>
                 <note/>
@@ -370,7 +330,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>dz-2000-sand-01</id>
+            <id>al-2000-sand-01</id>
             <person-id>sanderson-janet-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -378,10 +338,6 @@
                 <date>2000-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-10-30</date>
                 <note/>
@@ -397,7 +353,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>dz-2003-erdm-01</id>
+            <id>al-2003-erdm-01</id>
             <person-id>erdman-richard-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -405,10 +361,6 @@
                 <date>2003-05-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-07-26</date>
                 <note/>
@@ -424,7 +376,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dz-2006-ford-01</id>
+            <id>al-2006-ford-01</id>
             <person-id>ford-robert-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -432,10 +384,6 @@
                 <date>2006-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-09-04</date>
                 <note/>
@@ -451,7 +399,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>dz-2008-pear-01</id>
+            <id>al-2008-pear-01</id>
             <person-id>pearce-david-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -459,10 +407,6 @@
                 <date>2008-08-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-09-02</date>
                 <note/>
@@ -478,7 +422,7 @@
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>dz-2011-ensh-01</id>
+            <id>al-2011-ensh-01</id>
             <person-id>ensher-henry-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -486,10 +430,6 @@
                 <date>2011-06-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-08-10</date>
                 <note/>
@@ -505,7 +445,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>dz-2014-pola-01</id>
+            <id>al-2014-pola-01</id>
             <person-id>polaschik-joan-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -513,10 +453,6 @@
                 <date>2014-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-10-29</date>
                 <note/>
@@ -532,7 +468,7 @@
             <last-modified-date>2019-05-16</last-modified-date>
         </chief>
         <chief>
-            <id>dz-2017-desr-01</id>
+            <id>al-2017-desr-01</id>
             <person-id>desrocher-john-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -540,14 +476,14 @@
                 <date>2017-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-09-20</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-09-28</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-09-20</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-08-24</date>
                 <note>Departed post on</note>
@@ -560,8 +496,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2019-10-08</last-modified-date>
 </country-mission>

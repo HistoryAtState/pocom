@@ -3,7 +3,7 @@
     <territory-id>austria</territory-id>
     <chiefs>
         <chief>
-            <id>at-1838-muhl-01</id>
+            <id>au-1838-muhl-01</id>
             <person-id>muhlenberg-henry-augustus-philip</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1838-02-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1838-11-07</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1841-jeni-01</id>
+            <id>au-1841-jeni-01</id>
             <person-id>jenifer-daniel</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1841-08-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1842-03-30</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1845-stil-01</id>
+            <id>au-1845-stil-01</id>
             <person-id>stiles-william-henry</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -65,14 +57,14 @@
                 <date>1845-04-19</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1845-08-05</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1849-08-01</date>
                 <note>Left post on</note>
@@ -85,7 +77,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1849-webb-01</id>
+            <id>au-1849-webb-01</id>
             <person-id>webb-james-watson</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -93,14 +85,14 @@
                 <date>1849-11-01</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1850-02-06</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1850-05-08</date>
                 <note>Left post on</note>
@@ -113,7 +105,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1850-mccu-01</id>
+            <id>au-1850-mccu-01</id>
             <person-id>mccurdy-charles-johnson</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -121,14 +113,14 @@
                 <date>1850-09-27</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1851-03-14</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1852-10-12</date>
                 <note>Had farewell audience on</note>
@@ -140,7 +132,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1852-foot-01</id>
+            <id>au-1852-foot-01</id>
             <person-id>foote-thomas-moses</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -148,14 +140,14 @@
                 <date>1852-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1852-12-14</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1853-06-25</date>
                 <note>Presented recall on</note>
@@ -168,7 +160,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1853-jack-01</id>
+            <id>au-1853-jack-01</id>
             <person-id>jackson-henry-rootes</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -176,14 +168,14 @@
                 <date>1853-05-24</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1853-09-16</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1854-09-28</date>
                 <note>Promoted to Minister Resident on</note>
@@ -196,7 +188,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1854-jack-01</id>
+            <id>au-1854-jack-01</id>
             <person-id>jackson-henry-rootes</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -204,10 +196,6 @@
                 <date>1854-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1854-09-28</date>
                 <note/>
@@ -224,7 +212,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1858-jone-02</id>
+            <id>au-1858-jone-01</id>
             <person-id>jones-jehu-glancy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -232,10 +220,6 @@
                 <date>1858-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1859-02-14</date>
                 <note/>
@@ -251,7 +235,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1861-motl-01</id>
+            <id>au-1861-motl-01</id>
             <person-id>motley-john-lothrop</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -259,10 +243,6 @@
                 <date>1861-08-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1861-11-14</date>
                 <note/>
@@ -279,7 +259,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1868-watt-01</id>
+            <id>au-1868-watt-01</id>
             <person-id>watts-henry-miller</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -287,10 +267,6 @@
                 <date>1868-07-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1868-09-25</date>
                 <note/>
@@ -306,7 +282,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1869-jay-01</id>
+            <id>au-1869-jay--01</id>
             <person-id>jay-john-ii</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -314,10 +290,6 @@
                 <date>1869-04-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-06-01</date>
                 <note/>
@@ -333,7 +305,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1875-orth-01</id>
+            <id>au-1875-orth-01</id>
             <person-id>orth-godlove-stein</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -341,10 +313,6 @@
                 <date>1875-03-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1875-05-24</date>
                 <note/>
@@ -360,7 +328,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1876-beal-01</id>
+            <id>au-1876-beal-01</id>
             <person-id>beale-edward-fitzgerald</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -368,10 +336,6 @@
                 <date>1876-06-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1876-08-10</date>
                 <note/>
@@ -387,7 +351,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1877-kass-01</id>
+            <id>au-1877-kass-01</id>
             <person-id>kasson-john-adam</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -395,10 +359,6 @@
                 <date>1877-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1877-08-30</date>
                 <note/>
@@ -415,7 +375,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1881-phel-01</id>
+            <id>au-1881-phel-01</id>
             <person-id>phelps-william-walter</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -423,10 +383,6 @@
                 <date>1881-05-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1881-06-20</date>
                 <note/>
@@ -442,7 +398,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1882-taft-01</id>
+            <id>au-1882-taft-01</id>
             <person-id>taft-alphonso</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -450,10 +406,6 @@
                 <date>1882-04-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1882-06-30</date>
                 <note/>
@@ -469,7 +421,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1884-fran-01</id>
+            <id>au-1884-fran-01</id>
             <person-id>francis-john-morgan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -477,10 +429,6 @@
                 <date>1884-07-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1884-09-11</date>
                 <note/>
@@ -496,7 +444,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1887-lawt-01</id>
+            <id>au-1887-lawt-01</id>
             <person-id>lawton-alexander-robert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -504,10 +452,6 @@
                 <date>1887-04-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1887-08-25</date>
                 <note/>
@@ -524,7 +468,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1889-gran-01</id>
+            <id>au-1889-gran-01</id>
             <person-id>grant-frederick-dent</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -532,10 +476,6 @@
                 <date>1889-03-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-05-15</date>
                 <note/>
@@ -551,7 +491,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1893-trip-01</id>
+            <id>au-1893-trip-01</id>
             <person-id>tripp-bartlett</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -559,10 +499,6 @@
                 <date>1893-04-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-06-08</date>
                 <note/>
@@ -578,7 +514,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1897-towe-01</id>
+            <id>au-1897-towe-01</id>
             <person-id>tower-charlemagne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -586,10 +522,6 @@
                 <date>1897-04-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1897-06-18</date>
                 <note/>
@@ -605,7 +537,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1899-harr-01</id>
+            <id>au-1899-harr-01</id>
             <person-id>harris-addison-clay</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -613,10 +545,6 @@
                 <date>1899-01-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1899-04-13</date>
                 <note/>
@@ -632,7 +560,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1901-mcco-01</id>
+            <id>au-1901-mcco-01</id>
             <person-id>mccormick-robert-sanderson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -640,10 +568,6 @@
                 <date>1901-03-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1901-04-29</date>
                 <note/>
@@ -659,7 +583,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1902-mcco-01</id>
+            <id>au-1902-mcco-01</id>
             <person-id>mccormick-robert-sanderson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -667,10 +591,6 @@
                 <date>1902-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1902-06-26</date>
                 <note/>
@@ -686,7 +606,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1902-stor-01</id>
+            <id>au-1902-stor-01</id>
             <person-id>storer-bellamy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -694,10 +614,6 @@
                 <date>1902-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1903-01-03</date>
                 <note/>
@@ -714,7 +630,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1906-fran-01</id>
+            <id>au-1906-fran-01</id>
             <person-id>francis-charles-spencer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -722,10 +638,6 @@
                 <date>1906-03-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1906-05-29</date>
                 <note/>
@@ -741,7 +653,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1909-kere-01</id>
+            <id>au-1909-kere-01</id>
             <person-id>kerens-richard-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -749,10 +661,6 @@
                 <date>1909-12-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1910-04-12</date>
                 <note/>
@@ -768,7 +676,34 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1913-penf-01</id>
+            <id>au--grew-01</id>
+            <person-id>grew-joseph-clark</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>austria</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <arrived>
+                <date>1913-04-07</date>
+                <note/>
+            </arrived>
+            <ended>
+                <date>1917-04-09</date>
+                <note>Austria-Hungary severed relations with the United States on</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-08-19</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-12-30</last-modified-date>
+        </chief>
+        <chief>
+            <id>au-1913-penf-01</id>
             <person-id>penfield-frederic-courtland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -776,10 +711,6 @@
                 <date>1913-07-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-09-26</date>
                 <note/>
@@ -795,34 +726,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>at-1917-grew-01</id>
-            <person-id>grew-joseph-clark</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>austria</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1913-04-07</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1917-04-09</date>
-                <note>Austria-Hungary severed relations with the United States on</note>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-08-19</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-12-30</last-modified-date>
-        </chief>
-        <chief>
-            <id>at-1921-fraz-01</id>
+            <id>au--fraz-01</id>
             <person-id>frazier-arthur-hugh</person-id>
             <role-title-id>charge-daffaires-pro-tem</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -830,11 +734,7 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1921-11-26</date>
                 <note/>
             </started>
@@ -851,7 +751,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1922-wash-01</id>
+            <id>au-1922-wash-01</id>
             <person-id>washburn-albert-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -859,10 +759,6 @@
                 <date>1922-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1922-06-19</date>
                 <note/>
@@ -878,7 +774,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>at-1930-stoc-01</id>
+            <id>au-1930-stoc-01</id>
             <person-id>stockton-gilchrist-baker</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -886,10 +782,6 @@
                 <date>1930-01-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-05-15</date>
                 <note/>
@@ -905,7 +797,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1933-earl-01</id>
+            <id>au-1933-earl-01</id>
             <person-id>earle-george-howard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -913,10 +805,6 @@
                 <date>1933-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-09-27</date>
                 <note/>
@@ -933,7 +821,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1934-mess-01</id>
+            <id>au-1934-mess-01</id>
             <person-id>messersmith-george-strausser</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -941,10 +829,6 @@
                 <date>1934-04-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1934-05-23</date>
                 <note/>
@@ -960,7 +844,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1937-emme-01</id>
+            <id>au-1937-emme-01</id>
             <person-id>emmet-grenville-temple</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -968,10 +852,6 @@
                 <date>1937-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-09-14</date>
                 <note/>
@@ -986,9 +866,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-
         <chief>
-            <id>at-1937-wile-01</id>
+            <id>au--wile-01</id>
             <person-id>wiley-john-cooper</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -996,14 +875,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1937-09-26</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1938-04-30</date>
                 <note>Legation closed on</note>
@@ -1015,7 +894,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1946-erha-01</id>
+            <id>au-1946-erha-01</id>
             <person-id>erhardt-john-george</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1023,10 +902,6 @@
                 <date>1946-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1946-09-07</date>
                 <note/>
@@ -1042,7 +917,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1950-donn-01</id>
+            <id>au-1950-donn-01</id>
             <person-id>donnelly-walter-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1050,10 +925,6 @@
                 <date>1950-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1950-10-25</date>
                 <note/>
@@ -1069,7 +940,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1951-donn-01</id>
+            <id>au-1951-donn-01</id>
             <person-id>donnelly-walter-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1077,10 +948,6 @@
                 <date>1951-11-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1951-11-28</date>
                 <note/>
@@ -1097,7 +964,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1952-thom-01</id>
+            <id>au-1952-thom-01</id>
             <person-id>thompson-llewellyn-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1105,10 +972,6 @@
                 <date>1952-07-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1952-09-04</date>
                 <note/>
@@ -1125,7 +988,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1957-matt-01</id>
+            <id>au-1957-matt-01</id>
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1133,10 +996,6 @@
                 <date>1957-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-09-04</date>
                 <note/>
@@ -1152,7 +1011,7 @@
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
         <chief>
-            <id>at-1962-ridd-01</id>
+            <id>au-1962-ridd-01</id>
             <person-id>riddleberger-james-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1160,10 +1019,6 @@
                 <date>1962-10-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1962-12-12</date>
                 <note/>
@@ -1179,7 +1034,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1967-maca-01</id>
+            <id>au-1967-maca-01</id>
             <person-id>macarthur-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1187,10 +1042,6 @@
                 <date>1967-04-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-05-24</date>
                 <note/>
@@ -1206,7 +1057,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1969-hume-01</id>
+            <id>au-1969-hume-01</id>
             <person-id>humes-john-portner</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1214,10 +1065,6 @@
                 <date>1969-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-10-29</date>
                 <note/>
@@ -1233,7 +1080,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1975-buch-01</id>
+            <id>au-1975-buch-01</id>
             <person-id>buchanan-wiley-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1241,10 +1088,6 @@
                 <date>1975-03-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-04-02</date>
                 <note/>
@@ -1260,7 +1103,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1977-wolf-01</id>
+            <id>au-1977-wolf-01</id>
             <person-id>wolf-milton-albert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1268,10 +1111,6 @@
                 <date>1977-06-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-09-05</date>
                 <note/>
@@ -1287,7 +1126,7 @@
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1980-kais-01</id>
+            <id>au-1980-kais-01</id>
             <person-id>kaiser-philip-mayer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1295,10 +1134,6 @@
                 <date>1980-02-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-03-25</date>
                 <note/>
@@ -1314,7 +1149,7 @@
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
         <chief>
-            <id>at-1981-cumm-01</id>
+            <id>au-1981-cumm-01</id>
             <person-id>cummings-theodore-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1322,10 +1157,6 @@
                 <date>1981-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-09-02</date>
                 <note/>
@@ -1342,7 +1173,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1983-von-01</id>
+            <id>au-1983-von--01</id>
             <person-id>von-damm-helene-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1350,10 +1181,6 @@
                 <date>1983-05-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-06-22</date>
                 <note/>
@@ -1369,7 +1196,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1986-laud-01</id>
+            <id>au-1986-laud-01</id>
             <person-id>lauder-ronald-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1377,10 +1204,6 @@
                 <date>1986-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-05-07</date>
                 <note/>
@@ -1396,7 +1219,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1987-grun-01</id>
+            <id>au-1987-grun-01</id>
             <person-id>grunwald-henry-anatole</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1404,10 +1227,6 @@
                 <date>1987-12-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-01-20</date>
                 <note/>
@@ -1423,7 +1242,7 @@
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
         <chief>
-            <id>at-1990-huff-01</id>
+            <id>au-1990-huff-01</id>
             <person-id>huffington-roy-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1431,10 +1250,6 @@
                 <date>1990-08-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-09-11</date>
                 <note/>
@@ -1450,7 +1265,7 @@
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
         <chief>
-            <id>at-1993-hunt-01</id>
+            <id>au-1993-hunt-01</id>
             <person-id>hunt-swanee-grace</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1458,10 +1273,6 @@
                 <date>1993-11-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-12-16</date>
                 <note/>
@@ -1477,7 +1288,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1997-hall-01</id>
+            <id>au-1997-hall-01</id>
             <person-id>hall-kathryn-walt</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1485,10 +1296,6 @@
                 <date>1997-11-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-12-11</date>
                 <note/>
@@ -1504,7 +1311,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-2001-brow-01</id>
+            <id>au-2001-brow-01</id>
             <person-id>brown-lyons</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1512,10 +1319,6 @@
                 <date>2001-11-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-12-19</date>
                 <note/>
@@ -1531,7 +1334,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-2005-mcca-01</id>
+            <id>au-2005-mcca-01</id>
             <person-id>mccaw-susan-rasinski</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1539,10 +1342,6 @@
                 <date>2005-11-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-01-08</date>
                 <note/>
@@ -1558,7 +1357,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-2008-gira-01</id>
+            <id>au-2008-gira-01</id>
             <person-id>girard-dicarlo-david-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1566,10 +1365,6 @@
                 <date>2008-08-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-09-10</date>
                 <note/>
@@ -1585,7 +1380,7 @@
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-2009-each-01</id>
+            <id>au-2009-each-01</id>
             <person-id>eacho-william-carlton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1593,10 +1388,6 @@
                 <date>2009-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-09-14</date>
                 <note/>
@@ -1612,7 +1403,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-2013-wesn-01</id>
+            <id>au-2013-wesn-01</id>
             <person-id>wesner-alexa-lange</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1620,10 +1411,6 @@
                 <date>2013-08-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-10-22</date>
                 <note/>
@@ -1639,7 +1426,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>at-2017-youn-01</id>
+            <id>au--youn-01</id>
             <person-id>young-eugene</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1647,14 +1434,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-01-20</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2018-05-18</date>
                 <note/>
@@ -1666,7 +1453,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>at-2018-trai-01</id>
+            <id>au-2018-trai-01</id>
             <person-id>traina-trevor-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1674,12 +1461,35 @@
                 <date>2018-03-29</date>
                 <note/>
             </appointed>
+            <started>
+                <date>2018-05-24</date>
+                <note/>
+            </started>
             <arrived>
                 <date>2018-05-18</date>
                 <note/>
             </arrived>
+            <ended>
+                <date>2021-01-20</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-21</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>au-2021-kenn-01</id>
+            <person-id>kennedy-victoria-reggie</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>austria</contemporary-territory-id>
+            <appointed>
+                <date>2021-11-15</date>
+                <note/>
+            </appointed>
             <started>
-                <date>2018-05-24</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1688,14 +1498,14 @@
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
-            <created-date>2019-05-21</created-date>
-            <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <created-date>2021-12-08</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>at-1858-jone-01</id>
+            <id>au-1858-jone-01</id>
             <person-id>jones-jehu-glancy</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1703,10 +1513,6 @@
                 <date>1858-11-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1723,7 +1529,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1861-burl-01</id>
+            <id>au-1861-burl-01</id>
             <person-id>burlingame-anson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1731,10 +1537,6 @@
                 <date>1861-03-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1750,7 +1552,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at--cowa-01</id>
+            <id>au--cowa-01</id>
             <person-id>cowan-edgar</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1758,10 +1560,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1777,7 +1575,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at--blai-01</id>
+            <id>au--blai-01</id>
             <person-id>blair-francis-preston</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1785,10 +1583,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1804,7 +1598,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at--nesm-01</id>
+            <id>au--nesm-01</id>
             <person-id>nesmith-james-willis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1812,10 +1606,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1831,7 +1621,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at--stoc-01</id>
+            <id>au--stoc-01</id>
             <person-id>stockton-john-potter</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1839,10 +1629,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1858,7 +1644,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at--raym-01</id>
+            <id>au--raym-01</id>
             <person-id>raymond-henry-jarvis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1866,10 +1652,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1885,7 +1667,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1867-gree-01</id>
+            <id>au-1867-gree-01</id>
             <person-id>greeley-horace</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1893,10 +1675,6 @@
                 <date>1867-11-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1912,7 +1690,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at--cox-01</id>
+            <id>au--cox--01</id>
             <person-id>cox-samuel-sullivan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1920,10 +1698,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1939,7 +1713,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at--smyt-01</id>
+            <id>au--smyt-01</id>
             <person-id>smythe-henry-a</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1947,10 +1721,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1966,7 +1736,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1885-keil-01</id>
+            <id>au-1885-keil-01</id>
             <person-id>keiley-anthony-michael</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1974,10 +1744,6 @@
                 <date>1885-04-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1995,7 +1761,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1008-garg-01</id>
+            <id>au--garg-01</id>
             <person-id>gargano-charles-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -2003,10 +1769,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2022,8 +1784,4 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>spain</territory-id>
     <chiefs>
         <chief>
-            <id>es-1790-carm-01</id>
+            <id>sp-1790-carm-01</id>
             <person-id>carmichael-william-jr</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -11,11 +11,7 @@
                 <date>1790-04-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -33,7 +29,7 @@
             <last-modified-date>2016-05-25</last-modified-date>
         </chief>
         <chief>
-            <id>es-1794-shor-01</id>
+            <id>sp-1794-shor-01</id>
             <person-id>short-william</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -41,10 +37,6 @@
                 <date>1794-05-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1794-09-07</date>
                 <note/>
@@ -60,7 +52,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1796-hump-01</id>
+            <id>sp-1796-hump-01</id>
             <person-id>humphreys-david</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -68,10 +60,6 @@
                 <date>1796-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1797-09-10</date>
                 <note/>
@@ -87,7 +75,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1801-pinc-01</id>
+            <id>sp-1801-pinc-01</id>
             <person-id>pinckney-charles</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -95,12 +83,8 @@
                 <date>1801-06-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date/>
+                <date>1802-01-01</date>
                 <note>January-March 1802</note>
             </started>
             <ended>
@@ -115,7 +99,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>es-1805-ervi-01</id>
+            <id>sp--ervi-01</id>
             <person-id>erving-george-william</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -123,16 +107,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1805-10</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1805-10-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1810-02</date>
+                <date>1810-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -142,7 +126,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1814-ervi-01</id>
+            <id>sp-1814-ervi-01</id>
             <person-id>erving-george-william</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -150,10 +134,6 @@
                 <date>1814-08-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1816-08-24</date>
                 <note/>
@@ -170,7 +150,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1819-fors-01</id>
+            <id>sp-1819-fors-01</id>
             <person-id>forsyth-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -178,10 +158,6 @@
                 <date>1819-02-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1819-05-18</date>
                 <note/>
@@ -197,7 +173,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1823-nels-01</id>
+            <id>sp-1823-nels-01</id>
             <person-id>nelson-hugh</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -205,10 +181,6 @@
                 <date>1823-01-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1823-12-04</date>
                 <note/>
@@ -224,7 +196,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1825-ever-01</id>
+            <id>sp-1825-ever-01</id>
             <person-id>everett-alexander-hill</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -232,10 +204,6 @@
                 <date>1825-03-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1825-09-04</date>
                 <note/>
@@ -251,7 +219,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1829-van-01</id>
+            <id>sp-1829-van--01</id>
             <person-id>van-ness-cornelius-peter</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -259,10 +227,6 @@
                 <date>1829-06-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1829-12-09</date>
                 <note/>
@@ -279,7 +243,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1836-eato-01</id>
+            <id>sp-1836-eato-01</id>
             <person-id>eaton-john-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -287,11 +251,7 @@
                 <date>1836-03-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -307,7 +267,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1840-vail-01</id>
+            <id>sp-1840-vail-01</id>
             <person-id>vail-aaron</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -315,14 +275,14 @@
                 <date>1840-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1840-11-05</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1842-08-01</date>
                 <note>Superseded</note>
@@ -334,7 +294,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1842-irvi-01</id>
+            <id>sp-1842-irvi-01</id>
             <person-id>irving-washington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -342,10 +302,6 @@
                 <date>1842-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1842-08-01</date>
                 <note/>
@@ -361,7 +317,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1846-saun-01</id>
+            <id>sp-1846-saun-01</id>
             <person-id>saunders-romulus-mitchell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -369,10 +325,6 @@
                 <date>1846-02-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1846-07-31</date>
                 <note/>
@@ -388,7 +340,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1849-barr-01</id>
+            <id>sp-1849-barr-01</id>
             <person-id>barringer-daniel-moreau</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -396,10 +348,6 @@
                 <date>1849-06-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1849-10-24</date>
                 <note/>
@@ -416,7 +364,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1853-soul-01</id>
+            <id>sp-1853-soul-01</id>
             <person-id>soule-pierre</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -424,10 +372,6 @@
                 <date>1853-04-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1853-10-24</date>
                 <note/>
@@ -443,7 +387,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1855-dodg-01</id>
+            <id>sp-1855-dodg-01</id>
             <person-id>dodge-augustus-caesar</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -451,10 +395,6 @@
                 <date>1855-02-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1855-06-17</date>
                 <note/>
@@ -470,7 +410,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1858-pres-01</id>
+            <id>sp-1858-pres-01</id>
             <person-id>preston-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -478,10 +418,6 @@
                 <date>1858-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1859-03-12</date>
                 <note/>
@@ -497,7 +433,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1861-schu-01</id>
+            <id>sp-1861-schu-01</id>
             <person-id>schurz-carl</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -505,10 +441,6 @@
                 <date>1861-03-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1861-07-13</date>
                 <note/>
@@ -524,7 +456,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1862-koer-01</id>
+            <id>sp-1862-koer-01</id>
             <person-id>koerner-gustavus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -532,10 +464,6 @@
                 <date>1862-06-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1862-11-04</date>
                 <note/>
@@ -551,7 +479,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1865-hale-01</id>
+            <id>sp-1865-hale-01</id>
             <person-id>hale-john-parker</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -559,10 +487,6 @@
                 <date>1865-03-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1865-09-30</date>
                 <note/>
@@ -578,7 +502,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1869-sick-01</id>
+            <id>sp-1869-sick-01</id>
             <person-id>sickles-daniel-edgar</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -586,10 +510,6 @@
                 <date>1869-05-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-07-29</date>
                 <note/>
@@ -607,7 +527,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>es-1874-cush-01</id>
+            <id>sp-1874-cush-01</id>
             <person-id>cushing-caleb</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -615,10 +535,6 @@
                 <date>1874-01-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1874-05-30</date>
                 <note/>
@@ -635,7 +551,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1877-lowe-01</id>
+            <id>sp-1877-lowe-01</id>
             <person-id>lowell-james-russell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -643,10 +559,6 @@
                 <date>1877-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1877-08-18</date>
                 <note/>
@@ -663,7 +575,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1880-fair-01</id>
+            <id>sp-1880-fair-01</id>
             <person-id>fairchild-lucius</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -671,10 +583,6 @@
                 <date>1880-01-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1880-03-31</date>
                 <note/>
@@ -690,7 +598,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1881-haml-01</id>
+            <id>sp-1881-haml-01</id>
             <person-id>hamlin-hannibal</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -698,10 +606,6 @@
                 <date>1881-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1881-12-20</date>
                 <note/>
@@ -718,7 +622,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1883-fost-01</id>
+            <id>sp-1883-fost-01</id>
             <person-id>foster-john-watson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -726,10 +630,6 @@
                 <date>1883-02-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1883-06-16</date>
                 <note/>
@@ -745,7 +645,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1885-curr-01</id>
+            <id>sp-1885-curr-01</id>
             <person-id>curry-jabez-lamar-monroe</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -753,10 +653,6 @@
                 <date>1885-10-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1885-12-22</date>
                 <note/>
@@ -773,7 +669,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1888-belm-01</id>
+            <id>sp-1888-belm-01</id>
             <person-id>belmont-perry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -781,10 +677,6 @@
                 <date>1888-11-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-02-13</date>
                 <note/>
@@ -801,7 +693,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1889-palm-01</id>
+            <id>sp-1889-palm-01</id>
             <person-id>palmer-thomas-witherell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -809,10 +701,6 @@
                 <date>1889-03-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-06-17</date>
                 <note/>
@@ -828,7 +716,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1890-grub-01</id>
+            <id>sp-1890-grub-01</id>
             <person-id>grubb-edward-burd</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -836,10 +724,6 @@
                 <date>1890-09-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1890-12-23</date>
                 <note/>
@@ -855,7 +739,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1892-snow-01</id>
+            <id>sp-1892-snow-01</id>
             <person-id>snowden-archibald-loudon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -863,10 +747,6 @@
                 <date>1892-07-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1892-10-06</date>
                 <note/>
@@ -882,7 +762,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1893-tayl-01</id>
+            <id>sp-1893-tayl-01</id>
             <person-id>taylor-hannis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -890,10 +770,6 @@
                 <date>1893-04-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-07-01</date>
                 <note/>
@@ -909,7 +785,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1897-wood-01</id>
+            <id>sp-1897-wood-01</id>
             <person-id>woodford-stewart-lyndon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -917,10 +793,6 @@
                 <date>1897-06-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1897-09-13</date>
                 <note/>
@@ -937,7 +809,7 @@
             <last-modified-date>2016-12-28</last-modified-date>
         </chief>
         <chief>
-            <id>es-1899-stor-01</id>
+            <id>sp-1899-stor-01</id>
             <person-id>storer-bellamy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -945,10 +817,6 @@
                 <date>1899-04-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1899-06-16</date>
                 <note/>
@@ -965,7 +833,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1902-hard-01</id>
+            <id>sp-1902-hard-01</id>
             <person-id>hardy-arthur-sherburne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -973,10 +841,6 @@
                 <date>1902-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1903-03-02</date>
                 <note/>
@@ -993,7 +857,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1905-coll-01</id>
+            <id>sp-1905-coll-01</id>
             <person-id>collier-william-miller</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1001,10 +865,6 @@
                 <date>1905-03-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1905-05-15</date>
                 <note/>
@@ -1020,7 +880,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1909-ide-01</id>
+            <id>sp-1909-ide--01</id>
             <person-id>ide-henry-clay</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1028,10 +888,6 @@
                 <date>1909-04-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1909-06-09</date>
                 <note/>
@@ -1047,7 +903,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1913-will-02</id>
+            <id>sp-1913-will-01</id>
             <person-id>willard-joseph-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1055,10 +911,6 @@
                 <date>1913-09-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-10-31</date>
                 <note/>
@@ -1074,7 +926,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1921-wood-01</id>
+            <id>sp-1921-wood-01</id>
             <person-id>woods-cyrus-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1082,10 +934,6 @@
                 <date>1921-06-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1921-10-14</date>
                 <note/>
@@ -1101,7 +949,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1923-moor-01</id>
+            <id>sp-1923-moor-01</id>
             <person-id>moore-alexander-pollock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1109,10 +957,6 @@
                 <date>1923-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1923-05-16</date>
                 <note/>
@@ -1128,7 +972,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1925-hamm-01</id>
+            <id>sp-1925-hamm-01</id>
             <person-id>hammond-ogden-haggerty</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1136,10 +980,6 @@
                 <date>1925-12-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1926-03-26</date>
                 <note/>
@@ -1155,7 +995,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1929-laug-01</id>
+            <id>sp-1929-laug-01</id>
             <person-id>laughlin-irwin-boyle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1163,10 +1003,6 @@
                 <date>1929-10-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1929-12-24</date>
                 <note/>
@@ -1182,7 +1018,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1933-bowe-01</id>
+            <id>sp-1933-bowe-01</id>
             <person-id>bowers-claude-gernade</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1190,10 +1026,6 @@
                 <date>1933-04-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-06-01</date>
                 <note/>
@@ -1211,7 +1043,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1939-matt-01</id>
+            <id>sp--matt-01</id>
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1219,10 +1051,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1939-04-13</date>
                 <note>Embassy re-established when Matthews was received at Burgos on</note>
@@ -1238,7 +1066,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1939-wedd-01</id>
+            <id>sp-1939-wedd-01</id>
             <person-id>weddell-alexander-wilbourne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1246,10 +1074,6 @@
                 <date>1939-05-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1939-06-15</date>
                 <note/>
@@ -1265,7 +1089,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1942-haye-01</id>
+            <id>sp-1942-haye-01</id>
             <person-id>hayes-carlton-joseph-huntley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1273,10 +1097,6 @@
                 <date>1942-05-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1942-06-09</date>
                 <note/>
@@ -1292,7 +1112,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1944-armo-01</id>
+            <id>sp-1944-armo-01</id>
             <person-id>armour-norman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1300,10 +1120,6 @@
                 <date>1944-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1945-03-24</date>
                 <note/>
@@ -1319,7 +1135,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1946-bons-01</id>
+            <id>sp--bons-01</id>
             <person-id>bonsal-philip-wilson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1327,16 +1143,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1946-03</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1946-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1947-06</date>
+                <date>1947-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1346,7 +1162,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1947-culb-01</id>
+            <id>sp--culb-01</id>
             <person-id>culbertson-paul-trauger</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1354,16 +1170,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1947-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1947-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1950-12</date>
+                <date>1950-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1373,7 +1189,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1951-grif-01</id>
+            <id>sp-1951-grif-01</id>
             <person-id>griffis-stanton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1381,10 +1197,6 @@
                 <date>1951-02-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1951-03-01</date>
                 <note/>
@@ -1400,7 +1212,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1952-macv-01</id>
+            <id>sp-1952-macv-01</id>
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1408,10 +1220,6 @@
                 <date>1952-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1952-03-27</date>
                 <note/>
@@ -1427,7 +1235,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1953-dunn-01</id>
+            <id>sp-1953-dunn-01</id>
             <person-id>dunn-james-clement</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1435,10 +1243,6 @@
                 <date>1953-02-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-04-09</date>
                 <note/>
@@ -1454,7 +1258,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1955-lodg-01</id>
+            <id>sp-1955-lodg-01</id>
             <person-id>lodge-john-davis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1462,10 +1266,6 @@
                 <date>1955-01-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1955-03-24</date>
                 <note/>
@@ -1481,7 +1281,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1961-bidd-01</id>
+            <id>sp-1961-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1489,10 +1289,6 @@
                 <date>1961-03-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-05-25</date>
                 <note/>
@@ -1508,7 +1304,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1962-wood-01</id>
+            <id>sp-1962-wood-01</id>
             <person-id>woodward-robert-forbes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1516,10 +1312,6 @@
                 <date>1962-04-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1962-05-10</date>
                 <note/>
@@ -1535,7 +1327,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1965-duke-01</id>
+            <id>sp-1965-duke-01</id>
             <person-id>duke-angier-biddle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1543,10 +1335,6 @@
                 <date>1965-03-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1965-04-01</date>
                 <note/>
@@ -1562,7 +1350,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1968-wagn-01</id>
+            <id>sp-1968-wagn-01</id>
             <person-id>wagner-robert-ferdinand</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1570,10 +1358,6 @@
                 <date>1968-06-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1968-07-04</date>
                 <note/>
@@ -1589,7 +1373,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1969-hill-01</id>
+            <id>sp-1969-hill-01</id>
             <person-id>hill-robert-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1597,10 +1381,6 @@
                 <date>1969-05-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-06-12</date>
                 <note/>
@@ -1616,7 +1396,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1972-rive-01</id>
+            <id>sp-1972-rive-01</id>
             <person-id>rivero-horacio</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1624,10 +1404,6 @@
                 <date>1972-09-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-10-11</date>
                 <note/>
@@ -1643,7 +1419,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1975-stab-01</id>
+            <id>sp-1975-stab-01</id>
             <person-id>stabler-wells</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1651,10 +1427,6 @@
                 <date>1975-02-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-03-13</date>
                 <note/>
@@ -1670,7 +1442,7 @@
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
         <chief>
-            <id>es-1978-todm-01</id>
+            <id>sp-1978-todm-01</id>
             <person-id>todman-terence-alphonso</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1678,10 +1450,6 @@
                 <date>1978-05-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-07-20</date>
                 <note/>
@@ -1697,7 +1465,7 @@
             <last-modified-date>2014-09-08</last-modified-date>
         </chief>
         <chief>
-            <id>es-1983-ende-01</id>
+            <id>sp-1983-ende-01</id>
             <person-id>enders-thomas-ostrom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1705,10 +1473,6 @@
                 <date>1983-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-09-15</date>
                 <note/>
@@ -1724,7 +1488,7 @@
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
         <chief>
-            <id>es-1986-bart-01</id>
+            <id>sp-1986-bart-01</id>
             <person-id>bartholomew-reginald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1732,10 +1496,6 @@
                 <date>1986-08-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-09-17</date>
                 <note/>
@@ -1751,7 +1511,7 @@
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
         <chief>
-            <id>es-1989-zapp-01</id>
+            <id>sp-1989-zapp-01</id>
             <person-id>zappala-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1759,10 +1519,6 @@
                 <date>1989-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-10-16</date>
                 <note/>
@@ -1778,7 +1534,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1992-cape-01</id>
+            <id>sp-1992-cape-01</id>
             <person-id>capen-richard-goodwin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1786,10 +1542,6 @@
                 <date>1992-06-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-07-08</date>
                 <note/>
@@ -1805,7 +1557,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1993-gard-01</id>
+            <id>sp-1993-gard-01</id>
             <person-id>gardner-richard-newton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1813,10 +1565,6 @@
                 <date>1993-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-11-04</date>
                 <note/>
@@ -1832,7 +1580,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1998-rome-01</id>
+            <id>sp-1998-rome-01</id>
             <person-id>romero-edward-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1840,10 +1588,6 @@
                 <date>1998-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-06-30</date>
                 <note/>
@@ -1859,7 +1603,7 @@
             <last-modified-date>2015-06-10</last-modified-date>
         </chief>
         <chief>
-            <id>es-2001-argy-01</id>
+            <id>sp-2001-argy-01</id>
             <person-id>argyros-george-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1867,10 +1611,6 @@
                 <date>2001-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-12-13</date>
                 <note/>
@@ -1886,7 +1626,7 @@
             <last-modified-date>2015-06-10</last-modified-date>
         </chief>
         <chief>
-            <id>es-2005-agui-01</id>
+            <id>sp-2005-agui-01</id>
             <person-id>aguirre-eduardo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1894,10 +1634,6 @@
                 <date>2005-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-06-29</date>
                 <note/>
@@ -1913,7 +1649,7 @@
             <last-modified-date>2016-06-10</last-modified-date>
         </chief>
         <chief>
-            <id>es-2009-solo-01</id>
+            <id>sp-2009-solo-01</id>
             <person-id>solomont-alan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1921,10 +1657,6 @@
                 <date>2009-12-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-01-27</date>
                 <note/>
@@ -1940,7 +1672,7 @@
             <last-modified-date>2015-06-10</last-modified-date>
         </chief>
         <chief>
-            <id>es-2013-cost-01</id>
+            <id>sp-2013-cost-01</id>
             <person-id>costos-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1948,10 +1680,6 @@
                 <date>2013-08-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-09-24</date>
                 <note/>
@@ -1967,7 +1695,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>es-2017-buch-01</id>
+            <id>sp-2017-buch-01</id>
             <person-id>buchan-richard-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1975,28 +1703,28 @@
                 <date>2017-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-12-17</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-01-18</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-12-17</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>es-1779-jay-01</id>
+            <id>sp-1779-jay--01</id>
             <person-id>jay-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2004,10 +1732,6 @@
                 <date>1779-09-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2024,7 +1748,7 @@
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
         <chief>
-            <id>es-1804-bowd-01</id>
+            <id>sp-1804-bowd-01</id>
             <person-id>bowdoin-james</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2032,10 +1756,6 @@
                 <date>1804-11-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2051,7 +1771,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1835-barr-01</id>
+            <id>sp-1835-barr-01</id>
             <person-id>barry-william-taylor</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2059,10 +1779,6 @@
                 <date>1835-04-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2079,7 +1795,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1855-brec-01</id>
+            <id>sp-1855-brec-01</id>
             <person-id>breckinridge-john-cabell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2087,10 +1803,6 @@
                 <date>1855-01-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2106,7 +1818,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1861-clay-01</id>
+            <id>sp-1861-clay-01</id>
             <person-id>clay-cassius-marcellus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2114,10 +1826,6 @@
                 <date>1861-04-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2133,7 +1841,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es--rose-01</id>
+            <id>sp--rose-01</id>
             <person-id>rosecrans-william-starke</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2141,10 +1849,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2160,7 +1864,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es--sanf-01</id>
+            <id>sp--sanf-01</id>
             <person-id>sanford-henry-shelton</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2168,10 +1872,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2187,7 +1887,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1913-will-01</id>
+            <id>sp-1913-will-01</id>
             <person-id>willard-joseph-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2195,10 +1895,6 @@
                 <date>1913-07-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2214,7 +1910,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es--brig-01</id>
+            <id>sp--brig-01</id>
             <person-id>briggs-ellis-ormsbee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2222,10 +1918,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2241,7 +1933,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>es-1968-mcki-01</id>
+            <id>sp-1968-mcki-01</id>
             <person-id>mckinney-frank-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2249,10 +1941,6 @@
                 <date>1968-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2268,7 +1956,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>es-1974-flan-01</id>
+            <id>sp--flan-01</id>
             <person-id>flanigan-peter-magnus</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2276,10 +1964,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2296,8 +1980,4 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

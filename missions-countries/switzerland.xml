@@ -3,7 +3,7 @@
     <territory-id>switzerland</territory-id>
     <chiefs>
         <chief>
-            <id>ch-1853-fay-01</id>
+            <id>sw-1853-fay--01</id>
             <person-id>fay-theodore-sedgwick</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1853-03-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1853-06-29</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2016-11-14</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1861-fogg-01</id>
+            <id>sw-1861-fogg-01</id>
             <person-id>fogg-george-gilman</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1861-03-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1861-07-01</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1865-harr-01</id>
+            <id>sw-1865-harr-01</id>
             <person-id>harrington-george</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -65,10 +57,6 @@
                 <date>1865-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1865-10-16</date>
                 <note/>
@@ -85,7 +73,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1869-rubl-01</id>
+            <id>sw-1869-rubl-01</id>
             <person-id>rublee-horace</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -93,10 +81,6 @@
                 <date>1869-04-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-07-20</date>
                 <note/>
@@ -112,7 +96,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1876-rubl-01</id>
+            <id>sw-1876-rubl-01</id>
             <person-id>rublee-horace</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -120,14 +104,14 @@
                 <date>1876-08-15</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1876-09-07</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1876-10-01</date>
                 <note>Left post on</note>
@@ -139,7 +123,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1877-fish-01</id>
+            <id>sw-1877-fish-01</id>
             <person-id>fish-nicholas</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -147,14 +131,14 @@
                 <date>1877-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1877-08-07</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1881-08-24</date>
                 <note>Presented recall on</note>
@@ -167,7 +151,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1881-cram-01</id>
+            <id>sw-1881-cram-01</id>
             <person-id>cramer-michael-john</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -175,14 +159,14 @@
                 <date>1881-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1881-08-25</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1882-08-14</date>
                 <note>Promoted to Minister Resident/Consul General</note>
@@ -194,7 +178,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1882-cram-01</id>
+            <id>sw-1882-cram-01</id>
             <person-id>cramer-michael-john</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -202,10 +186,6 @@
                 <date>1882-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1882-08-14</date>
                 <note/>
@@ -221,7 +201,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1885-winc-01</id>
+            <id>sw-1885-winc-01</id>
             <person-id>winchester-boyd</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -229,10 +209,6 @@
                 <date>1885-05-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1885-07-09</date>
                 <note/>
@@ -249,7 +225,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1889-wash-01</id>
+            <id>sw-1889-wash-01</id>
             <person-id>washburn-john-davis</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -257,10 +233,6 @@
                 <date>1889-03-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-05-24</date>
                 <note/>
@@ -276,7 +248,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1890-wash-01</id>
+            <id>sw-1890-wash-01</id>
             <person-id>washburn-john-davis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -284,10 +256,6 @@
                 <date>1890-07-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1890-12-13</date>
                 <note/>
@@ -303,7 +271,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1892-chen-01</id>
+            <id>sw-1892-chen-01</id>
             <person-id>cheney-person-colby</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -311,10 +279,6 @@
                 <date>1892-12-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-01-26</date>
                 <note/>
@@ -330,7 +294,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1893-broa-01</id>
+            <id>sw-1893-broa-01</id>
             <person-id>broadhead-james-overton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -338,10 +302,6 @@
                 <date>1893-04-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-07-05</date>
                 <note/>
@@ -357,7 +317,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1895-peak-01</id>
+            <id>sw-1895-peak-01</id>
             <person-id>peak-john-lee</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -365,10 +325,6 @@
                 <date>1895-11-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1896-02-15</date>
                 <note/>
@@ -385,7 +341,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1897-leis-01</id>
+            <id>sw-1897-leis-01</id>
             <person-id>leishman-john-g-a</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -393,10 +349,6 @@
                 <date>1897-06-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1897-08-09</date>
                 <note/>
@@ -412,7 +364,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1900-hard-01</id>
+            <id>sw-1900-hard-01</id>
             <person-id>hardy-arthur-sherburne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -420,10 +372,6 @@
                 <date>1900-12-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1901-04-03</date>
                 <note/>
@@ -439,7 +387,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1903-hill-01</id>
+            <id>sw-1903-hill-01</id>
             <person-id>hill-david-jayne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -447,10 +395,6 @@
                 <date>1903-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1903-02-24</date>
                 <note/>
@@ -466,7 +410,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1905-clay-01</id>
+            <id>sw-1905-clay-01</id>
             <person-id>clay-brutus-junius</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -474,10 +418,6 @@
                 <date>1905-03-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1905-07-01</date>
                 <note/>
@@ -493,7 +433,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1909-swen-01</id>
+            <id>sw-1909-swen-01</id>
             <person-id>swenson-laurits-selmer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -501,10 +441,6 @@
                 <date>1909-12-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1910-03-01</date>
                 <note/>
@@ -520,7 +456,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1911-bout-01</id>
+            <id>sw-1911-bout-01</id>
             <person-id>boutell-henry-sherman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -528,10 +464,6 @@
                 <date>1911-04-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1911-05-23</date>
                 <note/>
@@ -547,7 +479,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1913-stov-01</id>
+            <id>sw-1913-stov-01</id>
             <person-id>stovall-pleasant-alexander</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -555,10 +487,6 @@
                 <date>1913-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-08-23</date>
                 <note/>
@@ -574,7 +502,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1920-gary-01</id>
+            <id>sw-1920-gary-01</id>
             <person-id>gary-hampson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -582,10 +510,6 @@
                 <date>1920-04-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1920-06-03</date>
                 <note/>
@@ -601,7 +525,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1921-grew-01</id>
+            <id>sw-1921-grew-01</id>
             <person-id>grew-joseph-clark</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -609,10 +533,6 @@
                 <date>1921-09-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1921-11-01</date>
                 <note/>
@@ -628,7 +548,7 @@
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1924-gibs-01</id>
+            <id>sw-1924-gibs-01</id>
             <person-id>gibson-hugh-simons</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -636,10 +556,6 @@
                 <date>1924-03-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1924-05-19</date>
                 <note/>
@@ -655,7 +571,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1927-wils-01</id>
+            <id>sw-1927-wils-01</id>
             <person-id>wilson-hugh-robert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -663,10 +579,6 @@
                 <date>1927-02-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1927-06-11</date>
                 <note/>
@@ -682,7 +594,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1937-harr-01</id>
+            <id>sw-1937-harr-01</id>
             <person-id>harrison-leland</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -690,10 +602,6 @@
                 <date>1937-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-09-10</date>
                 <note/>
@@ -709,7 +617,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1947-vinc-01</id>
+            <id>sw-1947-vinc-01</id>
             <person-id>vincent-john-carter</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -717,10 +625,6 @@
                 <date>1947-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-10-21</date>
                 <note/>
@@ -736,7 +640,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1951-patt-01</id>
+            <id>sw-1951-patt-01</id>
             <person-id>patterson-richard-cunningham</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -744,10 +648,6 @@
                 <date>1951-03-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1951-06-27</date>
                 <note/>
@@ -763,7 +663,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1953-will-01</id>
+            <id>sw-1953-will-01</id>
             <person-id>willis-frances-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -771,10 +671,6 @@
                 <date>1953-07-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-10-09</date>
                 <note/>
@@ -790,7 +686,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1957-tayl-01</id>
+            <id>sw-1957-tayl-01</id>
             <person-id>taylor-henry-junior</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -798,10 +694,6 @@
                 <date>1957-05-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-05-31</date>
                 <note/>
@@ -817,7 +709,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1961-mcki-01</id>
+            <id>sw-1961-mcki-01</id>
             <person-id>mckinney-robert-moody</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -825,10 +717,6 @@
                 <date>1961-06-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-07-25</date>
                 <note/>
@@ -844,7 +732,7 @@
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1963-davi-01</id>
+            <id>sw-1963-davi-01</id>
             <person-id>davis-william-true-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -852,10 +740,6 @@
                 <date>1963-10-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-11-29</date>
                 <note/>
@@ -871,7 +755,7 @@
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1966-haye-01</id>
+            <id>sw-1966-haye-01</id>
             <person-id>hayes-john-susskind</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -879,10 +763,6 @@
                 <date>1966-09-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-11-18</date>
                 <note/>
@@ -898,7 +778,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1969-davi-01</id>
+            <id>sw-1969-davi-01</id>
             <person-id>davis-shelby-cullom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -906,10 +786,6 @@
                 <date>1969-05-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-07-17</date>
                 <note/>
@@ -925,7 +801,7 @@
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1975-domi-01</id>
+            <id>sw-1975-domi-01</id>
             <person-id>dominick-peter-hoyt</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -933,10 +809,6 @@
                 <date>1975-02-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-04-25</date>
                 <note/>
@@ -952,7 +824,7 @@
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1975-davi-01</id>
+            <id>sw-1975-davi-01</id>
             <person-id>davis-nathaniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -960,10 +832,6 @@
                 <date>1975-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-01-09</date>
                 <note/>
@@ -975,11 +843,11 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowski</last-modified-by>
+            <last-modified-by>admin</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1977-warn-01</id>
+            <id>sw-1977-warn-01</id>
             <person-id>warner-marvin-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -987,10 +855,6 @@
                 <date>1977-07-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-09-13</date>
                 <note/>
@@ -1006,7 +870,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1979-vine-01</id>
+            <id>sw-1979-vine-01</id>
             <person-id>vine-richard-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1014,10 +878,6 @@
                 <date>1979-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1979-10-19</date>
                 <note/>
@@ -1033,7 +893,7 @@
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1981-whit-01</id>
+            <id>sw-1981-whit-01</id>
             <person-id>whittlesey-faith-ryan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1041,10 +901,6 @@
                 <date>1981-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-10-23</date>
                 <note/>
@@ -1060,7 +916,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1983-lodg-01</id>
+            <id>sw-1983-lodg-01</id>
             <person-id>lodge-john-davis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1068,10 +924,6 @@
                 <date>1983-03-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-05-19</date>
                 <note/>
@@ -1087,7 +939,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1985-whit-01</id>
+            <id>sw-1985-whit-01</id>
             <person-id>whittlesey-faith-ryan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1095,10 +947,6 @@
                 <date>1985-04-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-05-31</date>
                 <note/>
@@ -1114,7 +962,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1988-winn-01</id>
+            <id>sw-1988-winn-01</id>
             <person-id>winn-philip-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1122,10 +970,6 @@
                 <date>1988-07-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-08-19</date>
                 <note/>
@@ -1141,7 +985,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1989-gild-01</id>
+            <id>sw-1989-gild-01</id>
             <person-id>gildenhorn-joseph-bernard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1149,10 +993,6 @@
                 <date>1989-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-08-23</date>
                 <note/>
@@ -1168,7 +1008,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1994-lawr-01</id>
+            <id>sw-1994-lawr-01</id>
             <person-id>lawrence-m-larry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1176,10 +1016,6 @@
                 <date>1994-02-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-03-21</date>
                 <note/>
@@ -1195,7 +1031,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1996-kuni-01</id>
+            <id>sw-1996-kuni-01</id>
             <person-id>kunin-madeleine-may</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1203,10 +1039,6 @@
                 <date>1996-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-08-19</date>
                 <note/>
@@ -1222,7 +1054,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1999-fred-01</id>
+            <id>sw-1999-fred-01</id>
             <person-id>fredericks-j-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1230,10 +1062,6 @@
                 <date>1999-10-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-01-12</date>
                 <note/>
@@ -1249,7 +1077,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-2001-reyn-01</id>
+            <id>sw-2001-reyn-01</id>
             <person-id>reynolds-mercer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1257,10 +1085,6 @@
                 <date>2001-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-09-11</date>
                 <note/>
@@ -1276,7 +1100,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-2003-will-01</id>
+            <id>sw-2003-will-01</id>
             <person-id>willeford-pamela-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1284,10 +1108,6 @@
                 <date>2003-10-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-11-25</date>
                 <note/>
@@ -1303,7 +1123,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-2006-cone-01</id>
+            <id>sw-2006-cone-01</id>
             <person-id>coneway-peter-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1311,10 +1131,6 @@
                 <date>2006-07-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-10-19</date>
                 <note/>
@@ -1330,7 +1146,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-2009-beye-01</id>
+            <id>sw-2009-beye-01</id>
             <person-id>beyer-donald-sternhoff</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1338,10 +1154,6 @@
                 <date>2009-07-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-09-08</date>
                 <note/>
@@ -1357,7 +1169,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-2014-levi-01</id>
+            <id>sw-2014-levi-01</id>
             <person-id>levine-suzan-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1365,10 +1177,6 @@
                 <date>2014-05-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-07-01</date>
                 <note/>
@@ -1384,7 +1192,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>ch-2017-mcmu-01</id>
+            <id>sw-2017-mcmu-01</id>
             <person-id>mcmullen-edward-t-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1392,28 +1200,28 @@
                 <date>2017-11-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-11-20</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-11-21</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-11-20</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-17</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-13</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ch-1856-fay-01</id>
+            <id>sw--fay--01</id>
             <person-id>fay-theodore-sedgwick</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1421,10 +1229,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1440,7 +1244,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1877-schn-01</id>
+            <id>sw-1877-schn-01</id>
             <person-id>schneider-george</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1448,10 +1252,6 @@
                 <date>1877-05-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1468,7 +1268,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1902-brya-01</id>
+            <id>sw-1902-brya-01</id>
             <person-id>bryan-charles-page</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1476,10 +1276,6 @@
                 <date>1902-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1496,7 +1292,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1902-brya-02</id>
+            <id>sw-1902-brya-01</id>
             <person-id>bryan-charles-page</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1504,10 +1300,6 @@
                 <date>1902-12-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1523,8 +1315,4 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

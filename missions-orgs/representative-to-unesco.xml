@@ -3,15 +3,12 @@
     <id>representative-to-unesco</id>
     <category>international-organization</category>
     <names>
-        <singular>U.S. Permanent Representative to the United Nations Educational, Scientific and
-            Cultural Organization</singular>
-        <plural>U.S. Permanent Representatives to the United Nations Educational, Scientific and
-            Cultural Organization</plural>
+        <singular>U.S. Permanent Representative to the United Nations Educational, Scientific and Cultural Organization</singular>
+        <plural>U.S. Permanent Representatives to the United Nations Educational, Scientific and Cultural Organization</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of U.S. Permanent Representative to the United
-                Nations Educational, Scientific and Cultural Organization.</p>
+            <p>The Chief of Mission has the title of U.S. Permanent Representative to the United Nations Educational, Scientific and Cultural Organization.</p>
         </div>
     </description>
     <chiefs>
@@ -19,14 +16,10 @@
             <id>unes-1961-morr</id>
             <person-id>morrow-john-howard</person-id>
             <role-title-id>representative-to-unesco</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1961-04-02</date>
                 <note>Designated, not commissioned, on</note>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -45,14 +38,10 @@
             <id>unes-1962-haus</id>
             <person-id>haussamen-crane</person-id>
             <role-title-id>representative-to-unesco</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1962-01-01</date>
                 <note>Designated, not commissioned, on</note>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -71,14 +60,10 @@
             <id>unes-1964-wade</id>
             <person-id>wade-robert-hirsch-beard</person-id>
             <role-title-id>representative-to-unesco</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1964-08-21</date>
                 <note>Designated, not commissioned, on</note>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -97,14 +82,10 @@
             <id>unes-1969-grah</id>
             <person-id>graham-pierre-robert</person-id>
             <role-title-id>representative-to-unesco</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1969-09-07</date>
                 <note>Desigated, not commissioned, on</note>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -123,14 +104,10 @@
             <id>unes-1973-jone</id>
             <person-id>jones-william-bowdoin</person-id>
             <role-title-id>representative-to-unesco</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1973-09-01</date>
                 <note>Designated, not commissioned, on</note>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -149,14 +126,10 @@
             <id>unes-1978-torr</id>
             <person-id>torres-esteban-edward</person-id>
             <role-title-id>representative-to-unesco</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1978-10-12</date>
                 <note>Designated, not commissioned, on</note>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -175,14 +148,10 @@
             <id>unes-1979-newe</id>
             <person-id>newell-barbara-warne</person-id>
             <role-title-id>representative-to-unesco</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1979-09-26</date>
                 <note>Designated, not commissioned, on</note>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -201,14 +170,10 @@
             <id>unes-1981-gera</id>
             <person-id>gerard-jean-broward-shevlin</person-id>
             <role-title-id>representative-to-unesco</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1981-11-06</date>
                 <note>Designated, not commissioned, on</note>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -223,14 +188,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-13</last-modified-date>
         </chief>
-        <mission-note>
-            <text>The United States announced its intention to rejoin UNESCO on September 12, 2002,
-                but no Permanent Representative was nominated until 2004.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-10-24</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-10-24</last-modified-date>
-        </mission-note>
         <chief>
             <id>unes-2004-oliv</id>
             <person-id>oliver-louise-v</person-id>
@@ -239,10 +196,6 @@
                 <date>2004-02-12</date>
                 <note>Designated, not commissioned, on</note>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -265,10 +218,6 @@
                 <date>2009-08-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -277,6 +226,7 @@
                 <date>2013-12-16</date>
                 <note/>
             </ended>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-01-13</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -290,10 +240,6 @@
                 <date>2014-07-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -317,11 +263,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -336,8 +282,4 @@
         </chief>
     </chiefs>
     <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </org-mission>

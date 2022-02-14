@@ -3,7 +3,7 @@
     <territory-id>iraq</territory-id>
     <chiefs>
         <chief>
-            <id>iq-1931-sloa-01</id>
+            <id>ir-1931-sloa-01</id>
             <person-id>sloan-alexander-kilgore</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date>1931-03-30</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1931-06-18</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1932-10-19</date>
                 <note>Relinquished charge</note>
@@ -31,7 +31,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1932-knab-01</id>
+            <id>ir-1932-knab-01</id>
             <person-id>knabenshue-paul</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -39,10 +39,6 @@
                 <date>1932-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1932-11-07</date>
                 <note/>
@@ -58,7 +54,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1933-knab-01</id>
+            <id>ir-1933-knab-01</id>
             <person-id>knabenshue-paul</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -66,10 +62,6 @@
                 <date>1933-03-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-05-18</date>
                 <note/>
@@ -85,7 +77,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1942-wils-01</id>
+            <id>ir-1942-wils-01</id>
             <person-id>wilson-thomas-murray</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -93,10 +85,6 @@
                 <date>1942-08-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1942-09-26</date>
                 <note/>
@@ -112,7 +100,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1943-hend-01</id>
+            <id>ir-1943-hend-01</id>
             <person-id>henderson-loy-wesley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -120,10 +108,6 @@
                 <date>1943-07-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1943-11-20</date>
                 <note/>
@@ -140,7 +124,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1947-wads-01</id>
+            <id>ir-1947-wads-01</id>
             <person-id>wadsworth-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -148,10 +132,6 @@
                 <date>1947-01-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-02-15</date>
                 <note/>
@@ -167,7 +147,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1948-croc-01</id>
+            <id>ir-1948-croc-01</id>
             <person-id>crocker-edward-savage</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -175,10 +155,6 @@
                 <date>1948-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1949-03-12</date>
                 <note/>
@@ -195,7 +171,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1952-berr-01</id>
+            <id>ir-1952-berr-01</id>
             <person-id>berry-burton-yost</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -203,10 +179,6 @@
                 <date>1952-06-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1952-08-11</date>
                 <note/>
@@ -222,7 +194,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1954-gall-01</id>
+            <id>ir-1954-gall-01</id>
             <person-id>gallman-waldemar-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -230,10 +202,6 @@
                 <date>1954-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1954-11-03</date>
                 <note/>
@@ -252,7 +220,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1958-jern-01</id>
+            <id>ir-1958-jern-01</id>
             <person-id>jernegan-john-durnford</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -260,10 +228,6 @@
                 <date>1958-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1959-01-12</date>
                 <note/>
@@ -280,7 +244,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1963-stro-01</id>
+            <id>ir-1963-stro-01</id>
             <person-id>strong-robert-campbell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -288,10 +252,6 @@
                 <date>1963-06-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-07-02</date>
                 <note/>
@@ -307,7 +267,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1967-dunc-01</id>
+            <id>ir--dunc-01</id>
             <person-id>duncan-enoch-sevier</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -315,10 +275,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -326,6 +282,29 @@
             <ended>
                 <date>1967-06-07</date>
                 <note>Iraq severed diplomatic relations with the United States</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-12</last-modified-date>
+        </chief>
+        <chief>
+            <id>ir--lowr-01</id>
+            <person-id>lowrie-arthur-l</person-id>
+            <role-title-id>principal-officer</role-title-id>
+            <contemporary-territory-id>iraq</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date>1972-10-01</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1975-09-01</date>
+                <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -342,34 +321,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </mission-note>
         <chief>
-            <id>iq-1972-lowr-01</id>
-            <person-id>lowrie-arthur-l</person-id>
-            <role-title-id>principal-officer</role-title-id>
-            <contemporary-territory-id>iraq</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1972-10</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1975-09</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-12</last-modified-date>
-        </chief>
-        <chief>
-            <id>iq-1975-wile-01</id>
+            <id>ir--wile-01</id>
             <person-id>wiley-marshall-wayne</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -377,16 +329,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1975-10</date>
+                <date>1975-10-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1977-05</date>
+                <date>1977-05-01</date>
                 <note/>
             </ended>
             <note/>
@@ -396,7 +344,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1977-mack-01</id>
+            <id>ir--mack-01</id>
             <person-id>mack-david-lyle</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -404,16 +352,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1977-05</date>
+                <date>1977-05-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1978-02</date>
+                <date>1978-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -423,7 +367,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1978-peck-01</id>
+            <id>ir--peck-01</id>
             <person-id>peck-edward-lionel</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -431,16 +375,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1978-02</date>
+                <date>1978-02-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1980-08</date>
+                <date>1980-08-01</date>
                 <note/>
             </ended>
             <note>The Secretary of State designated the Principal Officer at the U.S. Interests
@@ -461,7 +401,7 @@
             <last-modified-date>2016-12-29</last-modified-date>
         </mission-note>
         <chief>
-            <id>iq-1980-eagl-01</id>
+            <id>ir--eagl-01</id>
             <person-id>eagleton-william-lester-jr</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -469,16 +409,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1980-08</date>
+                <date>1980-08-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1984-06</date>
+                <date>1984-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -498,7 +434,7 @@
             <last-modified-date>2019-08-07</last-modified-date>
         </mission-note>
         <chief>
-            <id>iq-1985-newt-01</id>
+            <id>ir-1985-newt-01</id>
             <person-id>newton-david-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -506,10 +442,6 @@
                 <date>1985-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-09-17</date>
                 <note/>
@@ -525,7 +457,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1988-glas-01</id>
+            <id>ir-1988-glas-01</id>
             <person-id>glaspie-april-catherine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -533,10 +465,6 @@
                 <date>1988-03-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-09-05</date>
                 <note/>
@@ -552,7 +480,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1990-wils-01</id>
+            <id>ir--wils-01</id>
             <person-id>wilson-joseph-charles</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -560,14 +488,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1990-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1990-07-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1991-01-12</date>
                 <note>Embassy Baghdad closed on</note>
@@ -599,7 +527,7 @@
             <last-modified-date>2019-08-07</last-modified-date>
         </mission-note>
         <chief>
-            <id>iq-2004-negr-01</id>
+            <id>ir-2004-negr-01</id>
             <person-id>negroponte-john-dimitri</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -607,10 +535,6 @@
                 <date>2004-06-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-06-29</date>
                 <note/>
@@ -626,7 +550,7 @@
             <last-modified-date>2014-08-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-2005-khal-01</id>
+            <id>ir-2005-khal-01</id>
             <person-id>khalilzad-zalmay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -634,10 +558,6 @@
                 <date>2005-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-06-21</date>
                 <note/>
@@ -653,7 +573,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>iq-2007-croc-01</id>
+            <id>ir-2007-croc-01</id>
             <person-id>crocker-ryan-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -661,10 +581,6 @@
                 <date>2007-03-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-03-31</date>
                 <note/>
@@ -680,7 +596,7 @@
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
         <chief>
-            <id>iq-2009-hill-01</id>
+            <id>ir-2009-hill-01</id>
             <person-id>hill-christopher-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -688,10 +604,6 @@
                 <date>2009-04-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-04-24</date>
                 <note/>
@@ -707,7 +619,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>iq-2010-jeff-01</id>
+            <id>ir-2010-jeff-01</id>
             <person-id>jeffrey-james-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -715,10 +627,6 @@
                 <date>2010-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-08-18</date>
                 <note/>
@@ -734,7 +642,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>iq-2012-beec-01</id>
+            <id>ir-2012-beec-01</id>
             <person-id>beecroft-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -742,10 +650,6 @@
                 <date>2012-09-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-10-11</date>
                 <note/>
@@ -761,7 +665,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>iq-2014-jone-01</id>
+            <id>ir-2014-jone-01</id>
             <person-id>jones-stuart-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -769,10 +673,6 @@
                 <date>2014-09-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-10-02</date>
                 <note/>
@@ -788,7 +688,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>iq-2016-sill-01</id>
+            <id>ir-2016-sill-01</id>
             <person-id>silliman-douglas-alan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -796,14 +696,14 @@
                 <date>2016-07-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2016-09-01</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-09-01</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-09-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-01-31</date>
                 <note/>
@@ -815,7 +715,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>iq-2019-tuel-01</id>
+            <id>ir-2019-tuel-01</id>
             <person-id>tueller-matthew-haywood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -823,14 +723,14 @@
                 <date>2019-05-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-06-06</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-06-09</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-06-06</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -844,7 +744,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>iq-1946-pink-01</id>
+            <id>ir-1946-pink-01</id>
             <person-id>pinkerton-lowell-call</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -852,10 +752,6 @@
                 <date>1946-04-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -871,7 +767,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>iq-1946-wads-01</id>
+            <id>ir-1946-wads-01</id>
             <person-id>wadsworth-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -879,10 +775,6 @@
                 <date>1946-11-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -899,7 +791,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>iq-2012-mcgu-01</id>
+            <id>ir--mcgu-01</id>
             <person-id>mcgurk-brett-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iraq</contemporary-territory-id>
@@ -907,10 +799,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -926,8 +814,4 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

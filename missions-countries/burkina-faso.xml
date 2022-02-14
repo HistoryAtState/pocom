@@ -3,7 +3,7 @@
     <territory-id>burkina-faso</territory-id>
     <chiefs>
         <chief>
-            <id>bf-1960-norl-01</id>
+            <id>bu--norl-01</id>
             <person-id>norland-donald-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1960-08-05</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -31,7 +31,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1960-ream-01</id>
+            <id>bu-1960-ream-01</id>
             <person-id>reams-robert-borden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -39,10 +39,6 @@
                 <date>1960-10-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-11-26</date>
                 <note/>
@@ -61,7 +57,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1961-este-01</id>
+            <id>bu-1961-este-01</id>
             <person-id>estes-thomas-stuart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -69,10 +65,6 @@
                 <date>1961-05-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-06-26</date>
                 <note/>
@@ -88,7 +80,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1966-skin-01</id>
+            <id>bu-1966-skin-01</id>
             <person-id>skinner-elliott-percival</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -96,10 +88,6 @@
                 <date>1966-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-09-14</date>
                 <note/>
@@ -115,7 +103,7 @@
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1969-scha-01</id>
+            <id>bu-1969-scha-01</id>
             <person-id>schaufele-william-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -123,10 +111,6 @@
                 <date>1969-09-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-10-16</date>
                 <note/>
@@ -142,7 +126,7 @@
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1971-easu-01</id>
+            <id>bu-1971-easu-01</id>
             <person-id>easum-donald-boyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -150,10 +134,6 @@
                 <date>1971-11-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1971-12-08</date>
                 <note/>
@@ -169,7 +149,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1974-grah-01</id>
+            <id>bu-1974-grah-01</id>
             <person-id>graham-pierre-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -177,10 +157,6 @@
                 <date>1974-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-07-30</date>
                 <note/>
@@ -196,7 +172,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1978-boya-01</id>
+            <id>bu-1978-boya-01</id>
             <person-id>boyatt-thomas-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -204,10 +180,6 @@
                 <date>1978-07-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-09-21</date>
                 <note/>
@@ -223,7 +195,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1980-grah-01</id>
+            <id>bu--grah-01</id>
             <person-id>grahl-larry-c</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -231,16 +203,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1980-10</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1980-10-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1981-11</date>
+                <date>1981-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -250,7 +222,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1981-walk-01</id>
+            <id>bu-1981-walk-01</id>
             <person-id>walker-julius-waring</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -258,10 +230,6 @@
                 <date>1981-07-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-11-18</date>
                 <note/>
@@ -277,7 +245,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1984-nehe-01</id>
+            <id>bu-1984-nehe-01</id>
             <person-id>neher-leonardo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -285,10 +253,6 @@
                 <date>1984-06-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-09-21</date>
                 <note/>
@@ -304,7 +268,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1987-shin-01</id>
+            <id>bu-1987-shin-01</id>
             <person-id>shinn-david-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -312,10 +276,6 @@
                 <date>1987-11-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-11-28</date>
                 <note/>
@@ -331,7 +291,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1990-bryn-01</id>
+            <id>bu-1990-bryn-01</id>
             <person-id>brynn-edward-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -339,10 +299,6 @@
                 <date>1990-10-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1991-01-14</date>
                 <note/>
@@ -358,7 +314,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1993-mcco-01</id>
+            <id>bu-1993-mcco-01</id>
             <person-id>mcconnell-donald-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -366,10 +322,6 @@
                 <date>1993-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-11-22</date>
                 <note/>
@@ -385,7 +337,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1996-wilk-01</id>
+            <id>bu-1996-wilk-01</id>
             <person-id>wilkinson-sharon-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -393,10 +345,6 @@
                 <date>1996-07-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-10-24</date>
                 <note/>
@@ -412,7 +360,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1999-kolk-01</id>
+            <id>bu-1999-kolk-01</id>
             <person-id>kolker-jimmy-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -420,10 +368,6 @@
                 <date>1999-11-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-01-11</date>
                 <note/>
@@ -439,7 +383,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-2002-holm-01</id>
+            <id>bu-2002-holm-01</id>
             <person-id>holmes-j-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -447,10 +391,6 @@
                 <date>2002-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-12-23</date>
                 <note/>
@@ -466,7 +406,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bf-2006-jack-01</id>
+            <id>bu-2006-jack-01</id>
             <person-id>jackson-jeanine-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -474,10 +414,6 @@
                 <date>2006-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-03-24</date>
                 <note/>
@@ -493,7 +429,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>bf-2010-doug-01</id>
+            <id>bu-2010-doug-01</id>
             <person-id>dougherty-j-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -501,10 +437,6 @@
                 <date>2010-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-09-30</date>
                 <note/>
@@ -520,7 +452,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>bf-2013-mush-01</id>
+            <id>bu-2013-mush-01</id>
             <person-id>mushingi-tulinabo-salama</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -528,10 +460,6 @@
                 <date>2013-07-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-09-17</date>
                 <note/>
@@ -547,7 +475,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>bf-2016-youn-01</id>
+            <id>bu-2016-youn-01</id>
             <person-id>young-andrew-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -555,14 +483,14 @@
                 <date>2016-10-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2016-11-20</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-11-20</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-03-26</date>
                 <note>Left post on</note>
@@ -574,7 +502,7 @@
             <last-modified-date>2020-10-05</last-modified-date>
         </chief>
         <chief>
-            <id>bf-2020-clar-01</id>
+            <id>bu-2020-clar-01</id>
             <person-id>clark-sandra-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -582,14 +510,14 @@
                 <date>2020-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2020-09-23</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2020-09-23</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -603,7 +531,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>bf-2009-brow-01</id>
+            <id>bu-2009-brow-01</id>
             <person-id>brown-gayleatha-beatrice</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -611,10 +539,6 @@
                 <date>2009-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -630,8 +554,4 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

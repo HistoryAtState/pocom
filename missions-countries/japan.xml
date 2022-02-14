@@ -3,7 +3,7 @@
     <territory-id>japan</territory-id>
     <chiefs>
         <chief>
-            <id>jp-1859-harr-01</id>
+            <id>ja-1859-harr-01</id>
             <person-id>harris-townsend</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1859-01-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1859-11-05</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1861-pruy-01</id>
+            <id>ja-1861-pruy-01</id>
             <person-id>pruyn-robert-hewson</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1861-10-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1862-05-17</date>
                 <note/>
@@ -58,7 +50,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1866-van-01</id>
+            <id>ja-1866-van--01</id>
             <person-id>van-valkenburgh-robert-bruce</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -66,10 +58,6 @@
                 <date>1866-01-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1867-05-04</date>
                 <note/>
@@ -85,7 +73,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1869-de-01</id>
+            <id>ja-1869-de-l-01</id>
             <person-id>de-long-charles-e</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -93,10 +81,6 @@
                 <date>1869-04-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-11-11</date>
                 <note/>
@@ -112,7 +96,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1870-de-01</id>
+            <id>ja-1870-de-l-01</id>
             <person-id>de-long-charles-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -120,10 +104,6 @@
                 <date>1870-07-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1872-06-09</date>
                 <note/>
@@ -139,7 +119,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1873-bing-01</id>
+            <id>ja-1873-bing-01</id>
             <person-id>bingham-john-armour</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -147,10 +127,6 @@
                 <date>1873-05-31</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1873-10-07</date>
                 <note/>
@@ -167,7 +143,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1885-hubb-01</id>
+            <id>ja-1885-hubb-01</id>
             <person-id>hubbard-richard-bennet</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -175,10 +151,6 @@
                 <date>1885-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1885-07-02</date>
                 <note/>
@@ -194,7 +166,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1889-swif-01</id>
+            <id>ja-1889-swif-01</id>
             <person-id>swift-john-franklin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -202,10 +174,6 @@
                 <date>1889-03-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-05-15</date>
                 <note/>
@@ -221,7 +189,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1892-coom-01</id>
+            <id>ja-1892-coom-01</id>
             <person-id>coombs-frank-leslie</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -229,10 +197,6 @@
                 <date>1892-04-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1892-06-13</date>
                 <note/>
@@ -248,7 +212,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1893-dun-01</id>
+            <id>ja-1893-dun--01</id>
             <person-id>dun-edwin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -256,10 +220,6 @@
                 <date>1893-04-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-07-14</date>
                 <note/>
@@ -275,7 +235,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1897-buck-01</id>
+            <id>ja-1897-buck-01</id>
             <person-id>buck-alfred-eliab</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -283,10 +243,6 @@
                 <date>1897-04-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1898-07-03</date>
                 <note/>
@@ -302,7 +258,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1902-gris-01</id>
+            <id>ja-1902-gris-01</id>
             <person-id>griscom-lloyd-carpenter</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -310,10 +266,6 @@
                 <date>1902-12-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1903-06-22</date>
                 <note/>
@@ -329,7 +281,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1906-wrig-01</id>
+            <id>ja-1906-wrig-01</id>
             <person-id>wright-luke-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -337,10 +289,6 @@
                 <date>1906-01-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1906-05-26</date>
                 <note/>
@@ -356,7 +304,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1907-obri-01</id>
+            <id>ja-1907-obri-01</id>
             <person-id>obrien-thomas-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -364,10 +312,6 @@
                 <date>1907-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1907-10-15</date>
                 <note/>
@@ -384,7 +328,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1911-brya-01</id>
+            <id>ja-1911-brya-01</id>
             <person-id>bryan-charles-page</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -392,10 +336,6 @@
                 <date>1911-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1911-11-22</date>
                 <note/>
@@ -411,7 +351,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1912-ande-01</id>
+            <id>ja-1912-ande-01</id>
             <person-id>anderson-larz</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -419,10 +359,6 @@
                 <date>1912-11-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-02-01</date>
                 <note/>
@@ -439,7 +375,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1913-guth-01</id>
+            <id>ja-1913-guth-01</id>
             <person-id>guthrie-george-wilkins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -447,10 +383,6 @@
                 <date>1913-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-08-07</date>
                 <note/>
@@ -466,7 +398,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1917-morr-01</id>
+            <id>ja-1917-morr-01</id>
             <person-id>morris-roland-sletor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -474,10 +406,6 @@
                 <date>1917-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1917-10-30</date>
                 <note/>
@@ -493,7 +421,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1921-warr-01</id>
+            <id>ja-1921-warr-01</id>
             <person-id>warren-charles-beecher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -501,10 +429,6 @@
                 <date>1921-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1921-09-24</date>
                 <note/>
@@ -520,7 +444,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1923-wood-01</id>
+            <id>ja-1923-wood-01</id>
             <person-id>woods-cyrus-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -528,10 +452,6 @@
                 <date>1923-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1923-07-21</date>
                 <note/>
@@ -547,7 +467,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1924-banc-01</id>
+            <id>ja-1924-banc-01</id>
             <person-id>bancroft-edgar-addison</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -555,10 +475,6 @@
                 <date>1924-09-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1924-11-19</date>
                 <note/>
@@ -575,7 +491,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1925-macv-01</id>
+            <id>ja-1925-macv-01</id>
             <person-id>macveagh-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -583,10 +499,6 @@
                 <date>1925-09-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1925-12-09</date>
                 <note/>
@@ -603,7 +515,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1929-cast-01</id>
+            <id>ja-1929-cast-01</id>
             <person-id>castle-william-richards</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -611,10 +523,6 @@
                 <date>1929-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-01-24</date>
                 <note/>
@@ -630,7 +538,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1930-forb-01</id>
+            <id>ja-1930-forb-01</id>
             <person-id>forbes-william-cameron</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -638,10 +546,6 @@
                 <date>1930-06-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-09-25</date>
                 <note/>
@@ -657,7 +561,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1932-grew-01</id>
+            <id>ja-1932-grew-01</id>
             <person-id>grew-joseph-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -665,10 +569,6 @@
                 <date>1932-02-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1932-06-14</date>
                 <note/>
@@ -684,7 +584,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1952-murp-01</id>
+            <id>ja-1952-murp-01</id>
             <person-id>murphy-robert-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -692,10 +592,6 @@
                 <date>1952-04-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1952-05-09</date>
                 <note/>
@@ -712,7 +608,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1953-alli-01</id>
+            <id>ja-1953-alli-01</id>
             <person-id>allison-john-moore</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -720,10 +616,6 @@
                 <date>1953-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-05-28</date>
                 <note/>
@@ -739,7 +631,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1956-maca-01</id>
+            <id>ja-1956-maca-01</id>
             <person-id>macarthur-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -747,10 +639,6 @@
                 <date>1956-12-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-02-25</date>
                 <note/>
@@ -767,7 +655,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1961-reis-01</id>
+            <id>ja-1961-reis-01</id>
             <person-id>reischauer-edwin-oldfather</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -775,10 +663,6 @@
                 <date>1961-03-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-04-27</date>
                 <note/>
@@ -794,7 +678,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1966-john-01</id>
+            <id>ja-1966-john-01</id>
             <person-id>johnson-ural-alexis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -802,10 +686,6 @@
                 <date>1966-09-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-11-08</date>
                 <note/>
@@ -821,7 +701,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1969-meye-01</id>
+            <id>ja-1969-meye-01</id>
             <person-id>meyer-armin-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -829,10 +709,6 @@
                 <date>1969-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-07-03</date>
                 <note/>
@@ -848,7 +724,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1972-inge-01</id>
+            <id>ja-1972-inge-01</id>
             <person-id>ingersoll-robert-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -856,10 +732,6 @@
                 <date>1972-02-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-04-12</date>
                 <note/>
@@ -875,7 +747,7 @@
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1974-hodg-01</id>
+            <id>ja-1974-hodg-01</id>
             <person-id>hodgson-james-day</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -883,10 +755,6 @@
                 <date>1974-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-07-19</date>
                 <note/>
@@ -902,7 +770,7 @@
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1977-mans-01</id>
+            <id>ja-1977-mans-01</id>
             <person-id>mansfield-michael-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -910,10 +778,6 @@
                 <date>1977-04-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-06-10</date>
                 <note/>
@@ -929,7 +793,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1989-arma-01</id>
+            <id>ja-1989-arma-01</id>
             <person-id>armacost-michael-hayden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -937,10 +801,6 @@
                 <date>1989-04-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-05-15</date>
                 <note/>
@@ -956,7 +816,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1993-mond-01</id>
+            <id>ja-1993-mond-01</id>
             <person-id>mondale-walter-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -964,10 +824,6 @@
                 <date>1993-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-09-21</date>
                 <note/>
@@ -983,7 +839,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-1997-fole-01</id>
+            <id>ja-1997-fole-01</id>
             <person-id>foley-thomas-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -991,10 +847,6 @@
                 <date>1997-10-31</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-11-19</date>
                 <note/>
@@ -1010,7 +862,7 @@
             <last-modified-date>2014-07-24</last-modified-date>
         </chief>
         <chief>
-            <id>jp-2001-bake-01</id>
+            <id>ja-2001-bake-01</id>
             <person-id>baker-howard-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -1018,10 +870,6 @@
                 <date>2001-05-31</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-07-05</date>
                 <note/>
@@ -1037,7 +885,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jp-2005-schi-01</id>
+            <id>ja-2005-schi-01</id>
             <person-id>schieffer-john-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -1045,10 +893,6 @@
                 <date>2005-03-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-04-11</date>
                 <note/>
@@ -1064,7 +908,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>jp-2009-roos-01</id>
+            <id>ja-2009-roos-01</id>
             <person-id>roos-john-victor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -1072,10 +916,6 @@
                 <date>2009-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-08-20</date>
                 <note/>
@@ -1091,7 +931,7 @@
             <last-modified-date>2014-07-23</last-modified-date>
         </chief>
         <chief>
-            <id>jp-2013-kenn-01</id>
+            <id>ja-2013-kenn-01</id>
             <person-id>kennedy-caroline-bouvier</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -1099,10 +939,6 @@
                 <date>2013-10-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-11-19</date>
                 <note/>
@@ -1118,7 +954,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>jp-2017-hage-01</id>
+            <id>ja-2017-hage-01</id>
             <person-id>hagerty-william-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -1126,13 +962,14 @@
                 <date>2017-07-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-08-17</date>
-            </arrived>
             <started>
                 <date>2017-08-31</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-08-17</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-07-22</date>
                 <note/>
@@ -1143,10 +980,37 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-24</last-modified-date>
         </chief>
+        <chief>
+            <id>ja--youn-01</id>
+            <person-id>young-joseph-m</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>japan</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <arrived>
+                <date>2019-07-22</date>
+                <note/>
+            </arrived>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-06-05</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>jp-1865-depe-01</id>
+            <id>ja-1865-depe-01</id>
             <person-id>depew-chauncey-mitchell</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>japan</contemporary-territory-id>
@@ -1154,10 +1018,6 @@
                 <date>1865-11-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1172,9 +1032,28 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
+        <chief>
+            <id>ja--wein-01</id>
+            <person-id>weinstein-kenneth-r</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>japan</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of March 18, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

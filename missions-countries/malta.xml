@@ -3,7 +3,7 @@
     <territory-id>malta</territory-id>
     <chiefs>
         <chief>
-            <id>mt-1964-lewi-01</id>
+            <id>ma--lewi-01</id>
             <person-id>lewis-harrison</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1964-09-21</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1965-feld-01</id>
+            <id>ma-1965-feld-01</id>
             <person-id>feldman-george-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1965-07-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1965-10-05</date>
                 <note/>
@@ -57,7 +53,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1967-smyt-01</id>
+            <id>ma-1967-smyt-01</id>
             <person-id>smythe-hugh-heyne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -65,10 +61,6 @@
                 <date>1967-10-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-12-29</date>
                 <note/>
@@ -84,7 +76,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1969-prit-01</id>
+            <id>ma-1969-prit-01</id>
             <person-id>pritzlaff-john-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -92,10 +84,6 @@
                 <date>1969-07-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-09-04</date>
                 <note/>
@@ -111,7 +99,7 @@
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1972-getz-01</id>
+            <id>ma-1972-getz-01</id>
             <person-id>getz-john-ives</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -119,10 +107,6 @@
                 <date>1972-02-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-03-09</date>
                 <note/>
@@ -138,7 +122,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1974-smit-01</id>
+            <id>ma-1974-smit-01</id>
             <person-id>smith-robert-powell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -146,10 +130,6 @@
                 <date>1974-07-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-09-24</date>
                 <note/>
@@ -165,7 +145,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1976-lain-01</id>
+            <id>ma-1976-lain-01</id>
             <person-id>laingen-lowell-bruce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -173,10 +153,6 @@
                 <date>1976-11-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-01-11</date>
                 <note/>
@@ -193,7 +169,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1979-clar-01</id>
+            <id>ma-1979-clar-01</id>
             <person-id>clark-joan-margaret</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -201,10 +177,6 @@
                 <date>1979-03-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1979-03-26</date>
                 <note/>
@@ -220,7 +192,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1981-ward-01</id>
+            <id>ma--ward-01</id>
             <person-id>wardlaw-frank-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -228,16 +200,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1981-02</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1981-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1982-08</date>
+                <date>1982-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -247,7 +219,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1982-rent-01</id>
+            <id>ma-1982-rent-01</id>
             <person-id>rentschler-james-malone</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -255,10 +227,6 @@
                 <date>1982-08-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-10-19</date>
                 <note/>
@@ -274,7 +242,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1985-matt-01</id>
+            <id>ma-1985-matt-01</id>
             <person-id>matthews-gary-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -282,10 +250,6 @@
                 <date>1985-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-09-19</date>
                 <note/>
@@ -301,7 +265,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1987-somm-01</id>
+            <id>ma-1987-somm-01</id>
             <person-id>sommer-peter-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -309,10 +273,6 @@
                 <date>1987-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-10-09</date>
                 <note/>
@@ -328,7 +288,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1989-nove-01</id>
+            <id>ma-1989-nove-01</id>
             <person-id>novetzke-sally-johnson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -336,10 +296,6 @@
                 <date>1989-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-11-09</date>
                 <note/>
@@ -355,7 +311,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1993-moff-01</id>
+            <id>ma--moff-01</id>
             <person-id>moffitt-william-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -363,16 +319,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1993-02</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1993-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1994-06</date>
+                <date>1994-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -382,7 +338,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1994-paol-01</id>
+            <id>ma-1994-paol-01</id>
             <person-id>paolino-joseph-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -390,10 +346,6 @@
                 <date>1994-06-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-07-06</date>
                 <note/>
@@ -409,7 +361,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1996-patt-01</id>
+            <id>ma--patt-01</id>
             <person-id>patterson-charles-n</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -417,16 +369,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1996-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1996-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1997-07</date>
+                <date>1997-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -436,7 +388,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt-1997-prof-01</id>
+            <id>ma-1997-prof-01</id>
             <person-id>proffitt-kathryn-linda-haycock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -444,10 +396,6 @@
                 <date>1997-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-01-08</date>
                 <note/>
@@ -463,7 +411,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mt-2001-gioi-01</id>
+            <id>ma-2001-gioi-01</id>
             <person-id>gioia-anthony-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -471,10 +419,6 @@
                 <date>2001-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-09-06</date>
                 <note/>
@@ -490,7 +434,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mt-2005-bord-01</id>
+            <id>ma-2005-bord-01</id>
             <person-id>bordonaro-molly-hering</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -498,10 +442,6 @@
                 <date>2005-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-09-07</date>
                 <note/>
@@ -517,7 +457,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>mt-2009-kmie-01</id>
+            <id>ma-2009-kmie-01</id>
             <person-id>kmiec-douglas-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -525,10 +465,6 @@
                 <date>2009-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-09-17</date>
                 <note/>
@@ -544,7 +480,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>mt-2012-aber-01</id>
+            <id>ma-2012-aber-01</id>
             <person-id>abercrombie-winstanley-gina-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -552,10 +488,6 @@
                 <date>2012-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-05-02</date>
                 <note/>
@@ -571,7 +503,7 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>mt-2015-hill-01</id>
+            <id>ma-2015-hill-01</id>
             <person-id>hill-g-kathleen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -579,10 +511,6 @@
                 <date>2015-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-02-25</date>
                 <note/>
@@ -598,7 +526,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>mt-2018-scha-01</id>
+            <id>ma--scha-01</id>
             <person-id>schapiro-mark-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -606,28 +534,48 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-09-29</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-09-29</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-08-31</date>
                 <note/>
             </ended>
             <note/>
-            <created-by>DIDit.app</created-by>
+            <created-by>bottsjd</created-by>
             <created-date>2019-12-16</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-09-10</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
+    <other-nominees>
+        <chief>
+            <id>ma--tore-01</id>
+            <person-id>toretti-christine-j</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>malta</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of May 24, 2018 and renomination of January 16, 2019 returned to the president on January 3, 2020.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+    </other-nominees>
 </country-mission>

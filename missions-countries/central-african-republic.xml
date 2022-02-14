@@ -3,7 +3,7 @@
     <territory-id>central-african-republic</territory-id>
     <chiefs>
         <chief>
-            <id>cf-1960-luke-01</id>
+            <id>ce--luke-01</id>
             <person-id>lukens-alan-wood</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1960-08-13</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1960-blan-01</id>
+            <id>ce-1960-blan-01</id>
             <person-id>blancke-wilton-wendell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1960-12-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-01-06</date>
                 <note/>
@@ -60,7 +56,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1961-burn-01</id>
+            <id>ce-1961-burn-01</id>
             <person-id>burns-john-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -68,10 +64,6 @@
                 <date>1961-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-11-29</date>
                 <note/>
@@ -88,7 +80,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1963-ross-01</id>
+            <id>ce-1963-ross-01</id>
             <person-id>ross-claude-george-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -96,10 +88,6 @@
                 <date>1963-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-09-16</date>
                 <note/>
@@ -115,7 +103,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1967-lewi-01</id>
+            <id>ce-1967-lewi-01</id>
             <person-id>lewis-geoffrey-whitney</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -123,10 +111,6 @@
                 <date>1967-09-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-10-23</date>
                 <note/>
@@ -142,7 +126,7 @@
             <last-modified-date>2014-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1970-manf-01</id>
+            <id>ce-1970-manf-01</id>
             <person-id>manfull-melvin-lawrence</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -150,10 +134,6 @@
                 <date>1970-11-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1971-02-04</date>
                 <note/>
@@ -169,7 +149,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1973-dale-01</id>
+            <id>ce-1973-dale-01</id>
             <person-id>dale-william-norris</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -177,10 +157,6 @@
                 <date>1973-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-09-18</date>
                 <note/>
@@ -196,7 +172,7 @@
             <last-modified-date>2014-06-11</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1976-quai-01</id>
+            <id>ce-1976-quai-01</id>
             <person-id>quainton-anthony-cecil-eden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -204,10 +180,6 @@
                 <date>1976-02-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-02-20</date>
                 <note/>
@@ -223,7 +195,7 @@
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1978-cook-01</id>
+            <id>ce-1978-cook-01</id>
             <person-id>cooke-goodwin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -231,10 +203,6 @@
                 <date>1978-10-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-11-04</date>
                 <note/>
@@ -250,7 +218,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1980-fair-01</id>
+            <id>ce--fair-01</id>
             <person-id>fairchild-albert-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -258,16 +226,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1980-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1980-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1981-07</date>
+                <date>1981-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -277,7 +245,7 @@
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1981-wood-01</id>
+            <id>ce-1981-wood-01</id>
             <person-id>woodruff-arthur-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -285,10 +253,6 @@
                 <date>1981-05-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-07-10</date>
                 <note/>
@@ -304,7 +268,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1983-deja-01</id>
+            <id>ce-1983-deja-01</id>
             <person-id>dejarnette-edmund-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -312,10 +276,6 @@
                 <date>1983-10-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-11-17</date>
                 <note/>
@@ -331,7 +291,7 @@
             <last-modified-date>2013-02-21</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1986-fiel-01</id>
+            <id>ce-1986-fiel-01</id>
             <person-id>fields-david-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -339,10 +299,6 @@
                 <date>1986-10-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-12-04</date>
                 <note/>
@@ -358,7 +314,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1989-simp-01</id>
+            <id>ce-1989-simp-01</id>
             <person-id>simpson-daniel-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -366,10 +322,6 @@
                 <date>1989-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-02-06</date>
                 <note/>
@@ -385,7 +337,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1992-grib-01</id>
+            <id>ce-1992-grib-01</id>
             <person-id>gribbin-robert-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -393,10 +345,6 @@
                 <date>1992-06-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-01-16</date>
                 <note/>
@@ -412,7 +360,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cf-1995-jord-01</id>
+            <id>ce-1995-jord-01</id>
             <person-id>jordan-mosina-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -420,10 +368,6 @@
                 <date>1995-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-11-29</date>
                 <note/>
@@ -448,7 +392,7 @@
             <last-modified-date>2016-12-29</last-modified-date>
         </mission-note>
         <chief>
-            <id>cf-1998-perr-01</id>
+            <id>ce-1998-perr-01</id>
             <person-id>perry-robert-cephas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -456,10 +400,6 @@
                 <date>1998-10-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-02-01</date>
                 <note/>
@@ -475,7 +415,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>cf-2001-shar-01</id>
+            <id>ce-2001-shar-01</id>
             <person-id>sharpless-mattie-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -483,10 +423,6 @@
                 <date>2001-10-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-12-14</date>
                 <note/>
@@ -502,7 +438,7 @@
             <last-modified-date>2014-12-04</last-modified-date>
         </chief>
         <chief>
-            <id>cf-2005-pano-01</id>
+            <id>ce--pano-01</id>
             <person-id>panos-a-james</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -510,26 +446,26 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2005-01</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2005-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2007-07</date>
+                <date>2007-07-01</date>
                 <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
-            <id>cf-2007-cook-01</id>
+            <id>ce-2007-cook-01</id>
             <person-id>cook-frederick-bishop</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -537,10 +473,6 @@
                 <date>2007-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-08-29</date>
                 <note/>
@@ -556,7 +488,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>cf-2010-wohl-01</id>
+            <id>ce-2010-wohl-01</id>
             <person-id>wohlers-lawrence-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -564,10 +496,6 @@
                 <date>2010-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-10-30</date>
                 <note/>
@@ -583,7 +511,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>cf-2013-brow-01</id>
+            <id>ce--brow-01</id>
             <person-id>brown-david-edward</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -591,26 +519,26 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2013-08</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2013-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2015-10</date>
+                <date>2015-10-01</date>
                 <note/>
             </ended>
             <note/>
             <created-by>marrsaw</created-by>
             <created-date>2016-08-29</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
-            <id>cf-2015-hawk-01</id>
+            <id>ce-2015-hawk-01</id>
             <person-id>hawkins-jeffrey-j-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -618,10 +546,6 @@
                 <date>2015-10-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-10-30</date>
                 <note/>
@@ -637,7 +561,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>cf-2017-brow-01</id>
+            <id>ce--brow-01</id>
             <person-id>brownstein-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -645,14 +569,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-09-12</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2019-02-05</date>
                 <note/>
@@ -664,7 +588,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>cf-2019-taml-01</id>
+            <id>ce-2019-taml-01</id>
             <person-id>tamlyn-lucy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>central-african-republic</contemporary-territory-id>
@@ -672,14 +596,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-02-05</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-02-07</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-02-05</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -692,8 +616,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

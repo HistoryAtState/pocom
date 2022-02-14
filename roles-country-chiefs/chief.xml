@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <role mode="active">
     <id>chief</id>
-    <class>chief</class>
-    <category>country</category>
+    <class/>
+    <category/>
     <names>
         <singular>Chief</singular>
         <plural>Chiefs</plural>
     </names>
     <description>
         <div>
-            <p>[e.g. Chief of the U.S. Liaison Office in Peking]</p>
+            <p/>
         </div>
     </description>
 </role>

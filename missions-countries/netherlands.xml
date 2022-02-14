@@ -3,20 +3,16 @@
     <territory-id>netherlands</territory-id>
     <chiefs>
         <chief>
-            <id>nl-1781-adam-01</id>
+            <id>ne-1781-adam-01</id>
             <person-id>adams-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
             <appointed>
-                <date certainty="high">1781-01-01</date>
+                <date>1781-01-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
-                <date certainty="high">1782-04-19</date>
+            <started>
+                <date>1782-04-19</date>
                 <note>Formally recognized on</note>
             </started>
             <ended>
@@ -31,7 +27,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1782-duma-01</id>
+            <id>ne--duma-01</id>
             <person-id>dumas-charles-william-frederic</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -39,16 +35,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1782-10-15</date>
                 <note>Presented as Charge d'affaires ad interim on</note>
             </started>
             <ended>
-                <date>1790</date>
+                <date>1790-01-01</date>
                 <note/>
             </ended>
             <note>John Adams, before leaving The Hague at the end of his longest period of residence
@@ -61,7 +53,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1792-shor-01</id>
+            <id>ne-1792-shor-01</id>
             <person-id>short-william</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -69,10 +61,6 @@
                 <date>1792-01-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1792-06-18</date>
                 <note/>
@@ -88,7 +76,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1794-adam-01</id>
+            <id>ne-1794-adam-01</id>
             <person-id>adams-john-quincy</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -96,10 +84,6 @@
                 <date>1794-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1794-11-06</date>
                 <note/>
@@ -116,7 +100,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1797-murr-01</id>
+            <id>ne-1797-murr-01</id>
             <person-id>murray-william-vans</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -124,10 +108,6 @@
                 <date>1797-03-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1797-06-20</date>
                 <note/>
@@ -143,7 +123,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1814-eust-01</id>
+            <id>ne-1814-eust-01</id>
             <person-id>eustis-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -151,11 +131,7 @@
                 <date>1814-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1815-07-20</date>
                 <note>Formally received on</note>
             </started>
@@ -170,7 +146,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1818-ever-01</id>
+            <id>ne-1818-ever-01</id>
             <person-id>everett-alexander-hill</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -178,14 +154,14 @@
                 <date>1818-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1819-01-04</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1824-04-07</date>
                 <note>Had farewell audience</note>
@@ -198,7 +174,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1825-hugh-01</id>
+            <id>ne-1825-hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -206,14 +182,14 @@
                 <date>1825-03-09</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1826-07-10</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1830-01-28</date>
                 <note>Superseded</note>
@@ -225,7 +201,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1829-preb-01</id>
+            <id>ne-1829-preb-01</id>
             <person-id>preble-william-pitt</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -233,10 +209,6 @@
                 <date>1829-06-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1830-01-28</date>
                 <note/>
@@ -253,7 +225,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1831-dave-01</id>
+            <id>ne-1831-dave-01</id>
             <person-id>davezac-auguste-genevieve-valentin</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -261,14 +233,14 @@
                 <date>1831-10-15</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1831-12-30</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1839-07-13</date>
                 <note>Superseded</note>
@@ -281,7 +253,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1839-blee-01</id>
+            <id>ne-1839-blee-01</id>
             <person-id>bleecker-harmanus</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -289,14 +261,14 @@
                 <date>1839-05-15</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1839-07-13</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1842-08-22</date>
                 <note>Superseded</note>
@@ -310,7 +282,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1842-hugh-01</id>
+            <id>ne-1842-hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -318,14 +290,14 @@
                 <date>1842-05-12</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1842-08-22</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1845-06-28</date>
                 <note>Presented recall on</note>
@@ -337,7 +309,7 @@
             <last-modified-date>2013-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1845-dave-01</id>
+            <id>ne-1845-dave-01</id>
             <person-id>davezac-auguste-genevieve-valentin</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -345,14 +317,14 @@
                 <date>1845-04-19</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1845-06-28</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1850-09-16</date>
                 <note>Superseded</note>
@@ -365,7 +337,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1850-fols-01</id>
+            <id>ne-1850-fols-01</id>
             <person-id>folsom-george</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -373,14 +345,14 @@
                 <date>1850-05-04</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1850-09-16</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1853-10-11</date>
                 <note>Presented recall on</note>
@@ -393,7 +365,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1853-belm-01</id>
+            <id>ne-1853-belm-01</id>
             <person-id>belmont-august</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -401,14 +373,14 @@
                 <date>1853-05-24</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1853-10-11</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1854-09-26</date>
                 <note>Promoted to Minister Resident</note>
@@ -421,7 +393,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1854-belm-01</id>
+            <id>ne-1854-belm-01</id>
             <person-id>belmont-august</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -429,10 +401,6 @@
                 <date>1854-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1854-09-26</date>
                 <note/>
@@ -448,7 +416,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1857-murp-01</id>
+            <id>ne-1857-murp-01</id>
             <person-id>murphy-henry-cruse</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -456,10 +424,6 @@
                 <date>1857-06-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1857-09-24</date>
                 <note/>
@@ -476,7 +440,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1861-pike-01</id>
+            <id>ne-1861-pike-01</id>
             <person-id>pike-james-shepard</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -484,10 +448,6 @@
                 <date>1861-03-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1861-06-08</date>
                 <note/>
@@ -503,7 +463,34 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1866-ewin-01</id>
+            <id>ne--rhod-01</id>
+            <person-id>rhodes-albert</person-id>
+            <role-title-id>charge-daffaires</role-title-id>
+            <contemporary-territory-id>netherlands</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <arrived>
+                <date>1866-10-19</date>
+                <note/>
+            </arrived>
+            <ended>
+                <date>1866-12-01</date>
+                <note>Superseded</note>
+            </ended>
+            <note>Not commissioned; letter of credence dated September 29, 1866.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>ne-1866-ewin-01</id>
             <person-id>ewing-hugh-boyle</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -511,10 +498,6 @@
                 <date>1866-09-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1866-12-01</date>
                 <note/>
@@ -531,34 +514,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1866-rhod-01</id>
-            <person-id>rhodes-albert</person-id>
-            <role-title-id>charge-daffaires</role-title-id>
-            <contemporary-territory-id>netherlands</contemporary-territory-id>
-            <appointed subtype="see-note">
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1866-10-19</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1866-12-01</date>
-                <note>Superseded</note>
-            </ended>
-            <note>Not commissioned; letter of credence dated September 29, 1866.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-05</last-modified-date>
-        </chief>
-        <chief>
-            <id>nl-1870-gorh-01</id>
+            <id>ne-1870-gorh-01</id>
             <person-id>gorham-charles-t</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -566,10 +522,6 @@
                 <date>1870-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1870-12-15</date>
                 <note/>
@@ -585,7 +537,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1876-birn-01</id>
+            <id>ne-1876-birn-01</id>
             <person-id>birney-james</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -593,10 +545,6 @@
                 <date>1876-01-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1876-03-29</date>
                 <note/>
@@ -612,7 +560,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1882-dayt-01</id>
+            <id>ne-1882-dayt-01</id>
             <person-id>dayton-william-lewis-jr</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -620,10 +568,6 @@
                 <date>1882-04-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1882-09-26</date>
                 <note/>
@@ -639,7 +583,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1885-bell-01</id>
+            <id>ne-1885-bell-01</id>
             <person-id>bell-isaac-jr</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -647,10 +591,6 @@
                 <date>1885-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1885-06-08</date>
                 <note/>
@@ -666,7 +606,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1888-roos-01</id>
+            <id>ne-1888-roos-01</id>
             <person-id>roosevelt-robert-barnwell</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -674,10 +614,6 @@
                 <date>1888-05-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1888-08-10</date>
                 <note/>
@@ -693,7 +629,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1888-roos-02</id>
+            <id>ne-1888-roos-01</id>
             <person-id>roosevelt-robert-barnwell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -701,10 +637,6 @@
                 <date>1888-08-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1888-09-26</date>
                 <note/>
@@ -720,7 +652,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1889-thay-01</id>
+            <id>ne-1889-thay-01</id>
             <person-id>thayer-samuel-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -728,10 +660,6 @@
                 <date>1889-03-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-05-24</date>
                 <note/>
@@ -747,7 +675,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1893-quin-01</id>
+            <id>ne-1893-quin-01</id>
             <person-id>quinby-william-emory</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -755,10 +683,6 @@
                 <date>1893-05-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-08-11</date>
                 <note/>
@@ -775,7 +699,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1897-newe-01</id>
+            <id>ne-1897-newe-01</id>
             <person-id>newel-stanford</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -783,10 +707,6 @@
                 <date>1897-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1897-08-19</date>
                 <note/>
@@ -802,7 +722,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1903-newe-01</id>
+            <id>ne-1903-newe-01</id>
             <person-id>newel-stanford</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -810,10 +730,6 @@
                 <date>1903-06-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -830,7 +746,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1905-hill-01</id>
+            <id>ne-1905-hill-01</id>
             <person-id>hill-david-jayne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -838,10 +754,6 @@
                 <date>1905-03-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1905-07-15</date>
                 <note/>
@@ -857,7 +769,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1908-beau-01</id>
+            <id>ne-1908-beau-01</id>
             <person-id>beaupre-arthur-matthias</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -865,10 +777,6 @@
                 <date>1908-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1908-06-15</date>
                 <note/>
@@ -884,7 +792,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1911-bryc-01</id>
+            <id>ne-1911-bryc-01</id>
             <person-id>bryce-lloyd-stephens</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -892,10 +800,6 @@
                 <date>1911-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1911-11-16</date>
                 <note/>
@@ -911,7 +815,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1913-van-01</id>
+            <id>ne-1913-van--01</id>
             <person-id>van-dyke-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -919,10 +823,6 @@
                 <date>1913-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-10-15</date>
                 <note/>
@@ -938,7 +838,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1917-garr-01</id>
+            <id>ne-1917-garr-01</id>
             <person-id>garrett-john-work</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -946,10 +846,6 @@
                 <date>1917-08-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1917-10-11</date>
                 <note/>
@@ -965,7 +861,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1920-phil-01</id>
+            <id>ne-1920-phil-01</id>
             <person-id>phillips-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -973,10 +869,6 @@
                 <date>1920-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1920-04-23</date>
                 <note/>
@@ -992,7 +884,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1923-tobi-02</id>
+            <id>ne-1923-tobi-01</id>
             <person-id>tobin-richard-montgomery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1000,10 +892,6 @@
                 <date>1923-03-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1923-05-01</date>
                 <note/>
@@ -1020,7 +908,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1929-diek-01</id>
+            <id>ne-1929-diek-01</id>
             <person-id>diekema-gerrit-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1028,10 +916,6 @@
                 <date>1929-09-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1929-11-20</date>
                 <note/>
@@ -1047,7 +931,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1931-swen-01</id>
+            <id>ne-1931-swen-01</id>
             <person-id>swenson-laurits-selmer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1055,10 +939,6 @@
                 <date>1931-02-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1931-04-29</date>
                 <note/>
@@ -1074,7 +954,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1934-emme-01</id>
+            <id>ne-1934-emme-01</id>
             <person-id>emmet-grenville-temple</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1082,10 +962,6 @@
                 <date>1934-01-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1934-03-21</date>
                 <note/>
@@ -1101,7 +977,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1937-gord-01</id>
+            <id>ne-1937-gord-01</id>
             <person-id>gordon-george-anderson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1109,10 +985,6 @@
                 <date>1937-07-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-09-10</date>
                 <note/>
@@ -1132,35 +1004,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1940-scho-01</id>
-            <person-id>schoenfeld-rudolf-emil</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>belgium</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1940-08-15</date>
-                <note>Initial call made on</note>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Schoenfeld established the Legation near the Government of the Netherlands in the
-                United Kingdom.</note>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-01-05</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-05</last-modified-date>
-        </chief>
-        <chief>
-            <id>nl-1941-bidd-01</id>
+            <id>ne-1941-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1168,10 +1012,6 @@
                 <date>1941-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1941-03-27</date>
                 <note/>
@@ -1187,7 +1027,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1942-bidd-01</id>
+            <id>ne-1942-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1195,11 +1035,7 @@
                 <date>1942-05-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1942-05-08</date>
                 <note>Legation raised to Embassy status and formally received on</note>
             </started>
@@ -1214,7 +1050,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1944-horn-01</id>
+            <id>ne-1944-horn-01</id>
             <person-id>hornbeck-stanley-kuhl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1222,10 +1058,6 @@
                 <date>1944-09-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1944-12-08</date>
                 <note/>
@@ -1243,7 +1075,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1947-baru-01</id>
+            <id>ne-1947-baru-01</id>
             <person-id>baruch-herman-benjamin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1251,10 +1083,6 @@
                 <date>1947-03-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-04-12</date>
                 <note/>
@@ -1270,7 +1098,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1949-chap-01</id>
+            <id>ne-1949-chap-01</id>
             <person-id>chapin-selden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1278,10 +1106,6 @@
                 <date>1949-10-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1949-10-27</date>
                 <note/>
@@ -1297,7 +1121,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1953-matt-01</id>
+            <id>ne-1953-matt-01</id>
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1305,10 +1129,6 @@
                 <date>1953-10-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-11-25</date>
                 <note/>
@@ -1325,7 +1145,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1957-youn-01</id>
+            <id>ne-1957-youn-01</id>
             <person-id>young-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1333,10 +1153,6 @@
                 <date>1957-03-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-06-27</date>
                 <note/>
@@ -1352,7 +1168,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1961-rice-01</id>
+            <id>ne-1961-rice-01</id>
             <person-id>rice-john-stanley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1360,10 +1176,6 @@
                 <date>1961-03-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-05-06</date>
                 <note/>
@@ -1379,7 +1191,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1965-tyle-01</id>
+            <id>ne-1965-tyle-01</id>
             <person-id>tyler-william-royall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1387,10 +1199,6 @@
                 <date>1965-05-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1965-06-23</date>
                 <note/>
@@ -1406,7 +1214,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1969-midd-01</id>
+            <id>ne-1969-midd-01</id>
             <person-id>middendorf-john-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1414,10 +1222,6 @@
                 <date>1969-06-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-07-09</date>
                 <note/>
@@ -1433,7 +1237,7 @@
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1973-goul-01</id>
+            <id>ne-1973-goul-01</id>
             <person-id>gould-kingdon-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1441,10 +1245,6 @@
                 <date>1973-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-10-18</date>
                 <note/>
@@ -1460,7 +1260,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1976-mccl-01</id>
+            <id>ne-1976-mccl-01</id>
             <person-id>mccloskey-robert-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1468,10 +1268,6 @@
                 <date>1976-09-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-10-22</date>
                 <note/>
@@ -1487,7 +1283,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1978-jose-01</id>
+            <id>ne-1978-jose-01</id>
             <person-id>joseph-geri-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1495,10 +1291,6 @@
                 <date>1978-07-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-09-06</date>
                 <note/>
@@ -1514,7 +1306,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1981-dyes-01</id>
+            <id>ne-1981-dyes-01</id>
             <person-id>dyess-william-jennings</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1522,10 +1314,6 @@
                 <date>1981-07-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-09-02</date>
                 <note/>
@@ -1541,7 +1329,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1983-brem-01</id>
+            <id>ne-1983-brem-01</id>
             <person-id>bremer-l-paul</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1549,10 +1337,6 @@
                 <date>1983-07-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-08-31</date>
                 <note/>
@@ -1568,7 +1352,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1987-shad-01</id>
+            <id>ne-1987-shad-01</id>
             <person-id>shad-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1576,10 +1360,6 @@
                 <date>1987-06-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-06-24</date>
                 <note/>
@@ -1595,7 +1375,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1989-wilk-01</id>
+            <id>ne-1989-wilk-01</id>
             <person-id>wilkins-c-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1603,10 +1383,6 @@
                 <date>1989-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-07-13</date>
                 <note/>
@@ -1622,7 +1398,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1992-gewe-01</id>
+            <id>ne--gewe-01</id>
             <person-id>gewecke-thomas-howard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1630,16 +1406,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1992-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1992-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1993-07</date>
+                <date>1993-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1649,7 +1425,7 @@
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1994-dorn-01</id>
+            <id>ne-1994-dorn-01</id>
             <person-id>dornbush-k-terry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1657,10 +1433,6 @@
                 <date>1994-02-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-03-16</date>
                 <note/>
@@ -1676,7 +1448,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1998-schn-01</id>
+            <id>ne-1998-schn-01</id>
             <person-id>schneider-cynthia-perrin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1684,10 +1456,6 @@
                 <date>1998-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-09-02</date>
                 <note/>
@@ -1703,7 +1471,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-2001-sobe-01</id>
+            <id>ne-2001-sobe-01</id>
             <person-id>sobel-clifford-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1711,10 +1479,6 @@
                 <date>2001-11-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-12-06</date>
                 <note/>
@@ -1730,7 +1494,7 @@
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>nl-2006-arna-01</id>
+            <id>ne-2006-arna-01</id>
             <person-id>arnall-roland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1738,10 +1502,6 @@
                 <date>2006-02-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-03-08</date>
                 <note/>
@@ -1757,7 +1517,7 @@
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
         <chief>
-            <id>nl-2008-culb-01</id>
+            <id>ne-2008-culb-01</id>
             <person-id>culbertson-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1765,10 +1525,6 @@
                 <date>2008-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-08-13</date>
                 <note/>
@@ -1784,7 +1540,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>nl-2009-levi-01</id>
+            <id>ne-2009-levi-01</id>
             <person-id>levin-fay-hartog</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1792,10 +1548,6 @@
                 <date>2009-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-08-19</date>
                 <note/>
@@ -1811,7 +1563,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>nl-2011-nola-01</id>
+            <id>ne--nola-01</id>
             <person-id>nolan-edwin-richard-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1819,16 +1571,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2011-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2011-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2013-06</date>
+                <date>2013-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1838,7 +1590,7 @@
             <last-modified-date>2016-08-31</last-modified-date>
         </chief>
         <chief>
-            <id>nl-2014-broa-01</id>
+            <id>ne-2014-broa-01</id>
             <person-id>broas-timothy-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1846,10 +1598,6 @@
                 <date>2014-03-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-03-19</date>
                 <note/>
@@ -1865,7 +1613,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>nl-2016-crow-01</id>
+            <id>ne--crow-01</id>
             <person-id>crowley-shawn-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1873,14 +1621,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2016-07-29</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2018-01-04</date>
                 <note/>
@@ -1892,7 +1640,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>nl-2017-hoek-01</id>
+            <id>ne-2017-hoek-01</id>
             <person-id>hoekstra-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1900,28 +1648,28 @@
                 <date>2017-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-01-04</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-01-10</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-01-04</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-17</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-22</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-22</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>nl-1785-livi-01</id>
+            <id>ne--livi-01</id>
             <person-id>livingston-william</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1929,10 +1677,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1949,7 +1693,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1785-rutl-01</id>
+            <id>ne--rutl-01</id>
             <person-id>rutledge-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1957,10 +1701,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1977,7 +1717,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1828-hugh-01</id>
+            <id>ne--hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1985,10 +1725,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2004,7 +1740,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1856-belm-01</id>
+            <id>ne--belm-01</id>
             <person-id>belmont-august</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2012,10 +1748,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2031,7 +1763,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1866-sick-01</id>
+            <id>ne-1866-sick-01</id>
             <person-id>sickles-daniel-edgar</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2039,10 +1771,6 @@
                 <date>1866-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2058,7 +1786,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1866-dix-01</id>
+            <id>ne-1866-dix--01</id>
             <person-id>dix-john-adams</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2066,10 +1794,6 @@
                 <date>1866-07-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2085,7 +1809,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1875-stoc-01</id>
+            <id>ne-1875-stoc-01</id>
             <person-id>stockbridge-francis-brown</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2093,10 +1817,6 @@
                 <date>1875-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2113,7 +1833,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl--root-01</id>
+            <id>ne--root-01</id>
             <person-id>root-joseph-pomeroy</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2121,10 +1841,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2140,7 +1856,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1923-tobi-01</id>
+            <id>ne-1923-tobi-01</id>
             <person-id>tobin-richard-montgomery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2148,10 +1864,6 @@
                 <date>1923-02-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2167,7 +1879,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1933-emme-01</id>
+            <id>ne-1933-emme-01</id>
             <person-id>emmet-grenville-temple</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2175,10 +1887,6 @@
                 <date>1933-12-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2195,7 +1903,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>nl-1992-alex-01</id>
+            <id>ne--alex-01</id>
             <person-id>alexander-donald-herman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2203,10 +1911,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2222,8 +1926,4 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>montenegro</territory-id>
     <chiefs>
         <chief>
-            <id>me-1905-jack-01</id>
+            <id>mo-1905-jack-01</id>
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1905-03-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1905-10-30</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>me-1907-pear-01</id>
+            <id>mo-1907-pear-01</id>
             <person-id>pearson-richmond</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1907-07-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1908-05-20</date>
                 <note/>
@@ -58,7 +50,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>me-1909-mose-01</id>
+            <id>mo-1909-mose-01</id>
             <person-id>moses-george-higgins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -66,10 +58,6 @@
                 <date>1909-04-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1910-05-31</date>
                 <note/>
@@ -85,7 +73,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>me-1912-schu-01</id>
+            <id>mo-1912-schu-01</id>
             <person-id>schurman-jacob-gould</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -93,10 +81,6 @@
                 <date>1912-08-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-07-21</date>
                 <note/>
@@ -112,7 +96,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>me-1913-will-01</id>
+            <id>mo-1913-will-01</id>
             <person-id>williams-george-fred</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -120,10 +104,6 @@
                 <date>1913-12-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1914-05-10</date>
                 <note>Soon after</note>
@@ -139,7 +119,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>me-1914-drop-01</id>
+            <id>mo-1914-drop-01</id>
             <person-id>droppers-garrett</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -147,11 +127,7 @@
                 <date>1914-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -169,7 +145,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>me-2006-ferr-01</id>
+            <id>mo--ferr-01</id>
             <person-id>ferrill-arlene-lorraine</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -177,14 +153,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2006-10-05</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -196,7 +172,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>me-2007-moor-01</id>
+            <id>mo-2007-moor-01</id>
             <person-id>moore-roderick-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -204,10 +180,6 @@
                 <date>2007-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-09-19</date>
                 <note/>
@@ -223,7 +195,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>me-2011-brow-01</id>
+            <id>mo-2011-brow-01</id>
             <person-id>brown-sue-katherine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -231,10 +203,6 @@
                 <date>2011-03-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-05-12</date>
                 <note/>
@@ -250,7 +218,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>me-2014-uyeh-01</id>
+            <id>mo-2014-uyeh-01</id>
             <person-id>uyehara-margaret-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -258,10 +226,6 @@
                 <date>2014-12-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-02-19</date>
                 <note/>
@@ -277,7 +241,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>me-2018-rein-01</id>
+            <id>mo-2018-rein-01</id>
             <person-id>reinke-judy-rising</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -285,14 +249,14 @@
                 <date>2018-09-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-11-25</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-11-26</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-11-25</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -306,7 +270,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>me-1920-capp-01</id>
+            <id>mo-1920-capp-01</id>
             <person-id>capps-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>montenegro</contemporary-territory-id>
@@ -314,10 +278,6 @@
                 <date>1920-06-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -334,8 +294,4 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>togo</territory-id>
     <chiefs>
         <chief>
-            <id>tg-1960-mack-01</id>
+            <id>to--mack-01</id>
             <person-id>macknight-jesse-mackenzie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1960-04-27</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1960-barr-01</id>
+            <id>to-1960-barr-01</id>
             <person-id>barrows-leland-judd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1960-06-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-08-22</date>
                 <note/>
@@ -57,7 +53,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1961-poul-01</id>
+            <id>to-1961-poul-01</id>
             <person-id>poullada-leon-baqueiro</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -65,10 +61,6 @@
                 <date>1961-04-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-07-27</date>
                 <note/>
@@ -84,7 +76,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1964-witm-01</id>
+            <id>to-1964-witm-01</id>
             <person-id>witman-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -92,10 +84,6 @@
                 <date>1964-06-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-07-10</date>
                 <note/>
@@ -111,7 +99,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1967-sher-01</id>
+            <id>to-1967-sher-01</id>
             <person-id>sherer-albert-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -119,10 +107,6 @@
                 <date>1967-09-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-10-13</date>
                 <note/>
@@ -138,7 +122,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1970-dick-01</id>
+            <id>to-1970-dick-01</id>
             <person-id>dickinson-dwight</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -146,10 +130,6 @@
                 <date>1970-09-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1970-10-08</date>
                 <note/>
@@ -165,7 +145,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1974-rawl-01</id>
+            <id>to-1974-rawl-01</id>
             <person-id>rawls-nancy-vivian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -173,10 +153,6 @@
                 <date>1974-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-06-07</date>
                 <note/>
@@ -192,7 +168,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1976-palm-01</id>
+            <id>to-1976-palm-01</id>
             <person-id>palmer-ronald-dewayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -200,10 +176,6 @@
                 <date>1976-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-10-28</date>
                 <note/>
@@ -219,7 +191,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1978-john-01</id>
+            <id>to-1978-john-01</id>
             <person-id>johnson-marilyn-priscilla</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -227,10 +199,6 @@
                 <date>1978-09-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-11-03</date>
                 <note/>
@@ -246,7 +214,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1982-walk-01</id>
+            <id>to-1982-walk-01</id>
             <person-id>walker-howard-kent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -254,10 +222,6 @@
                 <date>1982-03-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-04-19</date>
                 <note/>
@@ -273,7 +237,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1984-robe-01</id>
+            <id>to-1984-robe-01</id>
             <person-id>roberts-owen-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -281,10 +245,6 @@
                 <date>1984-06-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-07-31</date>
                 <note/>
@@ -300,7 +260,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1986-korn-01</id>
+            <id>to-1986-korn-01</id>
             <person-id>korn-david-adolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -308,10 +268,6 @@
                 <date>1986-10-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-11-04</date>
                 <note/>
@@ -327,7 +283,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1988-tayl-01</id>
+            <id>to-1988-tayl-01</id>
             <person-id>taylor-rush-walker</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -335,10 +291,6 @@
                 <date>1988-04-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-06-20</date>
                 <note/>
@@ -354,7 +306,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1990-kirb-01</id>
+            <id>to-1990-kirb-01</id>
             <person-id>kirby-harmon-elwood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -362,10 +314,6 @@
                 <date>1990-10-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-12-03</date>
                 <note/>
@@ -381,7 +329,7 @@
             <last-modified-date>2014-05-27</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1994-youn-01</id>
+            <id>to-1994-youn-01</id>
             <person-id>young-johnny</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -389,10 +337,6 @@
                 <date>1994-05-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-10-07</date>
                 <note/>
@@ -408,7 +352,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-1997-scho-01</id>
+            <id>to-1997-scho-01</id>
             <person-id>schoonover-brenda</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -416,10 +360,6 @@
                 <date>1997-11-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-01-07</date>
                 <note/>
@@ -435,7 +375,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-2000-hofm-01</id>
+            <id>to-2000-hofm-01</id>
             <person-id>hofmann-karl-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -443,10 +383,6 @@
                 <date>2000-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-10-17</date>
                 <note/>
@@ -462,7 +398,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-2003-engl-01</id>
+            <id>to-2003-engl-01</id>
             <person-id>engle-gregory-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -470,10 +406,6 @@
                 <date>2003-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-05-22</date>
                 <note/>
@@ -489,7 +421,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tg-2005-dunn-01</id>
+            <id>to-2005-dunn-01</id>
             <person-id>dunn-david-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -497,10 +429,6 @@
                 <date>2005-11-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-02-02</date>
                 <note/>
@@ -516,7 +444,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>tg-2008-hawk-01</id>
+            <id>to-2008-hawk-01</id>
             <person-id>hawkins-patricia-mcmahon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -524,10 +452,6 @@
                 <date>2008-06-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-09-12</date>
                 <note/>
@@ -543,7 +467,7 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
-            <id>tg-2012-whit-01</id>
+            <id>to-2012-whit-01</id>
             <person-id>whitehead-robert-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -551,10 +475,6 @@
                 <date>2012-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-05-07</date>
                 <note/>
@@ -570,7 +490,7 @@
             <last-modified-date>2016-08-25</last-modified-date>
         </chief>
         <chief>
-            <id>tg-2015-gilm-01</id>
+            <id>to-2015-gilm-01</id>
             <person-id>gilmour-david-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -578,10 +498,6 @@
                 <date>2015-10-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-11-07</date>
                 <note/>
@@ -597,7 +513,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>tg-2019-stro-01</id>
+            <id>to-2019-stro-01</id>
             <person-id>stromayer-eric</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -605,14 +521,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-03-26</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-04-11</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-03-26</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -625,8 +541,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

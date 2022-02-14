@@ -3,7 +3,7 @@
     <territory-id>kyrgyzstan</territory-id>
     <chiefs>
         <chief>
-            <id>kg-1992-mcwi-01</id>
+            <id>ky--mcwi-01</id>
             <person-id>mcwilliams-edmund</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1992-02-01</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>kg-1992-hurw-01</id>
+            <id>ky-1992-hurw-01</id>
             <person-id>hurwitz-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1992-08-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-09-17</date>
                 <note/>
@@ -57,7 +53,7 @@
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
         <chief>
-            <id>kg-1993-robe-01</id>
+            <id>ky--robe-01</id>
             <person-id>roberts-george-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -65,16 +61,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1993-03</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1993-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1994-11</date>
+                <date>1994-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -84,7 +80,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
-            <id>kg-1994-mall-01</id>
+            <id>ky-1994-mall-01</id>
             <person-id>malloy-eileen-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -92,10 +88,6 @@
                 <date>1994-08-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-10-25</date>
                 <note/>
@@ -111,7 +103,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kg-1997-sigm-01</id>
+            <id>ky-1997-sigm-01</id>
             <person-id>sigmund-anne-marie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -119,10 +111,6 @@
                 <date>1997-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-09-30</date>
                 <note/>
@@ -138,7 +126,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kg-2000-okee-01</id>
+            <id>ky-2000-okee-01</id>
             <person-id>okeefe-john-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -146,10 +134,6 @@
                 <date>2000-06-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-09-23</date>
                 <note/>
@@ -165,7 +149,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kg-2003-youn-01</id>
+            <id>ky-2003-youn-01</id>
             <person-id>young-stephen-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -173,10 +157,6 @@
                 <date>2003-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-08-26</date>
                 <note/>
@@ -192,7 +172,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kg-2004-yova-01</id>
+            <id>ky-2004-yova-01</id>
             <person-id>yovanovitch-marie-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -200,10 +180,6 @@
                 <date>2004-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-02-04</date>
                 <note/>
@@ -219,7 +195,7 @@
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>kg-2008-gfoe-01</id>
+            <id>ky-2008-gfoe-01</id>
             <person-id>gfoeller-volkoff-tatiana-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -227,10 +203,6 @@
                 <date>2008-08-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-10-14</date>
                 <note/>
@@ -246,7 +218,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>kg-2011-spra-01</id>
+            <id>ky-2011-spra-01</id>
             <person-id>spratlen-pamela-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -254,10 +226,6 @@
                 <date>2011-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-05-24</date>
                 <note/>
@@ -273,7 +241,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>kg-2015-gwal-01</id>
+            <id>ky-2015-gwal-01</id>
             <person-id>gwaltney-sheila</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -281,10 +249,6 @@
                 <date>2015-08-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-10-14</date>
                 <note/>
@@ -300,7 +264,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>kg-2018-lu-01</id>
+            <id>ky-2018-lu-d-01</id>
             <person-id>lu-donald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -308,14 +272,14 @@
                 <date>2018-09-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-09-19</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-10-12</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-09-19</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -328,8 +292,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

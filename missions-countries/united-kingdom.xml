@@ -3,7 +3,7 @@
     <territory-id>united-kingdom</territory-id>
     <chiefs>
         <chief>
-            <id>gb-1785-adam-01</id>
+            <id>un-1785-adam-01</id>
             <person-id>adams-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1785-02-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1785-06-01</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1792-pinc-01</id>
+            <id>un-1792-pinc-01</id>
             <person-id>pinckney-thomas</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1792-01-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1792-08-09</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1796-king-01</id>
+            <id>un-1796-king-01</id>
             <person-id>king-rufus</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -65,10 +57,6 @@
                 <date>1796-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1796-07-27</date>
                 <note/>
@@ -84,7 +72,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1803-monr-01</id>
+            <id>un-1803-monr-01</id>
             <person-id>monroe-james</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -92,10 +80,6 @@
                 <date>1803-04-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1803-08-17</date>
                 <note/>
@@ -112,7 +96,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1808-pink-01</id>
+            <id>un-1808-pink-01</id>
             <person-id>pinkney-william</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -120,10 +104,6 @@
                 <date>1808-02-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1808-04-27</date>
                 <note/>
@@ -146,22 +126,22 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1811-russ-01</id>
+            <id>un-1811-russ-01</id>
             <person-id>russell-jonathan</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1811-07-27</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1811-11-15</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1812-06-18</date>
                 <note>The United States declared war on Great Britain on</note>
@@ -175,7 +155,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1815-adam-01</id>
+            <id>un-1815-adam-01</id>
             <person-id>adams-john-quincy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -183,10 +163,6 @@
                 <date>1815-02-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1815-06-08</date>
                 <note/>
@@ -203,18 +179,14 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1818-rush-01</id>
+            <id>un-1817-rush-01</id>
             <person-id>rush-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
             <appointed>
-                <date>1817</date>
+                <date>1817-01-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1818-02-12</date>
                 <note/>
@@ -232,7 +204,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1825-king-01</id>
+            <id>un-1825-king-01</id>
             <person-id>king-rufus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -240,10 +212,6 @@
                 <date>1825-05-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1825-11-11</date>
                 <note/>
@@ -261,7 +229,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1826-gall-01</id>
+            <id>un-1826-gall-01</id>
             <person-id>gallatin-albert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -269,10 +237,6 @@
                 <date>1826-05-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1826-09-01</date>
                 <note/>
@@ -289,7 +253,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1828-barb-01</id>
+            <id>un-1828-barb-01</id>
             <person-id>barbour-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -297,10 +261,6 @@
                 <date>1828-05-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1828-11-24</date>
                 <note/>
@@ -317,7 +277,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1829-mcla-01</id>
+            <id>un-1829-mcla-01</id>
             <person-id>mclane-louis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -325,10 +285,6 @@
                 <date>1829-04-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1829-10-12</date>
                 <note/>
@@ -346,7 +302,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1831-van-01</id>
+            <id>un-1831-van--01</id>
             <person-id>van-buren-martin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -354,10 +310,6 @@
                 <date>1831-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1831-09-21</date>
                 <note/>
@@ -375,7 +327,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1832-vail-01</id>
+            <id>un-1832-vail-01</id>
             <person-id>vail-aaron</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -383,11 +335,7 @@
                 <date>1832-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -405,7 +353,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1836-stev-01</id>
+            <id>un-1836-stev-01</id>
             <person-id>stevenson-andrew</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -413,10 +361,6 @@
                 <date>1836-03-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1836-07-13</date>
                 <note/>
@@ -433,7 +377,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1841-ever-01</id>
+            <id>un-1841-ever-01</id>
             <person-id>everett-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -441,10 +385,6 @@
                 <date>1841-09-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1841-12-16</date>
                 <note/>
@@ -461,7 +401,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1845-mcla-01</id>
+            <id>un-1845-mcla-01</id>
             <person-id>mclane-louis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -469,10 +409,6 @@
                 <date>1845-06-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1845-08-08</date>
                 <note/>
@@ -490,7 +426,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1846-banc-01</id>
+            <id>un-1846-banc-01</id>
             <person-id>bancroft-george</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -498,10 +434,6 @@
                 <date>1846-09-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1846-11-12</date>
                 <note/>
@@ -519,7 +451,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1849-lawr-01</id>
+            <id>un-1849-lawr-01</id>
             <person-id>lawrence-abbott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -527,10 +459,6 @@
                 <date>1849-08-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1849-10-20</date>
                 <note/>
@@ -548,7 +476,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1852-inge-01</id>
+            <id>un-1852-inge-01</id>
             <person-id>ingersoll-joseph-reed</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -556,10 +484,6 @@
                 <date>1852-08-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1852-10-16</date>
                 <note/>
@@ -576,7 +500,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1853-buch-01</id>
+            <id>un-1853-buch-01</id>
             <person-id>buchanan-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -584,10 +508,6 @@
                 <date>1853-04-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1853-08-23</date>
                 <note/>
@@ -604,7 +524,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1856-dall-01</id>
+            <id>un-1856-dall-01</id>
             <person-id>dallas-george-mifflin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -612,10 +532,6 @@
                 <date>1856-02-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1856-04-04</date>
                 <note/>
@@ -631,7 +547,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1861-adam-01</id>
+            <id>un-1861-adam-01</id>
             <person-id>adams-charles-francis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -639,10 +555,6 @@
                 <date>1861-03-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1861-05-16</date>
                 <note/>
@@ -658,7 +570,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1868-john-01</id>
+            <id>un-1868-john-01</id>
             <person-id>johnson-reverdy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -666,10 +578,6 @@
                 <date>1868-06-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1868-09-14</date>
                 <note/>
@@ -685,7 +593,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1869-motl-01</id>
+            <id>un-1869-motl-01</id>
             <person-id>motley-john-lothrop</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -693,10 +601,6 @@
                 <date>1869-04-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-06-18</date>
                 <note/>
@@ -712,7 +616,7 @@
             <last-modified-date>2018-04-26</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1870-sche-01</id>
+            <id>un-1870-sche-01</id>
             <person-id>schenck-robert-cumming</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -720,10 +624,6 @@
                 <date>1870-12-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1871-06-23</date>
                 <note/>
@@ -739,7 +639,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1876-pier-01</id>
+            <id>un-1876-pier-01</id>
             <person-id>pierrepont-edwards</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -747,10 +647,6 @@
                 <date>1876-05-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1876-07-11</date>
                 <note/>
@@ -766,7 +662,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1877-wels-01</id>
+            <id>un-1877-wels-01</id>
             <person-id>welsh-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -774,10 +670,6 @@
                 <date>1877-11-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1877-12-22</date>
                 <note/>
@@ -793,7 +685,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1880-lowe-01</id>
+            <id>un-1880-lowe-01</id>
             <person-id>lowell-james-russell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -801,10 +693,6 @@
                 <date>1880-01-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1880-03-11</date>
                 <note/>
@@ -820,7 +708,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1885-phel-01</id>
+            <id>un-1885-phel-01</id>
             <person-id>phelps-edward-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -828,10 +716,6 @@
                 <date>1885-03-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1885-05-19</date>
                 <note/>
@@ -847,7 +731,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1889-linc-01</id>
+            <id>un-1889-linc-01</id>
             <person-id>lincoln-robert-todd</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -855,10 +739,6 @@
                 <date>1889-03-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-05-25</date>
                 <note/>
@@ -874,7 +754,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1893-baya-01</id>
+            <id>un-1893-baya-01</id>
             <person-id>bayard-thomas-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -882,10 +762,6 @@
                 <date>1893-03-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-06-22</date>
                 <note/>
@@ -901,7 +777,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1897-hay-01</id>
+            <id>un-1897-hay--01</id>
             <person-id>hay-john-milton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -909,10 +785,6 @@
                 <date>1897-03-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1897-05-03</date>
                 <note/>
@@ -928,7 +800,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1899-choa-01</id>
+            <id>un-1899-choa-01</id>
             <person-id>choate-joseph-hodges</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -936,10 +808,6 @@
                 <date>1899-01-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1899-03-06</date>
                 <note/>
@@ -955,7 +823,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1905-reid-01</id>
+            <id>un-1905-reid-01</id>
             <person-id>reid-whitelaw</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -963,10 +831,6 @@
                 <date>1905-03-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1905-06-05</date>
                 <note/>
@@ -982,7 +846,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1913-page-01</id>
+            <id>un-1913-page-01</id>
             <person-id>page-walter-hines</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -990,10 +854,6 @@
                 <date>1913-04-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-05-30</date>
                 <note/>
@@ -1009,7 +869,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1918-davi-01</id>
+            <id>un-1918-davi-01</id>
             <person-id>davis-john-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1017,10 +877,6 @@
                 <date>1918-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1918-12-18</date>
                 <note/>
@@ -1036,7 +892,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1921-harv-01</id>
+            <id>un-1921-harv-01</id>
             <person-id>harvey-george-brinton-mcclellan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1044,10 +900,6 @@
                 <date>1921-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1921-05-12</date>
                 <note/>
@@ -1063,7 +915,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1923-kell-01</id>
+            <id>un-1923-kell-01</id>
             <person-id>kellogg-frank-billings</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1071,10 +923,6 @@
                 <date>1923-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1924-01-14</date>
                 <note/>
@@ -1090,7 +938,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1925-houg-01</id>
+            <id>un-1925-houg-01</id>
             <person-id>houghton-alanson-bigelow</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1098,10 +946,6 @@
                 <date>1925-02-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1925-04-27</date>
                 <note/>
@@ -1117,7 +961,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1929-dawe-01</id>
+            <id>un-1929-dawe-01</id>
             <person-id>dawes-charles-gates</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1125,10 +969,6 @@
                 <date>1929-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1929-06-15</date>
                 <note/>
@@ -1144,7 +984,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1932-mell-01</id>
+            <id>un-1932-mell-01</id>
             <person-id>mellon-andrew-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1152,10 +992,6 @@
                 <date>1932-02-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1932-04-09</date>
                 <note/>
@@ -1171,7 +1007,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1933-bing-01</id>
+            <id>un-1933-bing-01</id>
             <person-id>bingham-robert-worth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1179,10 +1015,6 @@
                 <date>1933-03-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-05-23</date>
                 <note/>
@@ -1198,7 +1030,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1938-kenn-01</id>
+            <id>un-1938-kenn-01</id>
             <person-id>kennedy-joseph-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1206,10 +1038,6 @@
                 <date>1938-01-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1938-03-08</date>
                 <note/>
@@ -1225,7 +1053,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1941-wina-01</id>
+            <id>un-1941-wina-01</id>
             <person-id>winant-john-gilbert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1233,10 +1061,6 @@
                 <date>1941-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1941-03-01</date>
                 <note/>
@@ -1252,7 +1076,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1946-harr-01</id>
+            <id>un-1946-harr-01</id>
             <person-id>harriman-william-averell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1260,10 +1084,6 @@
                 <date>1946-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1946-04-30</date>
                 <note/>
@@ -1279,7 +1099,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1947-doug-01</id>
+            <id>un-1947-doug-01</id>
             <person-id>douglas-lewis-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1287,10 +1107,6 @@
                 <date>1947-03-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-03-25</date>
                 <note/>
@@ -1306,7 +1122,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1950-giff-02</id>
+            <id>un-1950-giff-01</id>
             <person-id>gifford-walter-sherman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1314,10 +1130,6 @@
                 <date>1950-12-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1950-12-21</date>
                 <note/>
@@ -1333,7 +1145,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1953-aldr-01</id>
+            <id>un-1953-aldr-01</id>
             <person-id>aldrich-winthrop-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1341,10 +1153,6 @@
                 <date>1953-02-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-02-20</date>
                 <note/>
@@ -1360,7 +1168,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1957-whit-01</id>
+            <id>un-1957-whit-01</id>
             <person-id>whitney-john-hay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1368,10 +1176,6 @@
                 <date>1957-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-02-28</date>
                 <note/>
@@ -1387,7 +1191,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1961-bruc-01</id>
+            <id>un-1961-bruc-01</id>
             <person-id>bruce-david-kirkpatrick-este</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1395,10 +1199,6 @@
                 <date>1961-02-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-03-17</date>
                 <note/>
@@ -1414,7 +1214,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1969-anne-01</id>
+            <id>un-1969-anne-01</id>
             <person-id>annenberg-walter-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1422,10 +1222,6 @@
                 <date>1969-03-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-04-29</date>
                 <note/>
@@ -1441,7 +1237,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1975-rich-01</id>
+            <id>un-1975-rich-01</id>
             <person-id>richardson-elliot-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1449,10 +1245,6 @@
                 <date>1975-02-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-03-21</date>
                 <note/>
@@ -1468,7 +1260,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1976-arms-01</id>
+            <id>un-1976-arms-01</id>
             <person-id>armstrong-anne-legendre</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1476,10 +1268,6 @@
                 <date>1976-01-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-03-17</date>
                 <note/>
@@ -1495,7 +1283,7 @@
             <last-modified-date>2012-07-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1977-brew-01</id>
+            <id>un-1977-brew-01</id>
             <person-id>brewster-kingman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1503,10 +1291,6 @@
                 <date>1977-04-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-06-03</date>
                 <note/>
@@ -1522,7 +1306,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1981-loui-01</id>
+            <id>un-1981-loui-01</id>
             <person-id>louis-john-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1530,10 +1314,6 @@
                 <date>1981-05-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-05-27</date>
                 <note/>
@@ -1549,7 +1329,7 @@
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1983-pric-01</id>
+            <id>un-1983-pric-01</id>
             <person-id>price-charles-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1557,10 +1337,6 @@
                 <date>1983-11-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-12-20</date>
                 <note/>
@@ -1576,7 +1352,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1989-catt-01</id>
+            <id>un-1989-catt-01</id>
             <person-id>catto-henry-edward-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1584,10 +1360,6 @@
                 <date>1989-04-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-05-17</date>
                 <note/>
@@ -1603,7 +1375,7 @@
             <last-modified-date>2013-03-28</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1991-seit-01</id>
+            <id>un-1991-seit-01</id>
             <person-id>seitz-raymond-george-hardenbergh</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1611,10 +1383,6 @@
                 <date>1991-04-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1991-06-25</date>
                 <note/>
@@ -1630,7 +1398,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1994-crow-01</id>
+            <id>un-1994-crow-01</id>
             <person-id>crowe-william-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1638,10 +1406,6 @@
                 <date>1994-05-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-06-02</date>
                 <note/>
@@ -1657,7 +1421,7 @@
             <last-modified-date>2013-04-01</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1997-lade-01</id>
+            <id>un-1997-lade-01</id>
             <person-id>lader-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1665,10 +1429,6 @@
                 <date>1997-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-09-22</date>
                 <note/>
@@ -1684,7 +1444,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-2001-fari-01</id>
+            <id>un-2001-fari-01</id>
             <person-id>farish-william-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1692,10 +1452,6 @@
                 <date>2001-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-08-01</date>
                 <note/>
@@ -1711,7 +1467,7 @@
             <last-modified-date>2013-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>gb-2005-tutt-01</id>
+            <id>un-2005-tutt-01</id>
             <person-id>tuttle-robert-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1719,10 +1475,6 @@
                 <date>2005-07-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-10-19</date>
                 <note/>
@@ -1738,7 +1490,7 @@
             <last-modified-date>2013-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>gb-2009-susm-01</id>
+            <id>un-2009-susm-01</id>
             <person-id>susman-louis-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1746,10 +1498,6 @@
                 <date>2009-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-10-13</date>
                 <note/>
@@ -1765,7 +1513,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>gb-2013-barz-01</id>
+            <id>un-2013-barz-01</id>
             <person-id>barzun-matthew-winthrop</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1773,10 +1521,6 @@
                 <date>2013-08-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-12-04</date>
                 <note/>
@@ -1792,7 +1536,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>gb-2017-john-01</id>
+            <id>un-2017-john-01</id>
             <person-id>johnson-robert-wood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1800,28 +1544,28 @@
                 <date>2017-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-08-24</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-11-08</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-08-24</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-29</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>gb-1834-stev-01</id>
+            <id>un--stev-01</id>
             <person-id>stevenson-andrew</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1829,10 +1573,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1848,7 +1588,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1870-frel-01</id>
+            <id>un-1870-frel-01</id>
             <person-id>frelinghuysen-frederick-theodore</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1856,10 +1596,6 @@
                 <date>1870-07-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1875,7 +1611,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb--mccl-01</id>
+            <id>un--mccl-01</id>
             <person-id>mcclellan-george-brinton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1883,10 +1619,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1902,7 +1634,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1870-mort-01</id>
+            <id>un-1870-mort-01</id>
             <person-id>morton-oliver-hazard-perry-throck</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1910,10 +1642,6 @@
                 <date>1870-09-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1930,7 +1658,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb--dana-01</id>
+            <id>un--dana-01</id>
             <person-id>dana-richard-henry-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1938,10 +1666,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1957,18 +1681,14 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1946-gard-01</id>
+            <id>un-1946-gard-01</id>
             <person-id>gardner-oliver-maxwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1946-12-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1988,7 +1708,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>gb-1950-giff-01</id>
+            <id>un-1950-giff-01</id>
             <person-id>gifford-walter-sherman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1996,10 +1716,6 @@
                 <date>1950-09-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2016,8 +1732,4 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

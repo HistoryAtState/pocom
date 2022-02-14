@@ -3,7 +3,7 @@
     <territory-id>cyprus</territory-id>
     <chiefs>
         <chief>
-            <id>cy-1960-heck-01</id>
+            <id>cy--heck-01</id>
             <person-id>heck-louis-douglas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1960-08-16</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -38,10 +38,6 @@
                 <date>1960-08-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-09-19</date>
                 <note/>
@@ -65,10 +61,6 @@
                 <date>1964-05-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-05-11</date>
                 <note/>
@@ -92,10 +84,6 @@
                 <date>1969-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-07-18</date>
                 <note/>
@@ -119,10 +107,6 @@
                 <date>1973-05-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-06-20</date>
                 <note/>
@@ -146,10 +130,6 @@
                 <date>1974-05-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-07-10</date>
                 <note/>
@@ -173,10 +153,6 @@
                 <date>1974-08-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-08-31</date>
                 <note/>
@@ -200,10 +176,6 @@
                 <date>1978-03-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-04-06</date>
                 <note/>
@@ -227,10 +199,6 @@
                 <date>1981-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-10-30</date>
                 <note/>
@@ -254,10 +222,6 @@
                 <date>1984-08-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-08-28</date>
                 <note/>
@@ -281,10 +245,6 @@
                 <date>1988-04-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-05-03</date>
                 <note/>
@@ -300,7 +260,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>cy-1989-nix-01</id>
+            <id>cy--nix--01</id>
             <person-id>nix-john-u</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -308,16 +268,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1989-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1989-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1990-07</date>
+                <date>1990-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -335,10 +295,6 @@
                 <date>1990-10-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-11-30</date>
                 <note/>
@@ -362,10 +318,6 @@
                 <date>1993-10-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-11-22</date>
                 <note/>
@@ -389,10 +341,6 @@
                 <date>1996-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-07-11</date>
                 <note/>
@@ -416,10 +364,6 @@
                 <date>1999-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-08-23</date>
                 <note/>
@@ -443,10 +387,6 @@
                 <date>2002-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-08-29</date>
                 <note/>
@@ -470,10 +410,6 @@
                 <date>2005-11-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-12-20</date>
                 <note/>
@@ -497,10 +433,6 @@
                 <date>2008-05-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-09-09</date>
                 <note/>
@@ -524,10 +456,6 @@
                 <date>2012-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-09-12</date>
                 <note/>
@@ -551,10 +479,6 @@
                 <date>2015-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-10-07</date>
                 <note/>
@@ -578,14 +502,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-03-07</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-03-18</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-03-07</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -598,8 +522,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

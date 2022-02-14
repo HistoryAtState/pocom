@@ -3,7 +3,7 @@
     <territory-id>estonia</territory-id>
     <chiefs>
         <chief>
-            <id>ew-1922-cole-01</id>
+            <id>es-1922-cole-01</id>
             <person-id>coleman-frederick-william-backus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1922-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1922-11-20</date>
                 <note/>
@@ -31,7 +27,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>ew-1931-skin-01</id>
+            <id>es-1931-skin-01</id>
             <person-id>skinner-robert-peet</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -39,10 +35,6 @@
                 <date>1931-09-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1932-04-02</date>
                 <note/>
@@ -59,7 +51,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>ew-1933-macm-01</id>
+            <id>es-1933-macm-01</id>
             <person-id>macmurray-john-van-antwerp</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -67,10 +59,6 @@
                 <date>1933-08-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1934-01-04</date>
                 <note/>
@@ -87,7 +75,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>ew-1936-lane-01</id>
+            <id>es-1936-lane-01</id>
             <person-id>lane-arthur-bliss</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -95,10 +83,6 @@
                 <date>1936-01-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1936-09-10</date>
                 <note/>
@@ -114,7 +98,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>ew-1938-wile-01</id>
+            <id>es-1938-wile-01</id>
             <person-id>wiley-john-cooper</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -122,10 +106,6 @@
                 <date>1938-07-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1938-11-24</date>
                 <note/>
@@ -142,7 +122,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ew-1940-leon-01</id>
+            <id>es--leon-01</id>
             <person-id>leonard-walter-anderson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -150,10 +130,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -179,7 +155,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </mission-note>
         <chief>
-            <id>ew-1991-fras-01</id>
+            <id>es--fras-01</id>
             <person-id>frasure-robert-c</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -187,14 +163,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1991-10-02</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -206,7 +182,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>ew-1992-fras-01</id>
+            <id>es-1992-fras-01</id>
             <person-id>frasure-robert-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -214,10 +190,6 @@
                 <date>1992-03-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-04-09</date>
                 <note/>
@@ -233,7 +205,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ew-1995-tayl-01</id>
+            <id>es-1995-tayl-01</id>
             <person-id>taylor-lawrence-palmer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -241,10 +213,6 @@
                 <date>1995-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-08-03</date>
                 <note/>
@@ -260,7 +228,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ew-1998-well-01</id>
+            <id>es-1998-well-01</id>
             <person-id>wells-melissa-foelsch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -268,10 +236,6 @@
                 <date>1998-10-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-11-03</date>
                 <note/>
@@ -287,7 +251,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ew-2001-deth-01</id>
+            <id>es-2001-deth-01</id>
             <person-id>dethomas-joseph-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -295,10 +259,6 @@
                 <date>2001-11-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-12-11</date>
                 <note/>
@@ -314,7 +274,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ew-2004-wos-01</id>
+            <id>es-2004-wos--01</id>
             <person-id>wos-aldona</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -322,10 +282,6 @@
                 <date>2004-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-09-02</date>
                 <note/>
@@ -342,7 +298,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>ew-2007-phil-01</id>
+            <id>es-2007-phil-01</id>
             <person-id>phillips-stanley-davis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -350,10 +306,6 @@
                 <date>2007-03-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-05-31</date>
                 <note/>
@@ -369,7 +321,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>ew-2009-polt-01</id>
+            <id>es-2009-polt-01</id>
             <person-id>polt-michael-christian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -377,10 +329,6 @@
                 <date>2009-11-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-12-10</date>
                 <note/>
@@ -396,7 +344,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>ew-2012-levi-01</id>
+            <id>es-2012-levi-01</id>
             <person-id>levine-jeffrey-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -404,10 +352,6 @@
                 <date>2012-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-09-17</date>
                 <note/>
@@ -423,7 +367,7 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>ew-2015-melv-01</id>
+            <id>es-2015-melv-01</id>
             <person-id>melville-james-desmond-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -431,10 +375,6 @@
                 <date>2015-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-12-08</date>
                 <note/>
@@ -450,7 +390,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ew-2018-hors-01</id>
+            <id>es--hors-01</id>
             <person-id>horst-elizabeth-k</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -458,14 +398,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2018-07-29</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2019-08-02</date>
                 <note/>
@@ -479,7 +419,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ew-1937-ster-01</id>
+            <id>es-1937-ster-01</id>
             <person-id>sterling-frederick-augustine</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -487,10 +427,6 @@
                 <date>1937-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -506,7 +442,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>ew-2017-mass-01</id>
+            <id>es--mass-01</id>
             <person-id>masso-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>estonia</contemporary-territory-id>
@@ -514,10 +450,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -533,8 +465,4 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

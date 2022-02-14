@@ -3,7 +3,7 @@
     <territory-id>bosnia-herzegovina</territory-id>
     <chiefs>
         <chief>
-            <id>ba-1992-jack-01</id>
+            <id>bo-1992-jack-01</id>
             <person-id>jackovich-victor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1992-05-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-06-23</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ba-1995-menz-01</id>
+            <id>bo-1995-menz-01</id>
             <person-id>menzies-john-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1995-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-01-07</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ba-1997-kauz-01</id>
+            <id>bo-1997-kauz-01</id>
             <person-id>kauzlarich-richard-dale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -65,10 +57,6 @@
                 <date>1997-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-08-28</date>
                 <note/>
@@ -84,7 +72,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ba-1999-mill-01</id>
+            <id>bo-1999-mill-01</id>
             <person-id>miller-thomas-joel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -92,10 +80,6 @@
                 <date>1999-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-08-27</date>
                 <note/>
@@ -111,7 +95,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ba-2001-bond-01</id>
+            <id>bo-2001-bond-01</id>
             <person-id>bond-clifford-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -119,10 +103,6 @@
                 <date>2001-10-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-11-02</date>
                 <note/>
@@ -138,7 +118,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ba-2004-mcel-01</id>
+            <id>bo-2004-mcel-01</id>
             <person-id>mcelhaney-douglas-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -146,10 +126,6 @@
                 <date>2004-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-09-15</date>
                 <note/>
@@ -165,7 +141,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ba-2007-engl-01</id>
+            <id>bo-2007-engl-01</id>
             <person-id>english-charles-lewis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -173,10 +149,6 @@
                 <date>2007-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-10-04</date>
                 <note/>
@@ -192,7 +164,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ba-2010-moon-01</id>
+            <id>bo-2010-moon-01</id>
             <person-id>moon-patrick-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -200,10 +172,6 @@
                 <date>2010-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-09-14</date>
                 <note/>
@@ -219,7 +187,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ba-2013-hill-01</id>
+            <id>bo--hill-01</id>
             <person-id>hill-nicholas-manning</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -227,16 +195,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2013-08</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2013-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2015-01</date>
+                <date>2015-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -246,7 +214,7 @@
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
         <chief>
-            <id>ba-2014-corm-01</id>
+            <id>bo-2014-corm-01</id>
             <person-id>cormack-maureen-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -254,10 +222,6 @@
                 <date>2014-11-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-01-16</date>
                 <note/>
@@ -273,7 +237,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ba-2019-nels-01</id>
+            <id>bo-2019-nels-01</id>
             <person-id>nelson-eric-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -281,14 +245,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-02-17</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-02-19</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-02-17</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -301,8 +265,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>guinea-bissau</territory-id>
     <chiefs>
         <chief>
-            <id>gw-1976-curr-01</id>
+            <id>gu--curr-01</id>
             <person-id>curran-brian-dean</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1976-06-30</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1976-11-29</date>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-1976-well-01</id>
+            <id>gu-1976-well-01</id>
             <person-id>wells-melissa-foelsch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1976-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-11-29</date>
                 <note/>
@@ -57,7 +53,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-1977-mark-01</id>
+            <id>gu-1977-mark-01</id>
             <person-id>marks-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -65,10 +61,6 @@
                 <date>1977-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-10-31</date>
                 <note/>
@@ -84,7 +76,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-1980-de-01</id>
+            <id>gu-1980-de-v-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -92,10 +84,6 @@
                 <date>1980-08-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-09-22</date>
                 <note/>
@@ -111,7 +99,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-1983-egan-01</id>
+            <id>gu-1983-egan-01</id>
             <person-id>egan-wesley-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -119,10 +107,6 @@
                 <date>1983-03-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-05-12</date>
                 <note/>
@@ -138,7 +122,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-1985-masl-01</id>
+            <id>gu--masl-01</id>
             <person-id>maslak-barbara-c</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -146,16 +130,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1985-01</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1985-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1986-08</date>
+                <date>1986-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -165,7 +149,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-1986-blac-01</id>
+            <id>gu-1986-blac-01</id>
             <person-id>blacken-john-dale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -173,10 +157,6 @@
                 <date>1986-06-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-08-27</date>
                 <note/>
@@ -192,7 +172,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gw-1989-jaco-01</id>
+            <id>gu-1989-jaco-01</id>
             <person-id>jacobsen-william-ludwig</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -200,10 +180,6 @@
                 <date>1989-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-11-13</date>
                 <note/>
@@ -219,7 +195,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gw-1992-mcgu-01</id>
+            <id>gu-1992-mcgu-01</id>
             <person-id>mcguire-roger-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -227,10 +203,6 @@
                 <date>1992-06-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-10-14</date>
                 <note/>
@@ -246,7 +218,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gw-1995-blac-01</id>
+            <id>gu-1995-blac-01</id>
             <person-id>blackford-peggy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -254,10 +226,6 @@
                 <date>1995-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-11-04</date>
                 <note/>
@@ -273,7 +241,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gw-2002-roth-01</id>
+            <id>gu-2002-roth-01</id>
             <person-id>roth-richard-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -281,10 +249,6 @@
                 <date>2002-11-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-02-13</date>
                 <note/>
@@ -300,7 +264,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-2006-jaco-01</id>
+            <id>gu-2006-jaco-01</id>
             <person-id>jacobs-janice-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -308,10 +272,6 @@
                 <date>2006-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-05-09</date>
                 <note/>
@@ -327,7 +287,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-2008-bern-01</id>
+            <id>gu-2008-bern-01</id>
             <person-id>bernicat-marcia-stephens-bloom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -335,10 +295,6 @@
                 <date>2008-06-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-11-06</date>
                 <note/>
@@ -354,7 +310,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-2011-luke-01</id>
+            <id>gu-2011-luke-01</id>
             <person-id>lukens-lewis-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -362,10 +318,6 @@
                 <date>2011-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-10-19</date>
                 <note/>
@@ -381,7 +333,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>gw-2014-zumw-01</id>
+            <id>gu-2014-zumw-01</id>
             <person-id>zumwalt-james-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -389,10 +341,6 @@
                 <date>2014-11-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-03-10</date>
                 <note/>
@@ -408,7 +356,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>gw-2017-mush-01</id>
+            <id>gu-2017-mush-01</id>
             <person-id>mushingi-tulinabo-salama</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -416,14 +364,14 @@
                 <date>2017-05-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-07-30</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-08-22</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-07-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -436,8 +384,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

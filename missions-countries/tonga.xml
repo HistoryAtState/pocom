@@ -3,6 +3,33 @@
     <territory-id>tonga</territory-id>
     <chiefs>
         <chief>
+            <id>to--wood-01</id>
+            <person-id>wood-chalmers-benedict</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>tonga</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <arrived>
+                <date>1972-11-01</date>
+                <note/>
+            </arrived>
+            <ended>
+                <date>1974-04-01</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
+        </chief>
+        <chief>
             <id>to-1972-fran-01</id>
             <person-id>franzheim-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -11,10 +38,6 @@
                 <date>1972-10-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-11-06</date>
                 <note/>
@@ -30,33 +53,6 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>to-1972-wood-01</id>
-            <person-id>wood-chalmers-benedict</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>tonga</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1972-11</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1974-04</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-11-24</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-24</last-modified-date>
-        </chief>
-        <chief>
             <id>to-1974-seld-01</id>
             <person-id>selden-armistead-inge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -65,10 +61,6 @@
                 <date>1974-03-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-04-10</date>
                 <note/>
@@ -92,10 +84,6 @@
                 <date>1979-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1979-11-19</date>
                 <note/>
@@ -119,10 +107,6 @@
                 <date>1980-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-09-18</date>
                 <note/>
@@ -146,10 +130,6 @@
                 <date>1982-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-04-15</date>
                 <note/>
@@ -173,10 +153,6 @@
                 <date>1984-09-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-01-16</date>
                 <note/>
@@ -200,10 +176,6 @@
                 <date>1987-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-06-28</date>
                 <note/>
@@ -227,10 +199,6 @@
                 <date>1989-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-01-23</date>
                 <note/>
@@ -246,7 +214,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>to-1993-mari-01</id>
+            <id>to--mari-01</id>
             <person-id>marine-michael-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -254,16 +222,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1993-03</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1993-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1995-06</date>
+                <date>1995-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -281,10 +249,6 @@
                 <date>1995-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-02-13</date>
                 <note/>
@@ -308,10 +272,6 @@
                 <date>1999-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-09-22</date>
                 <note/>
@@ -327,7 +287,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>to-2001-mcmu-01</id>
+            <id>to--mcmu-01</id>
             <person-id>mcmullen-ronald-keith</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -335,16 +295,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2001-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2001-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2002-06</date>
+                <date>2002-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -362,10 +322,6 @@
                 <date>2002-11-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-02-18</date>
                 <note/>
@@ -389,10 +345,6 @@
                 <date>2005-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-09-14</date>
                 <note/>
@@ -416,10 +368,6 @@
                 <date>2008-10-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-03-06</date>
                 <note/>
@@ -443,10 +391,6 @@
                 <date>2011-08-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-11-14</date>
                 <note/>
@@ -470,10 +414,6 @@
                 <date>2014-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-04-22</date>
                 <note/>
@@ -489,7 +429,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>to-2018-gold-01</id>
+            <id>to--gold-01</id>
             <person-id>goldman-michael-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -497,14 +437,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2018-02-25</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2019-12-16</date>
                 <note/>
@@ -524,28 +464,28 @@
                 <date>2019-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-12-16</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-12-16</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
-            <created-by>DIDit.app</created-by>
+            <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-12-19</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>to-1973-farl-01</id>
+            <id>to--farl-01</id>
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -553,10 +493,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -573,8 +509,4 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

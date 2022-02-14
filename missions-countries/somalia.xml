@@ -3,7 +3,7 @@
     <territory-id>somalia</territory-id>
     <chiefs>
         <chief>
-            <id>so-1960-lync-01</id>
+            <id>so--lync-01</id>
             <person-id>lynch-andrew-green</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>somalia</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1960-07-01</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1960-07-11</date>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2016-01-27</last-modified-date>
         </chief>
         <chief>
-            <id>so-1960-lync-02</id>
+            <id>so-1960-lync-01</id>
             <person-id>lynch-andrew-green</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>somalia</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1960-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-07-11</date>
                 <note/>
@@ -65,10 +61,6 @@
                 <date>1962-02-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-01-31</date>
                 <note/>
@@ -93,10 +85,6 @@
                 <date>1965-09-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1965-11-23</date>
                 <note/>
@@ -120,10 +108,6 @@
                 <date>1969-05-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-06-28</date>
                 <note/>
@@ -147,10 +131,6 @@
                 <date>1972-02-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-03-13</date>
                 <note/>
@@ -174,10 +154,6 @@
                 <date>1973-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-10-08</date>
                 <note/>
@@ -201,10 +177,6 @@
                 <date>1975-05-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-08-13</date>
                 <note/>
@@ -228,10 +200,6 @@
                 <date>1978-10-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-12-08</date>
                 <note/>
@@ -255,10 +223,6 @@
                 <date>1982-09-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-01-26</date>
                 <note/>
@@ -282,10 +246,6 @@
                 <date>1984-11-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-12-19</date>
                 <note/>
@@ -310,10 +270,6 @@
                 <date>1987-04-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-06-03</date>
                 <note/>
@@ -337,10 +293,6 @@
                 <date>1990-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-09-19</date>
                 <note/>
@@ -376,14 +328,14 @@
                 <date>2016-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2016-07-20</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-08-09</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-07-20</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2017-07-21</date>
                 <note/>
@@ -395,7 +347,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>so-2017-dale-01</id>
+            <id>so--dale-01</id>
             <person-id>dale-martin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>somalia</contemporary-territory-id>
@@ -403,14 +355,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-07-21</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2018-11-13</date>
                 <note/>
@@ -430,14 +382,14 @@
                 <date>2018-10-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-11-13</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-11-17</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-11-13</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -451,7 +403,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>so-2015-dhan-01</id>
+            <id>so--dhan-01</id>
             <person-id>dhanani-katherine-simmons</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>somalia</contemporary-territory-id>
@@ -459,10 +411,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -478,8 +426,4 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -27,7 +27,7 @@
             <id>gene-1957-mill</id>
             <person-id>miller-raymond-clendenin</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1957-11-19</date>
                 <note/>
             </appointed>
@@ -50,7 +50,7 @@
             <id>gene-1960-drew</id>
             <person-id>drew-gerald-augustin</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1960-11-13</date>
                 <note/>
             </appointed>
@@ -72,7 +72,7 @@
             <id>gene-1962-hase</id>
             <person-id>haselton-norris-s</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1962-06-10</date>
                 <note/>
             </appointed>
@@ -94,7 +94,7 @@
             <id>gene-1964-wilk</id>
             <person-id>wilkins-fraser</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1964-07-23</date>
                 <note/>
             </appointed>
@@ -116,7 +116,7 @@
             <id>gene-1971-mcel</id>
             <person-id>mcelhiney-thomas-watkins</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1971-07-01</date>
                 <note/>
             </appointed>
@@ -138,7 +138,7 @@
             <id>gene-1973-sutt</id>
             <person-id>sutterlin-james-s</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1973-10-15</date>
                 <note/>
             </appointed>
@@ -160,7 +160,7 @@
             <id>gene-1975-scha</id>
             <person-id>schaufele-william-everett</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1975-04-16</date>
                 <note/>
             </appointed>
@@ -182,7 +182,7 @@
             <id>gene-1975-sayr</id>
             <person-id>sayre-robert-marion</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1975-11-25</date>
                 <note/>
             </appointed>
@@ -204,7 +204,7 @@
             <id>gene-1978-elio</id>
             <person-id>eliot-theodore-lyman</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1978-07-05</date>
                 <note/>
             </appointed>
@@ -226,7 +226,7 @@
             <id>gene-1979-brew</id>
             <person-id>brewster-robert-charles</person-id>
             <role-title-id>inspector-general</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1979-01-15</date>
                 <note/>
             </appointed>
@@ -293,6 +293,28 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </principal>
+        <principal>
+            <id>gene-1985-holl</id>
+            <person-id>hollingsworth-hugh-byron</person-id>
+            <role-title-id>inspector-general</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Designated Program Inspector General, Oct 9, 1985. P.L. 99-399 of Aug 27, 1986 (100 Stat. 867), abolished the position and created the office of Inspector General of the Department of State. H. Byron Hollingsworth of Virginia (Foreign Service officer) served as Acting Inspector General, Aug 1986-Aug 1987.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2012-09-24</last-modified-date>
         </principal>
         <principal>
             <id>gene-1987-funk</id>
@@ -383,53 +405,6 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </principal>
         <principal>
-            <id>gene-2013-lini</id>
-            <person-id>linick-steve-a</person-id>
-            <role-title-id>inspector-general</role-title-id>
-            <appointed>
-                <date>2013-09-27</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>2013-09-30</date>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2014-07-15</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-14</last-modified-date>
-        </principal>
-        <principal>
-            <id>gene-1985-holl</id>
-            <person-id>hollingsworth-hugh-byron</person-id>
-            <role-title-id>inspector-general</role-title-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Designated Program Inspector General, Oct 9, 1985. P.L. 99-399 of Aug 27, 1986
-                (100 Stat. 867), abolished the position and created the office of Inspector General
-                of the Department of State. H. Byron Hollingsworth of Virginia (Foreign Service
-                officer) served as Acting Inspector General, Aug 1986-Aug 1987.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
-        </principal>
-        <principal>
             <id>gene-2008-betr</id>
             <person-id>betro-thomas-a</person-id>
             <role-title-id>inspector-general</role-title-id>
@@ -451,10 +426,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-14</last-modified-date>
         </principal>
+        <principal>
+            <id>gene-2013-lini</id>
+            <person-id>linick-steve-a</person-id>
+            <role-title-id>inspector-general</role-title-id>
+            <appointed>
+                <date>2013-09-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2013-09-30</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2014-07-15</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-05-14</last-modified-date>
+        </principal>
     </principals>
     <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-18</last-modified-date>
 </principal-position>

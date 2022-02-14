@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
-    xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
+<schema xmlns="http://purl.oclc.org/dsdl/schematron" xmlns:sqf="http://www.schematron-quickfix.com/validator/process" queryBinding="xslt2">
     <pattern>
         <rule context="country-mission/territory-id">
             <let name="basename" value="replace(base-uri(.), '^.*/(.*?)$', '$1')"/>
@@ -16,7 +15,8 @@
                 “<value-of select="."/>” should take the form xx-dddd-xxxx-dd, where x is a lower case letter and d is a digit</assert>
             <let name="territory-id" value="root(.)/country-mission/territory-id"/>
             <let name="current-territory-iso" value="doc(concat('../../gsh/data/countries-old/', $territory-id, '.xml'))/country/iso2"/>
-            <assert test="tokenize(., '-')[1] = $current-territory-iso">The first portion of the id should be the 2-letter ISO country code: <value-of select="$current-territory-iso"/></assert>
+            <assert test="tokenize(., '-')[1] = $current-territory-iso">The first portion of the id should be the 2-letter ISO country code: <value-of select="$current-territory-iso"/>
+            </assert>
             <assert test="not(../date[. ne '']) or tokenize(., '-')[2] = substring(subsequence(..//date[. ne ''], 1, 1), 1, 4)">The second portion of the id should be the year portion of the first date in the record; or if no date, the year closest to the beginning of events described</assert>
             <assert test="tokenize(., '-')[3] = substring(tokenize(./following-sibling::person-id, '-')[1], 1, 4)">The third portion of the id should be the first four letters of the surname portion of a person's ID, e.g., “<value-of select="substring(tokenize(./following-sibling::person-id, '-')[1], 1, 4)"/>”</assert>
             <assert test="string-length(tokenize(., '-')[4]) = 2">The fourth portion of the id should be a two digit increment, starting 01 unless there's already a previous ID matching 01</assert>

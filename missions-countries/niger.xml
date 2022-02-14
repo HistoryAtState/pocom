@@ -3,7 +3,7 @@
     <territory-id>niger</territory-id>
     <chiefs>
         <chief>
-            <id>ne-1960-norl-01</id>
+            <id>ni--norl-01</id>
             <person-id>norland-donald-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1960-08-03</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -31,7 +31,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1960-ream-01</id>
+            <id>ni-1960-ream-01</id>
             <person-id>reams-robert-borden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -39,10 +39,6 @@
                 <date>1960-10-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-11-23</date>
                 <note/>
@@ -61,7 +57,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1961-cook-01</id>
+            <id>ni-1961-cook-01</id>
             <person-id>cook-mercer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -69,10 +65,6 @@
                 <date>1961-06-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-08-02</date>
                 <note/>
@@ -88,7 +80,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1964-ryan-01</id>
+            <id>ni-1964-ryan-01</id>
             <person-id>ryan-robert-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -96,10 +88,6 @@
                 <date>1964-07-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-08-24</date>
                 <note/>
@@ -115,7 +103,7 @@
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1968-adam-01</id>
+            <id>ni-1968-adam-01</id>
             <person-id>adams-samuel-clifford</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -123,10 +111,6 @@
                 <date>1968-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1968-09-10</date>
                 <note/>
@@ -142,7 +126,7 @@
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1970-mccl-01</id>
+            <id>ni-1970-mccl-01</id>
             <person-id>mcclelland-roswell-dunlop</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -150,10 +134,6 @@
                 <date>1970-07-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1970-07-27</date>
                 <note/>
@@ -169,7 +149,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1974-heck-01</id>
+            <id>ni-1974-heck-01</id>
             <person-id>heck-louis-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -177,10 +157,6 @@
                 <date>1974-03-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-05-30</date>
                 <note/>
@@ -196,7 +172,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1976-jame-01</id>
+            <id>ni-1976-jame-01</id>
             <person-id>james-charles-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -204,10 +180,6 @@
                 <date>1976-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-12-11</date>
                 <note/>
@@ -223,7 +195,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1979-bish-01</id>
+            <id>ni-1979-bish-01</id>
             <person-id>bishop-james-keough</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -231,10 +203,6 @@
                 <date>1979-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1979-09-01</date>
                 <note/>
@@ -250,7 +218,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1982-case-01</id>
+            <id>ni-1982-case-01</id>
             <person-id>casey-william-robert-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -258,10 +226,6 @@
                 <date>1982-03-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-04-03</date>
                 <note/>
@@ -277,7 +241,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1985-bogo-01</id>
+            <id>ni-1985-bogo-01</id>
             <person-id>bogosian-richard-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -285,10 +249,6 @@
                 <date>1985-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-10-11</date>
                 <note/>
@@ -304,7 +264,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1988-cund-01</id>
+            <id>ni-1988-cund-01</id>
             <person-id>cundiff-carl-copeland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -312,10 +272,6 @@
                 <date>1988-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-09-09</date>
                 <note/>
@@ -331,7 +287,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1991-ward-01</id>
+            <id>ni-1991-ward-01</id>
             <person-id>ward-jennifer-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -339,10 +295,6 @@
                 <date>1991-03-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1991-08-16</date>
                 <note/>
@@ -358,7 +310,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1993-davi-01</id>
+            <id>ni-1993-davi-01</id>
             <person-id>davison-john-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -366,10 +318,6 @@
                 <date>1993-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-10-23</date>
                 <note/>
@@ -385,7 +333,7 @@
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1996-ceci-01</id>
+            <id>ni-1996-ceci-01</id>
             <person-id>cecil-charles-o</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -393,10 +341,6 @@
                 <date>1996-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-09-06</date>
                 <note/>
@@ -412,7 +356,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-1999-owen-01</id>
+            <id>ni-1999-owen-01</id>
             <person-id>owens-kirkpatrick-barbro-appelquist</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -420,10 +364,6 @@
                 <date>1999-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-10-11</date>
                 <note/>
@@ -439,7 +379,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-2002-math-01</id>
+            <id>ni-2002-math-01</id>
             <person-id>mathieu-gail-dennise-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -447,10 +387,6 @@
                 <date>2002-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-12-04</date>
                 <note/>
@@ -466,7 +402,7 @@
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
         <chief>
-            <id>ne-2006-alle-01</id>
+            <id>ni-2006-alle-01</id>
             <person-id>allen-bernadette-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -474,10 +410,6 @@
                 <date>2006-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-04-19</date>
                 <note/>
@@ -493,7 +425,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>ne-2010-will-01</id>
+            <id>ni-2010-will-01</id>
             <person-id>williams-bisa</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -501,10 +433,6 @@
                 <date>2010-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-10-29</date>
                 <note/>
@@ -520,7 +448,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>ne-2014-redd-01</id>
+            <id>ni-2014-redd-01</id>
             <person-id>reddick-eunice-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -528,10 +456,6 @@
                 <date>2014-07-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-09-12</date>
                 <note/>
@@ -547,7 +471,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>ne-2017-whit-01</id>
+            <id>ni-2017-whit-01</id>
             <person-id>whitaker-eric-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>niger</contemporary-territory-id>
@@ -555,14 +479,14 @@
                 <date>2017-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-12-28</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-01-26</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-12-28</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -575,8 +499,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

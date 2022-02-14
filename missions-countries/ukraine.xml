@@ -3,7 +3,7 @@
     <territory-id>ukraine</territory-id>
     <chiefs>
         <chief>
-            <id>ua-1992-gund-01</id>
+            <id>uk--gund-01</id>
             <person-id>gundersen-jon</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1992-01-23</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>ua-1992-popa-01</id>
+            <id>uk-1992-popa-01</id>
             <person-id>popadiuk-roman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1992-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-06-04</date>
                 <note/>
@@ -57,7 +53,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>ua-1993-mill-01</id>
+            <id>uk-1993-mill-01</id>
             <person-id>miller-william-green</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -65,10 +61,6 @@
                 <date>1993-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-10-21</date>
                 <note/>
@@ -84,7 +76,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ua-1997-pife-01</id>
+            <id>uk-1997-pife-01</id>
             <person-id>pifer-steven-karl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -92,10 +84,6 @@
                 <date>1997-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-01-20</date>
                 <note/>
@@ -111,7 +99,7 @@
             <last-modified-date>2016-02-24</last-modified-date>
         </chief>
         <chief>
-            <id>ua-2000-pasc-01</id>
+            <id>uk-2000-pasc-01</id>
             <person-id>pascual-carlos</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -119,10 +107,6 @@
                 <date>2000-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-10-22</date>
                 <note/>
@@ -138,7 +122,7 @@
             <last-modified-date>2014-07-15</last-modified-date>
         </chief>
         <chief>
-            <id>ua-2003-herb-01</id>
+            <id>uk-2003-herb-01</id>
             <person-id>herbst-john-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -146,10 +130,6 @@
                 <date>2003-07-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-09-20</date>
                 <note/>
@@ -165,7 +145,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ua-2006-tayl-01</id>
+            <id>uk-2006-tayl-01</id>
             <person-id>taylor-william-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -173,10 +153,6 @@
                 <date>2006-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-06-21</date>
                 <note/>
@@ -192,7 +168,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>ua-2009-teff-01</id>
+            <id>uk-2009-teff-01</id>
             <person-id>tefft-john-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -200,10 +176,6 @@
                 <date>2009-11-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-12-07</date>
                 <note/>
@@ -219,7 +191,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>ua-2013-pyat-01</id>
+            <id>uk-2013-pyat-01</id>
             <person-id>pyatt-geoffrey-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -227,10 +199,6 @@
                 <date>2013-07-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-08-15</date>
                 <note/>
@@ -246,7 +214,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>ua-2016-yova-01</id>
+            <id>uk-2016-yova-01</id>
             <person-id>yovanovitch-marie-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -254,14 +222,14 @@
                 <date>2016-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2016-08-22</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-08-29</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-08-22</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-05-20</date>
                 <note/>
@@ -273,9 +241,29 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
+    <other-nominees>
+        <chief>
+            <id>uk--dayt-01</id>
+            <person-id>dayton-keith-w</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>ukraine</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of May 14, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+    </other-nominees>
 </country-mission>

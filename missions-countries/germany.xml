@@ -3,7 +3,7 @@
     <territory-id>germany</territory-id>
     <chiefs>
         <chief>
-            <id>de-1797-adam-01</id>
+            <id>ge-1797-adam-01</id>
             <person-id>adams-john-quincy</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -11,11 +11,7 @@
                 <date>1797-06-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1797-12-05</date>
                 <note>Formally received on</note>
             </started>
@@ -30,7 +26,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1835-whea-01</id>
+            <id>ge-1835-whea-01</id>
             <person-id>wheaton-henry</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -38,14 +34,14 @@
                 <date>1835-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1835-06-09</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1837-09-29</date>
                 <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
@@ -57,7 +53,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1837-whea-01</id>
+            <id>ge-1837-whea-01</id>
             <person-id>wheaton-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -65,10 +61,6 @@
                 <date>1837-03-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1837-09-29</date>
                 <note/>
@@ -84,7 +76,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1846-done-01</id>
+            <id>ge-1846-done-01</id>
             <person-id>donelson-andrew-jackson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -92,10 +84,6 @@
                 <date>1846-03-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1846-07-18</date>
                 <note/>
@@ -111,19 +99,15 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1848-done-01</id>
+            <id>ge-1848-done-01</id>
             <person-id>donelson-andrew-jackson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1848-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1848-09-13</date>
                 <note/>
             </started>
@@ -139,7 +123,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1849-hann-01</id>
+            <id>ge-1849-hann-01</id>
             <person-id>hannegan-edward-a</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -147,10 +131,6 @@
                 <date>1849-03-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1849-06-30</date>
                 <note/>
@@ -166,7 +146,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1850-barn-01</id>
+            <id>ge-1850-barn-01</id>
             <person-id>barnard-daniel-dewey</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -174,10 +154,6 @@
                 <date>1850-09-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1850-12-10</date>
                 <note/>
@@ -193,7 +169,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>de-1853-vroo-01</id>
+            <id>ge-1853-vroo-01</id>
             <person-id>vroom-peter-dumont</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -201,10 +177,6 @@
                 <date>1853-05-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1853-11-04</date>
                 <note/>
@@ -221,7 +193,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1857-wrig-01</id>
+            <id>ge-1857-wrig-01</id>
             <person-id>wright-joseph-albert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -229,10 +201,6 @@
                 <date>1857-06-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1857-09-03</date>
                 <note/>
@@ -249,7 +217,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1861-judd-01</id>
+            <id>ge-1861-judd-01</id>
             <person-id>judd-norman-buel</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -257,10 +225,6 @@
                 <date>1861-03-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1861-07-01</date>
                 <note/>
@@ -276,7 +240,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1865-wrig-01</id>
+            <id>ge-1865-wrig-01</id>
             <person-id>wright-joseph-albert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -284,10 +248,6 @@
                 <date>1865-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1865-09-03</date>
                 <note/>
@@ -304,7 +264,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>de-1867-banc-01</id>
+            <id>ge-1867-banc-01</id>
             <person-id>bancroft-george</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -312,10 +272,6 @@
                 <date>1867-05-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1867-08-28</date>
                 <note/>
@@ -332,7 +288,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1871-banc-01</id>
+            <id>ge-1871-banc-01</id>
             <person-id>bancroft-george</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -340,10 +296,6 @@
                 <date>1871-05-31</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1871-07-23</date>
                 <note/>
@@ -360,7 +312,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1874-davi-01</id>
+            <id>ge-1874-davi-01</id>
             <person-id>davis-john-chandler-bancroft</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -368,10 +320,6 @@
                 <date>1874-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1874-08-28</date>
                 <note/>
@@ -387,7 +335,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1878-tayl-01</id>
+            <id>ge-1878-tayl-01</id>
             <person-id>taylor-bayard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -395,10 +343,6 @@
                 <date>1878-03-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1878-05-07</date>
                 <note/>
@@ -414,7 +358,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>de-1879-whit-01</id>
+            <id>ge-1879-whit-01</id>
             <person-id>white-andrew-dickson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -422,10 +366,6 @@
                 <date>1879-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1879-06-19</date>
                 <note/>
@@ -441,7 +381,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1882-sarg-01</id>
+            <id>ge-1882-sarg-01</id>
             <person-id>sargent-aaron-augustus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -449,10 +389,6 @@
                 <date>1882-03-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1882-05-18</date>
                 <note/>
@@ -468,7 +404,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1884-kass-01</id>
+            <id>ge-1884-kass-01</id>
             <person-id>kasson-john-adam</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -476,10 +412,6 @@
                 <date>1884-07-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1884-09-10</date>
                 <note/>
@@ -495,7 +427,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1885-pend-01</id>
+            <id>ge-1885-pend-01</id>
             <person-id>pendleton-george-hunt</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -503,10 +435,6 @@
                 <date>1885-03-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1885-06-21</date>
                 <note/>
@@ -522,7 +450,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1889-phel-01</id>
+            <id>ge-1889-phel-01</id>
             <person-id>phelps-william-walter</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -530,10 +458,6 @@
                 <date>1889-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-09-26</date>
                 <note/>
@@ -550,7 +474,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1893-runy-01</id>
+            <id>ge-1893-runy-01</id>
             <person-id>runyon-theodore</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -558,10 +482,6 @@
                 <date>1893-03-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-06-04</date>
                 <note/>
@@ -577,7 +497,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1893-runy-02</id>
+            <id>ge-1893-runy-01</id>
             <person-id>runyon-theodore</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -585,10 +505,6 @@
                 <date>1893-09-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-10-26</date>
                 <note/>
@@ -604,7 +520,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>de-1896-uhl-01</id>
+            <id>ge-1896-uhl--01</id>
             <person-id>uhl-edwin-fuller</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -612,10 +528,6 @@
                 <date>1896-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1896-05-03</date>
                 <note/>
@@ -631,7 +543,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1897-whit-01</id>
+            <id>ge-1897-whit-01</id>
             <person-id>white-andrew-dickson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -639,10 +551,6 @@
                 <date>1897-04-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1897-06-12</date>
                 <note/>
@@ -658,7 +566,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1902-towe-01</id>
+            <id>ge-1902-towe-01</id>
             <person-id>tower-charlemagne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -666,10 +574,6 @@
                 <date>1902-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1902-12-19</date>
                 <note/>
@@ -686,7 +590,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1908-hill-01</id>
+            <id>ge-1908-hill-01</id>
             <person-id>hill-david-jayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -694,10 +598,6 @@
                 <date>1908-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1908-06-14</date>
                 <note/>
@@ -713,7 +613,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1911-leis-01</id>
+            <id>ge-1911-leis-01</id>
             <person-id>leishman-john-g-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -721,10 +621,6 @@
                 <date>1911-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1911-10-24</date>
                 <note/>
@@ -740,7 +636,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1913-gera-01</id>
+            <id>ge-1913-gera-01</id>
             <person-id>gerard-james-watson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -748,10 +644,6 @@
                 <date>1913-07-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-10-29</date>
                 <note/>
@@ -769,7 +661,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1921-dres-01</id>
+            <id>ge-1921-dres-01</id>
             <person-id>dresel-ellis-loring</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -777,14 +669,14 @@
                 <date>1921-11-18</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1921-12-10</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1922-04-18</date>
                 <note>Left post on</note>
@@ -796,7 +688,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1922-houg-01</id>
+            <id>ge-1922-houg-01</id>
             <person-id>houghton-alanson-bigelow</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -804,10 +696,6 @@
                 <date>1922-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1922-04-22</date>
                 <note/>
@@ -823,7 +711,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1925-schu-01</id>
+            <id>ge-1925-schu-01</id>
             <person-id>schurman-jacob-gould</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -831,10 +719,6 @@
                 <date>1925-03-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1925-06-29</date>
                 <note/>
@@ -850,7 +734,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1930-sack-01</id>
+            <id>ge-1930-sack-01</id>
             <person-id>sackett-frederic-mosley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -858,10 +742,6 @@
                 <date>1930-01-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-02-12</date>
                 <note/>
@@ -877,7 +757,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1933-dodd-01</id>
+            <id>ge-1933-dodd-01</id>
             <person-id>dodd-william-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -885,10 +765,6 @@
                 <date>1933-06-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-08-30</date>
                 <note/>
@@ -904,7 +780,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1938-wils-01</id>
+            <id>ge-1938-wils-01</id>
             <person-id>wilson-hugh-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -912,10 +788,6 @@
                 <date>1938-01-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1938-03-03</date>
                 <note/>
@@ -931,7 +803,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1939-kirk-01</id>
+            <id>ge--kirk-01</id>
             <person-id>kirk-alexander-comstock</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -939,16 +811,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1939-05</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1939-05-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1940-10</date>
+                <date>1940-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -958,7 +830,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1940-morr-01</id>
+            <id>ge--morr-01</id>
             <person-id>morris-leland-burnette</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -966,14 +838,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1940-10</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1940-10-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1941-12-11</date>
                 <note>Germany declared war on the United States on</note>
@@ -985,7 +857,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1955-cona-01</id>
+            <id>ge-1955-cona-01</id>
             <person-id>conant-james-bryant</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -993,10 +865,6 @@
                 <date>1955-05-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1955-05-14</date>
                 <note/>
@@ -1016,7 +884,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1957-bruc-01</id>
+            <id>ge-1957-bruc-01</id>
             <person-id>bruce-david-kirkpatrick-este</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1024,10 +892,6 @@
                 <date>1957-03-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-04-17</date>
                 <note/>
@@ -1043,7 +907,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1959-dowl-01</id>
+            <id>ge-1959-dowl-01</id>
             <person-id>dowling-walter-cecil</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1051,10 +915,6 @@
                 <date>1959-11-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1959-12-03</date>
                 <note/>
@@ -1071,7 +931,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1963-mcgh-01</id>
+            <id>ge-1963-mcgh-01</id>
             <person-id>mcghee-george-crews</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1079,10 +939,6 @@
                 <date>1963-04-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-05-18</date>
                 <note/>
@@ -1098,7 +954,7 @@
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
         <chief>
-            <id>de-1968-lodg-01</id>
+            <id>ge-1968-lodg-01</id>
             <person-id>lodge-henry-cabot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1106,10 +962,6 @@
                 <date>1968-04-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1968-05-27</date>
                 <note/>
@@ -1125,7 +977,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1969-rush-01</id>
+            <id>ge-1969-rush-01</id>
             <person-id>rush-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1133,10 +985,6 @@
                 <date>1969-07-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-07-22</date>
                 <note/>
@@ -1152,7 +1000,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1972-hill-01</id>
+            <id>ge-1972-hill-01</id>
             <person-id>hillenbrand-martin-joseph-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1160,10 +1008,6 @@
                 <date>1972-05-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-06-27</date>
                 <note/>
@@ -1179,7 +1023,7 @@
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
         <chief>
-            <id>de-1976-stoe-01</id>
+            <id>ge-1976-stoe-01</id>
             <person-id>stoessel-walter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1187,10 +1031,6 @@
                 <date>1976-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-10-27</date>
                 <note/>
@@ -1206,7 +1046,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1981-burn-01</id>
+            <id>ge-1981-burn-01</id>
             <person-id>burns-arthur-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1214,10 +1054,6 @@
                 <date>1981-06-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-06-30</date>
                 <note/>
@@ -1233,7 +1069,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1985-burt-01</id>
+            <id>ge-1985-burt-01</id>
             <person-id>burt-richard-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1241,10 +1077,6 @@
                 <date>1985-07-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-09-16</date>
                 <note/>
@@ -1260,7 +1092,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1989-walt-01</id>
+            <id>ge-1989-walt-01</id>
             <person-id>walters-vernon-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1268,10 +1100,6 @@
                 <date>1989-04-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-04-24</date>
                 <note/>
@@ -1287,7 +1115,7 @@
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>de-1991-kimm-01</id>
+            <id>ge-1991-kimm-01</id>
             <person-id>kimmitt-robert-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1295,10 +1123,6 @@
                 <date>1991-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1991-09-05</date>
                 <note/>
@@ -1314,7 +1138,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-1993-holb-01</id>
+            <id>ge-1993-holb-01</id>
             <person-id>holbrooke-richard-charles-albert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1322,10 +1146,6 @@
                 <date>1993-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-10-19</date>
                 <note/>
@@ -1341,7 +1161,7 @@
             <last-modified-date>2014-08-12</last-modified-date>
         </chief>
         <chief>
-            <id>de-1994-redm-01</id>
+            <id>ge-1994-redm-01</id>
             <person-id>redman-charles-edgar</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1349,10 +1169,6 @@
                 <date>1994-09-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-10-31</date>
                 <note/>
@@ -1368,7 +1184,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1996-bind-01</id>
+            <id>ge--bind-01</id>
             <person-id>bindenagel-james-d</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1376,16 +1192,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1996-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1996-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1997-09</date>
+                <date>1997-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1395,7 +1211,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-1997-korn-01</id>
+            <id>ge-1997-korn-01</id>
             <person-id>kornblum-john-christian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1403,10 +1219,6 @@
                 <date>1997-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-09-10</date>
                 <note/>
@@ -1423,7 +1235,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>de-2001-coat-01</id>
+            <id>ge-2001-coat-01</id>
             <person-id>coats-daniel-ray</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1431,10 +1243,6 @@
                 <date>2001-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-09-12</date>
                 <note/>
@@ -1450,7 +1258,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-2005-timk-01</id>
+            <id>ge-2005-timk-01</id>
             <person-id>timken-william-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1458,10 +1266,6 @@
                 <date>2005-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-09-02</date>
                 <note/>
@@ -1477,7 +1281,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>de-2009-murp-01</id>
+            <id>ge-2009-murp-01</id>
             <person-id>murphy-philip-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1485,10 +1289,6 @@
                 <date>2009-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-09-03</date>
                 <note/>
@@ -1504,7 +1304,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>de-2013-emer-01</id>
+            <id>ge-2013-emer-01</id>
             <person-id>emerson-john-bonnell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1512,10 +1312,6 @@
                 <date>2013-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-08-26</date>
                 <note/>
@@ -1531,7 +1327,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>de-2017-logs-01</id>
+            <id>ge--logs-01</id>
             <person-id>logsdon-kent-d</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1539,14 +1335,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-01-20</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2018-05-08</date>
                 <note/>
@@ -1558,7 +1354,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>de-2018-gren-01</id>
+            <id>ge-2018-gren-01</id>
             <person-id>grenell-richard-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1566,14 +1362,14 @@
                 <date>2018-04-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-05-08</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-05-08</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-05-08</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -1587,7 +1383,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>de--hals-01</id>
+            <id>ge--hals-01</id>
             <person-id>halstead-murat</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1595,10 +1391,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1614,7 +1406,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>de-2000-jone-01</id>
+            <id>ge--jone-01</id>
             <person-id>jones-a-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>germany</contemporary-territory-id>
@@ -1622,10 +1414,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1640,9 +1428,28 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
+        <chief>
+            <id>ge--macg-01</id>
+            <person-id>macgregor-douglas</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>germany</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of July 29, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

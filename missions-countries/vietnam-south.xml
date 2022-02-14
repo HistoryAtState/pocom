@@ -3,7 +3,7 @@
     <territory-id>vietnam-south</territory-id>
     <chiefs>
         <chief>
-            <id>xh-1950-heat-01</id>
+            <id>st-1950-heat-01</id>
             <person-id>heath-donald-read</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>state-of-vietnam-1955</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1950-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1950-10-22</date>
                 <note/>
@@ -31,7 +27,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>xh-1952-heat-01</id>
+            <id>st-1952-heat-01</id>
             <person-id>heath-donald-read</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>state-of-vietnam-1955</contemporary-territory-id>
@@ -39,10 +35,6 @@
                 <date>1952-06-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1952-07-11</date>
                 <note/>
@@ -58,7 +50,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>xh-1955-rein-01</id>
+            <id>so-1955-rein-01</id>
             <person-id>reinhardt-george-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -66,10 +58,6 @@
                 <date>1955-04-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1955-05-28</date>
                 <note/>
@@ -86,7 +74,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>xh-1957-durb-01</id>
+            <id>so-1957-durb-01</id>
             <person-id>durbrow-elbridge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -94,10 +82,6 @@
                 <date>1957-03-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-04-16</date>
                 <note/>
@@ -113,7 +97,7 @@
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>xh-1961-nolt-01</id>
+            <id>so-1961-nolt-01</id>
             <person-id>nolting-frederick-ernest</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -121,10 +105,6 @@
                 <date>1961-03-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-05-10</date>
                 <note/>
@@ -140,7 +120,7 @@
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>xh-1963-lodg-01</id>
+            <id>so-1963-lodg-01</id>
             <person-id>lodge-henry-cabot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -148,10 +128,6 @@
                 <date>1963-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-08-26</date>
                 <note/>
@@ -168,7 +144,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>xh-1964-tayl-01</id>
+            <id>so-1964-tayl-01</id>
             <person-id>taylor-maxwell-davenport</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -176,10 +152,6 @@
                 <date>1964-07-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-07-14</date>
                 <note/>
@@ -196,7 +168,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>xh-1965-lodg-01</id>
+            <id>so-1965-lodg-01</id>
             <person-id>lodge-henry-cabot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -204,10 +176,6 @@
                 <date>1965-07-31</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1965-08-25</date>
                 <note/>
@@ -225,7 +193,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>xh-1967-bunk-01</id>
+            <id>so-1967-bunk-01</id>
             <person-id>bunker-ellsworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -233,10 +201,6 @@
                 <date>1967-04-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-04-28</date>
                 <note/>
@@ -255,7 +219,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>xh-1973-mart-01</id>
+            <id>so-1973-mart-01</id>
             <person-id>martin-graham-anderson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -263,10 +227,6 @@
                 <date>1973-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-07-20</date>
                 <note/>
@@ -286,8 +246,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

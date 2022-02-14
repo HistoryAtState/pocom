@@ -11,10 +11,6 @@
                 <date>1992-08-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-09-16</date>
                 <note/>
@@ -38,10 +34,6 @@
                 <date>1994-03-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-04-20</date>
                 <note/>
@@ -65,10 +57,6 @@
                 <date>1997-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-12-04</date>
                 <note/>
@@ -92,10 +80,6 @@
                 <date>2000-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-10-11</date>
                 <note/>
@@ -119,10 +103,6 @@
                 <date>2003-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-12-01</date>
                 <note/>
@@ -146,10 +126,6 @@
                 <date>2006-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-07-03</date>
                 <note/>
@@ -165,7 +141,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>az-2009-lu-01</id>
+            <id>az--lu-d-01</id>
             <person-id>lu-donald</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -173,16 +149,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2009-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2009-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2010-07</date>
+                <date>2010-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -200,10 +176,6 @@
                 <date>2010-12-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-02-17</date>
                 <note/>
@@ -228,10 +200,6 @@
                 <date>2012-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-09-03</date>
                 <note/>
@@ -255,10 +223,6 @@
                 <date>2014-12-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-02-19</date>
                 <note/>
@@ -282,14 +246,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-03-07</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-03-12</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-03-07</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -303,7 +267,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>az-2012-bryz-01</id>
+            <id>az--bryz-01</id>
             <person-id>bryza-matthew-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -311,10 +275,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -330,8 +290,4 @@
             <last-modified-date>2015-08-26</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

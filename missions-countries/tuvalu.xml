@@ -3,7 +3,7 @@
     <territory-id>tuvalu</territory-id>
     <chiefs>
         <chief>
-            <id>tv-1979-cond-01</id>
+            <id>tu-1979-cond-01</id>
             <person-id>condon-john-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1979-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-01-24</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-1980-bodd-01</id>
+            <id>tu-1980-bodd-01</id>
             <person-id>bodde-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1980-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-10-07</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-1982-ecke-01</id>
+            <id>tu-1982-ecke-01</id>
             <person-id>eckert-fred-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -65,10 +57,6 @@
                 <date>1982-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-07-22</date>
                 <note/>
@@ -84,7 +72,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-1984-dill-01</id>
+            <id>tu-1984-dill-01</id>
             <person-id>dillery-carl-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -92,10 +80,6 @@
                 <date>1984-09-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-02-04</date>
                 <note/>
@@ -111,7 +95,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-1987-roch-01</id>
+            <id>tu-1987-roch-01</id>
             <person-id>rochwarger-leonard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -119,10 +103,6 @@
                 <date>1987-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-05-06</date>
                 <note/>
@@ -138,7 +118,7 @@
             <last-modified-date>2015-11-25</last-modified-date>
         </chief>
         <chief>
-            <id>tv-1989-teeg-01</id>
+            <id>tu-1989-teeg-01</id>
             <person-id>teegan-evelyn-irene-hoopes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -146,10 +126,6 @@
                 <date>1989-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-01-15</date>
                 <note/>
@@ -165,7 +141,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-1993-mari-01</id>
+            <id>tu--mari-01</id>
             <person-id>marine-michael-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -173,16 +149,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1993-03</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1993-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1995-06</date>
+                <date>1995-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -192,7 +168,7 @@
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
-            <id>tv-1995-gevi-01</id>
+            <id>tu-1995-gevi-01</id>
             <person-id>gevirtz-don-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -200,10 +176,6 @@
                 <date>1995-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-08-12</date>
                 <note/>
@@ -219,7 +191,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-1999-sidd-01</id>
+            <id>tu-1999-sidd-01</id>
             <person-id>siddique-m-osman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -227,10 +199,6 @@
                 <date>1999-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-11-29</date>
                 <note/>
@@ -246,7 +214,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-2001-mcmu-01</id>
+            <id>tu--mcmu-01</id>
             <person-id>mcmullen-ronald-keith</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -254,16 +222,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2001-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2001-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2002-06</date>
+                <date>2002-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -273,7 +241,7 @@
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
-            <id>tv-2002-lyon-01</id>
+            <id>tu-2002-lyon-01</id>
             <person-id>lyon-david-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -281,10 +249,6 @@
                 <date>2002-11-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-08-05</date>
                 <note/>
@@ -300,7 +264,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-2005-ding-01</id>
+            <id>tu-2005-ding-01</id>
             <person-id>dinger-larry-miles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -308,10 +272,6 @@
                 <date>2005-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-08-23</date>
                 <note/>
@@ -327,7 +287,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-2008-mcga-01</id>
+            <id>tu-2008-mcga-01</id>
             <person-id>mcgann-c-steven</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -335,10 +295,6 @@
                 <date>2008-10-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-02-18</date>
                 <note/>
@@ -354,7 +310,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-2011-reed-01</id>
+            <id>tu-2011-reed-01</id>
             <person-id>reed-frankie-annette</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -362,10 +318,6 @@
                 <date>2011-08-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-10-30</date>
                 <note/>
@@ -381,7 +333,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>tv-2014-cefk-01</id>
+            <id>tu-2014-cefk-01</id>
             <person-id>cefkin-judith-beth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -389,10 +341,6 @@
                 <date>2014-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-05-12</date>
                 <note/>
@@ -408,7 +356,7 @@
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
         <chief>
-            <id>tv-2018-gold-01</id>
+            <id>tu--gold-01</id>
             <person-id>goldman-michael-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -416,14 +364,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2018-02-25</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2019-12-16</date>
                 <note/>
@@ -435,7 +383,7 @@
             <last-modified-date>2019-12-19</last-modified-date>
         </chief>
         <chief>
-            <id>tv-2019-cell-01</id>
+            <id>tu-2019-cell-01</id>
             <person-id>cella-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tuvalu</contemporary-territory-id>
@@ -443,28 +391,24 @@
                 <date>2019-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-12-16</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-12-16</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
-            <created-by>DIDit.app</created-by>
+            <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-12-19</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

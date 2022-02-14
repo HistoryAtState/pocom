@@ -3,7 +3,7 @@
     <territory-id>burundi</territory-id>
     <chiefs>
         <chief>
-            <id>bi-1962-olds-01</id>
+            <id>bu--olds-01</id>
             <person-id>olds-herbert-vincent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1962-07-01</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2010-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1962-dumo-01</id>
+            <id>bu-1962-dumo-01</id>
             <person-id>dumont-donald-albert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1962-10-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-01-17</date>
                 <note/>
@@ -58,7 +54,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1963-dumo-01</id>
+            <id>bu-1963-dumo-01</id>
             <person-id>dumont-donald-albert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -66,10 +62,6 @@
                 <date>1963-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-09-16</date>
                 <note/>
@@ -86,7 +78,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1968-renc-01</id>
+            <id>bu-1968-renc-01</id>
             <person-id>renchard-george-willmot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -94,10 +86,6 @@
                 <date>1968-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1968-08-10</date>
                 <note/>
@@ -113,7 +101,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1969-mela-01</id>
+            <id>bu-1969-mela-01</id>
             <person-id>melady-thomas-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -121,10 +109,6 @@
                 <date>1969-11-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1970-01-31</date>
                 <note/>
@@ -140,7 +124,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1972-yost-01</id>
+            <id>bu-1972-yost-01</id>
             <person-id>yost-robert-lloyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -148,10 +132,6 @@
                 <date>1972-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-08-19</date>
                 <note/>
@@ -167,7 +147,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1974-mark-01</id>
+            <id>bu-1974-mark-01</id>
             <person-id>mark-david-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -175,10 +155,6 @@
                 <date>1974-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-09-04</date>
                 <note/>
@@ -194,7 +170,7 @@
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1978-corc-01</id>
+            <id>bu-1978-corc-01</id>
             <person-id>corcoran-thomas-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -202,10 +178,6 @@
                 <date>1978-03-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-04-06</date>
                 <note/>
@@ -221,7 +193,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1980-cook-01</id>
+            <id>bu-1980-cook-01</id>
             <person-id>cook-frances-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -229,10 +201,6 @@
                 <date>1980-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-09-25</date>
                 <note/>
@@ -248,7 +216,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1983-bull-01</id>
+            <id>bu-1983-bull-01</id>
             <person-id>bullington-james-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -256,10 +224,6 @@
                 <date>1983-03-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-04-14</date>
                 <note/>
@@ -275,7 +239,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1986-phil-01</id>
+            <id>bu-1986-phil-01</id>
             <person-id>phillips-james-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -283,10 +247,6 @@
                 <date>1986-10-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-11-20</date>
                 <note/>
@@ -302,7 +262,7 @@
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1989-perr-01</id>
+            <id>bu-1989-perr-01</id>
             <person-id>perry-cynthia-shepart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -310,10 +270,6 @@
                 <date>1989-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-02-12</date>
                 <note/>
@@ -329,7 +285,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1993-lang-01</id>
+            <id>bu--lang-01</id>
             <person-id>lange-leonard-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -337,16 +293,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1993-03</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1993-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1994-06</date>
+                <date>1994-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -356,7 +312,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1994-krue-01</id>
+            <id>bu-1994-krue-01</id>
             <person-id>krueger-robert-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -364,10 +320,6 @@
                 <date>1994-05-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-06-29</date>
                 <note/>
@@ -383,7 +335,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1996-hugh-01</id>
+            <id>bu-1996-hugh-01</id>
             <person-id>hughes-morris-nelson-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -391,10 +343,6 @@
                 <date>1996-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-06-27</date>
                 <note/>
@@ -410,7 +358,7 @@
             <last-modified-date>2013-04-18</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1999-yate-01</id>
+            <id>bu-1999-yate-01</id>
             <person-id>yates-mary-carlin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -418,10 +366,6 @@
                 <date>1999-11-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-12-15</date>
                 <note/>
@@ -437,7 +381,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>bi-2002-yell-01</id>
+            <id>bu-2002-yell-01</id>
             <person-id>yellin-james-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -445,10 +389,6 @@
                 <date>2002-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-09-26</date>
                 <note/>
@@ -464,7 +404,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bi-2006-moll-01</id>
+            <id>bu-2006-moll-01</id>
             <person-id>moller-patricia-newton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -472,10 +412,6 @@
                 <date>2006-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-03-31</date>
                 <note/>
@@ -491,7 +427,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>bi-2009-slut-01</id>
+            <id>bu-2009-slut-01</id>
             <person-id>slutz-pamela-jo-howell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -499,10 +435,6 @@
                 <date>2009-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-12-11</date>
                 <note/>
@@ -518,7 +450,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>bi-2012-libe-01</id>
+            <id>bu-2012-libe-01</id>
             <person-id>liberi-dawn-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -526,10 +458,6 @@
                 <date>2012-09-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-01-18</date>
                 <note/>
@@ -545,7 +473,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>bi-2016-casp-01</id>
+            <id>bu-2016-casp-01</id>
             <person-id>casper-anne-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -553,14 +481,14 @@
                 <date>2016-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2016-08-28</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-10-20</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-08-28</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-05-05</date>
                 <note/>
@@ -572,7 +500,7 @@
             <last-modified-date>2019-05-29</last-modified-date>
         </chief>
         <chief>
-            <id>bi-2019-redd-01</id>
+            <id>bu--redd-01</id>
             <person-id>reddick-eunice-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -580,28 +508,24 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-07-07</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-07-07</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2020-11-18</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2020-10-06</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2020-10-06</last-modified-date>
+            <last-modified-date>2020-12-16</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

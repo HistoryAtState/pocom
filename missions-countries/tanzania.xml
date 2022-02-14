@@ -3,7 +3,7 @@
     <territory-id>tanzania</territory-id>
     <chiefs>
         <chief>
-            <id>tz-1961-dugg-01</id>
+            <id>ta--dugg-01</id>
             <person-id>duggan-william-redman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -11,19 +11,44 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1961-12-09</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
             </ended>
             <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </chief>
+        <chief>
+            <id>ta-1962-leon-01</id>
+            <person-id>leonhart-william</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>tanzania</contemporary-territory-id>
+            <appointed>
+                <date>1962-08-22</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>1962-10-03</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1965-12-22</date>
+                <note>Left post on</note>
+            </ended>
+            <note>Reaccredited when Tanganyika became a republic; presented new credentials on
+                December 17, 1962. Continued to serve, without further reaccreditation, after the
+                formation of the United Republic of Tanganyika and Zanzibar.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -42,36 +67,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </mission-note>
         <chief>
-            <id>tz-1962-leon-01</id>
-            <person-id>leonhart-william</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>tanzania</contemporary-territory-id>
-            <appointed>
-                <date>1962-08-22</date>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1962-10-03</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1965-12-22</date>
-                <note>Left post on</note>
-            </ended>
-            <note>Reaccredited when Tanganyika became a republic; presented new credentials on
-                December 17, 1962. Continued to serve, without further reaccreditation, after the
-                formation of the United Republic of Tanganyika and Zanzibar.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-29</last-modified-date>
-        </chief>
-        <chief>
-            <id>tz-1965-burn-01</id>
+            <id>ta-1965-burn-01</id>
             <person-id>burns-john-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -79,10 +75,6 @@
                 <date>1965-09-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-01-03</date>
                 <note/>
@@ -98,7 +90,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1969-ross-01</id>
+            <id>ta-1969-ross-01</id>
             <person-id>ross-claude-george-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -106,10 +98,6 @@
                 <date>1969-10-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-12-27</date>
                 <note/>
@@ -125,7 +113,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1972-cart-01</id>
+            <id>ta-1972-cart-01</id>
             <person-id>carter-william-beverly</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -133,10 +121,6 @@
                 <date>1972-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-07-24</date>
                 <note/>
@@ -152,7 +136,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1975-spai-01</id>
+            <id>ta-1975-spai-01</id>
             <person-id>spain-james-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -160,10 +144,6 @@
                 <date>1975-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-01-08</date>
                 <note/>
@@ -179,7 +159,7 @@
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1979-viet-01</id>
+            <id>ta-1979-viet-01</id>
             <person-id>viets-richard-noyes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -187,10 +167,6 @@
                 <date>1979-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1979-10-18</date>
                 <note/>
@@ -206,7 +182,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1981-mill-01</id>
+            <id>ta-1981-mill-01</id>
             <person-id>miller-david-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -214,10 +190,6 @@
                 <date>1981-10-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-11-04</date>
                 <note/>
@@ -233,7 +205,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1984-shir-01</id>
+            <id>ta-1984-shir-01</id>
             <person-id>shirley-john-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -241,10 +213,6 @@
                 <date>1984-06-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-07-28</date>
                 <note/>
@@ -260,7 +228,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1986-pett-01</id>
+            <id>ta-1986-pett-01</id>
             <person-id>petterson-donald-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -268,10 +236,6 @@
                 <date>1986-10-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-12-08</date>
                 <note/>
@@ -287,7 +251,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1989-deja-01</id>
+            <id>ta-1989-deja-01</id>
             <person-id>dejarnette-edmund-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -295,10 +259,6 @@
                 <date>1989-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-02-26</date>
                 <note/>
@@ -314,7 +274,7 @@
             <last-modified-date>2013-02-21</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1992-de-01</id>
+            <id>ta-1992-de-v-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -322,10 +282,6 @@
                 <date>1992-06-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-01-08</date>
                 <note/>
@@ -341,7 +297,7 @@
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1994-ande-01</id>
+            <id>ta-1994-ande-01</id>
             <person-id>anderson-j-brady</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -349,10 +305,6 @@
                 <date>1994-08-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-09-13</date>
                 <note/>
@@ -368,7 +320,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1998-stit-01</id>
+            <id>ta-1998-stit-01</id>
             <person-id>stith-charles-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -376,10 +328,6 @@
                 <date>1998-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-09-17</date>
                 <note/>
@@ -395,7 +343,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2001-roya-01</id>
+            <id>ta-2001-roya-01</id>
             <person-id>royall-robert-v</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -403,10 +351,6 @@
                 <date>2001-11-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-12-19</date>
                 <note/>
@@ -422,7 +366,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2003-roya-01</id>
+            <id>ta--owen-01</id>
             <person-id>owen-michael-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -430,16 +374,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2003-11</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2003-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2005-07</date>
+                <date>2005-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -449,7 +393,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2005-retz-01</id>
+            <id>ta-2005-retz-01</id>
             <person-id>retzer-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -457,10 +401,6 @@
                 <date>2005-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-09-01</date>
                 <note/>
@@ -476,7 +416,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2007-gree-01</id>
+            <id>ta-2007-gree-01</id>
             <person-id>green-mark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -484,10 +424,6 @@
                 <date>2007-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-09-12</date>
                 <note/>
@@ -503,7 +439,7 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2009-lenh-01</id>
+            <id>ta-2009-lenh-01</id>
             <person-id>lenhardt-alfonso-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -511,10 +447,6 @@
                 <date>2009-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-11-12</date>
                 <note/>
@@ -530,7 +462,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2014-chil-01</id>
+            <id>ta-2014-chil-01</id>
             <person-id>childress-mark-bradley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -538,10 +470,6 @@
                 <date>2014-04-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-05-22</date>
                 <note/>
@@ -557,7 +485,7 @@
             <last-modified-date>2019-05-14</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2017-patt-01</id>
+            <id>ta--patt-01</id>
             <person-id>patterson-inmi-k</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -565,14 +493,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-06-05</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2020-06-22</date>
                 <note/>
@@ -584,7 +512,7 @@
             <last-modified-date>2020-06-23</last-modified-date>
         </chief>
         <chief>
-            <id>tz-2020-wrig-01</id>
+            <id>ta-2020-wrig-01</id>
             <person-id>wright-donald-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -592,14 +520,14 @@
                 <date>2020-02-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2020-07-26</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2020-08-02</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2020-07-26</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -612,8 +540,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -11,10 +11,6 @@
                 <date>1922-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1922-05-16</date>
                 <note/>
@@ -38,10 +34,6 @@
                 <date>1927-02-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1927-06-18</date>
                 <note/>
@@ -65,10 +57,6 @@
                 <date>1930-09-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-11-12</date>
                 <note/>
@@ -93,10 +81,6 @@
                 <date>1933-06-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-08-01</date>
                 <note/>
@@ -120,10 +104,6 @@
                 <date>1941-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1941-05-20</date>
                 <note/>
@@ -148,10 +128,6 @@
                 <date>1945-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1946-01-26</date>
                 <note/>
@@ -175,10 +151,6 @@
                 <date>1947-04-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-07-09</date>
                 <note/>
@@ -190,7 +162,7 @@
             <note>Chapin left post on February 17, 1949.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsqw</last-modified-by>
+            <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
@@ -202,10 +174,6 @@
                 <date>1949-09-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1949-10-21</date>
                 <note/>
@@ -229,10 +197,6 @@
                 <date>1951-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1952-01-11</date>
                 <note/>
@@ -248,7 +212,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1957-acke-01</id>
+            <id>hu--acke-01</id>
             <person-id>ackerson-garret-g</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -256,16 +220,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1957-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1957-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1961-02</date>
+                <date>1961-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -275,7 +239,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1961-torb-01</id>
+            <id>hu--torb-01</id>
             <person-id>torbert-horace-gates</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -283,16 +247,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1961-02</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1961-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1962-12</date>
+                <date>1962-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -302,7 +266,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1962-jone-01</id>
+            <id>hu--jone-01</id>
             <person-id>jones-owen-thomas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -310,16 +274,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1962-12</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1962-12-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1964-07</date>
+                <date>1964-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -329,7 +293,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1964-osha-01</id>
+            <id>hu--osha-01</id>
             <person-id>oshaunessy-elim</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -337,16 +301,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1964-11</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1964-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1966-09</date>
+                <date>1966-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -356,7 +320,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>hu-1966-tims-01</id>
+            <id>hu--tims-01</id>
             <person-id>tims-richard-womser</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -364,16 +328,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1966-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1966-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1967-10</date>
+                <date>1967-10-01</date>
                 <note/>
             </ended>
             <note>Tims was serving as Chargé d’Affaires ad interim when Legation Budapest was raised
@@ -392,10 +356,6 @@
                 <date>1967-09-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-10-30</date>
                 <note/>
@@ -419,10 +379,6 @@
                 <date>1969-05-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-06-16</date>
                 <note/>
@@ -446,10 +402,6 @@
                 <date>1973-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-09-10</date>
                 <note/>
@@ -473,10 +425,6 @@
                 <date>1975-03-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-04-28</date>
                 <note/>
@@ -500,10 +448,6 @@
                 <date>1977-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-08-04</date>
                 <note/>
@@ -527,10 +471,6 @@
                 <date>1980-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-03-31</date>
                 <note/>
@@ -554,10 +494,6 @@
                 <date>1983-10-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-11-23</date>
                 <note/>
@@ -581,10 +517,6 @@
                 <date>1986-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-12-08</date>
                 <note/>
@@ -608,10 +540,6 @@
                 <date>1990-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-07-02</date>
                 <note/>
@@ -635,10 +563,6 @@
                 <date>1994-03-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-04-01</date>
                 <note/>
@@ -662,10 +586,6 @@
                 <date>1997-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-12-03</date>
                 <note/>
@@ -689,10 +609,6 @@
                 <date>2001-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-09-26</date>
                 <note/>
@@ -716,10 +632,6 @@
                 <date>2003-08-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-10-06</date>
                 <note/>
@@ -743,10 +655,6 @@
                 <date>2006-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-08-18</date>
                 <note/>
@@ -770,10 +678,6 @@
                 <date>2009-12-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-01-11</date>
                 <note/>
@@ -789,7 +693,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>hu-2013-good-01</id>
+            <id>hu--good-01</id>
             <person-id>goodfriend-mark-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -797,16 +701,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2013-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2013-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2015-01</date>
+                <date>2015-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -824,10 +728,6 @@
                 <date>2014-12-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-01-21</date>
                 <note/>
@@ -843,7 +743,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>hu-2017-kost-01</id>
+            <id>hu--kost-01</id>
             <person-id>kostelancik-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -851,14 +751,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-01-20</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2018-06-22</date>
                 <note/>
@@ -878,20 +778,20 @@
                 <date>2018-05-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-06-22</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-06-25</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-06-22</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-10-30</date>
                 <note/>
             </ended>
             <note/>
-            <created-by>bpttsjd</created-by>
+            <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-10-30</last-modified-date>
@@ -907,10 +807,6 @@
                 <date>1956-07-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -927,8 +823,4 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

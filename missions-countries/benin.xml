@@ -3,7 +3,7 @@
     <territory-id>benin</territory-id>
     <chiefs>
         <chief>
-            <id>bj-1960-norl-01</id>
+            <id>be--norl-01</id>
             <person-id>norland-donald-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1960-08-01</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -31,7 +31,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1960-ream-01</id>
+            <id>be-1960-ream-01</id>
             <person-id>reams-robert-borden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -39,10 +39,6 @@
                 <date>1960-10-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-11-26</date>
                 <note/>
@@ -61,7 +57,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1961-mcil-01</id>
+            <id>be-1961-mcil-01</id>
             <person-id>mcilvaine-robinson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -69,10 +65,6 @@
                 <date>1961-06-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-07-31</date>
                 <note/>
@@ -88,7 +80,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1964-knox-01</id>
+            <id>be-1964-knox-01</id>
             <person-id>knox-clinton-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -96,10 +88,6 @@
                 <date>1964-07-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-08-18</date>
                 <note/>
@@ -115,7 +103,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1969-loor-01</id>
+            <id>be-1969-loor-01</id>
             <person-id>looram-matthew-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -123,10 +111,6 @@
                 <date>1969-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-07-21</date>
                 <note/>
@@ -142,7 +126,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1972-ande-01</id>
+            <id>be-1972-ande-01</id>
             <person-id>anderson-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -150,10 +134,6 @@
                 <date>1972-02-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-03-25</date>
                 <note/>
@@ -169,7 +149,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1974-engl-01</id>
+            <id>be-1974-engl-01</id>
             <person-id>engle-james-bruce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -177,10 +157,6 @@
                 <date>1974-07-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-11-26</date>
                 <note/>
@@ -196,7 +172,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1976-thom-01</id>
+            <id>be--thom-01</id>
             <person-id>thompson-w-kenneth</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -204,16 +180,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1976-08</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1976-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1978-08</date>
+                <date>1978-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -223,7 +199,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1978-davi-01</id>
+            <id>be--davi-01</id>
             <person-id>davison-john-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -231,16 +207,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1978-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1978-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1980-05</date>
+                <date>1980-05-01</date>
                 <note/>
             </ended>
             <note/>
@@ -250,7 +226,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1980-bull-01</id>
+            <id>be--bull-01</id>
             <person-id>bullington-james-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -258,16 +234,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1980-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1980-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1982-07</date>
+                <date>1982-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -277,7 +253,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1982-twin-01</id>
+            <id>be--twin-01</id>
             <person-id>twining-charles-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -285,16 +261,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1982-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1982-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1983-10</date>
+                <date>1983-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -304,7 +280,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1983-moos-01</id>
+            <id>be-1983-moos-01</id>
             <person-id>moose-george-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -312,10 +288,6 @@
                 <date>1983-10-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-11-04</date>
                 <note/>
@@ -331,7 +303,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1986-stad-01</id>
+            <id>be-1986-stad-01</id>
             <person-id>stadtler-walter-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -339,10 +311,6 @@
                 <date>1986-10-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-11-19</date>
                 <note/>
@@ -358,7 +326,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1989-isom-01</id>
+            <id>be-1989-isom-01</id>
             <person-id>isom-harriet-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -366,10 +334,6 @@
                 <date>1989-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-01-26</date>
                 <note/>
@@ -385,7 +349,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1992-davi-01</id>
+            <id>be-1992-davi-01</id>
             <person-id>davis-ruth-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -393,10 +357,6 @@
                 <date>1992-08-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-12-24</date>
                 <note/>
@@ -412,7 +372,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1995-yate-01</id>
+            <id>be-1995-yate-01</id>
             <person-id>yates-john-melvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -420,10 +380,6 @@
                 <date>1995-11-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-11-24</date>
                 <note/>
@@ -439,7 +395,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-1998-feld-01</id>
+            <id>be-1998-feld-01</id>
             <person-id>felder-robert-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -447,10 +403,6 @@
                 <date>1998-10-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-11-20</date>
                 <note/>
@@ -466,7 +418,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-2000-brid-01</id>
+            <id>be-2000-brid-01</id>
             <person-id>bridgewater-awkward-pamela-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -474,10 +426,6 @@
                 <date>2000-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-11-24</date>
                 <note/>
@@ -493,7 +441,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>bj-2003-neil-01</id>
+            <id>be-2003-neil-01</id>
             <person-id>neill-wayne-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -501,10 +449,6 @@
                 <date>2003-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-07-04</date>
                 <note/>
@@ -520,7 +464,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bj-2006-brow-01</id>
+            <id>be-2006-brow-01</id>
             <person-id>brown-gayleatha-beatrice</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -528,10 +472,6 @@
                 <date>2006-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-09-08</date>
                 <note/>
@@ -547,7 +487,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>bj-2009-knig-01</id>
+            <id>be-2009-knig-01</id>
             <person-id>knight-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -555,10 +495,6 @@
                 <date>2009-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-11-03</date>
                 <note/>
@@ -574,7 +510,7 @@
             <last-modified-date>2015-11-03</last-modified-date>
         </chief>
         <chief>
-            <id>bj-2012-rayn-01</id>
+            <id>be-2012-rayn-01</id>
             <person-id>raynor-michael-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -582,10 +518,6 @@
                 <date>2012-05-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-09-13</date>
                 <note/>
@@ -601,7 +533,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>bj-2015-taml-01</id>
+            <id>be-2015-taml-01</id>
             <person-id>tamlyn-lucy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -609,10 +541,6 @@
                 <date>2015-10-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-11-08</date>
                 <note/>
@@ -628,7 +556,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>bj-2019-maho-01</id>
+            <id>be-2019-maho-01</id>
             <person-id>mahoney-patricia</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>benin</contemporary-territory-id>
@@ -636,14 +564,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-03-01</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-07-04</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-03-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -656,8 +584,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>gewecke-thomas-howard</id>
-    <old-ids>
-        <old-id>gewecke-thomas-h</old-id>
-    </old-ids>
     <persName>
         <surname>Gewecke</surname>
         <forename>Thomas Howard</forename>
     </persName>
     <birth>1944</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>ma</state-id>

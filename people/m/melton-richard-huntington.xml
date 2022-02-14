@@ -6,11 +6,11 @@
         <forename>Richard Huntington</forename>
     </persName>
     <birth>1935</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
+        <state-id>va</state-id>
         <state-id>ca</state-id>
-        <state-id sort="1">va</state-id>
     </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>

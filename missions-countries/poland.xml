@@ -3,18 +3,14 @@
     <territory-id>poland</territory-id>
     <chiefs>
         <chief>
-            <id>pl-1919-gibs-01</id>
+            <id>po-1919-gibs-01</id>
             <person-id>gibson-hugh-simons</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1919-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1919-05-02</date>
                 <note/>
@@ -32,7 +28,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1924-pear-01</id>
+            <id>po-1924-pear-01</id>
             <person-id>pearson-alfred-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -40,10 +36,6 @@
                 <date>1924-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1924-06-26</date>
                 <note/>
@@ -59,7 +51,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1925-stet-01</id>
+            <id>po-1925-stet-01</id>
             <person-id>stetson-john-batterson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -67,10 +59,6 @@
                 <date>1925-07-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1925-08-29</date>
                 <note/>
@@ -87,7 +75,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1930-will-01</id>
+            <id>po-1930-will-01</id>
             <person-id>willys-john-north</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -95,10 +83,6 @@
                 <date>1930-03-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-05-24</date>
                 <note/>
@@ -114,7 +98,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1932-beli-01</id>
+            <id>po-1932-beli-01</id>
             <person-id>belin-ferdinand-lammot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -122,10 +106,6 @@
                 <date>1932-11-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1932-12-13</date>
                 <note/>
@@ -141,7 +121,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1933-cuda-01</id>
+            <id>po-1933-cuda-01</id>
             <person-id>cudahy-john-clarence</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -149,10 +129,6 @@
                 <date>1933-06-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-09-06</date>
                 <note/>
@@ -168,7 +144,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1937-bidd-01</id>
+            <id>po-1937-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -176,10 +152,6 @@
                 <date>1937-05-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-06-02</date>
                 <note/>
@@ -199,7 +171,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>pl--scho-01</id>
+            <id>po--scho-01</id>
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -207,10 +179,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -226,7 +194,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1944-lane-01</id>
+            <id>po-1944-lane-01</id>
             <person-id>lane-arthur-bliss</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -234,10 +202,6 @@
                 <date>1944-09-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1945-08-04</date>
                 <note/>
@@ -254,7 +218,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1947-grif-01</id>
+            <id>po-1947-grif-01</id>
             <person-id>griffis-stanton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -262,10 +226,6 @@
                 <date>1947-05-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-07-09</date>
                 <note/>
@@ -281,7 +241,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1948-gall-01</id>
+            <id>po-1948-gall-01</id>
             <person-id>gallman-waldemar-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -289,10 +249,6 @@
                 <date>1948-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1948-10-15</date>
                 <note/>
@@ -309,7 +265,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1950-flac-01</id>
+            <id>po-1950-flac-01</id>
             <person-id>flack-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -317,10 +273,6 @@
                 <date>1950-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1950-11-30</date>
                 <note/>
@@ -336,7 +288,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1955-jaco-01</id>
+            <id>po-1955-jaco-01</id>
             <person-id>jacobs-joseph-earle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -344,10 +296,6 @@
                 <date>1955-04-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1955-05-23</date>
                 <note/>
@@ -363,7 +311,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1957-beam-01</id>
+            <id>po-1957-beam-01</id>
             <person-id>beam-jacob-dyneley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -371,10 +319,6 @@
                 <date>1957-06-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-08-09</date>
                 <note/>
@@ -390,7 +334,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1962-cabo-01</id>
+            <id>po-1962-cabo-01</id>
             <person-id>cabot-john-moors</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -398,10 +342,6 @@
                 <date>1962-01-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1962-03-02</date>
                 <note/>
@@ -417,7 +357,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1965-gron-01</id>
+            <id>po-1965-gron-01</id>
             <person-id>gronouski-john-austin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -425,10 +365,6 @@
                 <date>1965-09-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1965-12-07</date>
                 <note/>
@@ -444,7 +380,7 @@
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1968-stoe-01</id>
+            <id>po-1968-stoe-01</id>
             <person-id>stoessel-walter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -452,10 +388,6 @@
                 <date>1968-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1968-09-12</date>
                 <note/>
@@ -471,7 +403,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1972-davi-01</id>
+            <id>po-1972-davi-01</id>
             <person-id>davies-richard-townsend</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -479,10 +411,6 @@
                 <date>1972-12-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-01-05</date>
                 <note/>
@@ -499,7 +427,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1978-scha-01</id>
+            <id>po-1978-scha-01</id>
             <person-id>schaufele-william-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -507,10 +435,6 @@
                 <date>1978-02-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-03-30</date>
                 <note/>
@@ -526,7 +450,7 @@
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1980-meeh-01</id>
+            <id>po-1980-meeh-01</id>
             <person-id>meehan-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -534,10 +458,6 @@
                 <date>1980-10-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-10-27</date>
                 <note/>
@@ -553,7 +473,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1983-davi-01</id>
+            <id>po--davi-01</id>
             <person-id>davis-john-roger</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -561,14 +481,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1983-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1983-09-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1987-01-09</date>
                 <note/>
@@ -580,7 +500,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1987-davi-01</id>
+            <id>po--davi-01</id>
             <person-id>davis-john-roger</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -588,14 +508,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1987-01-09</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1988-03-17</date>
                 <note/>
@@ -607,7 +527,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1988-davi-01</id>
+            <id>po-1988-davi-01</id>
             <person-id>davis-john-roger</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -615,10 +535,6 @@
                 <date>1988-02-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-03-17</date>
                 <note/>
@@ -634,7 +550,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1990-simo-01</id>
+            <id>po-1990-simo-01</id>
             <person-id>simons-thomas-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -642,10 +558,6 @@
                 <date>1990-08-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-09-11</date>
                 <note/>
@@ -661,7 +573,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1993-rey-01</id>
+            <id>po-1993-rey--01</id>
             <person-id>rey-nicholas-andrew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -669,10 +581,6 @@
                 <date>1993-11-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-12-21</date>
                 <note/>
@@ -688,7 +596,7 @@
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
         <chief>
-            <id>pl-1997-frie-01</id>
+            <id>po-1997-frie-01</id>
             <person-id>fried-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -696,10 +604,6 @@
                 <date>1997-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-11-27</date>
                 <note/>
@@ -715,7 +619,7 @@
             <last-modified-date>2010-11-05</last-modified-date>
         </chief>
         <chief>
-            <id>pl-2000-hill-01</id>
+            <id>po-2000-hill-01</id>
             <person-id>hill-christopher-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -723,10 +627,6 @@
                 <date>2000-05-31</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-07-27</date>
                 <note/>
@@ -742,7 +642,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>pl-2004-ashe-01</id>
+            <id>po-2004-ashe-01</id>
             <person-id>ashe-victor-henderson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -750,10 +650,6 @@
                 <date>2004-05-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-08-17</date>
                 <note/>
@@ -769,7 +665,7 @@
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
         <chief>
-            <id>pl-2009-fein-01</id>
+            <id>po-2009-fein-01</id>
             <person-id>feinstein-lee-andrew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -777,10 +673,6 @@
                 <date>2009-09-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-10-20</date>
                 <note/>
@@ -796,7 +688,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>pl-2012-mull-01</id>
+            <id>po-2012-mull-01</id>
             <person-id>mull-stephen-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -804,10 +696,6 @@
                 <date>2012-10-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-11-08</date>
                 <note/>
@@ -823,7 +711,7 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>pl-2015-jone-01</id>
+            <id>po-2015-jone-01</id>
             <person-id>jones-paul-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -831,10 +719,6 @@
                 <date>2015-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-10-07</date>
                 <note/>
@@ -850,7 +734,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>pl-2018-mosb-01</id>
+            <id>po-2018-mosb-01</id>
             <person-id>mosbacher-georgette</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -858,28 +742,28 @@
                 <date>2018-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-08-26</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-08-27</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-08-26</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-22</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-22</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>pl-1930-moor-01</id>
+            <id>po-1930-moor-01</id>
             <person-id>moore-alexander-pollock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -887,10 +771,6 @@
                 <date>1930-01-31</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -906,7 +786,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pl--curl-01</id>
+            <id>po--curl-01</id>
             <person-id>curley-james-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -914,10 +794,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -933,8 +809,4 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

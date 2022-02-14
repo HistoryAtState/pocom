@@ -3,7 +3,7 @@
     <territory-id>bangladesh</territory-id>
     <chiefs>
         <chief>
-            <id>bd-1972-spiv-01</id>
+            <id>ba--spiv-01</id>
             <person-id>spivack-herbert-daniel</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -11,16 +11,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1972-05</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1972-05-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1972-10</date>
+                <date>1972-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2015-09-23</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1972-newb-01</id>
+            <id>ba--newb-01</id>
             <person-id>newberry-daniel-oliver</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -38,16 +38,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1972-10</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1972-10-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1974-04</date>
+                <date>1974-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -57,7 +57,7 @@
             <last-modified-date>2015-09-23</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1974-bost-01</id>
+            <id>ba-1974-bost-01</id>
             <person-id>boster-davis-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -65,10 +65,6 @@
                 <date>1974-02-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-04-13</date>
                 <note/>
@@ -84,7 +80,7 @@
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1976-mast-01</id>
+            <id>ba-1976-mast-01</id>
             <person-id>masters-edward-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -92,10 +88,6 @@
                 <date>1976-10-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-11-05</date>
                 <note/>
@@ -111,7 +103,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1978-schn-01</id>
+            <id>ba-1978-schn-01</id>
             <person-id>schneider-david-taylor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -119,10 +111,6 @@
                 <date>1978-03-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-03-29</date>
                 <note/>
@@ -138,7 +126,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1981-coon-01</id>
+            <id>ba-1981-coon-01</id>
             <person-id>coon-jane-abell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -146,10 +134,6 @@
                 <date>1981-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-08-11</date>
                 <note/>
@@ -165,7 +149,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1984-scha-01</id>
+            <id>ba-1984-scha-01</id>
             <person-id>schaffer-howard-bruner</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -173,10 +157,6 @@
                 <date>1984-08-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-09-26</date>
                 <note/>
@@ -192,7 +172,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1987-de-01</id>
+            <id>ba-1987-de-p-01</id>
             <person-id>de-pree-willard-ames</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -200,10 +180,6 @@
                 <date>1987-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-10-05</date>
                 <note/>
@@ -219,7 +195,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1990-mila-01</id>
+            <id>ba-1990-mila-01</id>
             <person-id>milam-william-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -227,10 +203,6 @@
                 <date>1990-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-09-01</date>
                 <note/>
@@ -246,7 +218,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1994-merr-01</id>
+            <id>ba-1994-merr-01</id>
             <person-id>merrill-david-nathan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -254,10 +226,6 @@
                 <date>1994-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-04-05</date>
                 <note/>
@@ -273,7 +241,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1997-holz-01</id>
+            <id>ba-1997-holz-01</id>
             <person-id>holzman-john-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -281,10 +249,6 @@
                 <date>1997-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-09-02</date>
                 <note/>
@@ -300,7 +264,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bd-2000-pete-01</id>
+            <id>ba-2000-pete-01</id>
             <person-id>peters-mary-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -308,10 +272,6 @@
                 <date>2000-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-09-25</date>
                 <note/>
@@ -327,7 +287,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bd-2003-thom-01</id>
+            <id>ba-2003-thom-01</id>
             <person-id>thomas-harry-keels</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -335,10 +295,6 @@
                 <date>2003-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-08-14</date>
                 <note/>
@@ -354,7 +310,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>bd-2006-bute-01</id>
+            <id>ba-2006-bute-01</id>
             <person-id>butenis-patricia-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -362,10 +318,6 @@
                 <date>2006-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-04-13</date>
                 <note/>
@@ -381,7 +333,7 @@
             <last-modified-date>2015-09-23</last-modified-date>
         </chief>
         <chief>
-            <id>bd-2008-mori-01</id>
+            <id>ba-2008-mori-01</id>
             <person-id>moriarty-james-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -389,10 +341,6 @@
                 <date>2008-03-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-04-21</date>
                 <note/>
@@ -408,7 +356,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>bd-2011-moze-01</id>
+            <id>ba-2011-moze-01</id>
             <person-id>mozena-dan-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -416,10 +364,6 @@
                 <date>2011-10-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-11-24</date>
                 <note/>
@@ -435,7 +379,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>bd-2014-bern-01</id>
+            <id>ba-2014-bern-01</id>
             <person-id>bernicat-marcia-stephens-bloom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -443,10 +387,6 @@
                 <date>2014-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-02-04</date>
                 <note/>
@@ -462,7 +402,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>bd-2018-mill-01</id>
+            <id>ba-2018-mill-01</id>
             <person-id>miller-earl-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -470,14 +410,14 @@
                 <date>2018-10-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-11-18</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-11-29</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-11-18</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -491,7 +431,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>bd-1972-eilt-01</id>
+            <id>ba-1972-eilt-01</id>
             <person-id>eilts-hermann-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -499,10 +439,6 @@
                 <date>1972-09-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -518,8 +454,4 @@
             <last-modified-date>2015-09-23</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

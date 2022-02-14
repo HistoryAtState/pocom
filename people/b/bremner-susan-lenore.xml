@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>bremner-susan-lenore</id>
-    <old-ids>
-        <old-id>bremner-susan</old-id>
-    </old-ids>
     <persName>
         <surname>Bremner</surname>
         <forename>Susan Lenore</forename>
     </persName>
     <birth>1954</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>ca</state-id>

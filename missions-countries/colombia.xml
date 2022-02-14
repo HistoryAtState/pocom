@@ -11,10 +11,6 @@
                 <date>1823-01-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1823-12-16</date>
                 <note/>
@@ -39,11 +35,7 @@
                 <date>1827-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -69,10 +61,6 @@
                 <date>1828-05-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1829-02-13</date>
                 <note>Between February 5, 1829, and</note>
@@ -97,10 +85,6 @@
                 <date>1829-03-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1829-09-26</date>
                 <note/>
@@ -125,14 +109,14 @@
                 <date>1833-02-09</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1833-07-01</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1837-06-20</date>
                 <note>Presented recall on</note>
@@ -152,14 +136,14 @@
                 <date>1837-10-14</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1838-04-21</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1842-03-04</date>
                 <note>Left post on or soon after</note>
@@ -179,14 +163,14 @@
                 <date>1842-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1842-09-17</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1844-12-24</date>
                 <note>Left post on</note>
@@ -206,14 +190,14 @@
                 <date>1845-05-14</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1845-12-05</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1849-02-06</date>
                 <note>Died at post on</note>
@@ -234,14 +218,14 @@
                 <date>1849-05-29</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1850-01-05</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1850-10-15</date>
                 <note>Left post about</note>
@@ -262,14 +246,14 @@
                 <date>1851-03-12</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1851-08-25</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1853-04-05</date>
                 <note>Presented recall on</note>
@@ -289,14 +273,14 @@
                 <date>1853-05-24</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1853-12-19</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1854-08-13</date>
                 <note>Left post on</note>
@@ -317,10 +301,6 @@
                 <date>1854-12-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1855-04-10</date>
                 <note/>
@@ -344,10 +324,6 @@
                 <date>1859-03-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1859-08-29</date>
                 <note/>
@@ -363,7 +339,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>co-1861-burt-02</id>
+            <id>co-1861-burt-01</id>
             <person-id>burton-allan-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -371,10 +347,6 @@
                 <date>1861-07-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1864-03-09</date>
                 <note/>
@@ -401,10 +373,6 @@
                 <date>1867-03-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1867-07-25</date>
                 <note/>
@@ -428,10 +396,6 @@
                 <date>1869-04-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-11-13</date>
                 <note/>
@@ -455,10 +419,6 @@
                 <date>1873-04-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1873-07-24</date>
                 <note/>
@@ -483,10 +443,6 @@
                 <date>1878-06-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1878-10-04</date>
                 <note/>
@@ -510,10 +466,6 @@
                 <date>1881-05-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1881-09-21</date>
                 <note/>
@@ -537,10 +489,6 @@
                 <date>1882-04-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1882-07-19</date>
                 <note/>
@@ -564,10 +512,6 @@
                 <date>1884-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1884-12-04</date>
                 <note/>
@@ -592,10 +536,6 @@
                 <date>1885-10-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1886-01-26</date>
                 <note/>
@@ -620,10 +560,6 @@
                 <date>1886-10-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1887-01-20</date>
                 <note/>
@@ -648,10 +584,6 @@
                 <date>1889-04-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-06-22</date>
                 <note/>
@@ -675,10 +607,6 @@
                 <date>1893-04-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-07-17</date>
                 <note/>
@@ -703,10 +631,6 @@
                 <date>1897-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1897-07-19</date>
                 <note/>
@@ -730,10 +654,6 @@
                 <date>1903-02-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1903-04-13</date>
                 <note/>
@@ -757,10 +677,6 @@
                 <date>1904-03-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1904-12-09</date>
                 <note/>
@@ -784,10 +700,6 @@
                 <date>1905-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1905-11-27</date>
                 <note/>
@@ -812,10 +724,6 @@
                 <date>1907-01-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1907-10-16</date>
                 <note/>
@@ -839,10 +747,6 @@
                 <date>1909-04-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1909-08-13</date>
                 <note/>
@@ -866,10 +770,6 @@
                 <date>1911-08-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1911-11-18</date>
                 <note/>
@@ -893,10 +793,6 @@
                 <date>1913-06-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-08-30</date>
                 <note/>
@@ -920,10 +816,6 @@
                 <date>1917-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1919-02-22</date>
                 <note/>
@@ -947,10 +839,6 @@
                 <date>1922-03-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1922-05-29</date>
                 <note/>
@@ -974,10 +862,6 @@
                 <date>1928-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1928-11-28</date>
                 <note/>
@@ -1002,10 +886,6 @@
                 <date>1933-07-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-12-06</date>
                 <note/>
@@ -1030,10 +910,6 @@
                 <date>1934-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1935-05-06</date>
                 <note/>
@@ -1058,10 +934,6 @@
                 <date>1939-01-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1939-02-15</date>
                 <note/>
@@ -1085,10 +957,6 @@
                 <date>1942-03-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1942-04-30</date>
                 <note/>
@@ -1112,10 +980,6 @@
                 <date>1944-09-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1944-12-16</date>
                 <note/>
@@ -1139,10 +1003,6 @@
                 <date>1947-04-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-09-30</date>
                 <note/>
@@ -1166,10 +1026,6 @@
                 <date>1951-07-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1951-08-23</date>
                 <note/>
@@ -1193,10 +1049,6 @@
                 <date>1953-10-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1954-01-28</date>
                 <note/>
@@ -1221,10 +1073,6 @@
                 <date>1955-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1955-04-01</date>
                 <note/>
@@ -1248,10 +1096,6 @@
                 <date>1957-06-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-07-12</date>
                 <note/>
@@ -1275,10 +1119,6 @@
                 <date>1959-06-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1959-07-30</date>
                 <note/>
@@ -1302,10 +1142,6 @@
                 <date>1961-05-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-06-15</date>
                 <note/>
@@ -1329,10 +1165,6 @@
                 <date>1964-05-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-08-13</date>
                 <note/>
@@ -1356,10 +1188,6 @@
                 <date>1966-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-10-06</date>
                 <note/>
@@ -1383,10 +1211,6 @@
                 <date>1969-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-06-09</date>
                 <note/>
@@ -1410,10 +1234,6 @@
                 <date>1970-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1971-02-24</date>
                 <note/>
@@ -1437,10 +1257,6 @@
                 <date>1973-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-04-05</date>
                 <note/>
@@ -1464,10 +1280,6 @@
                 <date>1976-06-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-09-02</date>
                 <note/>
@@ -1491,10 +1303,6 @@
                 <date>1977-10-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-12-06</date>
                 <note/>
@@ -1518,10 +1326,6 @@
                 <date>1980-10-31</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-12-03</date>
                 <note/>
@@ -1545,10 +1349,6 @@
                 <date>1983-03-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-05-02</date>
                 <note/>
@@ -1572,10 +1372,6 @@
                 <date>1985-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-08-28</date>
                 <note/>
@@ -1599,10 +1395,6 @@
                 <date>1988-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-10-04</date>
                 <note/>
@@ -1626,10 +1418,6 @@
                 <date>1991-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1991-09-18</date>
                 <note/>
@@ -1653,10 +1441,6 @@
                 <date>1994-05-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-07-25</date>
                 <note/>
@@ -1680,10 +1464,6 @@
                 <date>1997-11-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-03-19</date>
                 <note/>
@@ -1707,10 +1487,6 @@
                 <date>2000-06-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-08-24</date>
                 <note/>
@@ -1734,10 +1510,6 @@
                 <date>2003-07-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-08-13</date>
                 <note/>
@@ -1761,10 +1533,6 @@
                 <date>2007-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-09-12</date>
                 <note/>
@@ -1788,10 +1556,6 @@
                 <date>2010-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-09-14</date>
                 <note/>
@@ -1815,10 +1579,6 @@
                 <date>2014-04-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-05-20</date>
                 <note/>
@@ -1842,14 +1602,14 @@
                 <date>2019-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-09-14</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-09-19</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-09-14</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -1871,10 +1631,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1898,10 +1654,6 @@
                 <date>1854-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1917,7 +1669,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>co-1856-bowl-01</id>
+            <id>co--bowl-01</id>
             <person-id>bowlin-james-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1925,10 +1677,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1952,10 +1700,6 @@
                 <date>1861-05-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1980,10 +1724,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2007,10 +1747,6 @@
                 <date>1866-11-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2034,10 +1770,6 @@
                 <date>1935-04-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2053,7 +1785,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>co-2017-macm-01</id>
+            <id>co--macm-01</id>
             <person-id>macmanus-joseph-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -2061,10 +1793,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2073,16 +1801,11 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nominated onNovember 29, 2017; nomination returned by the Senate on January 4,
-                2019.</note>
+            <note>Nominated on November 29, 2017; nomination returned by the Senate on January 4, 2019.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

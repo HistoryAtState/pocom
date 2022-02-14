@@ -3,7 +3,7 @@
     <territory-id>tajikistan</territory-id>
     <chiefs>
         <chief>
-            <id>tj-1992-mcwi-01</id>
+            <id>ta--mcwi-01</id>
             <person-id>mcwilliams-edmund</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1992-03-13</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>tj-1992-escu-01</id>
+            <id>ta-1992-escu-01</id>
             <person-id>escudero-stanley-tuemler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1992-08-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-10-19</date>
                 <note/>
@@ -65,7 +61,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </mission-note>
         <chief>
-            <id>tj-1995-smit-01</id>
+            <id>ta-1995-smit-01</id>
             <person-id>smith-r-grant</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -73,10 +69,6 @@
                 <date>1995-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-07-31</date>
                 <note/>
@@ -92,7 +84,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tj-1998-finn-01</id>
+            <id>ta-1998-finn-01</id>
             <person-id>finn-robert-patrick-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -100,10 +92,6 @@
                 <date>1998-10-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-11-11</date>
                 <note/>
@@ -119,7 +107,7 @@
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
         <chief>
-            <id>tj-2001-hudd-01</id>
+            <id>ta-2001-hudd-01</id>
             <person-id>huddle-franklin-pierce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -127,10 +115,6 @@
                 <date>2001-10-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-10-26</date>
                 <note/>
@@ -146,7 +130,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tj-2003-hoag-01</id>
+            <id>ta-2003-hoag-01</id>
             <person-id>hoagland-richard-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -154,10 +138,6 @@
                 <date>2003-10-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-11-24</date>
                 <note/>
@@ -173,7 +153,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>tj-2006-jaco-01</id>
+            <id>ta-2006-jaco-01</id>
             <person-id>jacobson-tracey-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -181,10 +161,6 @@
                 <date>2006-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-09-04</date>
                 <note/>
@@ -200,7 +176,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>tj-2009-gros-01</id>
+            <id>ta-2009-gros-01</id>
             <person-id>gross-kenneth-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -208,10 +184,6 @@
                 <date>2009-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-10-02</date>
                 <note/>
@@ -227,7 +199,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>tj-2012-elli-01</id>
+            <id>ta-2012-elli-01</id>
             <person-id>elliott-susan-marsh</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -235,10 +207,6 @@
                 <date>2012-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-10-19</date>
                 <note/>
@@ -254,7 +222,7 @@
             <last-modified-date>2016-08-25</last-modified-date>
         </chief>
         <chief>
-            <id>tj-2015-mill-01</id>
+            <id>ta-2015-mill-01</id>
             <person-id>millard-elisabeth-i</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -262,10 +230,6 @@
                 <date>2015-11-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-03-11</date>
                 <note/>
@@ -281,7 +245,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>tj-2017-cove-01</id>
+            <id>ta--cove-01</id>
             <person-id>covert-kevin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -289,14 +253,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-08-31</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2019-03-10</date>
                 <note/>
@@ -308,7 +272,7 @@
             <last-modified-date>2019-05-29</last-modified-date>
         </chief>
         <chief>
-            <id>tj-2019-pomm-01</id>
+            <id>ta-2019-pomm-01</id>
             <person-id>pommersheim-john-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -316,14 +280,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-03-11</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-03-15</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-03-11</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -336,8 +300,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>hankins-dennis-b</id>
-    <old-ids>
-        <old-id>hankins-dennis</old-id>
-    </old-ids>
     <persName>
         <surname>Hankins</surname>
         <forename>Dennis B.</forename>
     </persName>
     <birth>1959</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>mn</state-id>

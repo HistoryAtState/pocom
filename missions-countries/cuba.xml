@@ -11,10 +11,6 @@
                 <date>1902-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1902-05-27</date>
                 <note/>
@@ -38,10 +34,6 @@
                 <date>1905-11-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1906-03-01</date>
                 <note/>
@@ -66,10 +58,6 @@
                 <date>1909-12-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1910-03-22</date>
                 <note/>
@@ -93,10 +81,6 @@
                 <date>1911-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1911-12-18</date>
                 <note/>
@@ -120,10 +104,6 @@
                 <date>1913-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-08-09</date>
                 <note/>
@@ -147,11 +127,7 @@
                 <date>1919-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1920-01-08</date>
                 <note>Formally received on</note>
             </started>
@@ -174,10 +150,6 @@
                 <date>1923-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1923-03-05</date>
                 <note/>
@@ -201,10 +173,6 @@
                 <date>1927-11-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1927-12-23</date>
                 <note/>
@@ -229,10 +197,6 @@
                 <date>1929-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1929-11-21</date>
                 <note/>
@@ -256,10 +220,6 @@
                 <date>1933-04-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-05-11</date>
                 <note/>
@@ -284,10 +244,6 @@
                 <date>1934-02-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1934-02-28</date>
                 <note/>
@@ -311,10 +267,6 @@
                 <date>1937-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-08-23</date>
                 <note/>
@@ -338,10 +290,6 @@
                 <date>1940-01-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1940-03-08</date>
                 <note/>
@@ -365,10 +313,6 @@
                 <date>1941-12-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1942-05-19</date>
                 <note/>
@@ -392,10 +336,6 @@
                 <date>1945-05-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1945-07-24</date>
                 <note/>
@@ -419,10 +359,6 @@
                 <date>1948-05-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1948-06-08</date>
                 <note/>
@@ -446,10 +382,6 @@
                 <date>1951-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1951-09-20</date>
                 <note/>
@@ -473,10 +405,6 @@
                 <date>1953-05-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-10-16</date>
                 <note/>
@@ -500,10 +428,6 @@
                 <date>1957-06-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-07-23</date>
                 <note/>
@@ -527,10 +451,6 @@
                 <date>1959-02-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1959-03-03</date>
                 <note/>
@@ -554,16 +474,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
             <ended>
-                <date>1961-01</date>
+                <date>1961-01-01</date>
                 <note/>
             </ended>
             <note>Braddock was serving as Chargé d’Affaires ad interim when the United States
@@ -585,7 +501,7 @@
             <last-modified-date>2019-08-07</last-modified-date>
         </mission-note>
         <chief>
-            <id>cu-1977-lane-01</id>
+            <id>cu--lane-01</id>
             <person-id>lane-lyle-francis</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -593,16 +509,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1977-09</date>
+                <date>1977-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1979-07</date>
+                <date>1979-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -612,7 +524,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu-1979-smit-01</id>
+            <id>cu--smit-01</id>
             <person-id>smith-wayne-s</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -620,16 +532,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1979-07</date>
+                <date>1979-07-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1982-08</date>
+                <date>1982-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -639,7 +547,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu-1982-ferc-01</id>
+            <id>cu--ferc-01</id>
             <person-id>ferch-john-arthur</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -647,16 +555,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1982-08</date>
+                <date>1982-08-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1985-07</date>
+                <date>1985-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -666,7 +570,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu-1985-kamm-01</id>
+            <id>cu--kamm-01</id>
             <person-id>kamman-curtis-w</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -674,16 +578,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1985-08</date>
+                <date>1985-08-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1987-09</date>
+                <date>1987-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -693,7 +593,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu-1987-tayl-01</id>
+            <id>cu--tayl-01</id>
             <person-id>taylor-john-jackson</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -701,16 +601,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1987-09</date>
+                <date>1987-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1990-09</date>
+                <date>1990-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -720,7 +616,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu-1990-flan-01</id>
+            <id>cu--flan-01</id>
             <person-id>flanigan-alan-h</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -728,16 +624,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1990-09</date>
+                <date>1990-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1993-07</date>
+                <date>1993-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -747,7 +639,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu-1993-sull-01</id>
+            <id>cu--sull-01</id>
             <person-id>sullivan-joseph-gerard</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -755,16 +647,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1993-07</date>
+                <date>1993-07-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1996-09</date>
+                <date>1996-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -774,7 +662,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu-1996-koza-01</id>
+            <id>cu--koza-01</id>
             <person-id>kozak-michael-g</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -782,16 +670,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1996-09</date>
+                <date>1996-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1999-09</date>
+                <date>1999-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -801,7 +685,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu-1999-hudd-01</id>
+            <id>cu--hudd-01</id>
             <person-id>huddleston-vicki-j</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -809,16 +693,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>1999-09</date>
+                <date>1999-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2002-09</date>
+                <date>2002-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -828,7 +708,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>cu-2002-caso-01</id>
+            <id>cu--caso-01</id>
             <person-id>cason-james-caldwell</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -836,16 +716,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>2002-09</date>
+                <date>2002-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2005-09</date>
+                <date>2005-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -855,7 +731,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>cu-2005-parm-01</id>
+            <id>cu--parm-01</id>
             <person-id>parmley-michael-e</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -863,16 +739,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>2005-09</date>
+                <date>2005-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2008-08</date>
+                <date>2008-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -882,7 +754,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>cu-2008-farr-01</id>
+            <id>cu--farr-01</id>
             <person-id>farrar-jonathan-d</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -890,16 +762,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>2008-09</date>
+                <date>2008-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2011-07</date>
+                <date>2011-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -909,7 +777,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>cu-2011-caul-01</id>
+            <id>cu--caul-01</id>
             <person-id>caulfield-john-patrick</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -917,16 +785,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>2011-09</date>
+                <date>2011-09-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2014-07</date>
+                <date>2014-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -936,7 +800,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>cu-2014-de-01</id>
+            <id>cu--de-l-01</id>
             <person-id>de-laurentis-jeffrey</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -944,16 +808,12 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
-                <date>2014-08</date>
+                <date>2014-08-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2015-07</date>
+                <date>2015-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -962,17 +822,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <mission-note>
-            <text>The United States and Cuba resumed diplomatic relations on July 20, 2015, when
-                both countries elevated their respective Interests Sections to Embassy
-                status.</text>
-            <created-by>bottsjd</created-by>
-            <created-date>2019-08-07</created-date>
-            <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-08-07</last-modified-date>
-        </mission-note>
         <chief>
-            <id>cu-2015-de-01</id>
+            <id>cu--de-l-01</id>
             <person-id>de-laurentis-jeffrey</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -980,14 +831,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2015-07-20</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2017-07-07</date>
                 <note/>
@@ -999,8 +850,17 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
+        <mission-note>
+            <text>The United States and Cuba resumed diplomatic relations on July 20, 2015, when
+                both countries elevated their respective Interests Sections to Embassy
+                status.</text>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-08-07</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-08-07</last-modified-date>
+        </mission-note>
         <chief>
-            <id>cu-2018-teka-01</id>
+            <id>cu--teka-01</id>
             <person-id>tekach-mara-r</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -1008,28 +868,24 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-07-20</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-07-20</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-07-31</date>
                 <note/>
             </ended>
             <note/>
-            <created-by>DIDit.app</created-by>
+            <created-by>bottsjd</created-by>
             <created-date>2019-12-16</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-08-07</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

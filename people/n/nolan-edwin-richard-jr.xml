@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>nolan-edwin-richard-jr</id>
-    <old-ids>
-        <old-id>nolan-edwin-r</old-id>
-    </old-ids>
     <persName>
         <surname>Nolan</surname>
         <forename>Edwin Richard</forename>
         <genName>Jr.</genName>
     </persName>
     <birth>1955</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>ma</state-id>

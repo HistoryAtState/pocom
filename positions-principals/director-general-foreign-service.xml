@@ -6,8 +6,6 @@
     <names>
         <singular>Director General of the Foreign Service</singular>
         <plural>Directors General of the Foreign Service</plural>
-        <alternate>Director General of the Foreign Service and Director of the Bureau of Human
-            Resources</alternate>
     </names>
     <start accuracy="yyyy">1946</start>
     <end accuracy="yyyy">2005</end>
@@ -30,7 +28,7 @@
             <id>serv-1946-chap</id>
             <person-id>chapin-selden</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1946-11-13</date>
                 <note/>
             </appointed>
@@ -52,7 +50,7 @@
             <id>serv-1947-ravn</id>
             <person-id>ravndal-christian-magelssen</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1947-05-01</date>
                 <note/>
             </appointed>
@@ -74,7 +72,7 @@
             <id>serv-1949-butr</id>
             <person-id>butrick-richard-porter</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1949-09-07</date>
                 <note/>
             </appointed>
@@ -96,7 +94,7 @@
             <id>serv-1952-drew</id>
             <person-id>drew-gerald-augustin</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1952-03-30</date>
                 <note/>
             </appointed>
@@ -118,7 +116,7 @@
             <id>serv-1957-satt</id>
             <person-id>satterthwaite-joseph-charles</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1957-05-06</date>
                 <note/>
             </appointed>
@@ -140,7 +138,7 @@
             <id>serv-1958-gall</id>
             <person-id>gallman-waldemar-john</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1958-11-17</date>
                 <note/>
             </appointed>
@@ -162,7 +160,7 @@
             <id>serv-1961-thom</id>
             <person-id>thompson-tyler</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1961-05-14</date>
                 <note/>
             </appointed>
@@ -184,7 +182,7 @@
             <id>serv-1964-palm</id>
             <person-id>palmer-joseph</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1964-02-16</date>
                 <note/>
             </appointed>
@@ -206,7 +204,7 @@
             <id>serv-1966-stee</id>
             <person-id>steeves-john-milton</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1966-08-01</date>
                 <note/>
             </appointed>
@@ -228,7 +226,7 @@
             <id>serv-1969-burn</id>
             <person-id>burns-john-howard</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1969-08-01</date>
                 <note/>
             </appointed>
@@ -250,7 +248,7 @@
             <id>serv-1971-hall</id>
             <person-id>hall-william-o</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1971-07-05</date>
                 <note/>
             </appointed>
@@ -272,7 +270,7 @@
             <id>serv-1973-davi</id>
             <person-id>davis-nathaniel</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1973-11-13</date>
                 <note/>
             </appointed>
@@ -287,14 +285,14 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowski</last-modified-by>
+            <last-modified-by>admin</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </principal>
         <principal>
             <id>serv-1975-lais</id>
             <person-id>laise-caroline-clendening</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1975-04-11</date>
                 <note/>
             </appointed>
@@ -316,7 +314,7 @@
             <id>serv-1977-barn</id>
             <person-id>barnes-harry-george-jr</person-id>
             <role-title-id>director-general-foreign-service</role-title-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1977-12-22</date>
                 <note/>
             </appointed>
@@ -691,29 +689,26 @@
     </principals>
     <other-appointees>
         <principal>
-        <id>serv--akar</id>
-        <person-id>akard-stephen</person-id>
-        <role-title-id>director-general-foreign-service</role-title-id>
-        <appointed>
-            <date/>
-            <note/>
-        </appointed>
-        <started>
-            <date/>
-            <note/>
-        </started>
-        <ended>
-            <date/>
-            <note/>
-        </ended>
-        <note>Not commissioned; nomination of October 16, 2017 withdrawn by the president on March 20, 2018.</note>
-        <created-by>bottsjd</created-by>
-        <created-date>2019-05-06</created-date>
-        <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-date>2019-05-06</last-modified-date>
-    </principal></other-appointees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-18</last-modified-date>
+            <id>serv--akar</id>
+            <person-id>akard-stephen</person-id>
+            <role-title-id>director-general-foreign-service</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination of October 16, 2017 withdrawn by the president on March 20, 2018.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-06</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-06</last-modified-date>
+        </principal>
+    </other-appointees>
 </principal-position>

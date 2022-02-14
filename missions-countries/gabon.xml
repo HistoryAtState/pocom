@@ -3,7 +3,7 @@
     <territory-id>gabon</territory-id>
     <chiefs>
         <chief>
-            <id>ga-1960-luke-01</id>
+            <id>ga--luke-01</id>
             <person-id>lukens-alan-wood</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1960-08-17</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -38,10 +38,6 @@
                 <date>1960-12-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-01-13</date>
                 <note/>
@@ -68,10 +64,6 @@
                 <date>1961-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-10-18</date>
                 <note/>
@@ -95,10 +87,6 @@
                 <date>1965-07-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1965-08-14</date>
                 <note/>
@@ -122,10 +110,6 @@
                 <date>1969-06-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-08-09</date>
                 <note/>
@@ -149,10 +133,6 @@
                 <date>1970-12-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1971-02-04</date>
                 <note/>
@@ -176,10 +156,6 @@
                 <date>1975-06-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-08-09</date>
                 <note/>
@@ -203,10 +179,6 @@
                 <date>1978-02-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-03-06</date>
                 <note/>
@@ -230,10 +202,6 @@
                 <date>1981-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-01-19</date>
                 <note/>
@@ -257,10 +225,6 @@
                 <date>1984-08-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-11-20</date>
                 <note/>
@@ -284,10 +248,6 @@
                 <date>1987-08-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-09-19</date>
                 <note/>
@@ -311,10 +271,6 @@
                 <date>1989-11-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-12-08</date>
                 <note/>
@@ -338,10 +294,6 @@
                 <date>1992-07-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-09-17</date>
                 <note/>
@@ -365,10 +317,6 @@
                 <date>1995-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-11-29</date>
                 <note/>
@@ -392,10 +340,6 @@
                 <date>1998-10-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-12-16</date>
                 <note/>
@@ -411,7 +355,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>ga-2001-daug-01</id>
+            <id>ga--daug-01</id>
             <person-id>daughton-thomas-frederick</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -419,16 +363,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2001-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2001-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2002-06</date>
+                <date>2002-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -446,10 +390,6 @@
                 <date>2002-01-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-06-20</date>
                 <note/>
@@ -473,10 +413,6 @@
                 <date>2004-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-11-12</date>
                 <note/>
@@ -500,10 +436,6 @@
                 <date>2007-10-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-12-06</date>
                 <note/>
@@ -527,10 +459,6 @@
                 <date>2010-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-12-03</date>
                 <note/>
@@ -554,10 +482,6 @@
                 <date>2014-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-12-26</date>
                 <note/>
@@ -581,14 +505,14 @@
                 <date>2018-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-03-30</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-04-18</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-03-30</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-03-01</date>
                 <note/>
@@ -600,7 +524,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ga-2019-whit-01</id>
+            <id>ga--whit-01</id>
             <person-id>whitehead-robert-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -608,14 +532,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-07-08</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-07-08</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2020-08-17</date>
                 <note/>
@@ -627,7 +551,7 @@
             <last-modified-date>2020-10-06</last-modified-date>
         </chief>
         <chief>
-            <id>ga-2020-wats-01</id>
+            <id>ga--wats-01</id>
             <person-id>watson-samuel-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -635,14 +559,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2020-09-28</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2020-09-28</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -655,8 +579,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

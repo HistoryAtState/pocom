@@ -3,7 +3,7 @@
     <territory-id>portugal</territory-id>
     <chiefs>
         <chief>
-            <id>pt-1791-hump-01</id>
+            <id>po-1791-hump-01</id>
             <person-id>humphreys-david</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1791-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1791-05-13</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1797-smit-01</id>
+            <id>po-1797-smit-01</id>
             <person-id>smith-william-loughton</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1797-07-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1797-09-08</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1809-sumt-01</id>
+            <id>po-1809-sumt-01</id>
             <person-id>sumter-thomas</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -65,10 +57,6 @@
                 <date>1809-03-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1810-06-07</date>
                 <note/>
@@ -84,7 +72,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1819-grah-01</id>
+            <id>po-1819-grah-01</id>
             <person-id>graham-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -92,10 +80,6 @@
                 <date>1819-01-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1819-06-24</date>
                 <note/>
@@ -111,7 +95,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1820-appl-01</id>
+            <id>po--appl-01</id>
             <person-id>appleton-john-james</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -119,14 +103,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1820-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1820-06-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>1821-07-12</date>
                 <note>Appleton's last despatch was dated</note>
@@ -138,7 +122,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1822-dear-01</id>
+            <id>po-1822-dear-01</id>
             <person-id>dearborn-henry-sr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -146,10 +130,6 @@
                 <date>1822-05-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -166,7 +146,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1825-bren-01</id>
+            <id>po-1825-bren-01</id>
             <person-id>brent-thomas-ludwell-lee</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -174,14 +154,14 @@
                 <date>1825-03-09</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1825-06-24</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1834-11-28</date>
                 <note>Left post on or soon after</note>
@@ -194,7 +174,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1835-kava-01</id>
+            <id>po-1835-kava-01</id>
             <person-id>kavanagh-edward</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -202,14 +182,14 @@
                 <date>1835-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1835-07-25</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1841-04-19</date>
                 <note>Relinquished charge</note>
@@ -221,7 +201,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1841-barr-01</id>
+            <id>po-1841-barr-01</id>
             <person-id>barrow-washington</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -229,14 +209,14 @@
                 <date>1841-08-16</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1841-12-28</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1844-02-24</date>
                 <note>Presented recall on</note>
@@ -248,7 +228,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1843-renc-01</id>
+            <id>po-1843-renc-01</id>
             <person-id>rencher-abraham</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -256,14 +236,14 @@
                 <date>1843-09-22</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1844-02-24</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1847-11-04</date>
                 <note>Presented recall on</note>
@@ -276,7 +256,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1847-hopk-01</id>
+            <id>po-1847-hopk-01</id>
             <person-id>hopkins-george-washington</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -284,14 +264,14 @@
                 <date>1847-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1847-11-04</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1849-10-18</date>
                 <note>Presented recall on</note>
@@ -303,7 +283,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1849-clay-01</id>
+            <id>po-1849-clay-01</id>
             <person-id>clay-james-brown</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -311,14 +291,14 @@
                 <date>1849-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1849-10-18</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1850-08-19</date>
                 <note>Left post on</note>
@@ -331,7 +311,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1850-hadd-01</id>
+            <id>po-1850-hadd-01</id>
             <person-id>haddock-charles-brickett</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -339,14 +319,14 @@
                 <date>1850-12-10</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1851-06-17</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1854-06-16</date>
                 <note>Presented recall on</note>
@@ -358,7 +338,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1854-osul-01</id>
+            <id>po-1854-osul-01</id>
             <person-id>osullivan-john-louis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -366,14 +346,14 @@
                 <date>1854-02-16</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1854-06-16</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1854-10-19</date>
                 <note>Promoted to Minister Resident</note>
@@ -386,7 +366,7 @@
             <last-modified-date>2016-12-28</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1854-osul-02</id>
+            <id>po-1854-osul-01</id>
             <person-id>osullivan-john-louis</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -394,10 +374,6 @@
                 <date>1854-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1854-10-19</date>
                 <note/>
@@ -413,7 +389,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1858-morg-01</id>
+            <id>po-1858-morg-01</id>
             <person-id>morgan-george-washington</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -421,10 +397,6 @@
                 <date>1858-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1858-07-15</date>
                 <note/>
@@ -440,7 +412,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1861-harv-01</id>
+            <id>po-1861-harv-01</id>
             <person-id>harvey-james-e</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -448,10 +420,6 @@
                 <date>1861-03-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1861-07-19</date>
                 <note/>
@@ -467,7 +435,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1869-shel-01</id>
+            <id>po-1869-shel-01</id>
             <person-id>shellabarger-samuel</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -475,10 +443,6 @@
                 <date>1869-04-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-07-15</date>
                 <note/>
@@ -494,7 +458,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1870-lewi-01</id>
+            <id>po-1870-lewi-01</id>
             <person-id>lewis-charles-hance</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -502,10 +466,6 @@
                 <date>1870-03-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1870-06-15</date>
                 <note/>
@@ -521,7 +481,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1874-mora-01</id>
+            <id>po-1874-mora-01</id>
             <person-id>moran-benjamin</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -529,10 +489,6 @@
                 <date>1874-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1875-04-08</date>
                 <note/>
@@ -548,7 +504,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1876-mora-01</id>
+            <id>po-1876-mora-01</id>
             <person-id>moran-benjamin</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -556,14 +512,14 @@
                 <date>1876-08-15</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1876-11-15</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1882-09-27</date>
                 <note>Recall presented by successor</note>
@@ -575,7 +531,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1882-fran-02</id>
+            <id>po-1882-fran-01</id>
             <person-id>francis-john-morgan</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -583,10 +539,6 @@
                 <date>1882-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1882-10-05</date>
                 <note/>
@@ -602,7 +554,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1884-rich-01</id>
+            <id>po-1884-rich-01</id>
             <person-id>richmond-lewis</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -610,10 +562,6 @@
                 <date>1884-07-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1884-10-23</date>
                 <note/>
@@ -629,7 +577,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1885-lewi-01</id>
+            <id>po-1885-lewi-01</id>
             <person-id>lewis-edward-parke-custis</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -637,10 +585,6 @@
                 <date>1885-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1885-06-18</date>
                 <note/>
@@ -656,7 +600,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1889-lori-01</id>
+            <id>po-1889-lori-01</id>
             <person-id>loring-george-bailey</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -664,10 +608,6 @@
                 <date>1889-03-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-08-29</date>
                 <note/>
@@ -683,7 +623,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1890-batc-01</id>
+            <id>po-1890-batc-01</id>
             <person-id>batcheller-george-sherman</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -691,10 +631,6 @@
                 <date>1890-10-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1890-12-30</date>
                 <note/>
@@ -710,7 +646,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1893-pier-01</id>
+            <id>po-1893-pier-01</id>
             <person-id>pierce-gilbert-ashville</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -718,10 +654,6 @@
                 <date>1893-01-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-03-20</date>
                 <note/>
@@ -737,7 +669,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1893-caru-01</id>
+            <id>po-1893-caru-01</id>
             <person-id>caruth-george-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -745,10 +677,6 @@
                 <date>1893-04-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-06-30</date>
                 <note/>
@@ -765,7 +693,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1897-town-01</id>
+            <id>po-1897-town-01</id>
             <person-id>townsend-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -773,10 +701,6 @@
                 <date>1897-06-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1897-08-18</date>
                 <note/>
@@ -792,7 +716,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1899-irwi-01</id>
+            <id>po-1899-irwi-01</id>
             <person-id>irwin-john-nichol</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -800,10 +724,6 @@
                 <date>1899-04-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1899-12-26</date>
                 <note/>
@@ -820,7 +740,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1901-loom-01</id>
+            <id>po-1901-loom-01</id>
             <person-id>loomis-francis-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -828,10 +748,6 @@
                 <date>1901-06-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1901-08-14</date>
                 <note/>
@@ -848,7 +764,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1903-brya-01</id>
+            <id>po-1903-brya-01</id>
             <person-id>bryan-charles-page</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -856,10 +772,6 @@
                 <date>1903-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1903-04-25</date>
                 <note/>
@@ -875,7 +787,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1909-gage-01</id>
+            <id>po-1909-gage-01</id>
             <person-id>gage-henry-tifft</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -883,10 +795,6 @@
                 <date>1909-12-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1910-06-11</date>
                 <note/>
@@ -903,7 +811,7 @@
             <last-modified-date>2016-12-28</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1911-morg-01</id>
+            <id>po-1911-morg-01</id>
             <person-id>morgan-edwin-vernon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -911,10 +819,6 @@
                 <date>1911-05-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1911-08-03</date>
                 <note/>
@@ -930,7 +834,7 @@
             <last-modified-date>2013-09-09</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1912-wood-01</id>
+            <id>po-1912-wood-01</id>
             <person-id>woods-cyrus-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -938,10 +842,6 @@
                 <date>1912-01-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1912-03-20</date>
                 <note/>
@@ -957,7 +857,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1913-birc-01</id>
+            <id>po-1913-birc-01</id>
             <person-id>birch-thomas-howard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -965,10 +865,6 @@
                 <date>1913-09-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-12-15</date>
                 <note/>
@@ -984,7 +880,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1922-dear-01</id>
+            <id>po-1922-dear-01</id>
             <person-id>dearing-fred-morris</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -992,10 +888,6 @@
                 <date>1922-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1922-06-06</date>
                 <note/>
@@ -1011,7 +903,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1929-sout-01</id>
+            <id>po-1929-sout-01</id>
             <person-id>south-john-glover</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1019,10 +911,6 @@
                 <date>1929-12-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-03-26</date>
                 <note/>
@@ -1038,7 +926,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1933-cald-01</id>
+            <id>po-1933-cald-01</id>
             <person-id>caldwell-robert-granville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1046,10 +934,6 @@
                 <date>1933-06-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-08-21</date>
                 <note/>
@@ -1065,7 +949,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1937-pell-01</id>
+            <id>po-1937-pell-01</id>
             <person-id>pell-herbert-claiborne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1073,10 +957,6 @@
                 <date>1937-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-07-31</date>
                 <note/>
@@ -1092,7 +972,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1941-fish-01</id>
+            <id>po-1941-fish-01</id>
             <person-id>fish-bert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1100,10 +980,6 @@
                 <date>1941-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1941-03-26</date>
                 <note/>
@@ -1119,7 +995,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1943-norw-01</id>
+            <id>po-1943-norw-01</id>
             <person-id>norweb-raymond-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1127,10 +1003,6 @@
                 <date>1943-11-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1943-12-03</date>
                 <note/>
@@ -1146,7 +1018,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1944-norw-01</id>
+            <id>po-1944-norw-01</id>
             <person-id>norweb-raymond-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1154,10 +1026,6 @@
                 <date>1944-05-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1944-06-20</date>
                 <note/>
@@ -1173,7 +1041,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1945-baru-01</id>
+            <id>po-1945-baru-01</id>
             <person-id>baruch-herman-benjamin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1181,11 +1049,7 @@
                 <date>1945-02-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1945-04-12</date>
                 <note>Officially recognized as of</note>
             </started>
@@ -1200,7 +1064,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1947-wile-01</id>
+            <id>po-1947-wile-01</id>
             <person-id>wiley-john-cooper</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1208,10 +1072,6 @@
                 <date>1947-04-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-06-18</date>
                 <note/>
@@ -1227,7 +1087,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1948-macv-01</id>
+            <id>po-1948-macv-01</id>
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1235,10 +1095,6 @@
                 <date>1948-04-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1948-06-09</date>
                 <note/>
@@ -1254,7 +1110,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1952-cann-01</id>
+            <id>po-1952-cann-01</id>
             <person-id>cannon-cavendish-wells</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1262,10 +1118,6 @@
                 <date>1952-03-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1952-06-02</date>
                 <note/>
@@ -1281,7 +1133,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1953-gugg-01</id>
+            <id>po-1953-gugg-01</id>
             <person-id>guggenheim-m-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1289,10 +1141,6 @@
                 <date>1953-06-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-08-12</date>
                 <note/>
@@ -1308,7 +1156,7 @@
             <last-modified-date>2012-09-18</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1955-bonb-01</id>
+            <id>po-1955-bonb-01</id>
             <person-id>bonbright-james-cowles-hart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1316,10 +1164,6 @@
                 <date>1955-01-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1955-02-18</date>
                 <note/>
@@ -1335,7 +1179,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1958-elbr-01</id>
+            <id>po-1958-elbr-01</id>
             <person-id>elbrick-charles-burke</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1343,10 +1187,6 @@
                 <date>1958-10-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1959-01-13</date>
                 <note/>
@@ -1363,7 +1203,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1963-ande-01</id>
+            <id>po-1963-ande-01</id>
             <person-id>anderson-george-whelan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1371,10 +1211,6 @@
                 <date>1963-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-10-22</date>
                 <note/>
@@ -1390,7 +1226,7 @@
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1966-benn-01</id>
+            <id>po-1966-benn-01</id>
             <person-id>bennett-william-tapley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1398,10 +1234,6 @@
                 <date>1966-05-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-07-20</date>
                 <note/>
@@ -1417,7 +1249,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1969-knig-01</id>
+            <id>po-1969-knig-01</id>
             <person-id>knight-ridgway-brewster</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1425,10 +1257,6 @@
                 <date>1969-07-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-07-30</date>
                 <note/>
@@ -1444,7 +1272,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1973-scot-01</id>
+            <id>po-1973-scot-01</id>
             <person-id>scott-stuart-nash</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1452,10 +1280,6 @@
                 <date>1973-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-01-23</date>
                 <note/>
@@ -1471,7 +1295,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1974-carl-01</id>
+            <id>po-1974-carl-01</id>
             <person-id>carlucci-frank-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1479,10 +1303,6 @@
                 <date>1974-12-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-01-24</date>
                 <note/>
@@ -1498,7 +1318,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1978-bloo-01</id>
+            <id>po-1978-bloo-01</id>
             <person-id>bloomfield-richard-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1506,10 +1326,6 @@
                 <date>1978-02-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-03-10</date>
                 <note/>
@@ -1525,7 +1341,7 @@
             <last-modified-date>2013-03-13</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1982-holm-01</id>
+            <id>po-1982-holm-01</id>
             <person-id>holmes-henry-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1533,10 +1349,6 @@
                 <date>1982-09-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-10-15</date>
                 <note/>
@@ -1552,7 +1364,7 @@
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1985-shak-01</id>
+            <id>po-1985-shak-01</id>
             <person-id>shakespeare-frank-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1560,10 +1372,6 @@
                 <date>1985-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-10-16</date>
                 <note/>
@@ -1579,7 +1387,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1988-rowe-01</id>
+            <id>po-1988-rowe-01</id>
             <person-id>rowell-edward-morgan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1587,10 +1395,6 @@
                 <date>1988-01-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-01-29</date>
                 <note/>
@@ -1607,7 +1411,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1990-brig-01</id>
+            <id>po-1990-brig-01</id>
             <person-id>briggs-everett-ellis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1615,10 +1419,6 @@
                 <date>1990-04-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-05-25</date>
                 <note/>
@@ -1634,7 +1434,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1993-wilk-01</id>
+            <id>po--wilk-01</id>
             <person-id>wilkinson-sharon-p</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1642,16 +1442,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1993-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1993-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1994-09</date>
+                <date>1994-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1661,7 +1461,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1994-bagl-01</id>
+            <id>po-1994-bagl-01</id>
             <person-id>bagley-elizabeth-frawley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1669,10 +1469,6 @@
                 <date>1994-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-09-21</date>
                 <note/>
@@ -1688,7 +1484,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1997-mcgo-01</id>
+            <id>po-1997-mcgo-01</id>
             <person-id>mcgowan-gerald-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1696,10 +1492,6 @@
                 <date>1997-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-03-10</date>
                 <note/>
@@ -1715,7 +1507,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-2001-palm-01</id>
+            <id>po-2001-palm-01</id>
             <person-id>palmer-john-n</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1723,10 +1515,6 @@
                 <date>2001-11-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-11-28</date>
                 <note/>
@@ -1742,7 +1530,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>pt-2005-hoff-01</id>
+            <id>po-2005-hoff-01</id>
             <person-id>hoffman-alfred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1750,10 +1538,6 @@
                 <date>2005-10-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-11-30</date>
                 <note/>
@@ -1769,7 +1553,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-2007-step-01</id>
+            <id>po-2007-step-01</id>
             <person-id>stephenson-thomas-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1777,10 +1561,6 @@
                 <date>2007-10-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-02-08</date>
                 <note/>
@@ -1796,7 +1576,7 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
-            <id>pt-2010-katz-01</id>
+            <id>po-2010-katz-01</id>
             <person-id>katz-allan-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1804,10 +1584,6 @@
                 <date>2010-03-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-04-28</date>
                 <note/>
@@ -1823,7 +1599,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>pt-2014-sher-01</id>
+            <id>po-2014-sher-01</id>
             <person-id>sherman-robert-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1831,10 +1607,6 @@
                 <date>2014-03-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-05-03</date>
                 <note/>
@@ -1850,7 +1622,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>pt-2017-glas-01</id>
+            <id>po-2017-glas-01</id>
             <person-id>glass-george-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1858,28 +1630,28 @@
                 <date>2017-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-08-24</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-08-30</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-08-24</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-22</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-22</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>pt-1796-adam-01</id>
+            <id>po-1796-adam-01</id>
             <person-id>adams-john-quincy</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1887,10 +1659,6 @@
                 <date>1796-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1906,7 +1674,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt--appl-01</id>
+            <id>po--appl-01</id>
             <person-id>appleton-john-james</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1914,10 +1682,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1934,7 +1698,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1856-osul-01</id>
+            <id>po--osul-01</id>
             <person-id>osullivan-john-louis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1942,10 +1706,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1961,7 +1721,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1870-cumb-01</id>
+            <id>po-1870-cumb-01</id>
             <person-id>cumback-william</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1969,10 +1729,6 @@
                 <date>1870-01-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1988,7 +1744,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1882-fran-01</id>
+            <id>po-1882-fran-01</id>
             <person-id>francis-john-morgan</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1996,10 +1752,6 @@
                 <date>1882-04-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2016,7 +1768,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1911-bout-01</id>
+            <id>po-1911-bout-01</id>
             <person-id>boutell-henry-sherman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -2024,10 +1776,6 @@
                 <date>1911-03-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2043,7 +1791,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt--nich-01</id>
+            <id>po--nich-01</id>
             <person-id>nicholson-meredith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -2051,10 +1799,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2070,7 +1814,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>pt-1987-viet-01</id>
+            <id>po--viet-01</id>
             <person-id>viets-richard-noyes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -2078,10 +1822,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -2097,8 +1837,4 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>haiti</territory-id>
     <chiefs>
         <chief>
-            <id>ht-1862-whid-01</id>
+            <id>ha-1862-whid-01</id>
             <person-id>whidden-benjamin-franklin</person-id>
             <role-title-id>commissioner-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1862-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1862-10-01</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1865-peck-01</id>
+            <id>ha-1865-peck-01</id>
             <person-id>peck-henry-everard</person-id>
             <role-title-id>commissioner-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1865-03-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1865-09-02</date>
                 <note/>
@@ -58,7 +50,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1866-peck-01</id>
+            <id>ha-1866-peck-01</id>
             <person-id>peck-henry-everard</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -66,10 +58,6 @@
                 <date>1866-08-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1866-10-11</date>
                 <note/>
@@ -86,7 +74,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1868-holl-01</id>
+            <id>ha-1868-holl-01</id>
             <person-id>hollister-gideon-hiram</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -94,10 +82,6 @@
                 <date>1868-02-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1868-06-06</date>
                 <note>On or shortly before</note>
@@ -113,7 +97,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1869-bass-01</id>
+            <id>ha-1869-bass-01</id>
             <person-id>bassett-ebenezer-don-carlos</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -121,10 +105,6 @@
                 <date>1869-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-09-08</date>
                 <note>Presented credentials on September 7 or</note>
@@ -140,7 +120,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1877-lang-01</id>
+            <id>ha-1877-lang-01</id>
             <person-id>langston-john-mercer</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -148,10 +128,6 @@
                 <date>1877-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1877-11-27</date>
                 <note/>
@@ -168,7 +144,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1885-thom-01</id>
+            <id>ha-1885-thom-01</id>
             <person-id>thompson-john-edgar-west</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -176,10 +152,6 @@
                 <date>1885-05-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1885-06-30</date>
                 <note/>
@@ -196,7 +168,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1889-doug-01</id>
+            <id>ha-1889-doug-01</id>
             <person-id>douglass-frederick-augustus-washington-bailey</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -204,16 +176,12 @@
                 <date>1889-06-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-11-14</date>
                 <note/>
             </started>
             <ended>
-                <date>1891-07</date>
+                <date>1891-07-01</date>
                 <note>Left post on</note>
             </ended>
             <note>Commissioned during a recess of the Senate; recommissioned on December 16, 1889,
@@ -224,7 +192,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1891-durh-01</id>
+            <id>ha-1891-durh-01</id>
             <person-id>durham-john-stephens</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -232,10 +200,6 @@
                 <date>1891-09-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1891-10-03</date>
                 <note/>
@@ -252,7 +216,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1893-smyt-01</id>
+            <id>ha-1893-smyt-01</id>
             <person-id>smythe-henry-maxwell</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -260,10 +224,6 @@
                 <date>1893-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1893-11-07</date>
                 <note/>
@@ -279,7 +239,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1897-powe-01</id>
+            <id>ha-1897-powe-01</id>
             <person-id>powell-william-frank</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -287,10 +247,6 @@
                 <date>1897-06-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1897-08-20</date>
                 <note/>
@@ -306,7 +262,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1905-furn-01</id>
+            <id>ha-1905-furn-01</id>
             <person-id>furniss-henry-watson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -314,10 +270,6 @@
                 <date>1905-11-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1905-12-30</date>
                 <note/>
@@ -334,7 +286,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1913-smit-01</id>
+            <id>ha-1913-smit-01</id>
             <person-id>smith-madison-roswell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -342,10 +294,6 @@
                 <date>1913-08-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1913-09-30</date>
                 <note/>
@@ -361,7 +309,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1914-bail-01</id>
+            <id>ha-1914-bail-01</id>
             <person-id>bailly-blanchard-arthur</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -369,10 +317,6 @@
                 <date>1914-05-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1915-11-15</date>
                 <note/>
@@ -388,7 +332,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1922-dunn-01</id>
+            <id>ha--dunn-01</id>
             <person-id>dunn-james-clement</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -396,16 +340,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1922-04</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1922-04-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1924-02</date>
+                <date>1924-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -415,7 +359,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1924-merr-01</id>
+            <id>ha--merr-01</id>
             <person-id>merrell-george-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -423,16 +367,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1924-03</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1924-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1926-10</date>
+                <date>1926-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -442,7 +386,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1926-gros-01</id>
+            <id>ha--gros-01</id>
             <person-id>gross-christian</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -450,16 +394,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1926-10</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1926-10-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1927-11</date>
+                <date>1927-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -469,7 +413,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1928-grum-01</id>
+            <id>ha--grum-01</id>
             <person-id>grummon-stuart-edgar</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -477,16 +421,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1928-12</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1928-12-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1930-11</date>
+                <date>1930-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -496,7 +440,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1930-munr-01</id>
+            <id>ha-1930-munr-01</id>
             <person-id>munro-dana-gardner</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -504,10 +448,6 @@
                 <date>1930-06-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-11-16</date>
                 <note/>
@@ -523,7 +463,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1932-armo-01</id>
+            <id>ha-1932-armo-01</id>
             <person-id>armour-norman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -531,10 +471,6 @@
                 <date>1932-07-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1932-11-07</date>
                 <note/>
@@ -552,7 +488,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1933-armo-01</id>
+            <id>ha-1933-armo-01</id>
             <person-id>armour-norman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -560,10 +496,6 @@
                 <date>1933-03-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-04-11</date>
                 <note/>
@@ -579,7 +511,7 @@
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1935-gord-01</id>
+            <id>ha-1935-gord-01</id>
             <person-id>gordon-george-anderson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -587,10 +519,6 @@
                 <date>1935-06-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1935-09-06</date>
                 <note/>
@@ -606,7 +534,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1937-maye-01</id>
+            <id>ha-1937-maye-01</id>
             <person-id>mayer-ferdinand-lathrop</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -614,10 +542,6 @@
                 <date>1937-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-11-18</date>
                 <note/>
@@ -633,7 +557,7 @@
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1940-whit-01</id>
+            <id>ha-1940-whit-01</id>
             <person-id>white-john-campbell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -641,10 +565,6 @@
                 <date>1940-11-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1941-03-14</date>
                 <note/>
@@ -660,7 +580,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1943-whit-01</id>
+            <id>ha-1943-whit-01</id>
             <person-id>white-john-campbell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -668,10 +588,6 @@
                 <date>1943-03-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1943-04-14</date>
                 <note/>
@@ -687,7 +603,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1944-wils-01</id>
+            <id>ha-1944-wils-01</id>
             <person-id>wilson-orme</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -695,10 +611,6 @@
                 <date>1944-03-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1944-06-02</date>
                 <note/>
@@ -714,7 +626,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1946-titt-01</id>
+            <id>ha-1946-titt-01</id>
             <person-id>tittmann-harold-hilgard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -722,10 +634,6 @@
                 <date>1946-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1946-09-20</date>
                 <note/>
@@ -741,7 +649,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1948-deco-01</id>
+            <id>ha-1948-deco-01</id>
             <person-id>decourcy-william-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -749,10 +657,6 @@
                 <date>1948-06-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1948-10-13</date>
                 <note/>
@@ -768,7 +672,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1951-trav-01</id>
+            <id>ha-1951-trav-01</id>
             <person-id>travers-howard-karl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -776,10 +680,6 @@
                 <date>1951-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1951-10-30</date>
                 <note/>
@@ -795,7 +695,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1953-davi-01</id>
+            <id>ha-1953-davi-01</id>
             <person-id>davis-roy-tasco</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -803,10 +703,6 @@
                 <date>1953-07-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-09-23</date>
                 <note/>
@@ -822,7 +718,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1957-drew-01</id>
+            <id>ha-1957-drew-01</id>
             <person-id>drew-gerald-augustin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -830,10 +726,6 @@
                 <date>1957-04-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-05-15</date>
                 <note/>
@@ -849,7 +741,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1960-newb-01</id>
+            <id>ha-1960-newb-01</id>
             <person-id>newbegin-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -857,10 +749,6 @@
                 <date>1960-08-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-11-04</date>
                 <note/>
@@ -876,7 +764,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1961-thur-01</id>
+            <id>ha-1961-thur-01</id>
             <person-id>thurston-raymond-leroy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -884,10 +772,6 @@
                 <date>1961-12-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1962-01-04</date>
                 <note/>
@@ -906,7 +790,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1963-timm-01</id>
+            <id>ha-1963-timm-01</id>
             <person-id>timmons-benson-ellison-lane</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -914,10 +798,6 @@
                 <date>1963-11-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-01-16</date>
                 <note/>
@@ -933,7 +813,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1967-ross-01</id>
+            <id>ha-1967-ross-01</id>
             <person-id>ross-claude-george-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -941,10 +821,6 @@
                 <date>1967-04-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-06-20</date>
                 <note/>
@@ -960,7 +836,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1969-knox-01</id>
+            <id>ha-1969-knox-01</id>
             <person-id>knox-clinton-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -968,10 +844,6 @@
                 <date>1969-10-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-11-13</date>
                 <note/>
@@ -987,7 +859,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1973-isha-01</id>
+            <id>ha-1973-isha-01</id>
             <person-id>isham-heyward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -995,10 +867,6 @@
                 <date>1973-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-01-31</date>
                 <note/>
@@ -1014,7 +882,7 @@
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1977-jone-01</id>
+            <id>ha-1977-jone-01</id>
             <person-id>jones-william-bowdoin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1022,10 +890,6 @@
                 <date>1977-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-08-12</date>
                 <note/>
@@ -1041,7 +905,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1980-kime-01</id>
+            <id>ha-1980-kime-01</id>
             <person-id>kimelman-henry-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1049,10 +913,6 @@
                 <date>1980-08-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-10-16</date>
                 <note/>
@@ -1068,7 +928,7 @@
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1981-pree-01</id>
+            <id>ha-1981-pree-01</id>
             <person-id>preeg-ernest-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1076,10 +936,6 @@
                 <date>1981-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-07-28</date>
                 <note/>
@@ -1095,7 +951,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1983-mcma-01</id>
+            <id>ha-1983-mcma-01</id>
             <person-id>mcmanaway-clayton-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1103,10 +959,6 @@
                 <date>1983-11-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-01-10</date>
                 <note/>
@@ -1122,7 +974,7 @@
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1986-mcki-01</id>
+            <id>ha-1986-mcki-01</id>
             <person-id>mckinley-brunson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1130,10 +982,6 @@
                 <date>1986-09-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-10-09</date>
                 <note/>
@@ -1149,7 +997,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1989-adam-01</id>
+            <id>ha-1989-adam-01</id>
             <person-id>adams-alvin-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1157,10 +1005,6 @@
                 <date>1989-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-12-08</date>
                 <note/>
@@ -1176,7 +1020,7 @@
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1993-swin-01</id>
+            <id>ha-1993-swin-01</id>
             <person-id>swing-william-lacy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1184,10 +1028,6 @@
                 <date>1993-10-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-10-13</date>
                 <note/>
@@ -1203,7 +1043,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1997-carn-01</id>
+            <id>ha-1997-carn-01</id>
             <person-id>carney-timothy-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1211,10 +1051,6 @@
                 <date>1997-11-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-01-14</date>
                 <note/>
@@ -1230,7 +1066,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>ht-2000-curr-01</id>
+            <id>ha-2000-curr-01</id>
             <person-id>curran-brian-dean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1238,10 +1074,6 @@
                 <date>2000-12-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-01-12</date>
                 <note/>
@@ -1257,7 +1089,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-2003-fole-01</id>
+            <id>ha-2003-fole-01</id>
             <person-id>foley-james-brendan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1265,10 +1097,6 @@
                 <date>2003-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-09-18</date>
                 <note/>
@@ -1284,7 +1112,7 @@
             <last-modified-date>2013-09-26</last-modified-date>
         </chief>
         <chief>
-            <id>ht-2006-sand-01</id>
+            <id>ha-2006-sand-01</id>
             <person-id>sanderson-janet-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1292,10 +1120,6 @@
                 <date>2006-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-03-17</date>
                 <note/>
@@ -1311,7 +1135,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>ht-2009-mert-01</id>
+            <id>ha-2009-mert-01</id>
             <person-id>merten-kenneth-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1319,10 +1143,6 @@
                 <date>2009-07-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-08-25</date>
                 <note/>
@@ -1338,7 +1158,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>ht-2012-whit-01</id>
+            <id>ha-2012-whit-01</id>
             <person-id>white-pamela-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1346,10 +1166,6 @@
                 <date>2012-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-08-03</date>
                 <note/>
@@ -1365,7 +1181,7 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>ht-2015-mulr-01</id>
+            <id>ha-2015-mulr-01</id>
             <person-id>mulrean-peter-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1373,10 +1189,6 @@
                 <date>2015-08-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-10-06</date>
                 <note/>
@@ -1392,7 +1204,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>ht-2018-siso-01</id>
+            <id>ha-2018-siso-01</id>
             <person-id>sison-michele-jeanne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1400,14 +1212,14 @@
                 <date>2018-01-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-02-16</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-02-21</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-02-16</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -1421,7 +1233,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ht--loom-01</id>
+            <id>ha--loom-01</id>
             <person-id>loomis-cyrus-o</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1429,10 +1241,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1448,7 +1256,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ht-1885-will-01</id>
+            <id>ha-1885-will-01</id>
             <person-id>williams-george-washington</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>haiti</contemporary-territory-id>
@@ -1456,10 +1264,6 @@
                 <date>1885-03-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1475,8 +1279,4 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>korn-david-adolph</id>
-    <old-ids>
-        <old-id>korn-david-a</old-id>
-    </old-ids>
     <persName>
         <surname>Korn</surname>
         <forename>David Adolph</forename>
     </persName>
     <birth>1930</birth>
-    <death type=""/>
+    <death/>
     <career-type>career</career-type>
     <residence>
         <state-id>dc</state-id>

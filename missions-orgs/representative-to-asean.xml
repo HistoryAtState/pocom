@@ -3,15 +3,12 @@
     <id>representative-to-asean</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the Association of Southeast Asian Nations
-            (Jakarta)</singular>
-        <plural>Representatives of the U.S.A. to the Association of Southeast Asian Nations
-            (Jakarta)</plural>
+        <singular>Representative of the U.S.A. to the Association of Southeast Asian Nations (Jakarta)</singular>
+        <plural>Representatives of the U.S.A. to the Association of Southeast Asian Nations (Jakarta)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. to the Association
-                of Southeast Asian Nations, with the rank of Ambassador.</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. to the Association of Southeast Asian Nations, with the rank of Ambassador.</p>
         </div>
     </description>
     <chiefs>
@@ -23,10 +20,6 @@
                 <date>2008-05-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -35,8 +28,7 @@
                 <date>2010-09-21</date>
                 <note/>
             </ended>
-            <note>Non-resident; served as Deputy Assistant Secretary of State for East Asian and
-                Pacific Affairs at the same time.</note>
+            <note>Non-resident; served as Deputy Assistant Secretary of State for East Asian and Pacific Affairs at the same time.</note>
             <created-by>marrsaw</created-by>
             <created-date>2016-10-25</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -50,10 +42,6 @@
                 <date>2011-03-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-04-26</date>
                 <note/>
@@ -62,6 +50,7 @@
                 <date>2013-12-11</date>
                 <note/>
             </ended>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2014-07-24</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -75,10 +64,6 @@
                 <date>2014-09-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-11-03</date>
                 <note/>
@@ -87,6 +72,7 @@
                 <date>2017-01-20</date>
                 <note/>
             </ended>
+            <note/>
             <created-by>marrsaw</created-by>
             <created-date>2015-05-05</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -101,26 +87,68 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
                 <date>2019-06-20</date>
                 <note/>
             </ended>
+            <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-06-24</last-modified-date>
         </chief>
     </chiefs>
-    <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
+    <other-appointees>
+        <chief>
+            <id>asea--lind-01</id>
+            <person-id>linder-john</person-id>
+            <role-title-id>representative-to-asean</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of March 11, 2019 returned to the president on January 3, 2020.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+        <chief>
+            <id>asea--regu-01</id>
+            <person-id>regua-eldon-p</person-id>
+            <role-title-id>representative-to-asean</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of December 2, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+    </other-appointees>
 </org-mission>

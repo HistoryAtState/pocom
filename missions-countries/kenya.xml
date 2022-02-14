@@ -3,7 +3,7 @@
     <territory-id>kenya</territory-id>
     <chiefs>
         <chief>
-            <id>ke-1963-vass-01</id>
+            <id>ke--vass-01</id>
             <person-id>vass-laurence-coolidge</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1963-12-12</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -38,10 +38,6 @@
                 <date>1964-02-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-03-02</date>
                 <note/>
@@ -66,10 +62,6 @@
                 <date>1966-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-11-04</date>
                 <note/>
@@ -93,10 +85,6 @@
                 <date>1969-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-09-30</date>
                 <note/>
@@ -120,10 +108,6 @@
                 <date>1973-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-01-22</date>
                 <note/>
@@ -147,10 +131,6 @@
                 <date>1977-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-08-10</date>
                 <note/>
@@ -174,10 +154,6 @@
                 <date>1980-05-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-07-10</date>
                 <note/>
@@ -201,10 +177,6 @@
                 <date>1983-10-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-11-09</date>
                 <note/>
@@ -228,10 +200,6 @@
                 <date>1986-10-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-12-11</date>
                 <note/>
@@ -255,10 +223,6 @@
                 <date>1989-11-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-12-07</date>
                 <note/>
@@ -282,10 +246,6 @@
                 <date>1993-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-09-21</date>
                 <note/>
@@ -309,10 +269,6 @@
                 <date>1996-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-09-02</date>
                 <note/>
@@ -336,10 +292,6 @@
                 <date>1999-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-09-23</date>
                 <note/>
@@ -363,10 +315,6 @@
                 <date>2003-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-09-09</date>
                 <note/>
@@ -390,10 +338,6 @@
                 <date>2006-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-08-23</date>
                 <note/>
@@ -417,10 +361,6 @@
                 <date>2011-04-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-05-18</date>
                 <note/>
@@ -444,10 +384,6 @@
                 <date>2013-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-02-15</date>
                 <note/>
@@ -471,28 +407,24 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-02-17</date>
-                <norte/>
-            </arrived>
             <started>
                 <date>2019-03-12</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-02-17</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

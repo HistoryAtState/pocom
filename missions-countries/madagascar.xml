@@ -3,7 +3,7 @@
     <territory-id>madagascar</territory-id>
     <chiefs>
         <chief>
-            <id>mg-1960-jaco-01</id>
+            <id>ma--jaco-01</id>
             <person-id>jacobs-john-roland</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1960-06-26</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1960-bart-01</id>
+            <id>ma-1960-bart-01</id>
             <person-id>bartlett-frederic-pearson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1960-08-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-10-05</date>
                 <note/>
@@ -57,7 +53,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1962-ferg-01</id>
+            <id>ma-1962-ferg-01</id>
             <person-id>ferguson-charles-vaughan-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -65,10 +61,6 @@
                 <date>1962-12-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-01-15</date>
                 <note/>
@@ -85,7 +77,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1967-king-01</id>
+            <id>ma-1967-king-01</id>
             <person-id>king-david-sjodahl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -93,10 +85,6 @@
                 <date>1967-01-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-04-21</date>
                 <note/>
@@ -112,7 +100,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1969-mars-01</id>
+            <id>ma-1969-mars-01</id>
             <person-id>marshall-anthony-dryden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -120,10 +108,6 @@
                 <date>1969-12-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1970-01-06</date>
                 <note/>
@@ -140,7 +124,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1972-mend-01</id>
+            <id>ma-1972-mend-01</id>
             <person-id>mendenhall-joseph-abraham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -148,10 +132,6 @@
                 <date>1972-09-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-11-15</date>
                 <note/>
@@ -167,7 +147,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1975-shei-01</id>
+            <id>ma--shei-01</id>
             <person-id>sheinbaum-gilbert-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -175,16 +155,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1975-11</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1975-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1977-03</date>
+                <date>1977-03-01</date>
                 <note/>
             </ended>
             <note/>
@@ -194,7 +174,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1977-barr-01</id>
+            <id>ma--barr-01</id>
             <person-id>barrett-robert-south</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -202,16 +182,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1977-03</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1977-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1980-06</date>
+                <date>1980-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -221,7 +201,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1980-rond-01</id>
+            <id>ma-1980-rond-01</id>
             <person-id>rondon-fernando-enrique</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -229,10 +209,6 @@
                 <date>1980-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-11-10</date>
                 <note/>
@@ -248,7 +224,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1983-keat-01</id>
+            <id>ma-1983-keat-01</id>
             <person-id>keating-robert-brendon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -256,10 +232,6 @@
                 <date>1983-07-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-08-11</date>
                 <note/>
@@ -275,7 +247,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1986-lync-01</id>
+            <id>ma-1986-lync-01</id>
             <person-id>lynch-patricia-gates</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -283,10 +255,6 @@
                 <date>1986-06-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1986-08-06</date>
                 <note/>
@@ -302,7 +270,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1989-walk-01</id>
+            <id>ma-1989-walk-01</id>
             <person-id>walker-howard-kent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -310,10 +278,6 @@
                 <date>1989-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-09-27</date>
                 <note/>
@@ -329,7 +293,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1992-barr-01</id>
+            <id>ma-1992-barr-01</id>
             <person-id>barrett-dennis-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -337,10 +301,6 @@
                 <date>1992-06-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-12-03</date>
                 <note/>
@@ -356,7 +316,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1995-hudd-01</id>
+            <id>ma-1995-hudd-01</id>
             <person-id>huddleston-vicki-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -364,10 +324,6 @@
                 <date>1995-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-12-12</date>
                 <note/>
@@ -383,7 +339,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1996-perl-01</id>
+            <id>ma--perl-01</id>
             <person-id>perlow-howard-t</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -391,16 +347,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1997-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1997-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1998-08</date>
+                <date>1998-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -410,7 +366,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>mg-1998-barn-01</id>
+            <id>ma-1998-barn-01</id>
             <person-id>barnes-shirley-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -418,10 +374,6 @@
                 <date>1998-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-08-30</date>
                 <note/>
@@ -437,7 +389,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mg-2001-nesb-01</id>
+            <id>ma-2001-nesb-01</id>
             <person-id>nesbitt-wanda-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -445,10 +397,6 @@
                 <date>2001-11-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-01-28</date>
                 <note/>
@@ -464,7 +412,7 @@
             <last-modified-date>2015-08-10</last-modified-date>
         </chief>
         <chief>
-            <id>mg-2004-mcge-01</id>
+            <id>ma-2004-mcge-01</id>
             <person-id>mcgee-james-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -472,10 +420,6 @@
                 <date>2004-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-10-29</date>
                 <note/>
@@ -491,7 +435,7 @@
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
         <chief>
-            <id>mg-2007-marq-01</id>
+            <id>ma-2007-marq-01</id>
             <person-id>marquardt-r-niels</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -499,10 +443,6 @@
                 <date>2007-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-09-13</date>
                 <note/>
@@ -518,7 +458,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>mg-2010-stro-01</id>
+            <id>ma--stro-01</id>
             <person-id>stromayer-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -526,16 +466,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2010-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2010-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2011-07</date>
+                <date>2011-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -545,7 +485,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>mg-2011-wong-01</id>
+            <id>ma--wong-01</id>
             <person-id>wong-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -553,16 +493,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2011-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2011-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2014-08</date>
+                <date>2014-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -572,7 +512,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>mg-2013-yama-01</id>
+            <id>ma-2014-yama-01</id>
             <person-id>yamate-robert-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -580,10 +520,6 @@
                 <date>2014-11-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-01-14</date>
                 <note/>
@@ -599,7 +535,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>mg-2019-pell-01</id>
+            <id>ma-2019-pell-01</id>
             <person-id>pelletier-michael-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -607,14 +543,14 @@
                 <date>2019-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-02-14</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-03-05</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-02-14</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -627,8 +563,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

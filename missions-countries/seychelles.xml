@@ -3,7 +3,7 @@
     <territory-id>seychelles</territory-id>
     <chiefs>
         <chief>
-            <id>sc-1976-mars-01</id>
+            <id>se-1976-mars-01</id>
             <person-id>marshall-anthony-dryden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1976-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-07-01</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1977-leme-01</id>
+            <id>se-1977-leme-01</id>
             <person-id>lemelle-wilbert-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1977-06-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-07-19</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1980-harr-01</id>
+            <id>se-1980-harr-01</id>
             <person-id>harrop-william-caldwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -65,10 +57,6 @@
                 <date>1980-05-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-08-26</date>
                 <note/>
@@ -84,7 +72,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1982-fisc-01</id>
+            <id>se-1982-fisc-01</id>
             <person-id>fischer-david-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -92,10 +80,6 @@
                 <date>1982-09-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-11-02</date>
                 <note/>
@@ -111,7 +95,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1985-hick-01</id>
+            <id>se-1985-hick-01</id>
             <person-id>hicks-irvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -119,10 +103,6 @@
                 <date>1985-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-08-23</date>
                 <note/>
@@ -138,7 +118,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1987-mora-01</id>
+            <id>se-1987-mora-01</id>
             <person-id>moran-james-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -146,10 +126,6 @@
                 <date>1987-11-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-12-15</date>
                 <note/>
@@ -165,7 +141,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1991-carl-01</id>
+            <id>se-1991-carl-01</id>
             <person-id>carlson-richard-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -173,10 +149,6 @@
                 <date>1991-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1991-10-01</date>
                 <note/>
@@ -192,7 +164,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1992-matt-01</id>
+            <id>se-1992-matt-01</id>
             <person-id>mattingly-mack-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -200,10 +172,6 @@
                 <date>1992-08-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-09-22</date>
                 <note/>
@@ -219,7 +187,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1993-malo-01</id>
+            <id>se--malo-01</id>
             <person-id>malott-f-stephen</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -227,16 +195,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1993-03</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1993-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1994-09</date>
+                <date>1994-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -246,7 +214,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1994-stok-01</id>
+            <id>se-1994-stok-01</id>
             <person-id>stokes-carl-burton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -254,10 +222,6 @@
                 <date>1994-08-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-09-07</date>
                 <note/>
@@ -273,7 +237,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1995-blas-01</id>
+            <id>se--blas-01</id>
             <person-id>blaschke-brent-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -281,16 +245,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1995-05</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1995-05-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1996-08</date>
+                <date>1996-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -300,7 +264,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1996-geis-01</id>
+            <id>se-1996-geis-01</id>
             <person-id>geisel-harold-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -308,10 +272,6 @@
                 <date>1996-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-08-29</date>
                 <note/>
@@ -327,7 +287,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-1999-erwi-01</id>
+            <id>se-1999-erwi-01</id>
             <person-id>erwin-mark-wylea</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -335,10 +295,6 @@
                 <date>1999-07-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-11-28</date>
                 <note/>
@@ -354,7 +310,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-2002-pric-01</id>
+            <id>se-2002-pric-01</id>
             <person-id>price-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -362,10 +318,6 @@
                 <date>2002-01-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-09-30</date>
                 <note/>
@@ -381,7 +333,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-2005-schw-01</id>
+            <id>se--schw-01</id>
             <person-id>schwartz-stephen-michael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -389,16 +341,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2005-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2005-06-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2006-10</date>
+                <date>2006-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -408,7 +360,7 @@
             <last-modified-date>2016-08-31</last-modified-date>
         </chief>
         <chief>
-            <id>sc-2006-cabr-01</id>
+            <id>se-2006-cabr-01</id>
             <person-id>cabrera-cesar-benito</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -416,10 +368,6 @@
                 <date>2006-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-11-21</date>
                 <note/>
@@ -435,7 +383,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-2009-will-01</id>
+            <id>se-2009-will-01</id>
             <person-id>wills-mary-jo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -443,10 +391,6 @@
                 <date>2009-12-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-03-02</date>
                 <note/>
@@ -462,7 +406,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>sc-2011-fitr-01</id>
+            <id>se--fitr-01</id>
             <person-id>fitrell-troy-damian</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -470,16 +414,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2011-02</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2011-02-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2012-11</date>
+                <date>2012-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -489,7 +433,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>sc-2012-vill-01</id>
+            <id>se-2012-vill-01</id>
             <person-id>villarosa-sharon-english-woods</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -497,10 +441,6 @@
                 <date>2012-09-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-11-15</date>
                 <note/>
@@ -516,7 +456,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>sc-2016-zimm-01</id>
+            <id>se--zimm-01</id>
             <person-id>zimmerman-melanie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -524,14 +464,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2016-08-31</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2018-01-10</date>
                 <note/>
@@ -543,7 +483,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>sc-2017-reim-01</id>
+            <id>se-2017-reim-01</id>
             <person-id>reimer-david-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>seychelles</contemporary-territory-id>
@@ -551,28 +491,24 @@
                 <date>2017-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-01-10</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-02-06</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-01-10</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

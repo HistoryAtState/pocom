@@ -3,7 +3,7 @@
     <territory-id>slovakia</territory-id>
     <chiefs>
         <chief>
-            <id>sk-1993-hack-01</id>
+            <id>sl--hack-01</id>
             <person-id>hacker-paul</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1993-01-04</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1993-07-07</date>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>sk-1993-russ-01</id>
+            <id>sl-1993-russ-01</id>
             <person-id>russell-theodore-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1993-11-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-12-16</date>
                 <note/>
@@ -57,7 +53,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>sk-1996-john-01</id>
+            <id>sl-1996-john-01</id>
             <person-id>johnson-ralph-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -65,10 +61,6 @@
                 <date>1996-01-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-04-04</date>
                 <note/>
@@ -84,7 +76,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sk-2000-spie-01</id>
+            <id>sl-2000-spie-01</id>
             <person-id>spielvogel-carl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -92,10 +84,6 @@
                 <date>2000-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-09-07</date>
                 <note/>
@@ -111,7 +99,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>sk-2001-weis-01</id>
+            <id>sl-2001-weis-01</id>
             <person-id>weiser-ronald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -119,10 +107,6 @@
                 <date>2001-11-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-12-05</date>
                 <note/>
@@ -138,7 +122,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sk-2005-vall-01</id>
+            <id>sl-2005-vall-01</id>
             <person-id>vallee-rodolphe-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -146,10 +130,6 @@
                 <date>2005-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-08-23</date>
                 <note/>
@@ -165,7 +145,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sk-2007-obsi-01</id>
+            <id>sl-2007-obsi-01</id>
             <person-id>obsitnik-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -173,10 +153,6 @@
                 <date>2007-10-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-12-12</date>
                 <note/>
@@ -192,7 +168,7 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
-            <id>sk-2010-sedg-01</id>
+            <id>sl-2010-sedg-01</id>
             <person-id>sedgwick-theodore</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -200,10 +176,6 @@
                 <date>2010-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-08-18</date>
                 <note/>
@@ -219,7 +191,7 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
         <chief>
-            <id>sk-2016-ster-01</id>
+            <id>sl-2016-ster-01</id>
             <person-id>sterling-adam-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -227,14 +199,14 @@
                 <date>2016-05-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2016-08-24</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-09-06</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2016-08-24</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2019-08-07</date>
                 <note/>
@@ -246,7 +218,7 @@
             <last-modified-date>2019-08-07</last-modified-date>
         </chief>
         <chief>
-            <id>sk-2019-brin-01</id>
+            <id>sl-2019-brin-01</id>
             <person-id>brink-bridget-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovakia</contemporary-territory-id>
@@ -254,14 +226,14 @@
                 <date>2019-05-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-08-15</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-08-15</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -274,8 +246,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

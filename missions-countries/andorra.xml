@@ -3,7 +3,7 @@
     <territory-id>andorra</territory-id>
     <chiefs>
         <chief>
-            <id>ad-1998-rome-01</id>
+            <id>an-1998-rome-01</id>
             <person-id>romero-edward-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1998-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-10-30</date>
                 <note/>
@@ -32,7 +28,7 @@
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
         <chief>
-            <id>ad-2001-argy-01</id>
+            <id>an-2001-argy-01</id>
             <person-id>argyros-george-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -40,10 +36,6 @@
                 <date>2001-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-05-13</date>
                 <note/>
@@ -61,7 +53,7 @@
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
         <chief>
-            <id>ad-2005-agui-01</id>
+            <id>an-2005-agui-01</id>
             <person-id>aguirre-eduardo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -69,10 +61,6 @@
                 <date>2005-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-10-10</date>
                 <note/>
@@ -90,7 +78,7 @@
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
         <chief>
-            <id>ad-2009-solo-01</id>
+            <id>an-2009-solo-01</id>
             <person-id>solomont-alan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -98,10 +86,6 @@
                 <date>2009-12-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-06-10</date>
                 <note/>
@@ -119,7 +103,7 @@
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
         <chief>
-            <id>ad-2013-cost-01</id>
+            <id>an-2013-cost-01</id>
             <person-id>costos-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -127,10 +111,6 @@
                 <date>2013-08-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-04-04</date>
                 <note/>
@@ -148,7 +128,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>ad-2017-buch-01</id>
+            <id>an-2017-buch-01</id>
             <person-id>buchan-richard-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -156,28 +136,24 @@
                 <date>2017-11-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-12-17</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-04-03</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-12-17</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note>Departed Madrid on</note>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-16</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-16</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2015-06-10</last-modified-date>
 </country-mission>

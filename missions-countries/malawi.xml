@@ -3,7 +3,7 @@
     <territory-id>malawi</territory-id>
     <chiefs>
         <chief>
-            <id>mw-1964-holm-01</id>
+            <id>ma--holm-01</id>
             <person-id>holmes-edward-warren</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1964-07-06</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1964-gils-01</id>
+            <id>ma-1964-gils-01</id>
             <person-id>gilstrap-samuel-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1964-07-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-07-08</date>
                 <note/>
@@ -57,7 +53,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1965-jone-01</id>
+            <id>ma-1965-jone-01</id>
             <person-id>jones-marshall-paul</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -65,10 +61,6 @@
                 <date>1965-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-01-13</date>
                 <note/>
@@ -86,7 +78,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1970-burd-01</id>
+            <id>ma-1970-burd-01</id>
             <person-id>burdett-william-carter-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -94,10 +86,6 @@
                 <date>1970-04-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1970-05-13</date>
                 <note/>
@@ -113,7 +101,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1974-stev-01</id>
+            <id>ma-1974-stev-01</id>
             <person-id>stevenson-robert-ayer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -121,10 +109,6 @@
                 <date>1974-06-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-08-15</date>
                 <note/>
@@ -140,7 +124,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1978-hora-01</id>
+            <id>ma-1978-hora-01</id>
             <person-id>horan-harold-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -148,10 +132,6 @@
                 <date>1978-08-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1979-01-24</date>
                 <note/>
@@ -167,7 +147,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1980-maxi-01</id>
+            <id>ma--maxi-01</id>
             <person-id>maxim-robert-morgan</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -175,16 +155,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1980-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1980-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1981-08</date>
+                <date>1981-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -194,7 +174,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1981-burr-01</id>
+            <id>ma-1981-burr-01</id>
             <person-id>burroughs-john-andrew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -202,10 +182,6 @@
                 <date>1981-05-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-08-17</date>
                 <note/>
@@ -221,7 +197,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1984-adam-01</id>
+            <id>ma-1984-adam-01</id>
             <person-id>adams-weston</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -229,10 +205,6 @@
                 <date>1984-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-08-17</date>
                 <note/>
@@ -248,7 +220,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1986-jett-01</id>
+            <id>ma--jett-01</id>
             <person-id>jett-dennis-coleman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -256,16 +228,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1986-08</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1986-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1988-05</date>
+                <date>1988-05-01</date>
                 <note/>
             </ended>
             <note/>
@@ -275,7 +247,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1988-trai-01</id>
+            <id>ma-1988-trai-01</id>
             <person-id>trail-george-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -283,10 +255,6 @@
                 <date>1988-04-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-05-13</date>
                 <note/>
@@ -302,7 +270,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1991-pist-01</id>
+            <id>ma-1991-pist-01</id>
             <person-id>pistor-michael-t-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -310,10 +278,6 @@
                 <date>1991-03-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1991-07-01</date>
                 <note/>
@@ -329,7 +293,7 @@
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1994-chav-01</id>
+            <id>ma-1994-chav-01</id>
             <person-id>chaveas-peter-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -337,10 +301,6 @@
                 <date>1994-05-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-09-12</date>
                 <note/>
@@ -356,7 +316,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mw-1997-ship-01</id>
+            <id>ma-1997-ship-01</id>
             <person-id>shippy-amelia-ellen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -364,10 +324,6 @@
                 <date>1997-11-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-02-02</date>
                 <note/>
@@ -383,7 +339,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mw-2000-meec-01</id>
+            <id>ma-2000-meec-01</id>
             <person-id>meece-roger-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -391,10 +347,6 @@
                 <date>2000-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-11-07</date>
                 <note/>
@@ -410,7 +362,7 @@
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
         <chief>
-            <id>mw-2003-brow-01</id>
+            <id>ma-2003-brow-01</id>
             <person-id>browning-steven-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -418,10 +370,6 @@
                 <date>2003-05-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-09-19</date>
                 <note/>
@@ -437,7 +385,7 @@
             <last-modified-date>2012-04-09</last-modified-date>
         </chief>
         <chief>
-            <id>mw-2005-east-01</id>
+            <id>ma-2005-east-01</id>
             <person-id>eastham-alan-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -445,10 +393,6 @@
                 <date>2005-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-08-25</date>
                 <note/>
@@ -464,7 +408,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>mw-2008-bodd-01</id>
+            <id>ma-2008-bodd-01</id>
             <person-id>bodde-peter-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -472,10 +416,6 @@
                 <date>2008-06-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-10-28</date>
                 <note/>
@@ -491,7 +431,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>mw-2011-jack-01</id>
+            <id>ma-2011-jack-01</id>
             <person-id>jackson-jeanine-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -499,10 +439,6 @@
                 <date>2011-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-10-20</date>
                 <note/>
@@ -518,7 +454,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>mw-2014-palm-01</id>
+            <id>ma-2014-palm-01</id>
             <person-id>palmer-virginia-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -526,10 +462,6 @@
                 <date>2014-12-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-02-27</date>
                 <note/>
@@ -545,7 +477,7 @@
             <last-modified-date>2019-06-10</last-modified-date>
         </chief>
         <chief>
-            <id>mw-2019-scot-01</id>
+            <id>ma-2019-scot-01</id>
             <person-id>scott-robert-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -553,14 +485,14 @@
                 <date>2019-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-07-18</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-07-18</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -573,8 +505,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

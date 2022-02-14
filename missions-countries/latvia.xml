@@ -3,7 +3,7 @@
     <territory-id>latvia</territory-id>
     <chiefs>
         <chief>
-            <id>lv-1922-cole-01</id>
+            <id>la-1922-cole-01</id>
             <person-id>coleman-frederick-william-backus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1922-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1922-11-13</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>lv-1931-skin-01</id>
+            <id>la-1931-skin-01</id>
             <person-id>skinner-robert-peet</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1931-09-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1932-01-28</date>
                 <note/>
@@ -58,7 +50,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>lv-1933-macm-01</id>
+            <id>la-1933-macm-01</id>
             <person-id>macmurray-john-van-antwerp</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -66,10 +58,6 @@
                 <date>1933-08-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-12-13</date>
                 <note/>
@@ -86,7 +74,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>lv-1936-lane-01</id>
+            <id>la-1936-lane-01</id>
             <person-id>lane-arthur-bliss</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -94,10 +82,6 @@
                 <date>1936-01-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1936-07-02</date>
                 <note/>
@@ -113,7 +97,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>lv-1938-wile-01</id>
+            <id>la-1938-wile-01</id>
             <person-id>wiley-john-cooper</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -121,10 +105,6 @@
                 <date>1938-07-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1938-10-06</date>
                 <note/>
@@ -141,7 +121,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>lv-1940-pack-01</id>
+            <id>la--pack-01</id>
             <person-id>packer-earl-lenoir</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -149,10 +129,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -176,7 +152,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </mission-note>
         <chief>
-            <id>lv-1991-sili-01</id>
+            <id>la--sili-01</id>
             <person-id>silins-ints-m</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -184,14 +160,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1991-10-02</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -203,7 +179,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>lv-1992-sili-01</id>
+            <id>la-1992-sili-01</id>
             <person-id>silins-ints-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -211,10 +187,6 @@
                 <date>1992-03-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-04-10</date>
                 <note/>
@@ -230,7 +202,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>lv-1995-napp-01</id>
+            <id>la-1995-napp-01</id>
             <person-id>napper-larry-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -238,10 +210,6 @@
                 <date>1995-06-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-08-01</date>
                 <note/>
@@ -257,7 +225,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>lv-1998-holm-01</id>
+            <id>la-1998-holm-01</id>
             <person-id>holmes-james-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -265,10 +233,6 @@
                 <date>1998-08-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-08-27</date>
                 <note/>
@@ -284,7 +248,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>lv-2001-carl-01</id>
+            <id>la-2001-carl-01</id>
             <person-id>carlson-brian-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -292,10 +256,6 @@
                 <date>2001-11-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-12-04</date>
                 <note/>
@@ -311,7 +271,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>lv-2004-bail-01</id>
+            <id>la-2004-bail-01</id>
             <person-id>bailey-catherine-todd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -319,10 +279,6 @@
                 <date>2004-11-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-02-04</date>
                 <note/>
@@ -338,7 +294,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>lv-2007-lars-01</id>
+            <id>la-2007-lars-01</id>
             <person-id>larson-charles-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -346,10 +302,6 @@
                 <date>2007-12-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-02-12</date>
                 <note/>
@@ -365,7 +317,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>lv-2009-garb-01</id>
+            <id>la-2009-garb-01</id>
             <person-id>garber-judith-gail</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -373,10 +325,6 @@
                 <date>2009-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-08-14</date>
                 <note/>
@@ -392,7 +340,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>lv-2012-peka-01</id>
+            <id>la-2012-peka-01</id>
             <person-id>pekala-mark-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -400,10 +348,6 @@
                 <date>2012-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-09-04</date>
                 <note/>
@@ -419,7 +363,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>lv-2015-pett-01</id>
+            <id>la-2015-pett-01</id>
             <person-id>pettit-nancy-bikoff</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -427,10 +371,6 @@
                 <date>2015-06-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-09-08</date>
                 <note/>
@@ -446,7 +386,7 @@
             <last-modified-date>2019-07-19</last-modified-date>
         </chief>
         <chief>
-            <id>lv-2019-carw-01</id>
+            <id>la-2019-carw-01</id>
             <person-id>carwile-john-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -454,28 +394,28 @@
                 <date>2019-09-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-11-01</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-11-05</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-11-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
             </ended>
             <note/>
-            <created-by>DIDit.app</created-by>
+            <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-11-06</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>lv-1937-ster-01</id>
+            <id>la-1937-ster-01</id>
             <person-id>sterling-frederick-augustine</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -483,10 +423,6 @@
                 <date>1937-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -502,8 +438,4 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>san-marino</territory-id>
     <chiefs>
         <chief>
-            <id>sm-2006-spog-01</id>
+            <id>sa-2006-spog-01</id>
             <person-id>spogli-ronald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>san-marino</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>2006-11-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-03-08</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>sm-2009-thor-01</id>
+            <id>sa-2009-thor-01</id>
             <person-id>thorne-david-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>san-marino</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>2009-07-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-12-04</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>sm-2013-phil-01</id>
+            <id>sa-2013-phil-01</id>
             <person-id>phillips-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>san-marino</contemporary-territory-id>
@@ -65,10 +57,6 @@
                 <date>2013-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-02-19</date>
                 <note/>
@@ -84,7 +72,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>sm-2017-eise-01</id>
+            <id>sa-2017-eise-01</id>
             <person-id>eisenberg-lewis-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>san-marino</contemporary-territory-id>
@@ -92,14 +80,14 @@
                 <date>2017-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-10-01</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-10-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -112,8 +100,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

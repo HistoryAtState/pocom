@@ -3,22 +3,22 @@
     <territory-id>malaysia</territory-id>
     <chiefs>
         <chief>
-            <id>my-1957-wrig-01</id>
+            <id>ma--wrig-01</id>
             <person-id>wright-thomas-kenneth</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
-            <appointed subtype="see-note">
+            <appointed>
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1957-09-04</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1957-12-02</date>
                 <note>Superseded</note>
@@ -32,7 +32,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>my-1957-byin-01</id>
+            <id>ma-1957-byin-01</id>
             <person-id>byington-homer-morrison-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -40,10 +40,6 @@
                 <date>1957-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-12-02</date>
                 <note/>
@@ -60,7 +56,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>my-1961-bald-01</id>
+            <id>ma-1961-bald-01</id>
             <person-id>baldwin-charles-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -68,10 +64,6 @@
                 <date>1961-02-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-04-29</date>
                 <note/>
@@ -87,7 +79,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1964-bell-01</id>
+            <id>ma-1964-bell-01</id>
             <person-id>bell-james-dunbar</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -95,10 +87,6 @@
                 <date>1964-03-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-03-23</date>
                 <note/>
@@ -114,7 +102,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1969-lydm-01</id>
+            <id>ma-1969-lydm-01</id>
             <person-id>lydman-jack-wilson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -122,10 +110,6 @@
                 <date>1969-09-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-10-08</date>
                 <note/>
@@ -141,7 +125,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1973-unde-01</id>
+            <id>ma-1973-unde-01</id>
             <person-id>underhill-francis-trelease</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -149,10 +133,6 @@
                 <date>1973-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-02-11</date>
                 <note/>
@@ -168,7 +148,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1977-mill-01</id>
+            <id>ma-1977-mill-01</id>
             <person-id>miller-robert-hopkins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -176,10 +156,6 @@
                 <date>1977-05-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-06-08</date>
                 <note/>
@@ -195,7 +171,7 @@
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
         <chief>
-            <id>my-1980-wats-01</id>
+            <id>ma-1980-wats-01</id>
             <person-id>watson-barbara-mae</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -203,10 +179,6 @@
                 <date>1980-08-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-09-25</date>
                 <note/>
@@ -222,7 +194,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1981-palm-01</id>
+            <id>ma-1981-palm-01</id>
             <person-id>palmer-ronald-dewayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -230,10 +202,6 @@
                 <date>1981-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-06-24</date>
                 <note/>
@@ -249,7 +217,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1983-shoe-01</id>
+            <id>ma-1983-shoe-01</id>
             <person-id>shoesmith-thomas-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -257,10 +225,6 @@
                 <date>1983-11-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-12-12</date>
                 <note/>
@@ -276,7 +240,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1987-monj-01</id>
+            <id>ma-1987-monj-01</id>
             <person-id>monjo-john-cameron</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -284,10 +248,6 @@
                 <date>1987-04-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-06-10</date>
                 <note/>
@@ -303,7 +263,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1989-clev-01</id>
+            <id>ma-1989-clev-01</id>
             <person-id>cleveland-paul-matthews</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -311,10 +271,6 @@
                 <date>1989-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-11-08</date>
                 <note/>
@@ -330,7 +286,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1992-wolf-01</id>
+            <id>ma-1992-wolf-01</id>
             <person-id>wolf-john-stern</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -338,10 +294,6 @@
                 <date>1992-08-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-10-07</date>
                 <note/>
@@ -357,7 +309,7 @@
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
         <chief>
-            <id>my-1995-malo-01</id>
+            <id>ma-1995-malo-01</id>
             <person-id>malott-john-raymond</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -365,10 +317,6 @@
                 <date>1995-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-01-25</date>
                 <note/>
@@ -384,7 +332,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-1998-pasc-01</id>
+            <id>ma-1998-pasc-01</id>
             <person-id>pascoe-b-lynn</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -392,10 +340,6 @@
                 <date>1998-10-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-03-01</date>
                 <note/>
@@ -411,7 +355,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-2001-huht-01</id>
+            <id>ma-2001-huht-01</id>
             <person-id>huhtala-marie-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -419,10 +363,6 @@
                 <date>2001-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-10-17</date>
                 <note/>
@@ -438,7 +378,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-2004-lafl-01</id>
+            <id>ma-2004-lafl-01</id>
             <person-id>lafleur-christopher-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -446,10 +386,6 @@
                 <date>2004-10-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-01-04</date>
                 <note/>
@@ -465,7 +401,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>my-2007-keit-01</id>
+            <id>ma-2007-keit-01</id>
             <person-id>keith-james-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -473,10 +409,6 @@
                 <date>2007-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-12-04</date>
                 <note/>
@@ -492,7 +424,7 @@
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
         <chief>
-            <id>my-2010-jone-01</id>
+            <id>ma-2010-jone-01</id>
             <person-id>jones-paul-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -500,10 +432,6 @@
                 <date>2010-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-10-18</date>
                 <note/>
@@ -519,7 +447,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>my-2013-yun-01</id>
+            <id>ma-2013-yun--01</id>
             <person-id>yun-joseph-yuosang</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -527,10 +455,6 @@
                 <date>2013-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2013-10-02</date>
                 <note/>
@@ -546,7 +470,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>my-2016-lakh-01</id>
+            <id>ma-2016-lakh-01</id>
             <person-id>lakhdhir-kamala-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -554,28 +478,51 @@
                 <date>2016-12-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-01-04</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-02-21</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-01-04</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-23</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>ma-2021-mcfe-01</id>
+            <person-id>mcfeeters-brian-d</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>malaysia</contemporary-territory-id>
+            <appointed>
+                <date>2021-01-05</date>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <arrived>
+                <date>2021-02-26</date>
+                <note/>
+            </arrived>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-01-14</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-05-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

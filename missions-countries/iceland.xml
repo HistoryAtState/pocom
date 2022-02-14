@@ -3,7 +3,7 @@
     <territory-id>iceland</territory-id>
     <chiefs>
         <chief>
-            <id>is-1941-macv-01</id>
+            <id>ic-1941-macv-01</id>
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1941-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1941-09-30</date>
                 <note/>
@@ -30,7 +26,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>is-1942-morr-01</id>
+            <id>ic-1942-morr-01</id>
             <person-id>morris-leland-burnette</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -38,10 +34,6 @@
                 <date>1942-08-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1942-10-07</date>
                 <note/>
@@ -57,7 +49,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1944-drey-01</id>
+            <id>ic-1944-drey-01</id>
             <person-id>dreyfus-louis-goethe-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -65,10 +57,6 @@
                 <date>1944-03-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1944-06-14</date>
                 <note/>
@@ -85,7 +73,7 @@
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
         <chief>
-            <id>is-1948-butr-01</id>
+            <id>ic-1948-butr-01</id>
             <person-id>butrick-richard-porter</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -93,10 +81,6 @@
                 <date>1948-02-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1948-04-29</date>
                 <note/>
@@ -112,7 +96,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1949-laws-01</id>
+            <id>ic-1949-laws-01</id>
             <person-id>lawson-edward-burnett</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -120,10 +104,6 @@
                 <date>1949-07-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1949-09-22</date>
                 <note/>
@@ -139,7 +119,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1954-mucc-01</id>
+            <id>ic-1954-mucc-01</id>
             <person-id>muccio-john-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -147,10 +127,6 @@
                 <date>1954-08-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1954-10-12</date>
                 <note/>
@@ -166,7 +142,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>is-1955-mucc-01</id>
+            <id>ic-1955-mucc-01</id>
             <person-id>muccio-john-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -174,10 +150,6 @@
                 <date>1955-10-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1955-11-03</date>
                 <note/>
@@ -194,7 +166,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>is-1960-thom-01</id>
+            <id>ic-1960-thom-01</id>
             <person-id>thompson-tyler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -202,10 +174,6 @@
                 <date>1960-01-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1960-02-19</date>
                 <note/>
@@ -221,7 +189,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1961-penf-01</id>
+            <id>ic-1961-penf-01</id>
             <person-id>penfield-james-kedzie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -229,10 +197,6 @@
                 <date>1961-04-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-05-24</date>
                 <note/>
@@ -248,7 +212,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1967-rolv-01</id>
+            <id>ic-1967-rolv-01</id>
             <person-id>rolvaag-karl-fritjof</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -256,10 +220,6 @@
                 <date>1967-04-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-05-09</date>
                 <note/>
@@ -275,7 +235,7 @@
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
         <chief>
-            <id>is-1969-repl-01</id>
+            <id>ic-1969-repl-01</id>
             <person-id>replogle-luther-irvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -283,10 +243,6 @@
                 <date>1969-07-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-09-12</date>
                 <note/>
@@ -302,7 +258,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1972-irvi-01</id>
+            <id>ic-1972-irvi-01</id>
             <person-id>irving-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -310,10 +266,6 @@
                 <date>1972-09-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1972-10-11</date>
                 <note/>
@@ -329,7 +281,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1976-blak-01</id>
+            <id>ic-1976-blak-01</id>
             <person-id>blake-james-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -337,10 +289,6 @@
                 <date>1976-07-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-09-08</date>
                 <note/>
@@ -356,7 +304,7 @@
             <last-modified-date>2013-03-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1978-eric-01</id>
+            <id>ic-1978-eric-01</id>
             <person-id>ericson-richard-august-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -364,10 +312,6 @@
                 <date>1978-10-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1978-11-21</date>
                 <note/>
@@ -383,7 +327,7 @@
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
         <chief>
-            <id>is-1981-brem-01</id>
+            <id>ic-1981-brem-01</id>
             <person-id>brement-marshall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -391,10 +335,6 @@
                 <date>1981-07-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-09-16</date>
                 <note/>
@@ -410,7 +350,7 @@
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
         <chief>
-            <id>is-1985-ruwe-01</id>
+            <id>ic-1985-ruwe-01</id>
             <person-id>ruwe-l-nicholas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -418,10 +358,6 @@
                 <date>1985-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-08-21</date>
                 <note/>
@@ -437,7 +373,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1989-cobb-01</id>
+            <id>ic-1989-cobb-01</id>
             <person-id>cobb-charles-elvan-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -445,10 +381,6 @@
                 <date>1989-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-11-08</date>
                 <note/>
@@ -464,7 +396,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1992-rogi-01</id>
+            <id>ic-1992-rogi-01</id>
             <person-id>rogich-sigmund-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -472,10 +404,6 @@
                 <date>1992-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-06-04</date>
                 <note/>
@@ -491,7 +419,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1993-borg-01</id>
+            <id>ic-1993-borg-01</id>
             <person-id>borg-parker-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -499,10 +427,6 @@
                 <date>1993-10-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-11-24</date>
                 <note/>
@@ -518,7 +442,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1996-moun-01</id>
+            <id>ic-1996-moun-01</id>
             <person-id>mount-day-olin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -526,10 +450,6 @@
                 <date>1996-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-09-03</date>
                 <note/>
@@ -545,7 +465,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-1999-grif-01</id>
+            <id>ic-1999-grif-01</id>
             <person-id>griffiths-barbara-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -553,10 +473,6 @@
                 <date>1999-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-09-29</date>
                 <note/>
@@ -572,7 +488,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>is-2002-gads-01</id>
+            <id>ic-2002-gads-01</id>
             <person-id>gadsden-james-irvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -580,10 +496,6 @@
                 <date>2002-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-12-09</date>
                 <note/>
@@ -599,7 +511,7 @@
             <last-modified-date>2014-07-03</last-modified-date>
         </chief>
         <chief>
-            <id>is-2005-van-01</id>
+            <id>ic-2005-van--01</id>
             <person-id>van-voorst-carol</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -607,10 +519,6 @@
                 <date>2005-11-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-01-26</date>
                 <note/>
@@ -626,7 +534,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>is-2009-wats-01</id>
+            <id>ic--wats-01</id>
             <person-id>watson-samuel-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -634,16 +542,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2009-08</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2009-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2010-09</date>
+                <date>2010-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -653,7 +561,7 @@
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
         <chief>
-            <id>is-2009-arre-01</id>
+            <id>ic-2009-arre-01</id>
             <person-id>arreaga-rodas-luis-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -661,10 +569,6 @@
                 <date>2009-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-09-20</date>
                 <note/>
@@ -680,7 +584,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>is-2013-ofri-01</id>
+            <id>ic--ofri-01</id>
             <person-id>ofriel-paul-christopher</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -688,16 +592,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2013-11</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2013-11-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2015-01</date>
+                <date>2015-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -707,7 +611,7 @@
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
         <chief>
-            <id>is-2015-barb-01</id>
+            <id>ic-2015-barb-01</id>
             <person-id>barber-robert-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -715,10 +619,6 @@
                 <date>2015-01-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-01-28</date>
                 <note/>
@@ -734,7 +634,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>is-2017-espo-01</id>
+            <id>ic--espo-01</id>
             <person-id>esposito-jill-m</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -742,14 +642,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-01-20</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2019-06-25</date>
                 <note/>
@@ -761,7 +661,7 @@
             <last-modified-date>2019-06-25</last-modified-date>
         </chief>
         <chief>
-            <id>is-2019-gunt-01</id>
+            <id>ic-2019-gunt-01</id>
             <person-id>gunter-jeffrey-ross</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -769,27 +669,28 @@
                 <date>2019-06-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-06-25</date>
-            </arrived>
             <started>
                 <date>2019-07-02</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-06-25</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-06-25</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-07-03</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>is-1933-owen-01</id>
+            <id>ic-1933-owen-01</id>
             <person-id>owen-ruth-bryan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -797,10 +698,6 @@
                 <date>1933-04-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -816,7 +713,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>is-2009-conn-01</id>
+            <id>ic--conn-01</id>
             <person-id>connan-robert-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -824,10 +721,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -843,8 +736,4 @@
             <last-modified-date>2016-12-08</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

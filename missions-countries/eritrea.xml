@@ -3,7 +3,7 @@
     <territory-id>eritrea</territory-id>
     <chiefs>
         <chief>
-            <id>er-1991-onei-01</id>
+            <id>er--onei-01</id>
             <person-id>oneill-joseph-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1991-06</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1991-06-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -38,10 +38,6 @@
                 <date>1993-11-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-12-31</date>
                 <note/>
@@ -65,10 +61,6 @@
                 <date>1996-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-09-29</date>
                 <note/>
@@ -92,10 +84,6 @@
                 <date>1998-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-08-20</date>
                 <note/>
@@ -119,10 +107,6 @@
                 <date>2001-07-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-10-03</date>
                 <note/>
@@ -146,10 +130,6 @@
                 <date>2004-05-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-10-21</date>
                 <note/>
@@ -173,10 +153,6 @@
                 <date>2007-10-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -192,7 +168,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>er-2010-reif-01</id>
+            <id>er--reif-01</id>
             <person-id>reifman-joel-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -200,16 +176,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2010-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2010-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2012-02</date>
+                <date>2012-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -219,7 +195,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>er-2012-brem-01</id>
+            <id>er--brem-01</id>
             <person-id>bremner-susan-lenore</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -227,16 +203,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2012-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2012-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2014-04</date>
+                <date>2014-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -246,7 +222,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>er-2014-maze-01</id>
+            <id>er--maze-01</id>
             <person-id>mazel-louis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -254,14 +230,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2014-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2014-07-01</date>
+                <note/>
+            </arrived>
             <ended>
                 <date>2016-07-27</date>
                 <note/>
@@ -273,7 +249,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>er-2016-brow-01</id>
+            <id>er--brow-01</id>
             <person-id>brown-natalie-e</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -281,14 +257,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2016-09-23</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2019-11-25</date>
                 <note/>
@@ -300,7 +276,7 @@
             <last-modified-date>2021-08-10</last-modified-date>
         </chief>
         <chief>
-            <id>er-2019-walk-01</id>
+            <id>er--walk-01</id>
             <person-id>walker-steven-c</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -308,28 +284,24 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-12-12</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-12-12</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
             </ended>
             <note/>
-            <created-by>DIDit.app</created-by>
+            <created-by>bottsjd</created-by>
             <created-date>2019-12-16</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
+            <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-16</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,22 +3,22 @@
     <territory-id>ghana</territory-id>
     <chiefs>
         <chief>
-            <id>gh-1957-lamm-01</id>
+            <id>gh--lamm-01</id>
             <person-id>lamm-donald-wakeham</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
-            <appointed subtype="see-note">
+            <appointed>
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1957-03-12</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1957-04-19</date>
                 <note>Relinquished charge</note>
@@ -31,22 +31,22 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>gh-1957-rutt-01</id>
+            <id>gh--rutt-01</id>
             <person-id>rutter-peter</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
-            <appointed subtype="see-note">
+            <appointed>
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1957-04-25</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1957-06-19</date>
                 <note>Superseded</note>
@@ -66,10 +66,6 @@
                 <date>1957-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-06-19</date>
                 <note/>
@@ -94,10 +90,6 @@
                 <date>1960-11-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-01-23</date>
                 <note/>
@@ -122,10 +114,6 @@
                 <date>1962-05-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1962-06-22</date>
                 <note/>
@@ -149,10 +137,6 @@
                 <date>1965-10-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-01-17</date>
                 <note/>
@@ -177,10 +161,6 @@
                 <date>1968-07-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1968-09-14</date>
                 <note/>
@@ -204,10 +184,6 @@
                 <date>1971-07-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1971-09-25</date>
                 <note/>
@@ -231,10 +207,6 @@
                 <date>1974-09-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-12-06</date>
                 <note/>
@@ -258,10 +230,6 @@
                 <date>1976-10-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-12-17</date>
                 <note/>
@@ -285,10 +253,6 @@
                 <date>1979-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1979-12-12</date>
                 <note/>
@@ -312,10 +276,6 @@
                 <date>1983-07-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-07-28</date>
                 <note/>
@@ -339,10 +299,6 @@
                 <date>1987-03-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-07-11</date>
                 <note/>
@@ -366,10 +322,6 @@
                 <date>1989-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-11-09</date>
                 <note/>
@@ -393,10 +345,6 @@
                 <date>1992-07-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-09-24</date>
                 <note/>
@@ -420,10 +368,6 @@
                 <date>1995-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1995-12-19</date>
                 <note/>
@@ -447,10 +391,6 @@
                 <date>1998-10-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-12-16</date>
                 <note/>
@@ -474,10 +414,6 @@
                 <date>2001-07-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-09-14</date>
                 <note/>
@@ -501,10 +437,6 @@
                 <date>2002-11-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-01-28</date>
                 <note/>
@@ -528,10 +460,6 @@
                 <date>2005-06-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2005-10-11</date>
                 <note/>
@@ -555,10 +483,6 @@
                 <date>2008-06-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2008-09-09</date>
                 <note/>
@@ -582,10 +506,6 @@
                 <date>2012-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-10-08</date>
                 <note/>
@@ -609,10 +529,6 @@
                 <date>2015-10-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-02-04</date>
                 <note/>
@@ -636,14 +552,14 @@
                 <date>2018-09-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-12-14</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-01-23</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-12-14</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -656,8 +572,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

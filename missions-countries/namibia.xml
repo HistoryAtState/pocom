@@ -3,7 +3,7 @@
     <territory-id>namibia</territory-id>
     <chiefs>
         <chief>
-            <id>na-1990-mcgu-01</id>
+            <id>na--mcgu-01</id>
             <person-id>mcguire-roger-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1990-03-21</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1990-08-30</date>
                 <note/>
@@ -38,10 +38,6 @@
                 <date>1990-08-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-08-30</date>
                 <note/>
@@ -65,10 +61,6 @@
                 <date>1993-05-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-07-07</date>
                 <note/>
@@ -92,10 +84,6 @@
                 <date>1996-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-08-21</date>
                 <note/>
@@ -119,10 +107,6 @@
                 <date>1999-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1999-10-13</date>
                 <note/>
@@ -146,10 +130,6 @@
                 <date>2001-10-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-11-21</date>
                 <note/>
@@ -173,10 +153,6 @@
                 <date>2004-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-10-27</date>
                 <note/>
@@ -200,10 +176,6 @@
                 <date>2007-10-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-11-21</date>
                 <note/>
@@ -227,10 +199,6 @@
                 <date>2010-10-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-11-24</date>
                 <note/>
@@ -254,10 +222,6 @@
                 <date>2014-09-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-11-26</date>
                 <note/>
@@ -281,14 +245,14 @@
                 <date>2017-11-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2018-02-03</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2018-02-21</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2018-02-03</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -301,8 +265,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

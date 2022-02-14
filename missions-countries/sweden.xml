@@ -3,7 +3,7 @@
     <territory-id>sweden</territory-id>
     <chiefs>
         <chief>
-            <id>se-1814-russ-01</id>
+            <id>sw-1814-russ-01</id>
             <person-id>russell-jonathan</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1814-01-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1818-04-29</date>
                 <note/>
@@ -31,7 +27,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1819-hugh-01</id>
+            <id>sw-1819-hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -39,11 +35,7 @@
                 <date>1819-01-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -61,7 +53,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1826-appl-01</id>
+            <id>sw-1826-appl-01</id>
             <person-id>appleton-john-james</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -69,14 +61,14 @@
                 <date>1826-05-02</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1826-10-28</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1830-08-16</date>
                 <note>Presented recall on</note>
@@ -88,7 +80,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1830-hugh-01</id>
+            <id>sw-1830-hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -96,14 +88,14 @@
                 <date>1830-03-03</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1830-08-16</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1841-09-22</date>
                 <note>Left post on</note>
@@ -115,7 +107,7 @@
             <last-modified-date>2013-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>se-1842-lay-01</id>
+            <id>sw-1842-lay--01</id>
             <person-id>lay-george-washington</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -123,14 +115,14 @@
                 <date>1842-05-12</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1842-10-04</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1845-10-11</date>
                 <note>Presented recall on or shortly before</note>
@@ -142,7 +134,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1845-ells-01</id>
+            <id>sw-1845-ells-01</id>
             <person-id>ellsworth-henry-william</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -150,14 +142,14 @@
                 <date>1845-04-19</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1845-10-11</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1861-01-25</date>
                 <note>Relieved by Consul</note>
@@ -171,7 +163,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1849-schr-01</id>
+            <id>sw-1849-schr-01</id>
             <person-id>schroeder-francis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -179,14 +171,14 @@
                 <date>1849-11-07</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1850-04-22</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1854-08-19</date>
                 <note>Promoted to Minister Resident</note>
@@ -200,7 +192,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1854-schr-01</id>
+            <id>sw-1854-schr-01</id>
             <person-id>schroeder-francis</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -208,10 +200,6 @@
                 <date>1854-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1854-08-19</date>
                 <note/>
@@ -227,7 +215,7 @@
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
         <chief>
-            <id>se-1857-ange-01</id>
+            <id>sw-1857-ange-01</id>
             <person-id>angel-benjamin-franklin</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -235,10 +223,6 @@
                 <date>1857-07-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1857-11-04</date>
                 <note/>
@@ -256,7 +240,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1861-hald-01</id>
+            <id>sw-1861-hald-01</id>
             <person-id>haldeman-jacob-samils</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -264,10 +248,6 @@
                 <date>1861-03-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1861-06-25</date>
                 <note/>
@@ -283,7 +263,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1864-camp-01</id>
+            <id>sw-1864-camp-01</id>
             <person-id>campbell-james-hepburn</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -291,10 +271,6 @@
                 <date>1864-05-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1864-09-24</date>
                 <note/>
@@ -310,7 +286,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1867-bart-01</id>
+            <id>sw-1867-bart-01</id>
             <person-id>bartlett-joseph-jackson</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -318,10 +294,6 @@
                 <date>1867-03-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1867-06-04</date>
                 <note/>
@@ -337,7 +309,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1869-andr-01</id>
+            <id>sw-1869-andr-01</id>
             <person-id>andrews-christopher-columbus</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -345,10 +317,6 @@
                 <date>1869-06-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-07-24</date>
                 <note/>
@@ -366,7 +334,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1877-stev-01</id>
+            <id>sw-1877-stev-01</id>
             <person-id>stevens-john-leavitt</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -374,10 +342,6 @@
                 <date>1877-08-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1877-11-05</date>
                 <note/>
@@ -395,7 +359,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1883-thom-01</id>
+            <id>sw-1883-thom-01</id>
             <person-id>thomas-william-widgery</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -403,10 +367,6 @@
                 <date>1883-06-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1883-09-06</date>
                 <note/>
@@ -424,7 +384,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1885-mage-01</id>
+            <id>sw-1885-mage-01</id>
             <person-id>magee-rufus</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -432,10 +392,6 @@
                 <date>1885-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1885-07-03</date>
                 <note/>
@@ -451,7 +407,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1888-mage-01</id>
+            <id>sw-1888-mage-01</id>
             <person-id>magee-rufus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -459,10 +415,6 @@
                 <date>1888-08-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1888-09-26</date>
                 <note/>
@@ -478,7 +430,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1889-thom-01</id>
+            <id>sw-1889-thom-01</id>
             <person-id>thomas-william-widgery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -486,10 +438,6 @@
                 <date>1889-03-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1889-05-27</date>
                 <note/>
@@ -505,7 +453,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1894-ferg-01</id>
+            <id>sw-1894-ferg-01</id>
             <person-id>ferguson-thomas-barker</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -513,10 +461,6 @@
                 <date>1894-02-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1894-05-02</date>
                 <note/>
@@ -532,7 +476,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1898-thom-01</id>
+            <id>sw-1897-thom-01</id>
             <person-id>thomas-william-widgery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -540,10 +484,6 @@
                 <date>1897-12-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1898-02-08</date>
                 <note/>
@@ -559,7 +499,7 @@
             <last-modified-date>2015-08-10</last-modified-date>
         </chief>
         <chief>
-            <id>se-1905-grav-01</id>
+            <id>sw-1905-grav-01</id>
             <person-id>graves-charles-hinman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -567,10 +507,6 @@
                 <date>1905-03-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1905-05-31</date>
                 <note/>
@@ -586,7 +522,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1914-morr-01</id>
+            <id>sw-1914-morr-01</id>
             <person-id>morris-ira-nelson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -594,10 +530,6 @@
                 <date>1914-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1914-08-28</date>
                 <note/>
@@ -613,7 +545,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1923-blis-01</id>
+            <id>sw-1923-blis-01</id>
             <person-id>bliss-robert-woods</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -621,10 +553,6 @@
                 <date>1923-01-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1923-08-08</date>
                 <note/>
@@ -640,7 +568,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1927-harr-01</id>
+            <id>sw-1927-harr-01</id>
             <person-id>harrison-leland</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -648,10 +576,6 @@
                 <date>1927-02-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1927-05-31</date>
                 <note/>
@@ -667,7 +591,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1930-more-01</id>
+            <id>sw-1930-more-01</id>
             <person-id>morehead-john-motley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -675,10 +599,6 @@
                 <date>1930-01-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1930-03-31</date>
                 <note/>
@@ -694,7 +614,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1933-stei-01</id>
+            <id>sw-1933-stei-01</id>
             <person-id>steinhardt-laurence-adolph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -702,10 +622,6 @@
                 <date>1933-05-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1933-08-28</date>
                 <note/>
@@ -721,7 +637,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1937-dear-01</id>
+            <id>sw-1937-dear-01</id>
             <person-id>dearing-fred-morris</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -729,10 +645,6 @@
                 <date>1937-04-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-09-23</date>
                 <note/>
@@ -748,7 +660,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1938-ster-01</id>
+            <id>sw-1938-ster-01</id>
             <person-id>sterling-frederick-augustine</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -756,10 +668,6 @@
                 <date>1938-06-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1938-09-26</date>
                 <note/>
@@ -775,7 +683,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1941-john-01</id>
+            <id>sw-1941-john-01</id>
             <person-id>johnson-herschel-vespasian</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -783,10 +691,6 @@
                 <date>1941-10-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1941-12-12</date>
                 <note/>
@@ -802,7 +706,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1946-drey-01</id>
+            <id>sw-1946-drey-01</id>
             <person-id>dreyfus-louis-goethe-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -810,10 +714,6 @@
                 <date>1946-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-01-03</date>
                 <note/>
@@ -829,7 +729,7 @@
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
         <chief>
-            <id>se-1947-matt-02</id>
+            <id>sw-1947-matt-01</id>
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -837,10 +737,6 @@
                 <date>1947-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-12-05</date>
                 <note/>
@@ -857,7 +753,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1950-butt-01</id>
+            <id>sw-1950-butt-01</id>
             <person-id>butterworth-william-walton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -865,10 +761,6 @@
                 <date>1950-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1950-09-18</date>
                 <note/>
@@ -884,7 +776,7 @@
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
         <chief>
-            <id>se-1954-cabo-01</id>
+            <id>sw-1954-cabo-01</id>
             <person-id>cabot-john-moors</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -892,10 +784,6 @@
                 <date>1954-03-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1954-05-06</date>
                 <note/>
@@ -911,7 +799,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1957-whit-01</id>
+            <id>sw-1957-whit-01</id>
             <person-id>white-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -919,10 +807,6 @@
                 <date>1957-06-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-09-17</date>
                 <note/>
@@ -938,7 +822,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1958-bonb-01</id>
+            <id>sw-1958-bonb-01</id>
             <person-id>bonbright-james-cowles-hart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -946,10 +830,6 @@
                 <date>1958-10-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1959-01-09</date>
                 <note/>
@@ -966,7 +846,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1961-pars-01</id>
+            <id>sw-1961-pars-01</id>
             <person-id>parsons-james-graham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -974,10 +854,6 @@
                 <date>1961-03-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-05-16</date>
                 <note/>
@@ -993,7 +869,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1967-heat-01</id>
+            <id>sw-1967-heat-01</id>
             <person-id>heath-william-womack</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1001,10 +877,6 @@
                 <date>1967-04-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1967-05-23</date>
                 <note/>
@@ -1020,7 +892,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1970-holl-01</id>
+            <id>sw-1970-holl-01</id>
             <person-id>holland-jerome-heartwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1028,10 +900,6 @@
                 <date>1970-02-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1970-04-14</date>
                 <note/>
@@ -1047,7 +915,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>se-1972-olse-01</id>
+            <id>sw--olse-01</id>
             <person-id>olsen-arthur-joseph</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1055,16 +923,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1972-12</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1972-12-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1974-05</date>
+                <date>1974-05-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1074,7 +942,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1974-stra-01</id>
+            <id>sw-1974-stra-01</id>
             <person-id>strausz-hupe-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1082,10 +950,6 @@
                 <date>1974-04-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-05-29</date>
                 <note/>
@@ -1101,7 +965,7 @@
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
         <chief>
-            <id>se-1976-smit-01</id>
+            <id>sw-1976-smit-01</id>
             <person-id>smith-david-shiverick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1109,10 +973,6 @@
                 <date>1976-04-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-05-07</date>
                 <note/>
@@ -1128,7 +988,7 @@
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
         <chief>
-            <id>se-1977-kenn-01</id>
+            <id>sw-1977-kenn-01</id>
             <person-id>kennedy-minott-rodney-ogliasain</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1136,10 +996,6 @@
                 <date>1977-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-09-29</date>
                 <note/>
@@ -1155,7 +1011,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1980-hami-01</id>
+            <id>sw--hami-01</id>
             <person-id>hamilton-william-cowles</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1163,16 +1019,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1980-09</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1980-09-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1981-10</date>
+                <date>1981-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1182,7 +1038,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1981-fors-01</id>
+            <id>sw-1981-fors-01</id>
             <person-id>forsberg-franklin-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1190,10 +1046,6 @@
                 <date>1981-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1982-01-14</date>
                 <note/>
@@ -1209,7 +1061,7 @@
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
         <chief>
-            <id>se-1985-newe-01</id>
+            <id>sw-1985-newe-01</id>
             <person-id>newell-gregory-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1217,10 +1069,6 @@
                 <date>1985-12-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-12-19</date>
                 <note/>
@@ -1236,7 +1084,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1989-redm-01</id>
+            <id>sw-1989-redm-01</id>
             <person-id>redman-charles-edgar</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1244,10 +1092,6 @@
                 <date>1989-05-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-06-13</date>
                 <note/>
@@ -1263,7 +1107,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1994-sieb-01</id>
+            <id>sw-1994-sieb-01</id>
             <person-id>siebert-thomas-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1271,10 +1115,6 @@
                 <date>1994-02-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-03-24</date>
                 <note/>
@@ -1290,7 +1130,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>se-1997-olso-01</id>
+            <id>sw-1997-olso-01</id>
             <person-id>olson-lyndon-lowell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1298,10 +1138,6 @@
                 <date>1997-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1998-01-22</date>
                 <note/>
@@ -1317,7 +1153,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-2001-heim-01</id>
+            <id>sw-2001-heim-01</id>
             <person-id>heimbold-charles-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1325,10 +1161,6 @@
                 <date>2001-08-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-09-26</date>
                 <note/>
@@ -1344,7 +1176,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-2004-bivi-01</id>
+            <id>sw-2004-bivi-01</id>
             <person-id>bivins-miles-teel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1352,10 +1184,6 @@
                 <date>2004-05-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-06-09</date>
                 <note/>
@@ -1371,7 +1199,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>se-2006-wood-01</id>
+            <id>sw-2006-wood-01</id>
             <person-id>wood-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1379,10 +1207,6 @@
                 <date>2006-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2006-06-08</date>
                 <note/>
@@ -1398,7 +1222,7 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-2009-barz-01</id>
+            <id>sw-2009-barz-01</id>
             <person-id>barzun-matthew-winthrop</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1406,10 +1230,6 @@
                 <date>2009-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-08-21</date>
                 <note/>
@@ -1425,7 +1245,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>se-2011-brze-01</id>
+            <id>sw-2011-brze-01</id>
             <person-id>brzezinski-mark-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1433,10 +1253,6 @@
                 <date>2011-10-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2011-11-24</date>
                 <note/>
@@ -1452,7 +1268,7 @@
             <last-modified-date>2016-08-25</last-modified-date>
         </chief>
         <chief>
-            <id>se-2016-raji-01</id>
+            <id>sw-2016-raji-01</id>
             <person-id>raji-azita</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1460,10 +1276,6 @@
                 <date>2016-02-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-03-15</date>
                 <note/>
@@ -1479,7 +1291,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>se-2017-lind-01</id>
+            <id>sw--lind-01</id>
             <person-id>lindwall-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1487,14 +1299,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-01-20</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2018-12-18</date>
                 <note/>
@@ -1506,7 +1318,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>se-2019-howe-01</id>
+            <id>sw-2019-howe-01</id>
             <person-id>howery-kenneth-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1514,28 +1326,28 @@
                 <date>2019-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-10-12</date>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-10-12</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
-            <created-by>DIDit.app</created-by>
+            <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
-            <last-modified-by>DIDit.app</last-modified-by>
-            <last-modified-date>2019-11-05</last-modified-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>se-1782-fran-01</id>
+            <id>sw-1782-fran-01</id>
             <person-id>franklin-benjamin</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1543,10 +1355,6 @@
                 <date>1782-09-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1563,7 +1371,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se-1825-some-01</id>
+            <id>sw-1825-some-01</id>
             <person-id>somerville-william-clark</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1571,10 +1379,6 @@
                 <date>1825-03-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1590,7 +1394,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1866-mcgi-01</id>
+            <id>sw-1866-mcgi-01</id>
             <person-id>mcginnis-john</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1598,10 +1402,6 @@
                 <date>1866-11-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1618,7 +1418,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>se--carl-01</id>
+            <id>sw--carl-01</id>
             <person-id>carlile-john-snyder</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1626,10 +1426,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1646,7 +1442,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>se-1947-matt-01</id>
+            <id>sw-1947-matt-01</id>
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1654,10 +1450,6 @@
                 <date>1947-07-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1673,7 +1465,7 @@
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
         <chief>
-            <id>se-1992-salg-01</id>
+            <id>sw--salg-01</id>
             <person-id>salgo-nicolas-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1681,10 +1473,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1700,8 +1488,4 @@
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

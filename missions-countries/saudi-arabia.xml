@@ -11,10 +11,6 @@
                 <date>1939-08-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1940-02-04</date>
                 <note/>
@@ -40,10 +36,6 @@
                 <date>1941-02-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1942-05-11</date>
                 <note/>
@@ -67,10 +59,6 @@
                 <date>1943-06-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1943-07-18</date>
                 <note/>
@@ -94,10 +82,6 @@
                 <date>1944-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1944-09-23</date>
                 <note/>
@@ -121,10 +105,6 @@
                 <date>1946-04-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1946-06-29</date>
                 <note/>
@@ -148,10 +128,6 @@
                 <date>1949-03-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1949-03-18</date>
                 <note/>
@@ -175,10 +151,6 @@
                 <date>1950-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1950-10-24</date>
                 <note/>
@@ -202,10 +174,6 @@
                 <date>1953-10-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1954-01-09</date>
                 <note/>
@@ -230,10 +198,6 @@
                 <date>1957-11-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1958-01-09</date>
                 <note/>
@@ -258,10 +222,6 @@
                 <date>1961-04-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-07-22</date>
                 <note/>
@@ -285,10 +245,6 @@
                 <date>1965-10-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1966-01-15</date>
                 <note/>
@@ -312,10 +268,6 @@
                 <date>1970-09-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1970-09-22</date>
                 <note/>
@@ -339,10 +291,6 @@
                 <date>1973-09-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-11-07</date>
                 <note/>
@@ -366,10 +314,6 @@
                 <date>1975-12-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-02-21</date>
                 <note/>
@@ -393,10 +337,6 @@
                 <date>1977-06-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-06-29</date>
                 <note/>
@@ -420,10 +360,6 @@
                 <date>1981-05-20</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-06-22</date>
                 <note/>
@@ -447,10 +383,6 @@
                 <date>1981-08-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-08-29</date>
                 <note/>
@@ -475,10 +407,6 @@
                 <date>1984-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1984-03-31</date>
                 <note/>
@@ -502,10 +430,6 @@
                 <date>1987-07-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1987-09-22</date>
                 <note/>
@@ -529,10 +453,6 @@
                 <date>1988-07-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-08-17</date>
                 <note/>
@@ -556,10 +476,6 @@
                 <date>1989-06-15</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1990-01-14</date>
                 <note/>
@@ -575,7 +491,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sa-1992-welc-01</id>
+            <id>sa--welc-01</id>
             <person-id>welch-c-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -583,16 +499,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1992-08</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1992-08-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1994-08</date>
+                <date>1994-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -610,10 +526,6 @@
                 <date>1994-07-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-08-01</date>
                 <note/>
@@ -637,10 +549,6 @@
                 <date>1996-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1996-09-14</date>
                 <note/>
@@ -665,10 +573,6 @@
                 <date>2001-10-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2002-06-30</date>
                 <note/>
@@ -692,10 +596,6 @@
                 <date>2003-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-10-10</date>
                 <note/>
@@ -719,10 +619,6 @@
                 <date>2007-05-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-09-02</date>
                 <note/>
@@ -746,10 +642,6 @@
                 <date>2009-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-10-31</date>
                 <note/>
@@ -773,10 +665,6 @@
                 <date>2014-03-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2014-03-28</date>
                 <note/>
@@ -792,7 +680,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>sa-2017-henz-01</id>
+            <id>sa--henz-01</id>
             <person-id>henzel-christopher</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -800,14 +688,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>2017-01-08</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>2019-04-17</date>
                 <note/>
@@ -827,23 +715,23 @@
                 <date>2019-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2019-05-02</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-05-08</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2019-05-02</date>
+                <note/>
+            </arrived>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -856,10 +744,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -875,7 +759,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sa-1992-book-01</id>
+            <id>sa--book-01</id>
             <person-id>bookout-john-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -883,10 +767,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -902,8 +782,4 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>india</territory-id>
     <chiefs>
         <chief>
-            <id>in-1946-merr-01</id>
+            <id>in--merr-01</id>
             <person-id>merrell-george-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>india</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1946-11-01</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -38,10 +38,6 @@
                 <date>1947-04-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-07-01</date>
                 <note/>
@@ -65,10 +61,6 @@
                 <date>1948-07-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1948-11-19</date>
                 <note/>
@@ -94,10 +86,6 @@
                 <date>1951-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1951-11-01</date>
                 <note/>
@@ -121,10 +109,6 @@
                 <date>1953-03-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-05-04</date>
                 <note/>
@@ -148,10 +132,6 @@
                 <date>1955-02-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1955-04-09</date>
                 <note/>
@@ -175,10 +155,6 @@
                 <date>1956-11-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-03-04</date>
                 <note/>
@@ -203,10 +179,6 @@
                 <date>1961-03-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-04-18</date>
                 <note/>
@@ -230,10 +202,6 @@
                 <date>1963-05-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1963-07-19</date>
                 <note/>
@@ -257,10 +225,6 @@
                 <date>1969-05-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1969-07-02</date>
                 <note/>
@@ -284,10 +248,6 @@
                 <date>1973-02-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1973-02-28</date>
                 <note/>
@@ -311,10 +271,6 @@
                 <date>1975-02-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1975-03-08</date>
                 <note/>
@@ -338,10 +294,6 @@
                 <date>1977-04-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-05-26</date>
                 <note/>
@@ -365,10 +317,6 @@
                 <date>1981-10-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-11-17</date>
                 <note/>
@@ -392,10 +340,6 @@
                 <date>1985-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-09-06</date>
                 <note/>
@@ -419,10 +363,6 @@
                 <date>1988-11-22</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-12-27</date>
                 <note/>
@@ -446,10 +386,6 @@
                 <date>1989-10-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1989-12-22</date>
                 <note/>
@@ -473,10 +409,6 @@
                 <date>1992-04-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1992-08-14</date>
                 <note/>
@@ -492,7 +424,7 @@
             <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
-            <id>in-1993-bril-01</id>
+            <id>in--bril-01</id>
             <person-id>brill-kenneth-c</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>india</contemporary-territory-id>
@@ -500,16 +432,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1993-03</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1993-03-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1994-08</date>
+                <date>1994-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -527,10 +459,6 @@
                 <date>1994-06-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1994-08-02</date>
                 <note/>
@@ -554,10 +482,6 @@
                 <date>1997-11-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-11-28</date>
                 <note/>
@@ -581,10 +505,6 @@
                 <date>2001-07-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2001-09-14</date>
                 <note/>
@@ -608,10 +528,6 @@
                 <date>2003-12-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2004-02-23</date>
                 <note/>
@@ -635,10 +551,6 @@
                 <date>2009-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2009-08-11</date>
                 <note/>
@@ -662,10 +574,6 @@
                 <date>2012-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-04-24</date>
                 <note/>
@@ -689,10 +597,6 @@
                 <date>2014-12-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2015-01-16</date>
                 <note/>
@@ -716,14 +620,14 @@
                 <date>2017-11-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date>2017-11-16</date>
-                <note/>
-            </arrived>
             <started>
                 <date>2017-11-23</date>
                 <note/>
             </started>
+            <arrived>
+                <date>2017-11-16</date>
+                <note/>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -736,8 +640,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

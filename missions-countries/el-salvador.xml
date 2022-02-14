@@ -3,7 +3,7 @@
     <territory-id>el-salvador</territory-id>
     <chiefs>
         <chief>
-            <id>sv-1863-part-01</id>
+            <id>el-1863-part-01</id>
             <person-id>partridge-james-rudolph</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -11,10 +11,6 @@
                 <date>1863-04-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1863-06-15</date>
                 <note/>
@@ -31,7 +27,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1866-will-01</id>
+            <id>el-1866-will-01</id>
             <person-id>williams-alpheus-starkey</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -39,10 +35,6 @@
                 <date>1866-08-16</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1867-01-21</date>
                 <note/>
@@ -59,7 +51,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1869-torb-01</id>
+            <id>el-1869-torb-01</id>
             <person-id>torbert-alfred-thomas-archimedes</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -67,10 +59,6 @@
                 <date>1869-04-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1869-10-27</date>
                 <note/>
@@ -86,7 +74,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1871-bidd-01</id>
+            <id>el-1871-bidd-01</id>
             <person-id>biddle-thomas</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -94,10 +82,6 @@
                 <date>1871-07-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1871-12-05</date>
                 <note/>
@@ -114,7 +98,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1873-will-01</id>
+            <id>el-1873-will-01</id>
             <person-id>williamson-george-mcwillie</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -122,10 +106,6 @@
                 <date>1873-05-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1873-10-18</date>
                 <note/>
@@ -143,7 +123,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1879-loga-01</id>
+            <id>el-1879-loga-01</id>
             <person-id>logan-cornelius-ambrose</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -151,11 +131,7 @@
                 <date>1879-04-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1879-07-07</date>
                 <note>Transmitted credentials by note on approximately</note>
             </started>
@@ -171,7 +147,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1882-hall-01</id>
+            <id>el-1882-hall-01</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -179,11 +155,7 @@
                 <date>1882-04-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1882-08-07</date>
                 <note>Officially recognized on</note>
             </started>
@@ -198,7 +170,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1882-hall-02</id>
+            <id>el-1882-hall-01</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -206,10 +178,6 @@
                 <date>1882-07-13</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1883-05-02</date>
                 <note/>
@@ -225,7 +193,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1889-mizn-01</id>
+            <id>el-1889-mizn-01</id>
             <person-id>mizner-lansing-bond</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -233,10 +201,6 @@
                 <date>1889-03-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1890-04-07</date>
                 <note/>
@@ -252,7 +216,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1890-pach-01</id>
+            <id>el-1890-pach-01</id>
             <person-id>pacheco-romualdo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -260,10 +224,6 @@
                 <date>1890-12-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1891-03-28</date>
                 <note/>
@@ -279,7 +239,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1891-shan-01</id>
+            <id>el-1891-shan-01</id>
             <person-id>shannon-richard-cutts</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -287,10 +247,6 @@
                 <date>1891-08-08</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1891-11-14</date>
                 <note/>
@@ -307,7 +263,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1893-bake-01</id>
+            <id>el-1893-bake-01</id>
             <person-id>baker-lewis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -315,11 +271,7 @@
                 <date>1893-04-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1893-05-20</date>
                 <note>Transmitted credentials by note from Managua on</note>
             </started>
@@ -334,7 +286,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1897-merr-01</id>
+            <id>el-1897-merr-01</id>
             <person-id>merry-william-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -342,10 +294,6 @@
                 <date>1897-07-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1899-04-03</date>
                 <note/>
@@ -361,7 +309,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1907-dodg-01</id>
+            <id>el-1907-dodg-01</id>
             <person-id>dodge-henry-percival</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -369,10 +317,6 @@
                 <date>1907-07-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1907-12-31</date>
                 <note/>
@@ -389,7 +333,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1909-heim-01</id>
+            <id>el-1909-heim-01</id>
             <person-id>heimke-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -397,10 +341,6 @@
                 <date>1909-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1909-10-18</date>
                 <note/>
@@ -416,7 +356,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1914-long-01</id>
+            <id>el-1914-long-01</id>
             <person-id>long-boaz-walton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -424,10 +364,6 @@
                 <date>1914-07-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1914-10-14</date>
                 <note/>
@@ -443,7 +379,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1918-arno-01</id>
+            <id>el--arno-01</id>
             <person-id>arnold-frank-dundore</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -451,16 +387,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1918-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1918-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1921-02</date>
+                <date>1921-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -470,7 +406,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1920-jay-01</id>
+            <id>el-1920-jay--01</id>
             <person-id>jay-peter-augustus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -478,10 +414,6 @@
                 <date>1920-05-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1921-02-10</date>
                 <note/>
@@ -497,7 +429,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1921-schu-01</id>
+            <id>el-1921-schu-01</id>
             <person-id>schuyler-montgomery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -505,10 +437,6 @@
                 <date>1921-05-04</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1921-07-12</date>
                 <note/>
@@ -524,7 +452,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1926-caff-01</id>
+            <id>el-1926-caff-01</id>
             <person-id>caffery-jefferson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -532,10 +460,6 @@
                 <date>1926-01-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1926-07-20</date>
                 <note/>
@@ -551,7 +475,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1928-robb-01</id>
+            <id>el-1928-robb-01</id>
             <person-id>robbins-warren-delano</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -559,10 +483,6 @@
                 <date>1928-07-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1929-02-27</date>
                 <note/>
@@ -579,7 +499,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1931-curt-01</id>
+            <id>el-1931-curt-01</id>
             <person-id>curtis-charles-boyd</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -587,10 +507,6 @@
                 <date>1931-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1931-11-06</date>
                 <note/>
@@ -611,7 +527,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1934-corr-01</id>
+            <id>el-1934-corr-01</id>
             <person-id>corrigan-francis-patrick</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -619,10 +535,6 @@
                 <date>1934-03-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1934-04-30</date>
                 <note/>
@@ -638,7 +550,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1937-fraz-01</id>
+            <id>el-1937-fraz-01</id>
             <person-id>frazer-robert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -646,10 +558,6 @@
                 <date>1937-08-09</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1937-12-06</date>
                 <note/>
@@ -665,7 +573,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1942-thur-01</id>
+            <id>el-1942-thur-01</id>
             <person-id>thurston-walter-clarence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -673,10 +581,6 @@
                 <date>1942-11-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1943-01-14</date>
                 <note/>
@@ -688,11 +592,11 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>marsaw</last-modified-by>
+            <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1943-thur-01</id>
+            <id>el-1943-thur-01</id>
             <person-id>thurston-walter-clarence</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -700,10 +604,6 @@
                 <date>1943-03-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1943-04-16</date>
                 <note/>
@@ -719,7 +619,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1944-simm-01</id>
+            <id>el-1944-simm-01</id>
             <person-id>simmons-john-farr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -727,10 +627,6 @@
                 <date>1944-09-21</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1945-02-21</date>
                 <note/>
@@ -746,7 +642,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1947-nufe-01</id>
+            <id>el-1947-nufe-01</id>
             <person-id>nufer-albert-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -754,10 +650,6 @@
                 <date>1947-04-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1947-08-13</date>
                 <note/>
@@ -773,7 +665,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1949-shaw-01</id>
+            <id>el-1949-shaw-01</id>
             <person-id>shaw-george-price</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -781,10 +673,6 @@
                 <date>1949-06-24</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1949-08-23</date>
                 <note/>
@@ -800,7 +688,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1952-duke-01</id>
+            <id>el-1952-duke-01</id>
             <person-id>duke-angier-biddle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -808,10 +696,6 @@
                 <date>1952-05-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1952-06-05</date>
                 <note/>
@@ -827,7 +711,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1953-mcde-01</id>
+            <id>el-1953-mcde-01</id>
             <person-id>mcdermott-michael-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -835,10 +719,6 @@
                 <date>1953-05-28</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1953-06-25</date>
                 <note/>
@@ -854,7 +734,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1954-hill-01</id>
+            <id>el-1954-hill-01</id>
             <person-id>hill-robert-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -862,10 +742,6 @@
                 <date>1954-09-25</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1954-11-04</date>
                 <note/>
@@ -882,7 +758,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1955-mann-01</id>
+            <id>el-1955-mann-01</id>
             <person-id>mann-thomas-clifton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -890,10 +766,6 @@
                 <date>1955-10-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1955-11-24</date>
                 <note/>
@@ -910,7 +782,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1957-kali-01</id>
+            <id>el-1957-kali-01</id>
             <person-id>kalijarvi-thorsten-valentine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -918,10 +790,6 @@
                 <date>1957-09-07</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1957-12-06</date>
                 <note/>
@@ -938,7 +806,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1961-will-01</id>
+            <id>el-1961-will-01</id>
             <person-id>williams-murat-willis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -946,10 +814,6 @@
                 <date>1961-01-27</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1961-02-21</date>
                 <note/>
@@ -965,7 +829,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1964-cast-01</id>
+            <id>el-1964-cast-01</id>
             <person-id>castro-raul-hector</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -973,10 +837,6 @@
                 <date>1964-10-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1964-12-11</date>
                 <note/>
@@ -992,7 +852,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1968-bowd-01</id>
+            <id>el-1968-bowd-01</id>
             <person-id>bowdler-william-garton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1000,10 +860,6 @@
                 <date>1968-09-26</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1968-11-15</date>
                 <note/>
@@ -1019,7 +875,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1971-catt-01</id>
+            <id>el-1971-catt-01</id>
             <person-id>catto-henry-edward-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1027,10 +883,6 @@
                 <date>1971-09-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1971-10-21</date>
                 <note/>
@@ -1046,7 +898,7 @@
             <last-modified-date>2013-03-28</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1974-camp-01</id>
+            <id>el-1974-camp-01</id>
             <person-id>campbell-james-fromhart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1054,10 +906,6 @@
                 <date>1974-02-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-04-05</date>
                 <note/>
@@ -1073,7 +921,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1976-loza-01</id>
+            <id>el-1976-loza-01</id>
             <person-id>lozano-ignacio-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1081,10 +929,6 @@
                 <date>1976-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1976-08-31</date>
                 <note/>
@@ -1100,7 +944,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1977-devi-01</id>
+            <id>el-1977-devi-01</id>
             <person-id>devine-frank-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1108,10 +952,6 @@
                 <date>1977-10-11</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-11-01</date>
                 <note/>
@@ -1127,7 +967,7 @@
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1980-whit-01</id>
+            <id>el-1980-whit-01</id>
             <person-id>white-robert-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1135,10 +975,6 @@
                 <date>1980-03-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-03-11</date>
                 <note/>
@@ -1154,7 +990,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1981-hint-01</id>
+            <id>el-1981-hint-01</id>
             <person-id>hinton-deane-roesch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1162,10 +998,6 @@
                 <date>1981-05-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1981-05-28</date>
                 <note/>
@@ -1181,7 +1013,7 @@
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1983-pick-01</id>
+            <id>el-1983-pick-01</id>
             <person-id>pickering-thomas-reeve</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1189,10 +1021,6 @@
                 <date>1983-08-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-09-05</date>
                 <note/>
@@ -1208,7 +1036,7 @@
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1985-corr-01</id>
+            <id>el-1985-corr-01</id>
             <person-id>corr-edwin-gharst</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1216,10 +1044,6 @@
                 <date>1985-07-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-08-29</date>
                 <note/>
@@ -1235,7 +1059,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1988-walk-01</id>
+            <id>el-1988-walk-01</id>
             <person-id>walker-william-graham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1243,10 +1067,6 @@
                 <date>1988-08-12</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-08-30</date>
                 <note/>
@@ -1262,7 +1082,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1992-clar-01</id>
+            <id>el--clar-01</id>
             <person-id>clare-gwen-c</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1270,16 +1090,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>1992-07</date>
-                <note/>
             </started>
+            <arrived>
+                <date>1992-07-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>1993-09</date>
+                <date>1993-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1289,7 +1109,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1993-flan-01</id>
+            <id>el-1993-flan-01</id>
             <person-id>flanigan-alan-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1297,10 +1117,6 @@
                 <date>1993-08-02</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1993-09-20</date>
                 <note/>
@@ -1316,7 +1132,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1997-patt-01</id>
+            <id>el-1997-patt-01</id>
             <person-id>patterson-anne-woods</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1324,10 +1140,6 @@
                 <date>1997-02-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1997-05-16</date>
                 <note/>
@@ -1343,7 +1155,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>sv-2000-liki-01</id>
+            <id>el-2000-liki-01</id>
             <person-id>likins-rose-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1351,10 +1163,6 @@
                 <date>2000-06-14</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2000-08-23</date>
                 <note/>
@@ -1370,7 +1178,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>sv-2003-barc-01</id>
+            <id>el-2003-barc-01</id>
             <person-id>barclay-hugh-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1378,10 +1186,6 @@
                 <date>2003-10-06</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2003-12-13</date>
                 <note/>
@@ -1397,7 +1201,7 @@
             <last-modified-date>2015-09-23</last-modified-date>
         </chief>
         <chief>
-            <id>sv-2006-glaz-01</id>
+            <id>el-2006-glaz-01</id>
             <person-id>glazer-charles-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1405,10 +1209,6 @@
                 <date>2006-12-05</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2007-01-26</date>
                 <note/>
@@ -1424,7 +1224,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>sv-2009-blau-01</id>
+            <id>el--blau-01</id>
             <person-id>blau-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1432,16 +1232,16 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
-                <date>2009-01</date>
-                <note/>
             </started>
+            <arrived>
+                <date>2009-01-01</date>
+                <note/>
+            </arrived>
             <ended>
-                <date>2010-09</date>
+                <date>2010-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1451,7 +1251,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv-2010-apon-01</id>
+            <id>el-2010-apon-01</id>
             <person-id>aponte-mari-del-carmen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1459,10 +1259,6 @@
                 <date>2010-08-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2010-09-27</date>
                 <note/>
@@ -1478,7 +1274,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>sv-2012-apon-01</id>
+            <id>el-2012-apon-01</id>
             <person-id>aponte-mari-del-carmen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1486,10 +1282,6 @@
                 <date>2012-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2012-08-21</date>
                 <note>Aponte was not given new credentials, but returned to post on</note>
@@ -1505,7 +1297,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>sv-2016-mane-01</id>
+            <id>el-2016-mane-01</id>
             <person-id>manes-jean-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1513,10 +1305,6 @@
                 <date>2016-02-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2016-03-30</date>
                 <note/>
@@ -1532,7 +1320,7 @@
             <last-modified-date>2019-07-31</last-modified-date>
         </chief>
         <chief>
-            <id>sv-2019-john-01</id>
+            <id>el-2019-john-01</id>
             <person-id>johnson-ronald-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1540,28 +1328,24 @@
                 <date>2019-07-03</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>2019-09-06</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-07-19</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-09-12</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>sv-1853-slid-01</id>
+            <id>el-1853-slid-01</id>
             <person-id>slidell-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1569,10 +1353,6 @@
                 <date>1853-03-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1589,7 +1369,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1853-borl-01</id>
+            <id>el-1853-borl-01</id>
             <person-id>borland-solon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1597,10 +1377,6 @@
                 <date>1853-04-18</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1618,7 +1394,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>sv--hold-01</id>
+            <id>el--hold-01</id>
             <person-id>holden-william-woods</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1626,10 +1402,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1645,7 +1417,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-1908-dodg-01</id>
+            <id>el-1908-dodg-01</id>
             <person-id>dodge-henry-percival</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1653,10 +1425,6 @@
                 <date>1908-12-10</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1672,7 +1440,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>sv--koza-01</id>
+            <id>el--koza-01</id>
             <person-id>kozak-michael-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1680,10 +1448,6 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1699,7 +1463,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sv-2012-apon-01</id>
+            <id>el-2012-apon-01</id>
             <person-id>aponte-mari-del-carmen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>el-salvador</contemporary-territory-id>
@@ -1707,10 +1471,6 @@
                 <date>2012-06-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date/>
                 <note/>
@@ -1726,8 +1486,4 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
     </other-nominees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

@@ -3,7 +3,7 @@
     <territory-id>german-democratic-republic</territory-id>
     <chiefs>
         <chief>
-            <id>xf-1974-grov-01</id>
+            <id>ge--grov-01</id>
             <person-id>grove-brandon-hambright-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date/>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1974-12-09</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date/>
                 <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>xf-1974-coop-01</id>
+            <id>ge-1974-coop-01</id>
             <person-id>cooper-john-sherman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -38,10 +38,6 @@
                 <date>1974-09-19</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1974-12-20</date>
                 <note/>
@@ -57,7 +53,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>xf-1977-bole-01</id>
+            <id>ge-1977-bole-01</id>
             <person-id>bolen-david-benjamin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -65,10 +61,6 @@
                 <date>1977-07-29</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1977-08-22</date>
                 <note/>
@@ -84,7 +76,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>xf-1980-okun-01</id>
+            <id>ge-1980-okun-01</id>
             <person-id>okun-herbert-stuart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -92,10 +84,6 @@
                 <date>1980-06-30</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1980-08-20</date>
                 <note/>
@@ -111,7 +99,7 @@
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
         <chief>
-            <id>xf-1982-ridg-01</id>
+            <id>ge-1982-ridg-01</id>
             <person-id>ridgway-rozanne-lejeanne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -119,10 +107,6 @@
                 <date>1982-09-23</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1983-01-26</date>
                 <note/>
@@ -138,7 +122,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>xf-1985-meeh-01</id>
+            <id>ge-1985-meeh-01</id>
             <person-id>meehan-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -146,10 +130,6 @@
                 <date>1985-08-01</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1985-09-16</date>
                 <note/>
@@ -165,7 +145,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>xf-1988-bark-01</id>
+            <id>ge-1988-bark-01</id>
             <person-id>barkley-richard-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -173,10 +153,6 @@
                 <date>1988-10-17</date>
                 <note/>
             </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
             <started>
                 <date>1988-12-19</date>
                 <note/>
@@ -193,8 +169,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>

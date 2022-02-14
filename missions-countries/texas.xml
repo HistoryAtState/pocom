@@ -3,7 +3,7 @@
     <territory-id>texas</territory-id>
     <chiefs>
         <chief>
-            <id>xc-1837-la-01</id>
+            <id>te-1837-la-b-01</id>
             <person-id>la-branche-alcee-louis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>texas</contemporary-territory-id>
@@ -11,14 +11,14 @@
                 <date>1837-03-07</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1837-10-23</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1840-06-05</date>
                 <note>Left Texas soon after</note>
@@ -30,7 +30,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>xc-1840-floo-01</id>
+            <id>te-1840-floo-01</id>
             <person-id>flood-george-h</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>texas</contemporary-territory-id>
@@ -38,14 +38,14 @@
                 <date>1840-03-16</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1840-06-21</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1841-07-21</date>
                 <note>Presented recall on</note>
@@ -57,7 +57,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>xc-1841-eve-01</id>
+            <id>te-1841-eve--01</id>
             <person-id>eve-joseph</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>texas</contemporary-territory-id>
@@ -65,14 +65,14 @@
                 <date>1841-04-15</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1841-07-21</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1843-06-03</date>
                 <note>Relinquished charge</note>
@@ -85,7 +85,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>xc-1843-murp-01</id>
+            <id>te-1843-murp-01</id>
             <person-id>murphy-william-sumter</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>texas</contemporary-territory-id>
@@ -93,14 +93,14 @@
                 <date>1843-04-10</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1843-06-16</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1844-07-13</date>
                 <note>Died at Galveston, Texas</note>
@@ -112,7 +112,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>xc-1844-howa-01</id>
+            <id>te-1844-howa-01</id>
             <person-id>howard-tilghman-ashurst</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>texas</contemporary-territory-id>
@@ -120,14 +120,14 @@
                 <date>1844-06-11</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1844-08-02</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1844-08-16</date>
                 <note>Died at Washington, Texas</note>
@@ -139,7 +139,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>xc-1844-done-01</id>
+            <id>te-1844-done-01</id>
             <person-id>donelson-andrew-jackson</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>texas</contemporary-territory-id>
@@ -147,14 +147,14 @@
                 <date>1844-09-16</date>
                 <note/>
             </appointed>
-            <arrived>
+            <started>
                 <date/>
                 <note/>
-            </arrived>
-            <started>
+            </started>
+            <arrived>
                 <date>1844-11-29</date>
                 <note/>
-            </started>
+            </arrived>
             <ended>
                 <date>1845-08-09</date>
                 <note>Left Texas on or soon after</note>
@@ -168,8 +168,4 @@
         </chief>
     </chiefs>
     <other-nominees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-17</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-17</last-modified-date>
 </country-mission>
