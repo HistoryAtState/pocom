@@ -2,23 +2,18 @@
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt3"
     xmlns:sch="http://purl.oclc.org/dsdl/schematron"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
-    <pattern>
-        <rule context="/">
-            <assert test="exists(person)">The document's root element must be person</assert>
-        </rule>
-    </pattern>
-    <pattern>
-        <rule context="id">
+    <pattern id="id">
+        <rule id="id-checks" context="id">
             <let name="basename" value="replace(base-uri(.), '^.*/(.*?)$', '$1')"/>
             <let name="parent-dir" value="replace(base-uri(.), '^.*/(.*?)/.*?$', '$1')"/>
             <let name="original-id" value="./string()"/>
-            <let name="generated-id" value="lower-case(replace(replace(string-join(./following-sibling::persName/(surname, forename, genName), ' '), '\p{P}', ''), '\s+', '-'))"/>
+            <let name="generated-id" value="lower-case(replace(replace(string-join(./following-sibling::persName/(surname, forename, genName), ' '), '[\(\)\.’]', ''), '\s+', '-'))"/>
             <assert test="$basename = concat(., '.xml')">The id “<value-of select="."/>” does
                 not match filename “<value-of select="$basename"/>”</assert>
             <assert test="$parent-dir = substring(., 1, 1)">The file should be stored in the “<value-of select="substring(., 1, 1)"/>” directory, not in the “<value-of select="$parent-dir"/>” directory</assert>
-            <assert test="matches(., '^[a-z-]+(\d+)?$')">The id 
+            <assert id="expected-format" test="matches(., '^[a-z-]+(\d+)?$')">The id 
                 “<value-of select="."/>” must contain only lower case letters and hyphens, and can optionally end with a number</assert>
-            <assert test=". eq $generated-id" sqf:fix="update-id">Based on the name elements, the ID should be <value-of select="$generated-id"/>.</assert>
+            <assert id="expected-value" test=". eq $generated-id" sqf:fix="update-id">Based on the name elements, the ID “<value-of select="."/>” should be “<value-of select="$generated-id"/>”.</assert>
             <sqf:fix id="update-id">
                 <sqf:description>
                     <sqf:title>Update ID from name</sqf:title>
@@ -47,26 +42,14 @@
         </rule>
     </pattern>
     <pattern>
-        <rule context="birth">
-            <assert test="(not(@type) and . castable as xs:gYear) or @type='unknown'">Birth must either contain a valid year or a @type attribute of "unknown"</assert>
-        </rule>
-    </pattern>
-    <pattern>
-        <rule context="death">
-            <assert test="(not(@type) and . castable as xs:gYear) or @type = ('unknown', 'still-living')">Death must either contain a valid year or a @type attribute of "unknown" or "still-living".</assert>
-        </rule>
-    </pattern>
-    <pattern>
         <rule context="death[. castable as xs:double]">
             <assert test=". gt '1600' and xs:double(.) le year-from-date(current-date())">Death element must be a 4-digit year in the form yyyy, and can't be in the future (unless you know something that I don't know).</assert>
             <assert test="if (preceding-sibling::birth castable as xs:double) then xs:double(.) gt xs:double(preceding-sibling::birth) else true()">Wrong birth/death years. (The dates show born in <value-of select="preceding-sibling::birth"/>, died in <value-of select="."/>.)</assert>
-            <assert test="if (preceding-sibling::birth castable as xs:double and xs:double(.) gt xs:double(preceding-sibling::birth) and not(./@certainty = 'high')) then xs:double(.) - xs:double(preceding-sibling::birth) ge 25 else true()">Really? This person lived to only <value-of select="xs:double(.) - xs:double(preceding-sibling::birth)"/> years old? (The dates show born in <value-of select="preceding-sibling::birth"/>, died in <value-of select="."/>.)</assert>
-            <assert test="if (preceding-sibling::birth castable as xs:double and not(./@certainty = 'high')) then xs:double(.) - xs:double(preceding-sibling::birth) le 100 else true()">Really? This person lived to <value-of select="xs:double(.) - xs:double(preceding-sibling::birth)"/> years old? (The dates show born in <value-of select="preceding-sibling::birth"/>, died in <value-of select="."/>.)</assert>
         </rule>
     </pattern>
     <pattern>
         <rule context="death[. = '']">
-            <assert test="if (preceding-sibling::birth castable as xs:double) then year-from-date(current-date()) - xs:double(preceding-sibling::birth) le 100 else true()">Call Willard Scott! Born in <value-of select="preceding-sibling::birth"/>, <value-of select="year-from-date(current-date()) - xs:double(preceding-sibling::birth) + 1"/> years ago!</assert>
+            <assert role="warn" test="if (preceding-sibling::birth castable as xs:double) then year-from-date(current-date()) - xs:double(preceding-sibling::birth) le 100 else true()">Call Willard Scott! Born in <value-of select="preceding-sibling::birth"/>, <value-of select="year-from-date(current-date()) - xs:double(preceding-sibling::birth) + 1"/> years ago!</assert>
         </rule>
     </pattern>
     <pattern>
