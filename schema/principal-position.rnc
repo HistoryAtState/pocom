@@ -52,7 +52,7 @@ element principal-position {
                  },
                  element note { text }
              },
-             element note { text }*,
+             element note { text },
              element created-by { text },
              element created-date { xsd:date },
              element last-modified-by { text },
@@ -92,7 +92,7 @@ element principal-position {
                 },
                 element note { text }
             },
-            element note { text }*,
+            element note { text },
             element created-by { xsd:NCName },
             element created-date { xsd:date },
             element last-modified-by { xsd:NCName },

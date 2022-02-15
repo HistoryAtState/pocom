@@ -43,7 +43,7 @@ element org-mission {
                  },
                  element note { text }
              },
-             element note { text }*,
+             element note { text },
              element created-by { xsd:NCName },
              element created-date { xsd:date },
              element last-modified-by { xsd:NCName },
@@ -90,7 +90,7 @@ element org-mission {
                 },
                 element note { text }
             },
-            element note { text }*,
+            element note { text },
             element created-by { xsd:NCName },
             element created-date { xsd:date },
             element last-modified-by { xsd:NCName },

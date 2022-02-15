@@ -34,7 +34,7 @@ element country-mission {
                  },
                  element note { text }
              },
-             element note { text }*,
+             element note { text },
              element created-by { text },
              element created-date { xsd:date },
              element last-modified-by { text },
@@ -82,7 +82,7 @@ element country-mission {
                 },
                 element note { text }
             },
-            element note { text }*,
+            element note { text },
             element created-by { xsd:NCName },
             element created-date { xsd:date },
             element last-modified-by { xsd:NCName },
