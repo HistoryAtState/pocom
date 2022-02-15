@@ -88,9 +88,5 @@ element country-mission {
             element last-modified-by { xsd:NCName },
             element last-modified-date { xsd:date }
         }*
-    },
-    element created-by { xsd:NCName },
-    element created-date { xsd:date },
-    element last-modified-by { xsd:NCName },
-    element last-modified-date { xsd:date }
+    }
 }
