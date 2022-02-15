@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <role mode="active">
     <id>agent</id>
-    <class/>
-    <category/>
+    <class>chief</class>
+    <category>country</category>
     <names>
         <singular>Agent</singular>
         <plural>Agents</plural>
     </names>
-    <description>
-        <div>
-            <p/>
-        </div>
-    </description>
 </role>

@@ -3,7 +3,7 @@
     <territory-id>hawaii</territory-id>
     <chiefs>
         <chief>
-            <id>ha-1853-greg-01</id>
+            <id>xl-1853-greg-01</id>
             <person-id>gregg-david-lawrence</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -34,7 +34,7 @@
             <last-modified-date>2016-09-12</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1858-bord-01</id>
+            <id>xl-1858-bord-01</id>
             <person-id>borden-james-wallace</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -61,7 +61,7 @@
             <last-modified-date>2014-06-04</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1861-drye-01</id>
+            <id>xl-1861-drye-01</id>
             <person-id>dryer-thomas-jefferson</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -88,7 +88,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1863-mcbr-01</id>
+            <id>xl-1863-mcbr-01</id>
             <person-id>mcbride-james</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -115,7 +115,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1866-mcco-01</id>
+            <id>xl-1866-mcco-01</id>
             <person-id>mccook-edward-moody</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -142,7 +142,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1869-peir-01</id>
+            <id>xl-1869-peir-01</id>
             <person-id>peirce-henry-augustus</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -170,7 +170,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1877-coml-01</id>
+            <id>xl-1877-coml-01</id>
             <person-id>comly-james-monroe-stewart</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -198,7 +198,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1882-dagg-01</id>
+            <id>xl-1882-dagg-01</id>
             <person-id>daggett-rollin-mallory</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -225,7 +225,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1885-merr-01</id>
+            <id>xl-1885-merr-01</id>
             <person-id>merrill-george-w</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -252,7 +252,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1889-stev-01</id>
+            <id>xl-1889-stev-01</id>
             <person-id>stevens-john-leavitt</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -280,7 +280,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1890-stev-01</id>
+            <id>xl-1890-stev-01</id>
             <person-id>stevens-john-leavitt</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -307,7 +307,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1893-blou-01</id>
+            <id>xl-1893-blou-01</id>
             <person-id>blount-james-henderson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -334,7 +334,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1893-will-01</id>
+            <id>xl-1893-will-01</id>
             <person-id>willis-albert-shelby</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -361,7 +361,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>ha-1897-sewa-01</id>
+            <id>xl-1897-sewa-01</id>
             <person-id>sewall-harold-marsh</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -391,7 +391,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ha--mill-01</id>
+            <id>xl--mill-01</id>
             <person-id>millen-h-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>
@@ -418,7 +418,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ha--hutc-01</id>
+            <id>xl--hutc-01</id>
             <person-id>hutchenson-john-h</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>hawaii</contemporary-territory-id>

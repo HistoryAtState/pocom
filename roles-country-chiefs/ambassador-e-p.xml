@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <role mode="active">
     <id>ambassador-e-p</id>
-    <class/>
-    <category/>
+    <class>chief</class>
+    <category>country</category>
     <names>
         <singular>Ambassador Extraordinary and Plenipotentiary</singular>
         <plural>Ambassadors Extraordinary and Plenipotentiary</plural>
     </names>
-    <description>
-        <div>
-            <p/>
-        </div>
-    </description>
 </role>

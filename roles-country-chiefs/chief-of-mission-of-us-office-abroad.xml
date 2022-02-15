@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <role mode="active">
     <id>chief-of-mission-of-us-office-abroad</id>
-    <class/>
-    <category/>
+    <class>chief</class>
+    <category>country</category>
     <names>
         <singular>Chief of Mission of U.S. Office Abroad</singular>
         <plural>Chiefs of Mission of U.S. Office Abroad</plural>
     </names>
-    <description>
-        <div>
-            <p/>
-        </div>
-    </description>
 </role>

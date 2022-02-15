@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <role mode="active">
     <id>personal-representative-of-the-president</id>
-    <class/>
-    <category/>
+    <class>chief</class>
+    <category>country</category>
     <names>
         <singular>Personal Representative of the President</singular>
         <plural>Personal Representatives of the President</plural>
     </names>
-    <description>
-        <div>
-            <p/>
-        </div>
-    </description>
 </role>

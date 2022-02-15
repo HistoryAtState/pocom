@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <role mode="active">
     <id>charge-daffaires-pro-tem</id>
-    <class/>
-    <category/>
+    <class>chief</class>
+    <category>country</category>
     <names>
         <singular>Chargé d’Affaires pro tempore</singular>
         <plural>Chargés d’Affaires pro tempore</plural>
     </names>
-    <description>
-        <div>
-            <p/>
-        </div>
-    </description>
 </role>
