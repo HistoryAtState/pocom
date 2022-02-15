@@ -225,7 +225,7 @@
             <person-id>tittmann-harold-hilgard</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
-            <appointed subtype="see-note">
+            <appointed>
                 <date/>
                 <note/>
             </appointed>
@@ -233,7 +233,7 @@
                 <date/>
                 <note/>
             </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1941-12-29</date>
                 <note>Received by the Pope in private audience on</note>
             </started>

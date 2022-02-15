@@ -150,7 +150,7 @@
             <person-id>russell-jonathan</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1811-07-27</date>
                 <note/>
             </appointed>
@@ -387,7 +387,7 @@
                 <date/>
                 <note/>
             </arrived>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -1961,7 +1961,7 @@
             <person-id>gardner-oliver-maxwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1946-12-06</date>
                 <note/>
             </appointed>

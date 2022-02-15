@@ -15,7 +15,7 @@
                 <date/>
                 <note/>
             </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1867-10-02</date>
                 <note>Officially recognized on</note>
             </started>
@@ -62,7 +62,7 @@
             <person-id>kirk-robert-crothers</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>uruguay</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1869-05-11</date>
                 <note>Commission enclosed with an instruction on</note>
             </appointed>
@@ -153,7 +153,7 @@
                 <date/>
                 <note/>
             </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1876-10-06</date>
                 <note>No record found of presentation of credentials; acknowledged receipt of his
                     commission on</note>

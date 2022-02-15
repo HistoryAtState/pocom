@@ -223,7 +223,7 @@
             <person-id>cambreleng-churchill-caldom</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
-            <appointed subtype="bracketed">
+            <appointed>
                 <date>1840-05-25</date>
                 <note>Commission not of record; letter of credence issued on</note>
             </appointed>
@@ -855,7 +855,7 @@
                 <date/>
                 <note/>
             </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1894-11-01</date>
                 <note>Officially recognized on</note>
             </started>

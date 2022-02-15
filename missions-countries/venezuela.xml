@@ -205,7 +205,7 @@
                 <date/>
                 <note/>
             </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1858-09-21</date>
                 <note>Officially recognized as of</note>
             </started>
@@ -429,7 +429,7 @@
                 <date/>
                 <note/>
             </arrived>
-            <started subtype="see-note">
+            <started>
                 <date/>
                 <note/>
             </started>
@@ -450,7 +450,7 @@
             <person-id>baker-jehu</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
-            <appointed subtype="see-note">
+            <appointed>
                 <date/>
                 <note/>
             </appointed>
@@ -458,7 +458,7 @@
                 <date/>
                 <note/>
             </arrived>
-            <started subtype="bracketed">
+            <started>
                 <date>1882-05-16</date>
                 <note/>
             </started>
