@@ -691,29 +691,27 @@
     </principals>
     <other-appointees>
         <principal>
-        <id>serv--akar</id>
-        <person-id>akard-stephen</person-id>
-        <role-title-id>director-general-foreign-service</role-title-id>
-        <appointed>
-            <date/>
-            <note/>
-        </appointed>
-        <started>
-            <date/>
-            <note/>
-        </started>
-        <ended>
-            <date/>
-            <note/>
-        </ended>
-        <note>Not commissioned; nomination of October 16, 2017 withdrawn by the president on March 20, 2018.</note>
-        <created-by>bottsjd</created-by>
-        <created-date>2019-05-06</created-date>
-        <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-date>2019-05-06</last-modified-date>
-    </principal></other-appointees>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>wicentowskijc</last-modified-by>
-    <last-modified-date>2014-09-18</last-modified-date>
+            <id>serv--akar</id>
+            <person-id>akard-stephen</person-id>
+            <role-title-id>director-general-foreign-service</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Not commissioned; nomination of October 16, 2017 withdrawn by the president on
+                March 20, 2018.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-06</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-05-06</last-modified-date>
+        </principal>
+    </other-appointees>
 </principal-position>

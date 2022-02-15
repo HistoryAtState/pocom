@@ -720,17 +720,17 @@
             <role-title-id>director-policy-planning</role-title-id>
             <appointed>
                 <date>2019-01-01</date>
-                <note></note>
+                <note/>
             </appointed>
             <started>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </started>
             <ended>
-                <date></date>
-                <note></note>
+                <date/>
+                <note/>
             </ended>
-            <note></note>
+            <note/>
             <created-by>DIDit.app</created-by>
             <created-date>2020-01-17</created-date>
             <last-modified-by>DIDit.app</last-modified-by>
@@ -738,8 +738,4 @@
         </principal>
     </principals>
     <other-appointees/>
-    <created-by>wicentowskijc</created-by>
-    <created-date>2014-09-18</created-date>
-    <last-modified-by>bottsjd</last-modified-by>
-    <last-modified-date>2019-02-06</last-modified-date>
 </principal-position>
