@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
     <id>smith-keith-c</id>
+    <old-ids>
+        <old-id>smith-keith</old-id>
+    </old-ids>
     <persName>
         <surname>Smith</surname>
         <forename>Keith C.</forename>
