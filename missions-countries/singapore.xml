@@ -3,7 +3,7 @@
     <territory-id>singapore</territory-id>
     <chiefs>
         <chief>
-            <id>sg--dona-01</id>
+            <id>sg-1966-dona-01</id>
             <person-id>donald-richard-hempstead</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1966-04-04</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1966-04-04</date>
                 <note/>
             </started>
             <ended>
@@ -192,7 +192,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sg-1984-roy--01</id>
+            <id>sg-1984-roy-01</id>
             <person-id>roy-j-stapleton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -246,7 +246,7 @@
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
         <chief>
-            <id>sg-1989-orr--01</id>
+            <id>sg-1989-orr-01</id>
             <person-id>orr-robert-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -300,7 +300,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>sg--boyc-01</id>
+            <id>sg-1993-boyc-01</id>
             <person-id>boyce-ralph-leo</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -309,15 +309,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1993-06-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1993-06</date>
                 <note/>
             </started>
             <ended>
-                <date>1994-08-01</date>
+                <date>1994-08</date>
                 <note/>
             </ended>
             <note/>
@@ -489,7 +489,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>sg--sypt-01</id>
+            <id>sg-2017-sypt-01</id>
             <person-id>syptak-ramnath-stephanie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -498,11 +498,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </started>
             <ended>
@@ -515,37 +515,10 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-26</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-2021-kapl-01</id>
-            <person-id>kaplan-jonathan-eric</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>singapore</contemporary-territory-id>
-            <appointed>
-                <date>2021-11-19</date>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-12-08</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
-        </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>sg--mcfa-01</id>
+            <id>sg-2017-mcfa-02</id>
             <person-id>mcfarland-kathleen-troia</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -565,38 +538,12 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nominated June 15, 2017 and renominated January 8, 2018. Nomination withdrawn by the president on February 5, 2018.</note>
+            <note>Nominated June 15, 2017 and renominated January 8, 2018. Nomination withdrawn by
+                the president on February 5, 2018.</note>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
-        </chief>
-        <chief>
-            <id>sg--thor-01</id>
-            <person-id>thornhill-barbara-hale</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>singapore</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of October 15, 2019 and renominations of March 2, 2020 and January 6, 2021 withdrawn by the president on February 4, 2021.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-19</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

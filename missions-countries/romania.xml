@@ -31,7 +31,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ro-1880-schu-01</id>
+            <id>ro-1880-schu-02</id>
             <person-id>schuyler-eugene</person-id>
             <role-title-id>charge-daffaires-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -416,7 +416,7 @@
             <last-modified-date>2016-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>ro-1907-know-01</id>
+            <id>ro-1907-know-02</id>
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -580,7 +580,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>ro-1921-jay--01</id>
+            <id>ro-1921-jay-01</id>
             <person-id>jay-peter-augustus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -772,7 +772,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>ro--gant-01</id>
+            <id>ro-1950-gant-01</id>
             <person-id>gantenbein-james-watson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -781,15 +781,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1950-09-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1950-09</date>
                 <note/>
             </started>
             <ended>
-                <date>1952-11-01</date>
+                <date>1952-11</date>
                 <note/>
             </ended>
             <note/>
@@ -1317,7 +1317,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>ro--butc-01</id>
+            <id>ro-2012-butc-01</id>
             <person-id>butcher-duane-clemens</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1326,15 +1326,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2012-12-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2012-12</date>
                 <note/>
             </started>
             <ended>
-                <date>2014-07-01</date>
+                <date>2014-07</date>
                 <note/>
             </ended>
             <note/>
@@ -1344,7 +1344,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>ro--thom-01</id>
+            <id>ro-2014-thom-01</id>
             <person-id>thompson-dean-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1353,15 +1353,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2014-07-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2014-07</date>
                 <note/>
             </started>
             <ended>
-                <date>2015-09-01</date>
+                <date>2015-09</date>
                 <note/>
             </ended>
             <note/>
@@ -1407,7 +1407,7 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2019-12-14</date>
+                <date>2019-12-16</date>
                 <note/>
             </arrived>
             <started>
@@ -1415,14 +1415,14 @@
                 <note/>
             </started>
             <ended>
-                <date>2021-01-20</date>
+                <date/>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-12-12</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2021-02-05</last-modified-date>
+            <last-modified-date>2019-12-19</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -1454,7 +1454,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>ro-1892-beal-01</id>
+            <id>ro-1892-beal-02</id>
             <person-id>beale-truxtun</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>

@@ -7,8 +7,8 @@
         <singular>Comptroller and Director of the Bureau of Global Financial Services</singular>
         <plural>Comptrollers and Directors of the Bureau of Global Financial Services</plural>
     </names>
-    <start accuracy="yyyy">2012</start>
-    <end accuracy="yyyy"/>
+    <start>2012</start>
+    <end/>
     <ongoing>true</ongoing>
     <description>
         <div>
@@ -64,6 +64,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-10-25</last-modified-date>
         </principal>
+
     </principals>
     <other-appointees/>
 </principal-position>

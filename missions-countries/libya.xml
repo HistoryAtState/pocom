@@ -3,7 +3,7 @@
     <territory-id>libya</territory-id>
     <chiefs>
         <chief>
-            <id>ly--lync-01</id>
+            <id>ly-1949-lync-01</id>
             <person-id>lynch-andrew-green</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1951-12-24</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1951-12-24</date>
                 <note/>
             </started>
             <ended>
@@ -193,7 +193,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
-            <id>ly--josi-01</id>
+            <id>ly-1972-josi-01</id>
             <person-id>josif-harold-george</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -202,15 +202,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1972-11-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1972-11</date>
                 <note/>
             </started>
             <ended>
-                <date>1973-12-01</date>
+                <date>1973-12</date>
                 <note/>
             </ended>
             <note/>
@@ -220,7 +220,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
-            <id>ly--stei-01</id>
+            <id>ly-1973-stei-01</id>
             <person-id>stein-robert-andrew</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -229,15 +229,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1973-12-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1973-12</date>
                 <note/>
             </started>
             <ended>
-                <date>1974-12-01</date>
+                <date>1974-12</date>
                 <note/>
             </ended>
             <note/>
@@ -247,7 +247,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
-            <id>ly--carl-01</id>
+            <id>ly-1975-carl-01</id>
             <person-id>carle-robert-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -256,15 +256,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1975-01-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1975-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1978-08-01</date>
+                <date>1978-08</date>
                 <note/>
             </ended>
             <note/>
@@ -274,7 +274,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
-            <id>ly--eagl-01</id>
+            <id>ly-1978-eagl-01</id>
             <person-id>eagleton-william-lester-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -283,11 +283,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1978-08-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1978-08</date>
                 <note/>
             </started>
             <ended>
@@ -313,7 +313,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </mission-note>
         <chief>
-            <id>ly--berr-01</id>
+            <id>ly-2004-berr-01</id>
             <person-id>berry-gregory-l</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -340,7 +340,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
-            <id>ly--berr-01</id>
+            <id>ly-2006-berr-01</id>
             <person-id>berry-gregory-l</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -349,11 +349,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2006-05-31</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2006-05-31</date>
                 <note/>
             </started>
             <ended>
@@ -439,8 +439,8 @@
             </started>
             <ended>
                 <date>2015-09-12</date>
-                <note>Embassy closed July 26, 2014 and mission moved to Valetta. Mission moved
-                    to Tunis, June-July 2015. Left Tunis on</note>
+                <note>Embassy closed July 26, 2014 and mission moved to Valetta. Mission moved to
+                    Tunis, June-July 2015. Left Tunis on</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>

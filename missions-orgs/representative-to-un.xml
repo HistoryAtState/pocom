@@ -8,7 +8,11 @@
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. to the United Nations, with the rank and status of Ambassador Extraordinary and Plenipotentiary, and Representative of the U.S.A. in the Security Council of the United Nations. The U.S. Mission to the United Nations was formally established with that title, by E.O. 9844 of April 28, 1947.</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. to the United
+                Nations, with the rank and status of Ambassador Extraordinary and Plenipotentiary,
+                and Representative of the U.S.A. in the Security Council of the United Nations. The
+                U.S. Mission to the United Nations was formally established with that title, by E.O.
+                9844 of April 28, 1947.</p>
         </div>
     </description>
     <chiefs>
@@ -251,7 +255,7 @@
         </chief>
         <chief>
             <id>un-1971-bush</id>
-            <person-id>bush-george-h-w</person-id>
+            <person-id>bush-george-herbert-walker</person-id>
             <role-title-id>representative-to-un</role-title-id>
             <appointed>
                 <date>1971-02-16</date>
@@ -794,32 +798,6 @@
             <created-date>2019-09-12</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-09-18</last-modified-date>
-        </chief>
-        <chief>
-            <id>un-2021-thom-01</id>
-            <person-id>thomas-greenfield-linda</person-id>
-            <role-title-id>representative-to-un</role-title-id>
-            <appointed>
-                <date>2021-02-24</date>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>2021-02-25</date>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-09-17</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
         </chief>
     </chiefs>
     <other-appointees/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
-    <territory-id>micronesia-federated-states-of</territory-id>
+    <territory-id>micronesia</territory-id>
     <chiefs>
         <chief>
             <id>fm-1987-wyga-01</id>
@@ -57,7 +57,7 @@
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
         <chief>
-            <id>fm-1994-eu-m-01</id>
+            <id>fm-1994-eu-01</id>
             <person-id>eu-march-fong</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -84,7 +84,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>fm--mart-01</id>
+            <id>fm-1996-mart-01</id>
             <person-id>martin-cheryl-ann</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -93,15 +93,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1996-08-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1996-08</date>
                 <note/>
             </started>
             <ended>
-                <date>1999-10-01</date>
+                <date>1999-10</date>
                 <note/>
             </ended>
             <note/>

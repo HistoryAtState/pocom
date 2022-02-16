@@ -3,7 +3,7 @@
     <territory-id>kosovo</territory-id>
     <chiefs>
         <chief>
-            <id>xk--kaid-01</id>
+            <id>xk-2008-kaid-01</id>
             <person-id>kaidanow-tina-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kosovo</contemporary-territory-id>
@@ -12,15 +12,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2008-04-08</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2008-04-08</date>
                 <note/>
             </started>
             <ended>
-                <date>2008-07-01</date>
+                <date>2008-07</date>
                 <note/>
             </ended>
             <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
-            <id>xk-2008-kaid-01</id>
+            <id>xk-2008-kaid-02</id>
             <person-id>kaidanow-tina-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kosovo</contemporary-territory-id>
@@ -163,33 +163,6 @@
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
-        </chief>
-        <chief>
-            <id>xk-2021-hove-01</id>
-            <person-id>hovenier-jeffrey-m</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>kosovo</contemporary-territory-id>
-            <appointed>
-                <date>2021-11-19</date>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-12-08</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees/>

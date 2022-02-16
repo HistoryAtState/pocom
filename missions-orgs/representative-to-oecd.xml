@@ -3,12 +3,16 @@
     <id>representative-to-oecd</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the Organization for Economic Cooperation and Development (Paris)</singular>
-        <plural>Representatives of the U.S.A. to the Organization for Economic Cooperation and Development (Paris)</plural>
+        <singular>Representative of the U.S.A. to the Organization for Economic Cooperation and
+            Development (Paris)</singular>
+        <plural>Representatives of the U.S.A. to the Organization for Economic Cooperation and
+            Development (Paris)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. to the Organization for Economic Cooperation and Development, with the rank of Ambassador.</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. to the
+                Organization for Economic Cooperation and Development, with the rank of
+                Ambassador.</p>
         </div>
     </description>
     <chiefs>
@@ -437,15 +441,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2012-06-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2012-06</date>
                 <note/>
             </started>
             <ended>
-                <date>2014-04-01</date>
+                <date>2014-04</date>
                 <note/>
             </ended>
             <note/>
@@ -489,11 +493,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2017-10-02</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2017-10-02</date>
                 <note/>
             </started>
             <ended>
@@ -507,58 +511,5 @@
             <last-modified-date>2020-10-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-appointees>
-        <chief>
-            <id>oecd--bate-01</id>
-            <person-id>bates-pamela</person-id>
-            <role-title-id>representative-to-oecd</role-title-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of September 24, 2018 and renomination of January 16, 2019 returned to the president on January 3, 2020.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-18</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
-        </chief>
-        <chief>
-            <id>oecd--sing-01</id>
-            <person-id>singh-manisha</person-id>
-            <role-title-id>representative-to-oecd</role-title-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of May 4, 2020 returned to the president on January 3, 2021.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-19</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
-        </chief>
-    </other-appointees>
+    <other-appointees/>
 </org-mission>

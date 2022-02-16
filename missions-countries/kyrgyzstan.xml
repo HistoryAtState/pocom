@@ -3,7 +3,7 @@
     <territory-id>kyrgyzstan</territory-id>
     <chiefs>
         <chief>
-            <id>kg--mcwi-01</id>
+            <id>kg-1992-mcwi-01</id>
             <person-id>mcwilliams-edmund</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1992-02-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1992-02-01</date>
                 <note/>
             </started>
             <ended>
@@ -57,7 +57,7 @@
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
         <chief>
-            <id>kg--robe-01</id>
+            <id>kg-1993-robe-01</id>
             <person-id>roberts-george-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -66,15 +66,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1993-03-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1993-03</date>
                 <note/>
             </started>
             <ended>
-                <date>1994-11-01</date>
+                <date>1994-11</date>
                 <note/>
             </ended>
             <note/>
@@ -300,7 +300,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>kg-2018-lu-d-01</id>
+            <id>kg-2018-lu-01</id>
             <person-id>lu-donald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>

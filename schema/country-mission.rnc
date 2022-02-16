@@ -7,34 +7,22 @@ element country-mission {
              element role-title-id { xsd:NCName },
              element contemporary-territory-id { xsd:NCName },
              element appointed {
-                 element date {
-                     attribute certainty { "high" }?,
-                     text
-                 },
+                 element date { text },
                  element note { text }
              },
              element arrived {
-                 element date {
-                     attribute certainty { "high" }?,
-                     text
-                 },
+                 element date { text },
                  element note { text }
              },
              element started {
-                 element date {
-                     attribute certainty { "high" }?,
-                     text
-                 },
+                 element date { text },
                  element note { text }
              },
              element ended {
-                 element date {
-                     attribute certainty { "high" }?,
-                     text
-                 },
+                 element date { text },
                  element note { text }
              },
-             element note { text }*,
+             element note { text },
              element created-by { text },
              element created-date { xsd:date },
              element last-modified-by { text },
@@ -55,42 +43,26 @@ element country-mission {
             element role-title-id { xsd:NCName },
             element contemporary-territory-id { xsd:NCName },
             element appointed {
-                element date {
-                    attribute certainty { "high" }?,
-                    text
-                },
+                element date { text },
                 element note { text }
             },
             element arrived {
-                element date {
-                    attribute certainty { "high" }?,
-                    text
-                },
+                element date { text },
                 element note { text }
             },
             element started {
-                element date {
-                    attribute certainty { "high" }?,
-                    text
-                },
+                element date { text },
                 element note { text }
             },
             element ended {
-                element date {
-                    attribute certainty { "high" }?,
-                    text
-                },
+                element date { text },
                 element note { text }
             },
-            element note { text }*,
+            element note { text },
             element created-by { xsd:NCName },
             element created-date { xsd:date },
             element last-modified-by { xsd:NCName },
             element last-modified-date { xsd:date }
         }*
-    },
-    element created-by { xsd:NCName },
-    element created-date { xsd:date },
-    element last-modified-by { xsd:NCName },
-    element last-modified-date { xsd:date }
+    }
 }

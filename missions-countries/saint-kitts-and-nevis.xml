@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
-    <territory-id>saint-kitts-and-nevis</territory-id>
+    <territory-id>saint-kitts-nevis</territory-id>
     <chiefs>
         <chief>
             <id>kn-1984-ande-01</id>
@@ -57,7 +57,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>kn--mchu-01</id>
+            <id>kn-1988-mchu-01</id>
             <person-id>mchugh-r-james</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -66,15 +66,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1988-08-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1988-08</date>
                 <note/>
             </started>
             <ended>
-                <date>1989-12-01</date>
+                <date>1989-12</date>
                 <note/>
             </ended>
             <note/>
@@ -84,7 +84,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>kn--salt-01</id>
+            <id>kn-1991-salt-01</id>
             <person-id>salter-bryant-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -93,15 +93,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1991-01-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1991-01</date>
                 <note/>
             </started>
             <ended>
-                <date>1994-03-01</date>
+                <date>1994-03</date>
                 <note/>
             </ended>
             <note/>
@@ -247,7 +247,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>kn--hard-01</id>
+            <id>kn-2009-hard-01</id>
             <person-id>hardt-d-brent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -256,15 +256,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2009-01-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2009-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2011-06-01</date>
+                <date>2011-06</date>
                 <note/>
             </ended>
             <note/>
@@ -355,33 +355,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
-        </chief>
-        <chief>
-            <id>kn--rizz-01</id>
-            <person-id>rizzuto-leandro</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of January 8, 2018 and renomination of January 16, 2019 returned to the president on January 3, 2020.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-19</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

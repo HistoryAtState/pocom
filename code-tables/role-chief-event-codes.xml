@@ -13,13 +13,15 @@
             <label>Arrived</label>
             <value>arrived</value>
             <class>chief</class>
-            <definition>The date a person arrived and assumed charge of a diplomatic post.</definition>
+            <definition>The date a person arrived and assumed charge of a diplomatic
+                post.</definition>
         </item>
         <item>
             <label>Credentialed</label>
             <value>credentialed</value>
             <class>chief</class>
-            <definition>The date a person formally presented their diplomatic credentials to the host government.</definition>
+            <definition>The date a person formally presented their diplomatic credentials to the
+                host government.</definition>
         </item>
         <item>
             <label>Mission Terminated</label>

@@ -3,7 +3,7 @@
     <territory-id>barbados</territory-id>
     <chiefs>
         <chief>
-            <id>bb--dolg-01</id>
+            <id>bb-1966-dolg-01</id>
             <person-id>dolgin-george</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1966-11-30</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1966-11-30</date>
                 <note/>
             </started>
             <ended>
@@ -248,7 +248,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bb--clar-01</id>
+            <id>bb-1988-clar-01</id>
             <person-id>clark-john-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -257,15 +257,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1988-06-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1988-06</date>
                 <note/>
             </started>
             <ended>
-                <date>1990-07-01</date>
+                <date>1990-07</date>
                 <note/>
             </ended>
             <note/>
@@ -465,7 +465,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>bb--hard-01</id>
+            <id>bb-2009-hard-01</id>
             <person-id>hardt-d-brent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -474,15 +474,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2009-01-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2009-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2011-06-01</date>
+                <date>2011-06</date>
                 <note/>
             </ended>
             <note/>
@@ -548,7 +548,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>bb--silv-01</id>
+            <id>bb-1989-silv-01</id>
             <person-id>silverman-joy-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -573,33 +573,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
-        </chief>
-        <chief>
-            <id>bb--rizz-01</id>
-            <person-id>rizzuto-leandro</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>barbados</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of January 8, 2018 and renomination of January 16, 2019 returned to the president on January 3, 2020.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-19</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

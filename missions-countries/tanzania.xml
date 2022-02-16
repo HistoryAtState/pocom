@@ -3,7 +3,7 @@
     <territory-id>tanzania</territory-id>
     <chiefs>
         <chief>
-            <id>tz--dugg-01</id>
+            <id>tz-1961-dugg-01</id>
             <person-id>duggan-william-redman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1961-12-09</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1961-12-09</date>
                 <note/>
             </started>
             <ended>
@@ -29,6 +29,18 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
+        <mission-note>
+            <text>On December 10, 1963, the Embassy in Zanzibar was established with Frederick P.
+                Picard III as Chargé d’Affaires ad interim. An Ambassador to Zanzibar had not yet
+                been appointed when that country was united with the Republic of Tanganyika on April
+                27, 1964. Frank C. Carlucci III was serving as Charge d’Affaires ad interim when
+                Embassy Zanzibar was changed in rank to a Consulate General, effective June 27,
+                1964.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </mission-note>
         <chief>
             <id>tz-1962-leon-01</id>
             <person-id>leonhart-william</person-id>
@@ -58,18 +70,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <mission-note>
-            <text>On December 10, 1963, the Embassy in Zanzibar was established with Frederick P.
-                Picard III as Chargé d’Affaires ad interim. An Ambassador to Zanzibar had not yet
-                been appointed when that country was united with the Republic of Tanganyika on April
-                27, 1964. Frank C. Carlucci III was serving as Charge d’Affaires ad interim when
-                Embassy Zanzibar was changed in rank to a Consulate General, effective June 27,
-                1964.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-01-29</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-29</last-modified-date>
-        </mission-note>
         <chief>
             <id>tz-1965-burn-01</id>
             <person-id>burns-john-howard</person-id>
@@ -314,7 +314,7 @@
             <last-modified-date>2013-02-21</last-modified-date>
         </chief>
         <chief>
-            <id>tz-1992-de-v-01</id>
+            <id>tz-1992-de-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -422,7 +422,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>tz--owen-01</id>
+            <id>tz-2003-roya-01</id>
             <person-id>owen-michael-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -431,15 +431,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2003-11-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2003-11</date>
                 <note/>
             </started>
             <ended>
-                <date>2005-07-01</date>
+                <date>2005-07</date>
                 <note/>
             </ended>
             <note/>
@@ -557,7 +557,7 @@
             <last-modified-date>2019-05-14</last-modified-date>
         </chief>
         <chief>
-            <id>tz--patt-01</id>
+            <id>tz-2017-patt-01</id>
             <person-id>patterson-inmi-k</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -566,11 +566,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2017-06-05</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2017-06-05</date>
                 <note/>
             </started>
             <ended>

@@ -3,7 +3,7 @@
     <territory-id>zambia</territory-id>
     <chiefs>
         <chief>
-            <id>zm--foul-01</id>
+            <id>zm-1964-foul-01</id>
             <person-id>foulon-robert-cartwright</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1964-10-24</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1964-10-24</date>
                 <note/>
             </started>
             <ended>
@@ -111,7 +111,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>zm-1976-low--01</id>
+            <id>zm-1976-low-01</id>
             <person-id>low-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>zambia</contemporary-territory-id>

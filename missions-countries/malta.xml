@@ -3,7 +3,7 @@
     <territory-id>malta</territory-id>
     <chiefs>
         <chief>
-            <id>mt--lewi-01</id>
+            <id>mt-1964-lewi-01</id>
             <person-id>lewis-harrison</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1964-09-21</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1964-09-21</date>
                 <note/>
             </started>
             <ended>
@@ -220,7 +220,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt--ward-01</id>
+            <id>mt-1981-ward-01</id>
             <person-id>wardlaw-frank-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -229,15 +229,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1981-02-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1981-02</date>
                 <note/>
             </started>
             <ended>
-                <date>1982-08-01</date>
+                <date>1982-08</date>
                 <note/>
             </ended>
             <note/>
@@ -355,7 +355,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt--moff-01</id>
+            <id>mt-1993-moff-01</id>
             <person-id>moffitt-william-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -364,15 +364,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1993-02-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1993-02</date>
                 <note/>
             </started>
             <ended>
-                <date>1994-06-01</date>
+                <date>1994-06</date>
                 <note/>
             </ended>
             <note/>
@@ -409,7 +409,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mt--patt-01</id>
+            <id>mt-1996-patt-01</id>
             <person-id>patterson-charles-n</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -418,15 +418,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1996-06-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1996-06</date>
                 <note/>
             </started>
             <ended>
-                <date>1997-07-01</date>
+                <date>1997-07</date>
                 <note/>
             </ended>
             <note/>
@@ -598,7 +598,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>mt--scha-01</id>
+            <id>mt-2018-scha-01</id>
             <person-id>schapiro-mark-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -625,33 +625,5 @@
             <last-modified-date>2020-09-10</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>mt--tore-01</id>
-            <person-id>toretti-christine-j</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>malta</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of May 24, 2018 and renomination of January 16, 2019 returned to the president on January 3, 2020.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-19</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
-        </chief>
-    </other-nominees>
+    <other-nominees/>
 </country-mission>

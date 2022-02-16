@@ -57,7 +57,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>si-1998-ely--01</id>
+            <id>si-1998-ely-01</id>
             <person-id>ely-raphel-nancy-halliday</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -165,7 +165,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>si--fred-01</id>
+            <id>si-2009-fred-01</id>
             <person-id>freden-bradley</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>
@@ -178,11 +178,11 @@
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2009-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2010-11-01</date>
+                <date>2010-11</date>
                 <note/>
             </ended>
             <note/>
@@ -263,19 +263,19 @@
                 <note/>
             </started>
             <ended>
-                <date>2021-01-17</date>
+                <date/>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-08-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2021-02-05</last-modified-date>
+            <last-modified-date>2019-08-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>si--obsi-01</id>
+            <id>si-2007-obsi-01</id>
             <person-id>obsitnik-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>slovenia</contemporary-territory-id>

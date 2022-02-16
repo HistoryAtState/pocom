@@ -219,7 +219,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>nr--mcmu-01</id>
+            <id>nr-2001-mcmu-01</id>
             <person-id>mcmullen-ronald-keith</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -228,15 +228,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2001-06-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2001-06</date>
                 <note/>
             </started>
             <ended>
-                <date>2002-06-01</date>
+                <date>2002-06</date>
                 <note/>
             </ended>
             <note/>
@@ -381,7 +381,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>nr--gold-01</id>
+            <id>nr-2018-gold-01</id>
             <person-id>goldman-michael-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nauru</contemporary-territory-id>
@@ -390,11 +390,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2018-02-25</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2018-02-25</date>
                 <note/>
             </started>
             <ended>
@@ -425,14 +425,14 @@
                 <note/>
             </started>
             <ended>
-                <date>2021-01-20</date>
+                <date/>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2021-02-17</last-modified-date>
+            <last-modified-date>2019-12-19</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

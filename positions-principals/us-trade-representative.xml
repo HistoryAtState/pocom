@@ -6,9 +6,10 @@
     <names>
         <singular>U.S. Trade Representative</singular>
         <plural>U.S. Trade Representatives</plural>
+        <alternate>Special Representative for Trade Negotiations</alternate>
     </names>
-    <start accuracy="yyyy">1962</start>
-    <end accuracy="yyyy">1997</end>
+    <start>1962</start>
+    <end>1997</end>
     <ongoing>false</ongoing>
     <description>
         <div>
@@ -259,14 +260,14 @@
                 <date>1993-09-21</date>
                 <note/>
             </appointed>
-            <started>
-                <date>1993-01-22</date>
-                <note/>
-            </started>
             <ended>
                 <date/>
                 <note/>
             </ended>
+            <started>
+                <date>1993-01-22</date>
+                <note/>
+            </started>
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>

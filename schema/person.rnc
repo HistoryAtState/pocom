@@ -10,47 +10,8 @@ start =
             element genName { text }?,
             element altname { text }*
         },
-        element birth {
-            (xsd:gYear,
-             attribute certainty {
-                 
-                 ## High (confirms the year and overrides warnings about unexpected ages)
-                 "high"
-             }?)
-            | (xsd:gYear,
-               attribute precision {
-                   
-                   ## Low (indicates "circa")
-                   "low"
-               })
-            | attribute type {
-                  
-                  ## Unknown year (indicates research has failed to locate the year of birth)
-                  "unknown"
-              }
-        },
-        element death {
-            (xsd:gYear,
-             attribute certainty {
-                 
-                 ## High (confirms the year and overrides warnings about unexpected ages)
-                 "high"
-             }?)
-            | (xsd:gYear,
-               attribute precision {
-                   
-                   ## Low (indicates "circa")
-                   "low"
-               })
-            | attribute type {
-                  
-                  ## Unknown year (indicates research has failed to locate the year of death)
-                  "unknown"
-                  | 
-                    ## Still living (confirms the year and overrides warnings about unexpected ages)
-                    "still-living"
-              }
-        },
+        element birth { xsd:gYear? },
+        element death { xsd:gYear? },
         element career-type {
             
             ## Non-career
@@ -66,194 +27,189 @@ start =
               "pre-1915"
         },
         element residence {
-            element state-id {
-                attribute sort {
-                 
-                 ## High (confirms the year and overrides warnings about unexpected ages)
-                 xsd:integer
-                }?,
-                (
-                ## Alabama
-                "al"
-                | 
-                  ## Alaska
-                  "ak"
-                | 
-                  ## Arizona
-                  "az"
-                | 
-                  ## Arkansas
-                  "ar"
-                | 
-                  ## California
-                  "ca"
-                | 
-                  ## Colorado
-                  "co"
-                | 
-                  ## Connecticut
-                  "ct"
-                | 
-                  ## Delaware
-                  "de"
-                | 
-                  ## District of Columbia
-                  "dc"
-                | 
-                  ## Florida
-                  "fl"
-                | 
-                  ## Georgia
-                  "ga"
-                | 
-                  ## Hawaii
-                  "hi"
-                | 
-                  ## Idaho
-                  "id"
-                | 
-                  ## Illinois
-                  "il"
-                | 
-                  ## Indiana
-                  "in"
-                | 
-                  ## Iowa
-                  "ia"
-                | 
-                  ## Kansas
-                  "ks"
-                | 
-                  ## Kentucky
-                  "ky"
-                | 
-                  ## Louisiana
-                  "la"
-                | 
-                  ## Maine
-                  "me"
-                | 
-                  ## Maryland
-                  "md"
-                | 
-                  ## Massachusetts
-                  "ma"
-                | 
-                  ## Michigan
-                  "mi"
-                | 
-                  ## Minnesota
-                  "mn"
-                | 
-                  ## Mississippi
-                  "ms"
-                | 
-                  ## Missouri
-                  "mo"
-                | 
-                  ## Montana
-                  "mt"
-                | 
-                  ## Nebraska
-                  "ne"
-                | 
-                  ## Nevada
-                  "nv"
-                | 
-                  ## New Hampshire
-                  "nh"
-                | 
-                  ## New Jersey
-                  "nj"
-                | 
-                  ## New Mexico
-                  "nm"
-                | 
-                  ## New York
-                  "ny"
-                | 
-                  ## North Carolina
-                  "nc"
-                | 
-                  ## North Dakota
-                  "nd"
-                | 
-                  ## Ohio
-                  "oh"
-                | 
-                  ## Oklahoma
-                  "ok"
-                | 
-                  ## Oregon
-                  "or"
-                | 
-                  ## Pennsylvania
-                  "pa"
-                | 
-                  ## Puerto Rico
-                  "pr"
-                | 
-                  ## Rhode Island
-                  "ri"
-                | 
-                  ## South Carolina
-                  "sc"
-                | 
-                  ## South Dakota
-                  "sd"
-                | 
-                  ## Tennessee
-                  "tn"
-                | 
-                  ## Texas
-                  "tx"
-                | 
-                  ## Utah
-                  "ut"
-                | 
-                  ## Vermont
-                  "vt"
-                | 
-                  ## Virginia
-                  "va"
-                | 
-                  ## Washington
-                  "wa"
-                | 
-                  ## West Virginia
-                  "wv"
-                | 
-                  ## Wisconsin
-                  "wi"
-                | 
-                  ## Wyoming
-                  "wy"
-                | 
-                  ## American Samoa
-                  "as"
-                | 
-                  ## Federated States of Micronesia
-                  "fm"
-                | 
-                  ## Guam
-                  "gu"
-                | 
-                  ## Marshall Islands
-                  "mh"
-                | 
-                  ## Northern Mariana Islands
-                  "mp"
-                | 
-                  ## Palau
-                  "pw"
-                | 
-                  ## Puerto Rico
-                  "pr"
-                | 
-                  ## U.S. Virgin Islands
-                  "vi"
-                )
-            }+
+            element state-id { empty }
+            | element state-id {
+                  
+                  ## Alabama
+                  "al"
+                  | 
+                    ## Alaska
+                    "ak"
+                  | 
+                    ## Arizona
+                    "az"
+                  | 
+                    ## Arkansas
+                    "ar"
+                  | 
+                    ## California
+                    "ca"
+                  | 
+                    ## Colorado
+                    "co"
+                  | 
+                    ## Connecticut
+                    "ct"
+                  | 
+                    ## Delaware
+                    "de"
+                  | 
+                    ## District of Columbia
+                    "dc"
+                  | 
+                    ## Florida
+                    "fl"
+                  | 
+                    ## Georgia
+                    "ga"
+                  | 
+                    ## Hawaii
+                    "hi"
+                  | 
+                    ## Idaho
+                    "id"
+                  | 
+                    ## Illinois
+                    "il"
+                  | 
+                    ## Indiana
+                    "in"
+                  | 
+                    ## Iowa
+                    "ia"
+                  | 
+                    ## Kansas
+                    "ks"
+                  | 
+                    ## Kentucky
+                    "ky"
+                  | 
+                    ## Louisiana
+                    "la"
+                  | 
+                    ## Maine
+                    "me"
+                  | 
+                    ## Maryland
+                    "md"
+                  | 
+                    ## Massachusetts
+                    "ma"
+                  | 
+                    ## Michigan
+                    "mi"
+                  | 
+                    ## Minnesota
+                    "mn"
+                  | 
+                    ## Mississippi
+                    "ms"
+                  | 
+                    ## Missouri
+                    "mo"
+                  | 
+                    ## Montana
+                    "mt"
+                  | 
+                    ## Nebraska
+                    "ne"
+                  | 
+                    ## Nevada
+                    "nv"
+                  | 
+                    ## New Hampshire
+                    "nh"
+                  | 
+                    ## New Jersey
+                    "nj"
+                  | 
+                    ## New Mexico
+                    "nm"
+                  | 
+                    ## New York
+                    "ny"
+                  | 
+                    ## North Carolina
+                    "nc"
+                  | 
+                    ## North Dakota
+                    "nd"
+                  | 
+                    ## Ohio
+                    "oh"
+                  | 
+                    ## Oklahoma
+                    "ok"
+                  | 
+                    ## Oregon
+                    "or"
+                  | 
+                    ## Pennsylvania
+                    "pa"
+                  | 
+                    ## Puerto Rico
+                    "pr"
+                  | 
+                    ## Rhode Island
+                    "ri"
+                  | 
+                    ## South Carolina
+                    "sc"
+                  | 
+                    ## South Dakota
+                    "sd"
+                  | 
+                    ## Tennessee
+                    "tn"
+                  | 
+                    ## Texas
+                    "tx"
+                  | 
+                    ## Utah
+                    "ut"
+                  | 
+                    ## Vermont
+                    "vt"
+                  | 
+                    ## Virginia
+                    "va"
+                  | 
+                    ## Washington
+                    "wa"
+                  | 
+                    ## West Virginia
+                    "wv"
+                  | 
+                    ## Wisconsin
+                    "wi"
+                  | 
+                    ## Wyoming
+                    "wy"
+                  | 
+                    ## American Samoa
+                    "as"
+                  | 
+                    ## Federated States of Micronesia
+                    "fm"
+                  | 
+                    ## Guam
+                    "gu"
+                  | 
+                    ## Marshall Islands
+                    "mh"
+                  | 
+                    ## Northern Mariana Islands
+                    "mp"
+                  | 
+                    ## Palau
+                    "pw"
+                  | 
+                    ## Puerto Rico
+                    "pr"
+                  | 
+                    ## U.S. Virgin Islands
+                    "vi"
+              }+
         },
         element created-by { xsd:NCName },
         element created-date { xsd:date },

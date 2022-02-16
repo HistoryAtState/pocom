@@ -57,7 +57,7 @@
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
         <chief>
-            <id>au--mint-01</id>
+            <id>au-1946-mint-01</id>
             <person-id>minter-john-russell</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -626,7 +626,7 @@
             <last-modified-date>2015-08-27</last-modified-date>
         </chief>
         <chief>
-            <id>au--stan-01</id>
+            <id>au-2005-stan-01</id>
             <person-id>stanton-william-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -635,15 +635,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2005-02-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2005-02</date>
                 <note/>
             </started>
             <ended>
-                <date>2006-07-01</date>
+                <date>2006-07</date>
                 <note/>
             </ended>
             <note/>
@@ -734,7 +734,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>au--caro-01</id>
+            <id>au-2016-caro-01</id>
             <person-id>carouso-james-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -743,11 +743,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2016-09-20</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2016-09-20</date>
                 <note/>
             </started>
             <ended>
@@ -778,19 +778,19 @@
                 <note/>
             </started>
             <ended>
-                <date>2021-01-18</date>
+                <date/>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2021-02-05</last-modified-date>
+            <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>au--flyn-01</id>
+            <id>au-1945-flyn-01</id>
             <person-id>flynn-edward-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -815,33 +815,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
-        </chief>
-        <chief>
-            <id>au--harr-01</id>
-            <person-id>harris-harry-b-jr</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>australia</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of February 13, 2018 withdrawn by the president on May 23, 2018.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-19</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

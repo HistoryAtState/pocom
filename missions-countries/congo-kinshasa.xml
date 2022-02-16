@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
-    <territory-id>congo-kinshasa</territory-id>
+    <territory-id>congo-democratic-republic</territory-id>
     <chiefs>
         <chief>
-            <id>cd--toml-01</id>
+            <id>cd-1960-toml-01</id>
             <person-id>tomlinson-john-doren</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>congo-kinshasa</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1960-06-30</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1960-06-30</date>
                 <note/>
             </started>
             <ended>
@@ -354,7 +354,7 @@
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>cd--yate-01</id>
+            <id>cd-1992-yate-01</id>
             <person-id>yates-john-melvin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>congo-kinshasa</contemporary-territory-id>
@@ -363,15 +363,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1992-03-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1992-03</date>
                 <note/>
             </started>
             <ended>
-                <date>1995-09-01</date>
+                <date>1995-09</date>
                 <note/>
             </ended>
             <note/>
@@ -571,7 +571,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>cd--hask-01</id>
+            <id>cd-2017-hask-01</id>
             <person-id>haskell-jennifer</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>congo-kinshasa</contemporary-territory-id>
@@ -580,11 +580,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2017-06-29</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2017-06-29</date>
                 <note/>
             </started>
             <ended>

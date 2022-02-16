@@ -58,7 +58,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>al--hart-01</id>
+            <id>al-1928-hart-01</id>
             <person-id>hart-charles-calmer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>albania-1946</contemporary-territory-id>
@@ -176,7 +176,7 @@
             <last-modified-date>2015-04-27</last-modified-date>
         </mission-note>
         <chief>
-            <id>al--hill-01</id>
+            <id>al-1991-hill-01</id>
             <person-id>hill-christopher-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>albania</contemporary-territory-id>
@@ -185,11 +185,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1991-10-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1991-10-01</date>
                 <note/>
             </started>
             <ended>
@@ -419,7 +419,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>al-2014-lu-d-01</id>
+            <id>al-2014-lu-01</id>
             <person-id>lu-donald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>albania</contemporary-territory-id>
@@ -446,7 +446,7 @@
             <last-modified-date>2019-05-16</last-modified-date>
         </chief>
         <chief>
-            <id>al--mose-01</id>
+            <id>al-2018-mose-01</id>
             <person-id>moses-ones-leyla</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>albania</contemporary-territory-id>
@@ -502,8 +502,8 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>al--kava-01</id>
-            <person-id>kavalec-kathleen-ann</person-id>
+            <id>al-2018-kava-01</id>
+            <person-id>kavalec-katherine-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>albania</contemporary-territory-id>
             <appointed>
@@ -522,7 +522,8 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nominated July 3, 2018; nomination returned by the Senate on January 3, 2019.</note>
+            <note>Nominated July 3, 2018; nominaion returned by the Senate on January 3,
+                2019.</note>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-29</created-date>
             <last-modified-by>bottsjd</last-modified-by>

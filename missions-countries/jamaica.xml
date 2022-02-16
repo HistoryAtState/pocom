@@ -3,7 +3,7 @@
     <territory-id>jamaica</territory-id>
     <chiefs>
         <chief>
-            <id>jm--ches-01</id>
+            <id>jm-1962-ches-01</id>
             <person-id>cheslaw-irving-gottlieb</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1962-08-16</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1962-08-16</date>
                 <note/>
             </started>
             <ended>
@@ -112,7 +112,7 @@
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
         <chief>
-            <id>jm-1969-de-r-01</id>
+            <id>jm-1969-de-01</id>
             <person-id>de-roulet-vincent-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -302,7 +302,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jm--wrig-01</id>
+            <id>jm-1993-wrig-01</id>
             <person-id>wright-lacy-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -311,15 +311,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1993-03-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1993-03</date>
                 <note/>
             </started>
             <ended>
-                <date>1994-11-01</date>
+                <date>1994-11</date>
                 <note/>
             </ended>
             <note/>
@@ -464,7 +464,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>jm--mart-01</id>
+            <id>jm-2013-mart-01</id>
             <person-id>martinez-elizabeth-lee</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -473,15 +473,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2013-11-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2013-11</date>
                 <note/>
             </started>
             <ended>
-                <date>2015-01-01</date>
+                <date>2015-01</date>
                 <note/>
             </ended>
             <note/>
@@ -518,7 +518,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>jm--khan-01</id>
+            <id>jm-2017-khan-01</id>
             <person-id>khant-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -527,11 +527,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2017-06-30</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2017-06-30</date>
                 <note/>
             </started>
             <ended>
@@ -562,19 +562,19 @@
                 <note/>
             </started>
             <ended>
-                <date>2021-01-08</date>
+                <date/>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-08-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2021-01-14</last-modified-date>
+            <last-modified-date>2019-09-12</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>jm--chis-01</id>
+            <id>jm-1993-chis-01</id>
             <person-id>chisholm-shirley-anita</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -594,7 +594,8 @@
                 <date/>
                 <note/>
             </ended>
-            <note>On July 29, 1993, President Clinton announced his intention to nominate Chisholm. The nomination was withdrawn on October 13, 1993.</note>
+            <note>On July 29, 1993, President Clinton announced his intention to nominate Chisholm.
+                The nomination was withdrawn on October 13, 1993.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>

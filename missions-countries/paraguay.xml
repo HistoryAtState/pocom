@@ -148,12 +148,13 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1876-10-06</date>
-                <note>No record found of presentation of credentials; acknowledged receipt of his commission on</note>
-            </arrived>
-            <started>
                 <date/>
                 <note/>
+            </arrived>
+            <started>
+                <date>1876-10-06</date>
+                <note>No record found of presentation of credentials; acknowledged receipt of his
+                    commission on</note>
             </started>
             <ended>
                 <date>1882-07-10</date>
@@ -175,11 +176,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1882-08-26</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1882-08-26</date>
                 <note/>
             </started>
             <ended>
@@ -202,11 +203,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1885-09-16</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1885-09-16</date>
                 <note/>
             </started>
             <ended>
@@ -265,7 +266,7 @@
                 <note/>
             </started>
             <ended>
-                <date>1891-08-01</date>
+                <date>1891-08</date>
                 <note>Promoted to Envoy Extraordinary and Minister Plenipotentiary</note>
             </ended>
             <note>Commissioned during a recess of the Senate.</note>
@@ -288,7 +289,7 @@
                 <note/>
             </arrived>
             <started>
-                <date>1891-08-01</date>
+                <date>1891-08</date>
                 <note>Presentation not reported; letter of credence probably presented when Maney
                     visited Asuncion in</note>
             </started>
@@ -1332,7 +1333,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>py--rodr-01</id>
+            <id>py-2017-rodr-01</id>
             <person-id>rodriguez-hugo-f</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1341,11 +1342,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2017-01-31</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2017-01-31</date>
                 <note/>
             </started>
             <ended>

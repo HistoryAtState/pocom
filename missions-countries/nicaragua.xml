@@ -17,7 +17,7 @@
             </arrived>
             <started>
                 <date>1852-02-18</date>
-                <note>Officially recognized on</note>
+                <note>Officailly recognized on</note>
             </started>
             <ended>
                 <date>1853-06-01</date>
@@ -335,7 +335,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>ni-1882-hall-01</id>
+            <id>ni-1882-hall-02</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1256,7 +1256,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>ni--leon-01</id>
+            <id>ni-1988-leon-01</id>
             <person-id>leonard-john-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1265,15 +1265,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1988-07-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1988-07</date>
                 <note/>
             </started>
             <ended>
-                <date>1990-06-01</date>
+                <date>1990-06</date>
                 <note/>
             </ended>
             <note/>
@@ -1310,7 +1310,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>ni--goda-01</id>
+            <id>ni-1992-goda-01</id>
             <person-id>godard-ronald-d</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1319,15 +1319,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1992-03-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1992-03</date>
                 <note/>
             </started>
             <ended>
-                <date>1993-09-01</date>
+                <date>1993-09</date>
                 <note/>
             </ended>
             <note/>
@@ -1745,7 +1745,7 @@
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
         <chief>
-            <id>ni--farr-01</id>
+            <id>ni-2011-farr-01</id>
             <person-id>farrar-jonathan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>

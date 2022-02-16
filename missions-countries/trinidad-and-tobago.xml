@@ -3,7 +3,7 @@
     <territory-id>trinidad-and-tobago</territory-id>
     <chiefs>
         <chief>
-            <id>tt--chri-01</id>
+            <id>tt-1962-chri-01</id>
             <person-id>christensen-william-harold</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1962-08-31</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1962-08-31</date>
                 <note/>
             </started>
             <ended>
@@ -165,7 +165,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tt-1976-fay--01</id>
+            <id>tt-1976-fay-01</id>
             <person-id>fay-albert-bel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
@@ -192,7 +192,7 @@
             <last-modified-date>2012-05-03</last-modified-date>
         </chief>
         <chief>
-            <id>tt-1977-fox--01</id>
+            <id>tt-1977-fox-01</id>
             <person-id>fox-richard-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
@@ -435,7 +435,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>tt--kusn-01</id>
+            <id>tt-2009-kusn-01</id>
             <person-id>kusnitz-len</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
@@ -444,15 +444,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2009-01-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2009-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2010-05-01</date>
+                <date>2010-05</date>
                 <note/>
             </ended>
             <note/>
@@ -489,7 +489,7 @@
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
         <chief>
-            <id>tt--wolf-01</id>
+            <id>tt-2012-wolf-01</id>
             <person-id>wolfe-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
@@ -498,15 +498,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2012-11-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2012-11</date>
                 <note/>
             </started>
             <ended>
-                <date>2013-07-01</date>
+                <date>2013-07</date>
                 <note/>
             </ended>
             <note/>
@@ -516,7 +516,7 @@
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
         <chief>
-            <id>tt--diop-01</id>
+            <id>tt-2013-diop-01</id>
             <person-id>diop-margaret-brumfield</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
@@ -525,15 +525,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2013-07-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2013-07</date>
                 <note/>
             </started>
             <ended>
-                <date>2016-04-01</date>
+                <date>2016-04</date>
                 <note/>
             </ended>
             <note/>
@@ -570,7 +570,7 @@
             <last-modified-date>2019-05-29</last-modified-date>
         </chief>
         <chief>
-            <id>tt--mcin-01</id>
+            <id>tt-2017-mcin-01</id>
             <person-id>mcintyre-john-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>trinidad-and-tobago</contemporary-territory-id>
@@ -579,11 +579,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </started>
             <ended>

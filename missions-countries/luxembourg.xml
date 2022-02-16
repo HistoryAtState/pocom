@@ -112,7 +112,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>lu-1913-van--01</id>
+            <id>lu-1913-van-01</id>
             <person-id>van-dyke-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -473,7 +473,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>lu--gree-01</id>
+            <id>lu-1944-gree-01</id>
             <person-id>greene-winthrop-stephenson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -482,12 +482,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1944-09-23</date>
-                <note>Legation Luxembourg reestablished on</note>
-            </arrived>
-            <started>
                 <date/>
                 <note/>
+            </arrived>
+            <started>
+                <date>1944-09-23</date>
+                <note>Legation Luxembourg reestablished on</note>
             </started>
             <ended>
                 <date/>
@@ -1044,7 +1044,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>lu--loft-01</id>
+            <id>lu-2001-loft-01</id>
             <person-id>loftus-gerald-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1053,15 +1053,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2001-01-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2001-01</date>
                 <note/>
             </started>
             <ended>
-                <date>2002-04-01</date>
+                <date>2002-04</date>
                 <note/>
             </ended>
             <note/>
@@ -1223,14 +1223,14 @@
                 <note/>
             </started>
             <ended>
-                <date>2021-01-21</date>
+                <date/>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2021-02-17</last-modified-date>
+            <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

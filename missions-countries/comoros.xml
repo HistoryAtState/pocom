@@ -3,7 +3,7 @@
     <territory-id>comoros</territory-id>
     <chiefs>
         <chief>
-            <id>km--barr-01</id>
+            <id>km-1977-barr-01</id>
             <person-id>barrett-robert-south</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -12,15 +12,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1977-08-15</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1977-08-15</date>
                 <note/>
             </started>
             <ended>
-                <date>1980-06-01</date>
+                <date>1980-06</date>
                 <note>Left Antananarivo</note>
             </ended>
             <note/>
@@ -165,13 +165,6 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <mission-note>
-            <text>Embassy Moroni was closed on September 30, 1993.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-10-29</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-10-29</last-modified-date>
-        </mission-note>
         <chief>
             <id>km-1993-alex-01</id>
             <person-id>alexander-leslie-m</person-id>
@@ -199,6 +192,13 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Moroni was closed on September 30, 1993.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </mission-note>
         <chief>
             <id>km-1996-geis-01</id>
             <person-id>geisel-harold-w</person-id>
@@ -281,7 +281,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>km--schw-01</id>
+            <id>km-2005-schw-01</id>
             <person-id>schwartz-stephen-michael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -290,15 +290,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2005-06-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2005-06</date>
                 <note/>
             </started>
             <ended>
-                <date>2006-10-01</date>
+                <date>2006-10</date>
                 <note/>
             </ended>
             <note/>
@@ -335,7 +335,7 @@
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
         <chief>
-            <id>km--stro-01</id>
+            <id>km-2010-stro-01</id>
             <person-id>stromayer-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -344,15 +344,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2010-06-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2010-06</date>
                 <note/>
             </started>
             <ended>
-                <date>2011-07-01</date>
+                <date>2011-07</date>
                 <note/>
             </ended>
             <note/>
@@ -362,7 +362,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>km--wong-01</id>
+            <id>km-2011-wong-01</id>
             <person-id>wong-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -371,15 +371,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2011-09-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2011-09</date>
                 <note/>
             </started>
             <ended>
-                <date>2014-08-01</date>
+                <date>2014-08</date>
                 <note/>
             </ended>
             <note/>
@@ -389,7 +389,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>km-2014-yama-01</id>
+            <id>km-2013-yama-01</id>
             <person-id>yamate-robert-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>

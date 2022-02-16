@@ -3,7 +3,7 @@
     <territory-id>guinea</territory-id>
     <chiefs>
         <chief>
-            <id>gn--rind-01</id>
+            <id>gn-1959-rind-01</id>
             <person-id>rinden-robert-watland</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guinea</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1959-02-13</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1959-02-13</date>
                 <note/>
             </started>
             <ended>
@@ -300,7 +300,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gn--mith-01</id>
+            <id>gn-1986-mith-01</id>
             <person-id>mithoefer-william-coleman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guinea</contemporary-territory-id>
@@ -309,15 +309,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1986-07-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1986-07</date>
                 <note/>
             </started>
             <ended>
-                <date>1987-10-01</date>
+                <date>1987-10</date>
                 <note/>
             </ended>
             <note/>
@@ -516,7 +516,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>gn-2007-cart-01</id>
+            <id>gn-2005-cart-01</id>
             <person-id>carter-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea</contemporary-territory-id>
@@ -653,7 +653,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>gn--rent-01</id>
+            <id>gn-1986-rent-01</id>
             <person-id>rentschler-james-malone</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea</contemporary-territory-id>

@@ -157,7 +157,7 @@
             </started>
             <ended>
                 <date>1943-09-28</date>
-                <note>Government of Yugoslavia transferred to Egypt</note>
+                <note>Government of Yugoslavia transferred to Egypt </note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -575,33 +575,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>xi--rack-01</id>
-            <person-id>rackmales-robert</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date>1992-05-01</date>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>1993-07-01</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-01-05</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-05</last-modified-date>
-        </chief>
         <mission-note>
             <text>On May 21, 1992, the United States announced that it would not recognize the
                 Federal Republic of Yugoslavia (comprising the Republics of Serbia and Montenegro)
@@ -612,7 +585,34 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </mission-note>
         <chief>
-            <id>xi--peri-01</id>
+            <id>xi-1992-rack-01</id>
+            <person-id>rackmales-robert</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date>1992-05</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1993-07</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-05</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>xi-1993-peri-01</id>
             <person-id>perina-rudolf-vilem</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -621,15 +621,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1993-07-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1993-07</date>
                 <note/>
             </started>
             <ended>
-                <date>1996-06-01</date>
+                <date>1996-06</date>
                 <note/>
             </ended>
             <note/>
@@ -639,7 +639,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>xi--mile-01</id>
+            <id>xi-1996-mile-01</id>
             <person-id>miles-richard-monroe</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -648,11 +648,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1996-08-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1996-08</date>
                 <note/>
             </started>
             <ended>

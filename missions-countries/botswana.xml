@@ -3,7 +3,7 @@
     <territory-id>botswana</territory-id>
     <chiefs>
         <chief>
-            <id>bw--plet-01</id>
+            <id>bw-1966-plet-01</id>
             <person-id>pletcher-charles-hutchinson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -12,15 +12,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1966-09-30</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1966-09-30</date>
                 <note/>
             </started>
             <ended>
-                <date>1970-06-01</date>
+                <date>1970-06</date>
                 <note/>
             </ended>
             <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
         <chief>
-            <id>bw--crom-01</id>
+            <id>bw-1970-crom-01</id>
             <person-id>cromwell-william-kennedy</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -39,15 +39,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1970-06-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1970-06</date>
                 <note/>
             </started>
             <ended>
-                <date>1971-09-01</date>
+                <date>1971-09</date>
                 <note/>
             </ended>
             <note/>
@@ -382,7 +382,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bw-2005-pete-01</id>
+            <id>bw-2005-cana-01</id>
             <person-id>peterson-katherine-hubay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>

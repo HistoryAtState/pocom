@@ -142,7 +142,7 @@
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
         <chief>
-            <id>lt--gufl-01</id>
+            <id>lt-1940-gufl-01</id>
             <person-id>gufler-bernard-anthony</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lithuania</contemporary-territory-id>
@@ -168,8 +168,16 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
+        <mission-note>
+            <text>The United States resumed diplomatic relations with Lithuania on September 2,
+                1991.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </mission-note>
         <chief>
-            <id>lt--john-01</id>
+            <id>lt-1991-john-01</id>
             <person-id>johnson-darryl-norman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>lithuania</contemporary-territory-id>
@@ -178,11 +186,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1991-09-02</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1991-09-02</date>
                 <note/>
             </started>
             <ended>
@@ -195,14 +203,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <mission-note>
-            <text>The United States resumed diplomatic relations with Lithuania on September 2,
-                1991.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-11-06</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-06</last-modified-date>
-        </mission-note>
         <chief>
             <id>lt-1992-john-01</id>
             <person-id>johnson-darryl-norman</person-id>

@@ -3,7 +3,7 @@
     <territory-id>bangladesh</territory-id>
     <chiefs>
         <chief>
-            <id>bd--spiv-01</id>
+            <id>bd-1972-spiv-01</id>
             <person-id>spivack-herbert-daniel</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -12,15 +12,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1972-05-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1972-05</date>
                 <note/>
             </started>
             <ended>
-                <date>1972-10-01</date>
+                <date>1972-10</date>
                 <note/>
             </ended>
             <note/>
@@ -30,7 +30,7 @@
             <last-modified-date>2015-09-23</last-modified-date>
         </chief>
         <chief>
-            <id>bd--newb-01</id>
+            <id>bd-1972-newb-01</id>
             <person-id>newberry-daniel-oliver</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>
@@ -39,15 +39,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1972-10-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1972-10</date>
                 <note/>
             </started>
             <ended>
-                <date>1974-04-01</date>
+                <date>1974-04</date>
                 <note/>
             </ended>
             <note/>
@@ -192,7 +192,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bd-1987-de-p-01</id>
+            <id>bd-1987-de-01</id>
             <person-id>de-pree-willard-ames</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bangladesh</contemporary-territory-id>

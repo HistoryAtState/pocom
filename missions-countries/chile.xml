@@ -39,12 +39,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1828-11-09</date>
-                <note>On or before</note>
-            </arrived>
-            <started>
                 <date/>
                 <note/>
+            </arrived>
+            <started>
+                <date>1828-11-09</date>
+                <note>On or before</note>
             </started>
             <ended>
                 <date>1829-10-29</date>
@@ -66,11 +66,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1831-05-24</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1831-05-24</date>
                 <note/>
             </started>
             <ended>
@@ -93,11 +93,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1835-03-13</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1835-03-13</date>
                 <note/>
             </started>
             <ended>
@@ -120,11 +120,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1842-05-24</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1842-05-24</date>
                 <note/>
             </started>
             <ended>
@@ -147,11 +147,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1845-08-18</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1845-08-18</date>
                 <note/>
             </started>
             <ended>
@@ -174,11 +174,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1848-01-05</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1848-01-05</date>
                 <note/>
             </started>
             <ended>
@@ -1118,7 +1118,7 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>admin</last-modified-by>
+            <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
@@ -1500,7 +1500,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>cl--hunt-01</id>
+            <id>cl-2019-hunt-01</id>
             <person-id>hunt-baxter</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1611,7 +1611,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>cl--gell-01</id>
+            <id>cl-2018-gell-01</id>
             <person-id>gellert-andrew-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>chile</contemporary-territory-id>
@@ -1636,33 +1636,6 @@
             <created-date>2019-05-29</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-29</last-modified-date>
-        </chief>
-        <chief>
-            <id>cl--levy-01</id>
-            <person-id>levy-leora-rosenberg</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>chile</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Nomination of October 15, 2019 and renomination of May 4, 2020 returned to the president on January 3, 2021.</note>
-            <created-by>bottsjd</created-by>
-            <created-date>2021-02-19</created-date>
-            <last-modified-by/>
-            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

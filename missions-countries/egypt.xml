@@ -59,7 +59,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>eg-1853-de-l-01</id>
+            <id>eg-1853-de-01</id>
             <person-id>de-leon-edwin</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -530,7 +530,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>eg-1909-jay--01</id>
+            <id>eg-1909-jay-01</id>
             <person-id>jay-peter-augustus</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1076,7 +1076,7 @@
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
         <chief>
-            <id>eg--nes--01</id>
+            <id>eg-1967-nes-01</id>
             <person-id>nes-david-gulick</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1111,7 +1111,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </mission-note>
         <chief>
-            <id>eg--berg-01</id>
+            <id>eg-1967-berg-01</id>
             <person-id>bergus-donald-c</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1124,11 +1124,11 @@
                 <note/>
             </arrived>
             <started>
-                <date>1967-09-01</date>
+                <date>1967-09</date>
                 <note/>
             </started>
             <ended>
-                <date>1972-02-01</date>
+                <date>1972-02</date>
                 <note/>
             </ended>
             <note/>
@@ -1138,7 +1138,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>eg--gree-01</id>
+            <id>eg-1972-gree-01</id>
             <person-id>greene-joseph-nathaniel</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1151,11 +1151,11 @@
                 <note/>
             </arrived>
             <started>
-                <date>1972-02-01</date>
+                <date>1972-02</date>
                 <note/>
             </started>
             <ended>
-                <date>1973-07-01</date>
+                <date>1973-07</date>
                 <note/>
             </ended>
             <note/>
@@ -1165,7 +1165,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>eg--eilt-01</id>
+            <id>eg-1973-eilt-01</id>
             <person-id>eilts-hermann-frederick</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1178,11 +1178,11 @@
                 <note/>
             </arrived>
             <started>
-                <date>1973-11-01</date>
+                <date>1973-11</date>
                 <note/>
             </started>
             <ended>
-                <date>1974-02-01</date>
+                <date>1974-02</date>
                 <note/>
             </ended>
             <note/>
@@ -1525,7 +1525,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>eg--gold-01</id>
+            <id>eg-2017-gold-01</id>
             <person-id>goldberger-thomas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1534,11 +1534,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2017-06-30</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2017-06-30</date>
                 <note/>
             </started>
             <ended>

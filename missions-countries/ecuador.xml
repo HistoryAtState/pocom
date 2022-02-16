@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1848-08-12</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1848-08-12</date>
                 <note/>
             </started>
             <ended>
@@ -30,7 +30,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ec-1849-van--01</id>
+            <id>ec-1849-van-01</id>
             <person-id>van-alen-john-trumbull</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1849-11-19</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1849-11-19</date>
                 <note/>
             </started>
             <ended>
@@ -67,11 +67,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1851-06-03</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1851-06-03</date>
                 <note/>
             </started>
             <ended>
@@ -94,11 +94,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1853-12-27</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1853-12-27</date>
                 <note/>
             </started>
             <ended>
@@ -386,7 +386,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>ec-1905-lee--01</id>
+            <id>ec-1905-lee-01</id>
             <person-id>lee-joseph-wilcox-jenkins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -414,7 +414,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>ec-1907-fox--01</id>
+            <id>ec-1907-fox-01</id>
             <person-id>fox-williams-carlton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1091,7 +1091,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ec--mack-01</id>
+            <id>ec-1992-mack-01</id>
             <person-id>mack-james-f</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1100,15 +1100,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>1992-02-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1992-02</date>
                 <note/>
             </started>
             <ended>
-                <date>1993-11-01</date>
+                <date>1993-11</date>
                 <note/>
             </ended>
             <note/>
@@ -1271,7 +1271,8 @@
             </started>
             <ended>
                 <date>2011-04-06</date>
-                <note/>
+                <note>Declared <hi rend="italic">persona non grata</hi> by the Government of
+                    Ecuador</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -1363,7 +1364,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ec--whit-01</id>
+            <id>ec-1856-whit-01</id>
             <person-id>white-philo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1634,7 +1635,7 @@
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
         <chief>
-            <id>ec--ligh-01</id>
+            <id>ec-1992-ligh-01</id>
             <person-id>light-walter-scott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>

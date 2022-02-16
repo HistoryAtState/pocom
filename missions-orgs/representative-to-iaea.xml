@@ -3,12 +3,15 @@
     <id>representative-to-iaea</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the International Atomic Energy Agency (Vienna)</singular>
-        <plural>Representatives of the U.S.A. to the International Atomic Energy Agency (Vienna)</plural>
+        <singular>Representative of the U.S.A. to the International Atomic Energy Agency
+            (Vienna)</singular>
+        <plural>Representatives of the U.S.A. to the International Atomic Energy Agency
+            (Vienna)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission holds the title of U.S. Representative to the International Atomic Energy Agency, with the rank of Ambassador.</p>
+            <p>The Chief of Mission holds the title of U.S. Representative to the International
+                Atomic Energy Agency, with the rank of Ambassador.</p>
         </div>
     </description>
     <chiefs>
@@ -32,7 +35,8 @@
                 <date>1958-10-07</date>
                 <note/>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on January 23, 1958, after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on January 23, 1958,
+                after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -359,11 +363,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2017-08-01</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2017-08-01</date>
                 <note/>
             </started>
             <ended>
@@ -393,14 +397,14 @@
                 <note/>
             </started>
             <ended>
-                <date>2021-01-18</date>
+                <date/>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2021-02-05</last-modified-date>
+            <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
     <other-appointees>
