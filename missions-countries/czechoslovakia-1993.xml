@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
-    <territory-id>czechoslovakia</territory-id>
+    <territory-id>czechoslovakia-1993</territory-id>
     <chiefs>
         <chief>
             <id>xe-1919-cran-01</id>
@@ -223,7 +223,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>xe-1945-klie-01</id>
+            <id>xe--klie-01</id>
             <person-id>klieforth-alfred-will</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -232,12 +232,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1945-05-29</date>
                 <note>Embassy Praha established on</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date/>
@@ -759,7 +759,7 @@
             </started>
             <ended>
                 <date>1992-12-31</date>
-                <note>The Czech and Slovak Federal Republic ceased to exist on </note>
+                <note>The Czech and Slovak Federal Republic ceased to exist on</note>
             </ended>
             <note>Basora continued to serve as Ambassador to the Czech Republic.</note>
             <created-by>wicentowskijc</created-by>

@@ -3,7 +3,7 @@
     <territory-id>iran</territory-id>
     <chiefs>
         <chief>
-            <id>ir-1883-benj-02</id>
+            <id>ir-1883-benj-01</id>
             <person-id>benjamin-samuel-greene-wheeler</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>iran</contemporary-territory-id>
@@ -139,7 +139,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ir-1893-mcdo-02</id>
+            <id>ir-1893-mcdo-01</id>
             <person-id>mcdonald-alexander</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>iran</contemporary-territory-id>
@@ -468,7 +468,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ir-1935-merr-01</id>
+            <id>ir--merr-01</id>
             <person-id>merriam-gordon-phelps</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iran</contemporary-territory-id>
@@ -477,15 +477,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1936-03-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1936-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1937-05</date>
+                <date>1937-05-01</date>
                 <note/>
             </ended>
             <note/>
@@ -495,7 +495,7 @@
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
         <chief>
-            <id>ir-1937-enge-01</id>
+            <id>ir--enge-01</id>
             <person-id>engert-cornelius-van-hemert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iran</contemporary-territory-id>
@@ -504,15 +504,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1937-06-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1937-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1940-12</date>
+                <date>1940-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -926,6 +926,16 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-30</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Laingen was serving as Chargé d’Affaires ad interim when the Embassy in Tehran was
+                seized on November 4, 1979. The United States severed diplomatic relations with Iran
+                on April 7, 1980. Laingen and the Embassy staff were released on January 20,
+                1981.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
+        </mission-note>
         <chief>
             <id>ir--lain-01</id>
             <person-id>laingen-lowell-bruce</person-id>
@@ -953,16 +963,6 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <mission-note>
-            <text>Laingen was serving as Chargé d’Affaires ad interim when the Embassy in Tehran was
-                seized on November 4, 1979. The United States severed diplomatic relations with Iran
-                on April 7, 1980. Laingen and the Embassy staff were released on January 20,
-                1981.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-10-22</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-10-22</last-modified-date>
-        </mission-note>
     </chiefs>
     <other-nominees>
         <chief>

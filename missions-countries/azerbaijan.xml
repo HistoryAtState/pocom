@@ -165,7 +165,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>az-2009-lu-01</id>
+            <id>az--lu-d-01</id>
             <person-id>lu-donald</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -174,15 +174,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2009-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2009-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2010-07</date>
+                <date>2010-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -303,7 +303,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>az-2012-bryz-01</id>
+            <id>az--bryz-01</id>
             <person-id>bryza-matthew-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>

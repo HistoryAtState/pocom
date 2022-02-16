@@ -3,7 +3,7 @@
     <territory-id>timor-leste</territory-id>
     <chiefs>
         <chief>
-            <id>tl-2002-vill-01</id>
+            <id>tl--vill-01</id>
             <person-id>villarosa-sharon-english-woods</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>timor-leste</contemporary-territory-id>
@@ -12,15 +12,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2002-05-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2002-05-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2002-12</date>
+                <date>2002-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -155,14 +155,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2020-11-18</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2020-12-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>tl-2021-blac-01</id>
+            <person-id>blackstone-c-kevin</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>timor-leste</contemporary-territory-id>
+            <appointed>
+                <date>2021-01-05</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2021-02-03</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-01-14</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

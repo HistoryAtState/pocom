@@ -7,8 +7,8 @@
         <singular>Inspector General of the Department of State and the Foreign Service</singular>
         <plural>Inspectors General of the Department of State and the Foreign Service</plural>
     </names>
-    <start>1957</start>
-    <end>2002</end>
+    <start accuracy="yyyy">1957</start>
+    <end accuracy="yyyy">2002</end>
     <ongoing>false</ongoing>
     <description>
         <div>
@@ -295,6 +295,28 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </principal>
         <principal>
+            <id>gene-1985-holl</id>
+            <person-id>hollingsworth-hugh-byron</person-id>
+            <role-title-id>inspector-general</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Designated Program Inspector General, Oct 9, 1985. P.L. 99-399 of Aug 27, 1986 (100 Stat. 867), abolished the position and created the office of Inspector General of the Department of State. H. Byron Hollingsworth of Virginia (Foreign Service officer) served as Acting Inspector General, Aug 1986-Aug 1987.</note>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-date>2012-09-24</last-modified-date>
+        </principal>
+        <principal>
             <id>gene-1987-funk</id>
             <person-id>funk-sherman-m</person-id>
             <role-title-id>inspector-general</role-title-id>
@@ -383,53 +405,6 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </principal>
         <principal>
-            <id>gene-2013-lini</id>
-            <person-id>linick-steve-a</person-id>
-            <role-title-id>inspector-general</role-title-id>
-            <appointed>
-                <date>2013-09-27</date>
-                <note/>
-            </appointed>
-            <started>
-                <date>2013-09-30</date>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2014-07-15</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-14</last-modified-date>
-        </principal>
-        <principal>
-            <id>gene-1985-holl</id>
-            <person-id>hollingsworth-hugh-byron</person-id>
-            <role-title-id>inspector-general</role-title-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note>Designated Program Inspector General, Oct 9, 1985. P.L. 99-399 of Aug 27, 1986
-                (100 Stat. 867), abolished the position and created the office of Inspector General
-                of the Department of State. H. Byron Hollingsworth of Virginia (Foreign Service
-                officer) served as Acting Inspector General, Aug 1986-Aug 1987.</note>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
-            <last-modified-date>2012-09-24</last-modified-date>
-        </principal>
-        <principal>
             <id>gene-2008-betr</id>
             <person-id>betro-thomas-a</person-id>
             <role-title-id>inspector-general</role-title-id>
@@ -448,6 +423,28 @@
             <note>Nomination of Jun. 27, 2008 not acted upon by the Senate.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-05-14</last-modified-date>
+        </principal>
+        <principal>
+            <id>gene-2013-lini</id>
+            <person-id>linick-steve-a</person-id>
+            <role-title-id>inspector-general</role-title-id>
+            <appointed>
+                <date>2013-09-27</date>
+                <note/>
+            </appointed>
+            <started>
+                <date>2013-09-30</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2014-07-15</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-14</last-modified-date>
         </principal>

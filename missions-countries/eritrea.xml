@@ -3,7 +3,7 @@
     <territory-id>eritrea</territory-id>
     <chiefs>
         <chief>
-            <id>er-1991-onei-01</id>
+            <id>er--onei-01</id>
             <person-id>oneill-joseph-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1991-06-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1991-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -192,7 +192,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>er-2010-reif-01</id>
+            <id>er--reif-01</id>
             <person-id>reifman-joel-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -201,15 +201,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2010-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2010-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2012-02</date>
+                <date>2012-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -219,7 +219,7 @@
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
         <chief>
-            <id>er-2012-brem-01</id>
+            <id>er--brem-01</id>
             <person-id>bremner-susan-lenore</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -228,15 +228,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2012-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2012-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2014-04</date>
+                <date>2014-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -246,7 +246,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>er-2014-maze-01</id>
+            <id>er--maze-01</id>
             <person-id>mazel-louis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -255,11 +255,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2014-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2014-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -273,7 +273,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>er-2016-brow-01</id>
+            <id>er--brow-01</id>
             <person-id>brown-natalie-e</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>
@@ -282,11 +282,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2016-09-23</date>
                 <note/>
             </arrived>
             <started>
-                <date>2016-09-23</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -300,7 +300,7 @@
             <last-modified-date>2021-08-10</last-modified-date>
         </chief>
         <chief>
-            <id>er-2019-walk-01</id>
+            <id>er--walk-01</id>
             <person-id>walker-steven-c</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>eritrea</contemporary-territory-id>

@@ -3,7 +3,7 @@
     <territory-id>gabon</territory-id>
     <chiefs>
         <chief>
-            <id>ga-1960-luke-01</id>
+            <id>ga--luke-01</id>
             <person-id>lukens-alan-wood</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1960-08-17</date>
                 <note/>
             </arrived>
             <started>
-                <date>1960-08-17</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -411,7 +411,7 @@
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
         <chief>
-            <id>ga-2001-daug-01</id>
+            <id>ga--daug-01</id>
             <person-id>daughton-thomas-frederick</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -420,15 +420,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2001-06-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2001-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2002-06</date>
+                <date>2002-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -600,7 +600,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ga-2019-whit-01</id>
+            <id>ga--whit-01</id>
             <person-id>whitehead-robert-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -627,7 +627,7 @@
             <last-modified-date>2020-10-06</last-modified-date>
         </chief>
         <chief>
-            <id>ga-2020-wats-01</id>
+            <id>ga--wats-01</id>
             <person-id>watson-samuel-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>

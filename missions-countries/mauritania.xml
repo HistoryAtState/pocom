@@ -94,7 +94,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </mission-note>
         <chief>
-            <id>mr-1970-stei-01</id>
+            <id>mr--stei-01</id>
             <person-id>stein-robert-andrew</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -103,11 +103,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1970-03-04</date>
                 <note/>
             </arrived>
             <started>
-                <date>1970-03-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -202,7 +202,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mr-1980-schr-01</id>
+            <id>mr--schr-01</id>
             <person-id>schrager-stanley-n</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -211,15 +211,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1980-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1980-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1982-07</date>
+                <date>1982-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -552,10 +552,37 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
+        <chief>
+            <id>mr-2021-kier-01</id>
+            <person-id>kierscht-cynthia</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>mauritania</contemporary-territory-id>
+            <appointed>
+                <date>2021-01-05</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2021-03-29</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-03-14</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-05-17</last-modified-date>
+        </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>mr-1990-prec-01</id>
+            <id>mr--prec-01</id>
             <person-id>precht-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>
@@ -582,7 +609,7 @@
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
         <chief>
-            <id>mr-2006-libe-01</id>
+            <id>mr--libe-01</id>
             <person-id>liberi-dawn-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mauritania</contemporary-territory-id>

@@ -599,7 +599,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>ph-2000-mali-01</id>
+            <id>ph--mali-01</id>
             <person-id>malinowski-michael-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -608,15 +608,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2000-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2000-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2001-09</date>
+                <date>2001-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -734,7 +734,7 @@
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
         <chief>
-            <id>ph-2016-kim-01</id>
+            <id>ph-2016-kim--01</id>
             <person-id>kim-sung-y</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -763,7 +763,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ph-1999-burl-01</id>
+            <id>ph--burl-01</id>
             <person-id>burleigh-albert-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>

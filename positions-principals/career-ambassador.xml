@@ -7,8 +7,8 @@
         <singular>Career Ambassador</singular>
         <plural>Career Ambassadors</plural>
     </names>
-    <start>1956</start>
-    <end>2005</end>
+    <start accuracy="yyyy">1956</start>
+    <end accuracy="yyyy">2005</end>
     <ongoing>false</ongoing>
     <description>
         <div>
@@ -869,7 +869,7 @@
         </principal>
         <principal>
             <id>amba-2002-davi</id>
-            <person-id>davidow-jeffrey-s</person-id>
+            <person-id>davis-ruth-a</person-id>
             <role-title-id>career-ambassador</role-title-id>
             <appointed>
                 <date>2002-04-01</date>
@@ -891,7 +891,7 @@
         </principal>
         <principal>
             <id>amba-2002-davi</id>
-            <person-id>davis-ruth-a</person-id>
+            <person-id>davidow-jeffrey-s</person-id>
             <role-title-id>career-ambassador</role-title-id>
             <appointed>
                 <date>2002-04-01</date>

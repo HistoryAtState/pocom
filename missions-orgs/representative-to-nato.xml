@@ -3,18 +3,12 @@
     <id>representative-to-nato</id>
     <category>international-organization</category>
     <names>
-        <singular>U.S. Permanent Representative on the Council of the North Atlantic Treaty
-            Organization</singular>
-        <plural>U.S. Permanent Representatives on the Council of the North Atlantic Treaty
-            Organization</plural>
+        <singular>U.S. Permanent Representative on the Council of the North Atlantic Treaty Organization</singular>
+        <plural>U.S. Permanent Representatives on the Council of the North Atlantic Treaty Organization</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of U.S. Permanent Representative on the Council of
-                the North Atlantic Treaty Organization, with the rank and status of Ambassador
-                Extraordinary and Plenipotentiary. Prior to July 1, 1967 the Representative on the
-                Council of NATO was the Chief of the U.S. Mission to the North Atlantic Treaty
-                Organization and European Regional Organizations at Paris.</p>
+            <p>The Chief of Mission has the title of U.S. Permanent Representative on the Council of the North Atlantic Treaty Organization, with the rank and status of Ambassador Extraordinary and Plenipotentiary. Prior to July 1, 1967 the Representative on the Council of NATO was the Chief of the U.S. Mission to the North Atlantic Treaty Organization and European Regional Organizations at Paris.</p>
         </div>
     </description>
     <chiefs>
@@ -633,14 +627,40 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>nato-2021-smit-01</id>
+            <person-id>smith-julianne</person-id>
+            <role-title-id>representative-to-nato</role-title-id>
+            <appointed>
+                <date>2021-11-19</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-12-08</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-appointees/>

@@ -3,7 +3,7 @@
     <territory-id>belize</territory-id>
     <chiefs>
         <chief>
-            <id>bz-1983-barn-01</id>
+            <id>bz--barn-01</id>
             <person-id>barnebey-malcolm-r</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1981-10-29</date>
                 <note/>
             </arrived>
             <started>
-                <date>1981-10-29</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -57,7 +57,7 @@
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
         <chief>
-            <id>bz-1985-guth-01</id>
+            <id>bz--guth-01</id>
             <person-id>guthrie-donald-keith</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -66,15 +66,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1985-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1985-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1987-09</date>
+                <date>1987-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -300,7 +300,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>bz-2017-gala-01</id>
+            <id>bz--gala-01</id>
             <person-id>galanek-adrienne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -309,11 +309,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -327,7 +327,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>bz-2018-gilg-01</id>
+            <id>bz--gilg-01</id>
             <person-id>gilges-keith-r</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -356,7 +356,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>bz-1986-malo-01</id>
+            <id>bz--malo-01</id>
             <person-id>malone-james-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -381,6 +381,33 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-08</last-modified-date>
+        </chief>
+        <chief>
+            <id>bz--baue-01</id>
+            <person-id>bauer-andre</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>belize</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of July 21, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

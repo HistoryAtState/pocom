@@ -3,7 +3,7 @@
     <territory-id>finland</territory-id>
     <chiefs>
         <chief>
-            <id>fi-1920-magr-01</id>
+            <id>fi--magr-01</id>
             <person-id>magruder-alexander-richardson</person-id>
             <role-title-id>charge-daffaires-pro-tem</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -194,7 +194,7 @@
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
         <chief>
-            <id>fi-1945-hull-01</id>
+            <id>fi--hull-01</id>
             <person-id>hulley-benjamin-mayham</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -203,12 +203,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1945-09-01</date>
                 <note>Legation in Helsinki reestablished on</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date/>
@@ -955,7 +955,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>fi-2017-welt-01</id>
+            <id>fi--welt-01</id>
             <person-id>welton-donna-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -964,11 +964,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -999,14 +999,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-14</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

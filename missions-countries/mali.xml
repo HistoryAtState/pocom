@@ -30,7 +30,7 @@
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
         <chief>
-            <id>ml-1960-dean-01</id>
+            <id>ml--dean-01</id>
             <person-id>dean-john-gunther</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1960-09-24</date>
                 <note/>
             </arrived>
             <started>
-                <date>1960-09-24</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -410,7 +410,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>ml-1995-heil-01</id>
+            <id>ml--heil-01</id>
             <person-id>heileman-carolee</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -419,15 +419,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1995-03-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1995-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1996-03</date>
+                <date>1996-03-01</date>
                 <note/>
             </ended>
             <note/>
@@ -655,7 +655,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ml-1960-vill-01</id>
+            <id>ml--vill-01</id>
             <person-id>villard-henry-serrano</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>

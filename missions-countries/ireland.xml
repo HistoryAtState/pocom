@@ -220,7 +220,7 @@
         </chief>
         <chief>
             <id>ie-1953-taft-01</id>
-            <person-id>taft-william-howard</person-id>
+            <person-id>taft-william-howard-3</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
             <appointed>
@@ -759,7 +759,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>ie-2013-dwye-01</id>
+            <id>ie--dwye-01</id>
             <person-id>dwyer-stuart-anderson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -768,15 +768,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2013-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2013-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2014-10</date>
+                <date>2014-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -813,7 +813,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>ie-2017-smyt-01</id>
+            <id>ie--smyt-01</id>
             <person-id>smyth-reece</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -822,11 +822,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -857,14 +857,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-07-19</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-07-24</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -897,7 +897,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ie-1981-mcca-01</id>
+            <id>ie--mcca-01</id>
             <person-id>mccann-william-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>

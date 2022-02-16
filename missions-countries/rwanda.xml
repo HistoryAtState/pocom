@@ -3,7 +3,7 @@
     <territory-id>rwanda</territory-id>
     <chiefs>
         <chief>
-            <id>rw-1962-manb-01</id>
+            <id>rw--manb-01</id>
             <person-id>manbey-david-john-stanger</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>rwanda</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1962-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1962-07-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -57,7 +57,7 @@
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
         <chief>
-            <id>rw-1966-cyr-01</id>
+            <id>rw-1966-cyr--01</id>
             <person-id>cyr-leo-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>rwanda</contemporary-territory-id>

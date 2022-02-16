@@ -6,11 +6,9 @@
     <names>
         <singular>Director General of the Foreign Service</singular>
         <plural>Directors General of the Foreign Service</plural>
-        <alternate>Director General of the Foreign Service and Director of the Bureau of Human
-            Resources</alternate>
     </names>
-    <start>1946</start>
-    <end>2005</end>
+    <start accuracy="yyyy">1946</start>
+    <end accuracy="yyyy">2005</end>
     <ongoing>false</ongoing>
     <description>
         <div>
@@ -287,7 +285,7 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-by>admin</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </principal>
         <principal>
@@ -706,8 +704,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Not commissioned; nomination of October 16, 2017 withdrawn by the president on
-                March 20, 2018.</note>
+            <note>Not commissioned; nomination of October 16, 2017 withdrawn by the president on March 20, 2018.</note>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-06</created-date>
             <last-modified-by>bottsjd</last-modified-by>

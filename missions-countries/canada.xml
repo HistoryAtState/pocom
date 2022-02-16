@@ -219,7 +219,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ca-1943-athe-02</id>
+            <id>ca-1943-athe-01</id>
             <person-id>atherton-ray</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -626,7 +626,7 @@
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
         <chief>
-            <id>ca-1989-ney-01</id>
+            <id>ca-1989-ney--01</id>
             <person-id>ney-edward-noonan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -707,7 +707,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ca-1996-wals-01</id>
+            <id>ca--wals-01</id>
             <person-id>walsh-james-donald</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -716,15 +716,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1996-03-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1996-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1997-05</date>
+                <date>1997-05-01</date>
                 <note/>
             </ended>
             <note/>
@@ -895,6 +895,33 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-08-29</last-modified-date>
         </chief>
+        <chief>
+            <id>ca-2021-cohe-01</id>
+            <person-id>cohen-david-l</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>canada</contemporary-territory-id>
+            <appointed>
+                <date>2021-11-05</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-12-08</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </chiefs>
     <other-nominees>
         <chief>
@@ -923,6 +950,33 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>ca--wos--01</id>
+            <person-id>wos-aldona</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>canada</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of February 25, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

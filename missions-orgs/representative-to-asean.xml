@@ -3,15 +3,12 @@
     <id>representative-to-asean</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the Association of Southeast Asian Nations
-            (Jakarta)</singular>
-        <plural>Representatives of the U.S.A. to the Association of Southeast Asian Nations
-            (Jakarta)</plural>
+        <singular>Representative of the U.S.A. to the Association of Southeast Asian Nations (Jakarta)</singular>
+        <plural>Representatives of the U.S.A. to the Association of Southeast Asian Nations (Jakarta)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. to the Association
-                of Southeast Asian Nations, with the rank of Ambassador.</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. to the Association of Southeast Asian Nations, with the rank of Ambassador.</p>
         </div>
     </description>
     <chiefs>
@@ -35,8 +32,7 @@
                 <date>2010-09-21</date>
                 <note/>
             </ended>
-            <note>Non-resident; served as Deputy Assistant Secretary of State for East Asian and
-                Pacific Affairs at the same time.</note>
+            <note>Non-resident; served as Deputy Assistant Secretary of State for East Asian and Pacific Affairs at the same time.</note>
             <created-by>marrsaw</created-by>
             <created-date>2016-10-25</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -103,11 +99,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -121,5 +117,58 @@
             <last-modified-date>2019-06-24</last-modified-date>
         </chief>
     </chiefs>
-    <other-appointees/>
+    <other-appointees>
+        <chief>
+            <id>asea--lind-01</id>
+            <person-id>linder-john</person-id>
+            <role-title-id>representative-to-asean</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of March 11, 2019 returned to the president on January 3, 2020.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+        <chief>
+            <id>asea--regu-01</id>
+            <person-id>regua-eldon-p</person-id>
+            <role-title-id>representative-to-asean</role-title-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of December 2, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+    </other-appointees>
 </org-mission>

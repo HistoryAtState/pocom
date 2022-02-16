@@ -3,16 +3,12 @@
     <id>representative-to-osce</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the Organization for Security and Cooperation in
-            Europe (Vienna)</singular>
-        <plural>Representatives of the U.S.A. to the Organization for Security and Cooperation in
-            Europe (Vienna)</plural>
+        <singular>Representative of the U.S.A. to the Organization for Security and Cooperation in Europe (Vienna)</singular>
+        <plural>Representatives of the U.S.A. to the Organization for Security and Cooperation in Europe (Vienna)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. to the
-                Organization for Security and Cooperation in Europe, with the rank of
-                Ambassador.</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. to the Organization for Security and Cooperation in Europe, with the rank of Ambassador.</p>
         </div>
     </description>
     <chiefs>
@@ -77,11 +73,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-08-14</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-08-14</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -111,14 +107,40 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-18</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-07-03</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-07-19</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>osce-2021-carp-01</id>
+            <person-id>carpenter-michael</person-id>
+            <role-title-id>representative-to-osce</role-title-id>
+            <appointed>
+                <date>2021-11-10</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-12-08</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-appointees/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
-    <territory-id>two-sicilies</territory-id>
+    <territory-id>kingdom-of-two-sicilies-1861</territory-id>
     <chiefs>
         <chief>
             <id>xg-1831-nels-01</id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1832-01-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>1832-01-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -40,11 +40,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1838-09-28</date>
                 <note/>
             </arrived>
             <started>
-                <date>1838-09-28</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -67,11 +67,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1841-12-29</date>
                 <note/>
             </arrived>
             <started>
-                <date>1841-12-29</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -94,11 +94,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1845-07-24</date>
                 <note/>
             </arrived>
             <started>
-                <date>1845-07-24</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -121,11 +121,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1848-06-27</date>
                 <note/>
             </arrived>
             <started>
-                <date>1848-06-27</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -148,11 +148,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1850-04-04</date>
                 <note/>
             </arrived>
             <started>
-                <date>1850-04-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -175,11 +175,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1853-10-22</date>
                 <note/>
             </arrived>
             <started>
-                <date>1853-10-22</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -305,7 +305,7 @@
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>xg-1856-owen-01</id>
+            <id>xg--owen-01</id>
             <person-id>owen-robert-dale</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>

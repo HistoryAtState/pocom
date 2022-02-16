@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1830-01-29</date>
                 <note/>
             </arrived>
             <started>
-                <date>1830-01-29</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -68,11 +68,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1836-05-11</date>
                 <note/>
             </arrived>
             <started>
-                <date>1836-05-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -387,7 +387,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mx-1864-corw-01</id>
+            <id>mx--corw-01</id>
             <person-id>corwin-william-henry</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
@@ -396,15 +396,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1864-04-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1864-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1866-04</date>
+                <date>1866-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -414,7 +414,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mx-1866-otte-01</id>
+            <id>mx--otte-01</id>
             <person-id>otterbourg-marcus</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
@@ -423,15 +423,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1866-04-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1866-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1867-08</date>
+                <date>1867-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -715,7 +715,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mx-1895-rans-02</id>
+            <id>mx-1895-rans-01</id>
             <person-id>ransom-matthew-whitaker</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
@@ -934,7 +934,7 @@
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
         <chief>
-            <id>mx-1919-summ-01</id>
+            <id>mx--summ-01</id>
             <person-id>summerlin-george-thomas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
@@ -943,15 +943,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1919-01-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1919-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1924-03</date>
+                <date>1924-03-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1504,7 +1504,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mx-1997-bray-01</id>
+            <id>mx--bray-01</id>
             <person-id>brayshaw-charles-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>
@@ -1513,15 +1513,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1997-06-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1997-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1998-08</date>
+                <date>1998-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1683,14 +1683,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-08-12</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-08-18</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>mx-2021-sala-01</id>
+            <person-id>salazar-kenneth-lee</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>mexico</contemporary-territory-id>
+            <appointed>
+                <date>2021-08-11</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date>2021-09-14</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-09-23</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>
@@ -1915,7 +1942,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>mx-2014-echa-01</id>
+            <id>mx--echa-01</id>
             <person-id>echaveste-maria</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mexico</contemporary-territory-id>

@@ -3,7 +3,7 @@
     <territory-id>bahamas</territory-id>
     <chiefs>
         <chief>
-            <id>bs-1973-spea-01</id>
+            <id>bs--spea-01</id>
             <person-id>spear-moncrieff-johnston</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -12,15 +12,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1973-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1973-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1973-08</date>
+                <date>1973-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -300,7 +300,7 @@
             <last-modified-date>2015-08-27</last-modified-date>
         </chief>
         <chief>
-            <id>bs-2001-wita-01</id>
+            <id>bs--wita-01</id>
             <person-id>witajewski-robert-m</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -309,15 +309,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2003-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2003-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2004-09</date>
+                <date>2004-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -408,7 +408,7 @@
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
-            <id>bs-2011-dink-01</id>
+            <id>bs--dink-01</id>
             <person-id>dinkelman-john-walter</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -417,15 +417,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2011-11-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2011-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2014-07</date>
+                <date>2014-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -435,7 +435,7 @@
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
         <chief>
-            <id>bs-2014-john-01</id>
+            <id>bs--john-01</id>
             <person-id>johnson-lisa-anne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -444,11 +444,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2014-07-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>2014-07-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -462,7 +462,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>bs-2018-bowe-01</id>
+            <id>bs--bowe-01</id>
             <person-id>bowers-stephanie-l</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -471,11 +471,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2018-02-28</date>
                 <note/>
             </arrived>
             <started>
-                <date>2018-02-28</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -491,7 +491,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>bs-2015-butt-01</id>
+            <id>bs--butt-01</id>
             <person-id>butts-cassandra-quin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -517,6 +517,60 @@
             <created-date>2015-07-09</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-06-06</last-modified-date>
+        </chief>
+        <chief>
+            <id>bs--manc-01</id>
+            <person-id>manchester-doug</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>bahamas</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of May 16, 2017 and renominations of January 8, 2018 and January 16, 2019 withdrawn by the president on November 13, 2019.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-18</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+        <chief>
+            <id>bs--doug-01</id>
+            <person-id>douglass-william-a</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>bahamas</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of May 21, 2020 and renomination of January 3, 2021 withdrawn by the president on February 4, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

@@ -372,11 +372,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1833-04-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>1833-04-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -418,7 +418,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>fr-1835-bart-01</id>
+            <id>fr--bart-01</id>
             <person-id>barton-thomas-pennant</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -665,7 +665,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>fr-1866-dix-01</id>
+            <id>fr-1866-dix--01</id>
             <person-id>dix-john-adams</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -856,7 +856,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>fr-1893-eust-02</id>
+            <id>fr-1893-eust-01</id>
             <person-id>eustis-james-biddle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1208,7 +1208,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>fr-1942-tuck-01</id>
+            <id>fr--tuck-01</id>
             <person-id>tuck-somerville-pinkney</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1820,14 +1820,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-31</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

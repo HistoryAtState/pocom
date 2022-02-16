@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt3"
-    xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-    xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
+<schema xmlns="http://purl.oclc.org/dsdl/schematron" xmlns:sch="http://purl.oclc.org/dsdl/schematron" xmlns:sqf="http://www.schematron-quickfix.com/validator/process" queryBinding="xslt3">
     <pattern id="id">
         <rule id="id-checks" context="id">
             <let name="basename" value="replace(base-uri(.), '^.*/(.*?)$', '$1')"/>

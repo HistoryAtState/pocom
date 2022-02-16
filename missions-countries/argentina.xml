@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1825-08-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>1825-08-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -66,11 +66,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1832-06-15</date>
                 <note/>
             </arrived>
             <started>
-                <date>1832-06-15</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -93,11 +93,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1844-11-15</date>
                 <note/>
             </arrived>
             <started>
-                <date>1844-11-15</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -120,11 +120,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1846-07-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1846-07-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -147,12 +147,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1851-09-12</date>
                 <note>On or about</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date>1854-03-31</date>
@@ -184,34 +184,7 @@
             <last-modified-date>2015-11-30</last-modified-date>
         </mission-note>
         <chief>
-            <id>ar-1854-pede-02</id>
-            <person-id>peden-james-a</person-id>
-            <role-title-id>minister-resident</role-title-id>
-            <contemporary-territory-id>argentina</contemporary-territory-id>
-            <appointed>
-                <date>1854-06-29</date>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1855-01-22</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1857-05-01</date>
-                <note>Left Buenos Aires about</note>
-            </ended>
-            <note/>
-            <created-by>wicentowskijc</created-by>
-            <created-date>2010-05-20</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2013-11-26</last-modified-date>
-        </chief>
-        <chief>
-            <id>ar-1854-pede-03</id>
+            <id>ar-1856-pede-01</id>
             <person-id>peden-james-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -230,6 +203,33 @@
             <ended>
                 <date>1858-12-01</date>
                 <note>Presented recall on</note>
+            </ended>
+            <note/>
+            <created-by>wicentowskijc</created-by>
+            <created-date>2010-05-20</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2013-11-26</last-modified-date>
+        </chief>
+        <chief>
+            <id>ar-1854-pede-01</id>
+            <person-id>peden-james-a</person-id>
+            <role-title-id>minister-resident</role-title-id>
+            <contemporary-territory-id>argentina</contemporary-territory-id>
+            <appointed>
+                <date>1854-06-29</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date>1855-01-22</date>
+                <note/>
+            </started>
+            <ended>
+                <date>1857-05-01</date>
+                <note>Left Buenos Aires about</note>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -436,7 +436,7 @@
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
         <chief>
-            <id>ar-1872-whit-02</id>
+            <id>ar-1872-whit-01</id>
             <person-id>white-julius</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -847,7 +847,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ar-1925-jay-01</id>
+            <id>ar-1925-jay--01</id>
             <person-id>jay-peter-augustus</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1154,7 +1154,7 @@
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
         <chief>
-            <id>ar-1960-rubo-02</id>
+            <id>ar-1960-rubo-01</id>
             <person-id>rubottom-roy-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1586,7 +1586,7 @@
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
         <chief>
-            <id>ar-2013-sull-01</id>
+            <id>ar--sull-01</id>
             <person-id>sullivan-kevin-k</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1595,15 +1595,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2013-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2013-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2015-01</date>
+                <date>2015-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1640,7 +1640,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ar-2017-coon-01</id>
+            <id>ar--coon-01</id>
             <person-id>cooney-thomas-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1649,11 +1649,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1684,14 +1684,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -1724,7 +1724,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>ar-1844-watt-01</id>
+            <id>ar--watt-01</id>
             <person-id>watterson-harvey-magee</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -2029,7 +2029,7 @@
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
         <chief>
-            <id>ar-1992-walk-01</id>
+            <id>ar--walk-01</id>
             <person-id>walker-william-graham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>

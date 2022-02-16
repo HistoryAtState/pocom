@@ -575,7 +575,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sa-1992-welc-01</id>
+            <id>sa--welc-01</id>
             <person-id>welch-c-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -584,15 +584,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1992-08-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1992-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1994-08</date>
+                <date>1994-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -792,7 +792,7 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>sa-2017-henz-01</id>
+            <id>sa--henz-01</id>
             <person-id>henzel-christopher</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -801,11 +801,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -836,14 +836,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -875,7 +875,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>sa-1992-book-01</id>
+            <id>sa--book-01</id>
             <person-id>bookout-john-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>

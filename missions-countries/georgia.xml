@@ -3,7 +3,7 @@
     <territory-id>georgia</territory-id>
     <chiefs>
         <chief>
-            <id>ge-1992-cava-01</id>
+            <id>ge--cava-01</id>
             <person-id>cavanaugh-carey</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -12,15 +12,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1992-04-23</date>
                 <note/>
             </arrived>
             <started>
-                <date>1992-04-23</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1992-08</date>
+                <date>1992-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -246,7 +246,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>ge-2018-rood-01</id>
+            <id>ge--rood-01</id>
             <person-id>rood-elizabeth</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>

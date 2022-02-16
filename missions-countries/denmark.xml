@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1827-09-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>1827-09-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1835-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1835-09-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -66,11 +66,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1841-10-12</date>
                 <note/>
             </arrived>
             <started>
-                <date>1841-10-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -94,11 +94,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1843-06-19</date>
                 <note/>
             </arrived>
             <started>
-                <date>1843-06-19</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -121,11 +121,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1847-06-12</date>
                 <note/>
             </arrived>
             <started>
-                <date>1847-06-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -148,11 +148,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1850-06-15</date>
                 <note/>
             </arrived>
             <started>
-                <date>1850-06-15</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -177,11 +177,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1852-12-15</date>
                 <note/>
             </arrived>
             <started>
-                <date>1852-12-15</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -204,11 +204,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1853-10-13</date>
                 <note/>
             </arrived>
             <started>
-                <date>1853-10-13</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -369,11 +369,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1876-10-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>1876-10-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -396,11 +396,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1881-08-12</date>
                 <note/>
             </arrived>
             <started>
-                <date>1881-08-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -424,11 +424,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1882-06-13</date>
                 <note/>
             </arrived>
             <started>
-                <date>1882-06-13</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -442,7 +442,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>dk-1882-wick-02</id>
+            <id>dk-1882-wick-01</id>
             <person-id>wickersham-james-pyle</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>denmark</contemporary-territory-id>
@@ -852,7 +852,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dk-1933-owen-02</id>
+            <id>dk-1933-owen-01</id>
             <person-id>owen-ruth-bryan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>denmark</contemporary-territory-id>
@@ -1073,7 +1073,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dk-1953-coe-01</id>
+            <id>dk-1953-coe--01</id>
             <person-id>coe-robert-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>denmark</contemporary-territory-id>
@@ -1631,14 +1631,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -1670,7 +1670,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>dk-1856-bedi-01</id>
+            <id>dk--bedi-01</id>
             <person-id>bedinger-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>denmark</contemporary-territory-id>

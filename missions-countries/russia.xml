@@ -174,11 +174,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1836-09-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>1836-09-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -544,7 +544,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>ru-1872-orr-01</id>
+            <id>ru-1872-orr--01</id>
             <person-id>orr-james-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1143,7 +1143,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>ru-1919-cole-01</id>
+            <id>ru--cole-01</id>
             <person-id>cole-felix</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1525,7 +1525,7 @@
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
         <chief>
-            <id>ru-1973-dubs-01</id>
+            <id>ru--dubs-01</id>
             <person-id>dubs-adolph</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1534,15 +1534,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1973-01-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1973-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1974-03</date>
+                <date>1974-03-01</date>
                 <note/>
             </ended>
             <note/>

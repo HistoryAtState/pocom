@@ -196,7 +196,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>kh-1969-rive-01</id>
+            <id>kh--rive-01</id>
             <person-id>rives-lloyd-michael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cambodia</contemporary-territory-id>
@@ -205,12 +205,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1969-08-16</date>
                 <note>Embassy Phom Penh reestablished on</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date/>
@@ -278,7 +278,7 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
         <chief>
-            <id>kh-1991-twin-01</id>
+            <id>kh--twin-01</id>
             <person-id>twining-charles-h</person-id>
             <role-title-id>representative</role-title-id>
             <contemporary-territory-id>cambodia</contemporary-territory-id>
@@ -386,7 +386,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>kh-2002-ray-01</id>
+            <id>kh-2002-ray--01</id>
             <person-id>ray-charles-aaron</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cambodia</contemporary-territory-id>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <country-mission>
-    <territory-id>saint-vincent-grenadines</territory-id>
+    <territory-id>saint-vincent-and-grenadines</territory-id>
     <chiefs>
         <chief>
             <id>vc-1981-bish-01</id>
@@ -84,7 +84,7 @@
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
         <chief>
-            <id>vc-1988-clar-01</id>
+            <id>vc--clar-01</id>
             <person-id>clark-john-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-vincent-and-grenadines</contemporary-territory-id>
@@ -93,15 +93,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1988-06-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1988-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1990-07</date>
+                <date>1990-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -301,7 +301,7 @@
             <last-modified-date>2015-07-03</last-modified-date>
         </chief>
         <chief>
-            <id>vc-2009-hard-01</id>
+            <id>vc--hard-01</id>
             <person-id>hardt-d-brent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-vincent-and-grenadines</contemporary-territory-id>
@@ -310,15 +310,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2009-01-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2009-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2011-06</date>
+                <date>2011-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -384,7 +384,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>vc-1989-silv-01</id>
+            <id>vc--silv-01</id>
             <person-id>silverman-joy-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-vincent-and-grenadines</contemporary-territory-id>
@@ -409,6 +409,33 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
+        </chief>
+        <chief>
+            <id>vc--rizz-01</id>
+            <person-id>rizzuto-leandro</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>saint-vincent-and-grenadines</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of January 8, 2018 and renomination of January 16, 2019 returned to the president on January 3, 2020.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

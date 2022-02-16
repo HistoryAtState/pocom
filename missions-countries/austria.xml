@@ -66,11 +66,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1845-08-05</date>
                 <note/>
             </arrived>
             <started>
-                <date>1845-08-05</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -94,11 +94,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1850-02-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1850-02-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -122,11 +122,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1851-03-14</date>
                 <note/>
             </arrived>
             <started>
-                <date>1851-03-14</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -149,11 +149,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1852-12-14</date>
                 <note/>
             </arrived>
             <started>
-                <date>1852-12-14</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -177,11 +177,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1853-09-16</date>
                 <note/>
             </arrived>
             <started>
-                <date>1853-09-16</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -224,7 +224,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1858-jone-02</id>
+            <id>at-1858-jone-01</id>
             <person-id>jones-jehu-glancy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -306,7 +306,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>at-1869-jay-01</id>
+            <id>at-1869-jay--01</id>
             <person-id>jay-john-ii</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -768,6 +768,33 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
+            <id>at--grew-01</id>
+            <person-id>grew-joseph-clark</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>austria</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>1913-04-07</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1917-04-09</date>
+                <note>Austria-Hungary severed relations with the United States on</note>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-08-19</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-12-30</last-modified-date>
+        </chief>
+        <chief>
             <id>at-1913-penf-01</id>
             <person-id>penfield-frederic-courtland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
@@ -795,34 +822,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>at-1917-grew-01</id>
-            <person-id>grew-joseph-clark</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>austria</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1913-04-07</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1917-04-09</date>
-                <note>Austria-Hungary severed relations with the United States on</note>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-08-19</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-12-30</last-modified-date>
-        </chief>
-        <chief>
-            <id>at-1921-fraz-01</id>
+            <id>at--fraz-01</id>
             <person-id>frazier-arthur-hugh</person-id>
             <role-title-id>charge-daffaires-pro-tem</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -986,9 +986,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-
         <chief>
-            <id>at-1937-wile-01</id>
+            <id>at--wile-01</id>
             <person-id>wiley-john-cooper</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -997,11 +996,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1937-09-26</date>
                 <note/>
             </arrived>
             <started>
-                <date>1937-09-26</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1342,7 +1341,7 @@
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
         <chief>
-            <id>at-1983-von-01</id>
+            <id>at-1983-von--01</id>
             <person-id>von-damm-helene-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1639,7 +1638,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>at-2017-youn-01</id>
+            <id>at--youn-01</id>
             <person-id>young-eugene</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1648,11 +1647,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1683,14 +1682,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>at-2021-kenn-01</id>
+            <person-id>kennedy-victoria-reggie</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>austria</contemporary-territory-id>
+            <appointed>
+                <date>2021-11-15</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-12-08</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>
@@ -1912,7 +1938,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at--cox-01</id>
+            <id>at--cox--01</id>
             <person-id>cox-samuel-sullivan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>
@@ -1995,7 +2021,7 @@
             <last-modified-date>2015-08-19</last-modified-date>
         </chief>
         <chief>
-            <id>at-1008-garg-01</id>
+            <id>at--garg-01</id>
             <person-id>gargano-charles-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>austria</contemporary-territory-id>

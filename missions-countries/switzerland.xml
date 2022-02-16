@@ -3,7 +3,7 @@
     <territory-id>switzerland</territory-id>
     <chiefs>
         <chief>
-            <id>ch-1853-fay-01</id>
+            <id>ch-1853-fay--01</id>
             <person-id>fay-theodore-sedgwick</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -121,11 +121,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1876-09-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1876-09-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -148,11 +148,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1877-08-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1877-08-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -176,11 +176,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1881-08-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>1881-08-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -975,7 +975,7 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-by>admin</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
@@ -1401,19 +1401,19 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-17</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-13</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ch-1856-fay-01</id>
+            <id>ch--fay--01</id>
             <person-id>fay-theodore-sedgwick</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>
@@ -1496,7 +1496,7 @@
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
         <chief>
-            <id>ch-1902-brya-02</id>
+            <id>ch-1902-brya-01</id>
             <person-id>bryan-charles-page</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>switzerland</contemporary-territory-id>

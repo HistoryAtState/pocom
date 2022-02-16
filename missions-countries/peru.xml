@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1827-05-21</date>
                 <note/>
             </arrived>
             <started>
-                <date>1827-05-21</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1829-11-30</date>
                 <note/>
             </arrived>
             <started>
-                <date>1829-11-30</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -96,11 +96,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1840-01-30</date>
                 <note/>
             </arrived>
             <started>
-                <date>1840-01-30</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -124,11 +124,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1845-04-28</date>
                 <note/>
             </arrived>
             <started>
-                <date>1845-04-28</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -151,11 +151,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1845-08-04</date>
                 <note/>
             </arrived>
             <started>
-                <date>1845-08-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -179,11 +179,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1847-12-15</date>
                 <note/>
             </arrived>
             <started>
-                <date>1847-12-15</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1014,7 +1014,7 @@
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
         <chief>
-            <id>pe-1963-jone-01</id>
+            <id>pe-1962-jone-01</id>
             <person-id>jones-john-wesley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1257,7 +1257,7 @@
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
         <chief>
-            <id>pe-1992-bray-01</id>
+            <id>pe--bray-01</id>
             <person-id>brayshaw-charles-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1266,15 +1266,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1992-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1992-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1993-12</date>
+                <date>1993-12-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1500,7 +1500,7 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>pe-2017-urs-01</id>
+            <id>pe-2017-urs--01</id>
             <person-id>urs-krishna-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1525,6 +1525,33 @@
             <created-date>2019-05-22</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-08-03</last-modified-date>
+        </chief>
+        <chief>
+            <id>pe-2020-kenn-01</id>
+            <person-id>kenna-lisa-d</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>peru</contemporary-territory-id>
+            <appointed>
+                <date>2020-12-01</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2021-03-10</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-03-14</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-05-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

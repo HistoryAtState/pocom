@@ -3,17 +3,12 @@
     <id>representative-uneo</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. to the European Office of the United Nations
-            (Geneva)</singular>
-        <plural>Representatives of the U.S.A. to the European Office of the United Nations
-            (Geneva)</plural>
+        <singular>Representative of the U.S.A. to the European Office of the United Nations (Geneva)</singular>
+        <plural>Representatives of the U.S.A. to the European Office of the United Nations (Geneva)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. to the European
-                Office of the United Nations, with the rank of Ambassador. The Representative serves
-                as Chief of the U.S. Mission to the European Office of the United Nations and Other
-                International Organizations.</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. to the European Office of the United Nations, with the rank of Ambassador. The Representative serves as Chief of the U.S. Mission to the European Office of the United Nations and Other International Organizations.</p>
         </div>
     </description>
     <chiefs>
@@ -487,32 +482,6 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>uneo-2017-alle</id>
-            <person-id>allegra-theodore</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>2017-01-20</date>
-                <note/>
-            </started>
-            <ended>
-                <date>2018-07-27</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2014-07-15</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-10-25</last-modified-date>
-        </chief>
-        <chief>
             <id>uneo-2019-brem</id>
             <person-id>bremberg-andrew-p</person-id>
             <role-title-id>representative-uneo</role-title-id>
@@ -521,22 +490,22 @@
                 <note/>
             </appointed>
             <arrived>
-                <date>2019-11-09</date>
+                <date/>
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>2019-11-09</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-11-13</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-appointees>

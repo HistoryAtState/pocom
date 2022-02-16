@@ -3,7 +3,7 @@
     <territory-id>sierra-leone</territory-id>
     <chiefs>
         <chief>
-            <id>sl-1961-rein-01</id>
+            <id>sl--rein-01</id>
             <person-id>reiner-herbert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1961-04-27</date>
                 <note/>
             </arrived>
             <started>
-                <date>1961-04-27</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -463,7 +463,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>sl-2009-fedz-01</id>
+            <id>sl--fedz-01</id>
             <person-id>fedzer-glenn-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -472,15 +472,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2009-01-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2009-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2010-01</date>
+                <date>2010-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -517,7 +517,7 @@
             <last-modified-date>2014-07-23</last-modified-date>
         </chief>
         <chief>
-            <id>sl-2013-fitz-01</id>
+            <id>sl--fitz-01</id>
             <person-id>fitzgibbon-kathleen-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -526,15 +526,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2013-10-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2013-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2014-10</date>
+                <date>2014-10-01</date>
                 <note/>
             </ended>
             <note/>

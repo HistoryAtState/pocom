@@ -7,8 +7,8 @@
         <singular>Ambassador at Large</singular>
         <plural>Ambassadors at Large</plural>
     </names>
-    <start>1949</start>
-    <end>2005</end>
+    <start accuracy="yyyy">1949</start>
+    <end accuracy="yyyy">2005</end>
     <ongoing>false</ongoing>
     <description>
         <div>
@@ -978,16 +978,16 @@
                 <date>2001-07-12</date>
                 <note/>
             </appointed>
-            <ended>
-                <date/>
-                <note/>
-            </ended>
             <started>
                 <date>2001-07-13</date>
                 <note/>
             </started>
-            <note>Commissioned as Coordinator for Counter-Terrorism with the rank of Ambassador at
-                Large.</note>
+            <ended>
+                <date>2004-11-15</date>
+                <note/>
+            </ended>
+            <note>With the rank of Ambassador at Large while serving as Director for the Office to
+                Monitor and Combat Trafficking in Persons</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1006,11 +1006,11 @@
                 <note/>
             </started>
             <ended>
-                <date>2004-11-15</date>
+                <date/>
                 <note/>
             </ended>
-            <note>With the rank of Ambassador at Large while serving as Director for the Office to
-                Monitor and Combat Trafficking in Persons</note>
+            <note>Commissioned as Coordinator for Counter-Terrorism with the rank of Ambassador at
+                Large.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>wicentowskijc</last-modified-by>
@@ -1367,14 +1367,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note>Commissioned as Ambassador at Large for International Religious Freedom.</note>
             <created-by>marrsaw</created-by>
             <created-date>2017-08-11</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2020-10-06</last-modified-date>
+            <last-modified-date>2021-02-18</last-modified-date>
         </principal>
         <principal>
             <id>larg-2018-rich</id>
@@ -1389,7 +1389,7 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note>Commissioned as Director of the Office to Monitor and Combat Trafficking, with the
@@ -1397,7 +1397,7 @@
             <created-by>bottsjd</created-by>
             <created-date>2019-08-08</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-08-08</last-modified-date>
+            <last-modified-date>2021-02-18</last-modified-date>
         </principal>
         <principal>
             <id>larg-2019-curr</id>
@@ -1412,14 +1412,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note>Commissioned as Ambassador at Large for Global Women’s Issues</note>
             <created-by>bottsjd</created-by>
             <created-date>2020-01-15</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2020-01-15</last-modified-date>
+            <last-modified-date>2021-02-18</last-modified-date>
         </principal>
         <principal>
             <id>larg-2019-tan-</id>
@@ -1434,14 +1434,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note>Commissioned as Ambassador at Large for Global Criminal Justice</note>
             <created-by>bottsjd</created-by>
             <created-date>2020-01-15</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2020-01-15</last-modified-date>
+            <last-modified-date>2021-02-18</last-modified-date>
         </principal>
     </principals>
     <other-appointees>

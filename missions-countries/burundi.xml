@@ -3,7 +3,7 @@
     <territory-id>burundi</territory-id>
     <chiefs>
         <chief>
-            <id>bi-1962-olds-01</id>
+            <id>bi--olds-01</id>
             <person-id>olds-herbert-vincent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1962-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1962-07-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -329,7 +329,7 @@
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
         <chief>
-            <id>bi-1993-lang-01</id>
+            <id>bi--lang-01</id>
             <person-id>lange-leonard-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -338,15 +338,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1993-03-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1993-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1994-06</date>
+                <date>1994-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -572,7 +572,7 @@
             <last-modified-date>2019-05-29</last-modified-date>
         </chief>
         <chief>
-            <id>bi-2019-redd-01</id>
+            <id>bi--redd-01</id>
             <person-id>reddick-eunice-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -589,14 +589,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2020-11-18</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2020-10-06</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2020-10-06</last-modified-date>
+            <last-modified-date>2020-12-16</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees/>

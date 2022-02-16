@@ -3,7 +3,7 @@
     <territory-id>togo</territory-id>
     <chiefs>
         <chief>
-            <id>tg-1960-mack-01</id>
+            <id>tg--mack-01</id>
             <person-id>macknight-jesse-mackenzie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>togo</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1960-04-27</date>
                 <note/>
             </arrived>
             <started>
-                <date>1960-04-27</date>
+                <date/>
                 <note/>
             </started>
             <ended>

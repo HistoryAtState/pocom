@@ -7,8 +7,8 @@
         <singular>Director of Policy Planning</singular>
         <plural>Directors of Policy Planning</plural>
     </names>
-    <start>1947</start>
-    <end>2005</end>
+    <start accuracy="yyyy">1947</start>
+    <end accuracy="yyyy">2005</end>
     <ongoing>false</ongoing>
     <description>
         <div>
@@ -708,36 +708,36 @@
                 <note/>
             </started>
             <ended>
-                <date>2019-08</date>
+                <date>2019-08-30</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-08-08</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-08-08</last-modified-date>
+            <last-modified-date>2021-02-18</last-modified-date>
         </principal>
         <principal>
             <id>plan-2019-berk</id>
             <person-id>berkowitz-peter</person-id>
             <role-title-id>director-policy-planning</role-title-id>
             <appointed>
-                <date>2019-01-01</date>
+                <date/>
                 <note/>
             </appointed>
             <started>
-                <date/>
+                <date>2020-01-01</date>
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2020-01-17</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2020-01-17</last-modified-date>
+            <last-modified-date>2021-02-19</last-modified-date>
         </principal>
     </principals>
     <other-appointees/>

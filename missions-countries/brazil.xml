@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1825-10-29</date>
                 <note/>
             </arrived>
             <started>
-                <date>1825-10-29</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1828-06-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>1828-06-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -67,11 +67,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1831-02-18</date>
                 <note/>
             </arrived>
             <started>
-                <date>1831-02-18</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -94,11 +94,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1835-01-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1835-01-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -194,7 +194,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>br-1847-tod-01</id>
+            <id>br-1847-tod--01</id>
             <person-id>tod-david</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -605,7 +605,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>br-1902-thom-02</id>
+            <id>br-1902-thom-01</id>
             <person-id>thompson-david-eugene</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1307,7 +1307,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>br-2001-oroz-01</id>
+            <id>br--oroz-01</id>
             <person-id>orozco-cristobal-roberto</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1316,15 +1316,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2001-02-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2001-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2002-04</date>
+                <date>2002-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1388,7 +1388,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>br-2005-chic-01</id>
+            <id>br--chic-01</id>
             <person-id>chicola-philip-t</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1397,15 +1397,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2005-11-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2005-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2006-11</date>
+                <date>2006-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1523,7 +1523,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>br-2018-popp-01</id>
+            <id>br--popp-01</id>
             <person-id>popp-william-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1689,7 +1689,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>br-1992-wats-01</id>
+            <id>br--wats-01</id>
             <person-id>watson-alexander-fletcher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>
@@ -1716,7 +1716,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>br-1999-atwo-01</id>
+            <id>br--atwo-01</id>
             <person-id>atwood-john-brian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brazil</contemporary-territory-id>

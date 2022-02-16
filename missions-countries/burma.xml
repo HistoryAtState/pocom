@@ -3,7 +3,7 @@
     <territory-id>burma</territory-id>
     <chiefs>
         <chief>
-            <id>bu-1947-pack-01</id>
+            <id>bu--pack-01</id>
             <person-id>packer-earl-lenoir</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1947-09-19</date>
                 <note/>
             </arrived>
             <started>
-                <date>1947-09-19</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -58,7 +58,7 @@
             <last-modified-date>2015-11-20</last-modified-date>
         </chief>
         <chief>
-            <id>bu-1950-key-01</id>
+            <id>bu-1950-key--01</id>
             <person-id>key-david-mckendree</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -437,7 +437,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>bu-1990-hudd-01</id>
+            <id>bu--hudd-01</id>
             <person-id>huddle-franklin-pierce</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -446,15 +446,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1990-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1990-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1994-09</date>
+                <date>1994-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -464,7 +464,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>bu-1994-meye-01</id>
+            <id>bu--meye-01</id>
             <person-id>meyers-marilyn-ann</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -473,15 +473,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1994-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1994-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1996-10</date>
+                <date>1996-10-01</date>
                 <note/>
             </ended>
             <note/>
@@ -491,7 +491,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>bu-1996-wied-01</id>
+            <id>bu--wied-01</id>
             <person-id>wiedemann-kent-m</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -500,15 +500,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1996-10-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1996-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1999-05</date>
+                <date>1999-05-01</date>
                 <note/>
             </ended>
             <note/>
@@ -518,7 +518,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>bu-1999-clap-01</id>
+            <id>bu--clap-01</id>
             <person-id>clapp-priscilla-ann</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -527,15 +527,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1999-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1999-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2002-07</date>
+                <date>2002-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -545,7 +545,7 @@
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
-            <id>bu-2002-mart-01</id>
+            <id>bu--mart-01</id>
             <person-id>martinez-carmen-maria</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -554,15 +554,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2002-08-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2002-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2005-08</date>
+                <date>2005-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -572,7 +572,7 @@
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
-            <id>bu-2005-vill-01</id>
+            <id>bu--vill-01</id>
             <person-id>villarosa-sharon-english-woods</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -581,15 +581,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2005-08-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2005-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2008-08</date>
+                <date>2008-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -599,7 +599,7 @@
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
-            <id>bu-2008-ding-01</id>
+            <id>bu--ding-01</id>
             <person-id>dinger-larry-miles</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -608,15 +608,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2008-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2008-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2011-08</date>
+                <date>2011-08-01</date>
                 <note/>
             </ended>
             <note/>
@@ -679,6 +679,33 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-05-18</last-modified-date>
         </chief>
+        <chief>
+            <id>bu-2020-vajd-01</id>
+            <person-id>vajda-thomas-laszlo</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>burma</contemporary-territory-id>
+            <appointed>
+                <date>2020-12-01</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2021-01-11</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-01-14</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </chiefs>
     <other-nominees>
         <chief>
@@ -709,7 +736,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bu-1991-borg-01</id>
+            <id>bu--borg-01</id>
             <person-id>borg-parker-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>

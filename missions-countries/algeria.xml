@@ -66,7 +66,7 @@
             <last-modified-date>2015-05-22</last-modified-date>
         </mission-note>
         <chief>
-            <id>dz-1967-hoff-01</id>
+            <id>dz--hoff-01</id>
             <person-id>hoffacker-roscoe-lewis</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -75,15 +75,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1967-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1967-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1969-11</date>
+                <date>1969-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -93,7 +93,7 @@
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
         <chief>
-            <id>dz-1967-eagl-01</id>
+            <id>dz--eagl-01</id>
             <person-id>eagleton-william-lester-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -102,15 +102,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1969-12-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1969-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1974-07</date>
+                <date>1974-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -119,15 +119,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
-        <mission-note>
-            <text>Embassy Algiers was re-established November 12, 1974.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-05-22</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-22</last-modified-date>
-        </mission-note>
         <chief>
-            <id>dz-1974-park-01</id>
+            <id>dz--park-01</id>
             <person-id>parker-richard-bordeaux</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -136,11 +129,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1974-11-12</date>
                 <note/>
             </arrived>
             <started>
-                <date>1974-11-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -153,8 +146,15 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Algiers was re-established November 12, 1974.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-05-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-05-22</last-modified-date>
+        </mission-note>
         <chief>
-            <id>dz-1974-park-02</id>
+            <id>dz-1974-park-01</id>
             <person-id>parker-richard-bordeaux</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>

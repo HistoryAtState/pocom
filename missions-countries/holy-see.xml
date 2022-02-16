@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1848-08-19</date>
                 <note/>
             </arrived>
             <started>
-                <date>1848-08-19</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1849-11-19</date>
                 <note/>
             </arrived>
             <started>
-                <date>1849-11-19</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -194,7 +194,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1939-tayl-01</id>
+            <id>va--tayl-01</id>
             <person-id>taylor-myron-charles</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -221,7 +221,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1941-titt-01</id>
+            <id>va--titt-01</id>
             <person-id>tittmann-harold-hilgard</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -251,7 +251,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1970-lodg-01</id>
+            <id>va--lodg-01</id>
             <person-id>lodge-henry-cabot</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -278,7 +278,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1977-walt-01</id>
+            <id>va--walt-01</id>
             <person-id>walters-david</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -305,7 +305,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1978-wagn-01</id>
+            <id>va--wagn-01</id>
             <person-id>wagner-robert-ferdinand</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -332,7 +332,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1981-wils-01</id>
+            <id>va--wils-01</id>
             <person-id>wilson-william-a</person-id>
             <role-title-id>personal-representative-of-the-president</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -658,7 +658,7 @@
     </chiefs>
     <other-nominees>
         <chief>
-            <id>va-1856-cass-01</id>
+            <id>va--cass-01</id>
             <person-id>cass-lewis-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>
@@ -741,7 +741,7 @@
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
         <chief>
-            <id>va-1951-clar-01</id>
+            <id>va--clar-01</id>
             <person-id>clark-mark-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>holy-see</contemporary-territory-id>

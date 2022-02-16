@@ -225,7 +225,7 @@
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
         <chief>
-            <id>no-1940-cox-01</id>
+            <id>no--cox--01</id>
             <person-id>cox-raymond-edwin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -252,7 +252,7 @@
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
         <chief>
-            <id>no-1940-scho-01</id>
+            <id>no--scho-01</id>
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -361,7 +361,7 @@
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
         <chief>
-            <id>no-1946-bay-01</id>
+            <id>no-1946-bay--01</id>
             <person-id>bay-charles-ulrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -793,7 +793,7 @@
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
         <chief>
-            <id>no-2002-ong-01</id>
+            <id>no-2002-ong--01</id>
             <person-id>ong-john-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -874,7 +874,7 @@
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
         <chief>
-            <id>no-2013-furu-01</id>
+            <id>no--furu-01</id>
             <person-id>furuta-toy-julia-ann</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -883,15 +883,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2013-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2013-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2015-06</date>
+                <date>2015-06-01</date>
                 <note/>
             </ended>
             <note/>
@@ -955,5 +955,33 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nominees>
+        <chief>
+            <id>no--burk-01</id>
+            <person-id>burkhalter-j-mark</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>norway</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of May 21, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
+    </other-nominees>
 </country-mission>

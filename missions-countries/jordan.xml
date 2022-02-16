@@ -3,7 +3,7 @@
     <territory-id>jordan</territory-id>
     <chiefs>
         <chief>
-            <id>jo-1949-stab-01</id>
+            <id>jo--stab-01</id>
             <person-id>stabler-wells</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jordan</contemporary-territory-id>
@@ -12,15 +12,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1949-02-18</date>
                 <note/>
             </arrived>
             <started>
-                <date>1949-02-18</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1950-02</date>
+                <date>1950-02-01</date>
                 <note/>
             </ended>
             <note/>
@@ -84,7 +84,7 @@
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
         <chief>
-            <id>jo-1952-gree-02</id>
+            <id>jo-1952-gree-01</id>
             <person-id>green-joseph-coy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jordan</contemporary-territory-id>
@@ -543,7 +543,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>jo-2004-hale-01</id>
+            <id>jo--hale-01</id>
             <person-id>hale-david-m</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jordan</contemporary-territory-id>
@@ -552,15 +552,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2004-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2004-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2005-11</date>
+                <date>2005-11-01</date>
                 <note/>
             </ended>
             <note/>
@@ -678,7 +678,7 @@
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
         <chief>
-            <id>jo-2017-woos-01</id>
+            <id>jo--woos-01</id>
             <person-id>wooster-henry-t</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jordan</contemporary-territory-id>
@@ -705,7 +705,7 @@
             <last-modified-date>2020-09-10</last-modified-date>
         </chief>
         <chief>
-            <id>jo-2019-sasa-01</id>
+            <id>jo--sasa-01</id>
             <person-id>sasahara-karen-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jordan</contemporary-territory-id>

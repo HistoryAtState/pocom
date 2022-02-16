@@ -3,7 +3,7 @@
     <territory-id>india</territory-id>
     <chiefs>
         <chief>
-            <id>in-1946-merr-01</id>
+            <id>in--merr-01</id>
             <person-id>merrell-george-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>india</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1946-11-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1946-11-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -492,7 +492,7 @@
             <last-modified-date>2015-10-27</last-modified-date>
         </chief>
         <chief>
-            <id>in-1993-bril-01</id>
+            <id>in--bril-01</id>
             <person-id>brill-kenneth-c</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>india</contemporary-territory-id>
@@ -501,15 +501,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1993-03-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1993-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1994-08</date>
+                <date>1994-08-01</date>
                 <note/>
             </ended>
             <note/>

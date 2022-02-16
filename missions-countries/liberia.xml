@@ -1012,7 +1012,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>lr-1990-de-01</id>
+            <id>lr-1990-de-v-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1040,7 +1040,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
-            <id>lr-1992-twad-01</id>
+            <id>lr--twad-01</id>
             <person-id>twaddell-william-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1049,15 +1049,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1992-09-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1992-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1995-07</date>
+                <date>1995-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1067,7 +1067,7 @@
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
-            <id>lr-1995-mila-01</id>
+            <id>lr--mila-01</id>
             <person-id>milam-william-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1076,15 +1076,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1995-11-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1995-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1999-01</date>
+                <date>1999-01-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1254,6 +1254,33 @@
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-03-24</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-2020-mcca-01</id>
+            <person-id>mccarthy-michael-a</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>2020-12-01</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2021-01-06</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2020-12-16</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-01-14</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

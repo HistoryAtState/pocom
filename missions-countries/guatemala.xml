@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1826-05-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1826-05-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -30,7 +30,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1833-de-01</id>
+            <id>gt-1833-de-w-01</id>
             <person-id>de-witt-charles-gerrit</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1833-12-17</date>
                 <note/>
             </arrived>
             <started>
-                <date>1833-12-17</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -66,12 +66,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1849-01-31</date>
                 <note>On or shortly before</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date>1849-06-23</date>
@@ -303,7 +303,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1882-hall-02</id>
+            <id>gt-1882-hall-01</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>
@@ -524,7 +524,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1907-lee-01</id>
+            <id>gt-1907-lee--01</id>
             <person-id>lee-joseph-wilcox-jenkins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>
@@ -551,7 +551,7 @@
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1907-lee-02</id>
+            <id>gt-1907-lee--01</id>
             <person-id>lee-joseph-wilcox-jenkins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>
@@ -797,7 +797,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1936-des-01</id>
+            <id>gt-1936-des--01</id>
             <person-id>des-portes-fay-allen</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>
@@ -903,7 +903,7 @@
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-180</last-modified-date>
+            <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
             <id>gt-1951-scho-01</id>
@@ -1149,7 +1149,7 @@
             <note/>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
-            <last-modified-by>wicentowskijc</last-modified-by>
+            <last-modified-by>admin</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
         <chief>
@@ -1261,7 +1261,7 @@
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1980-sinn-01</id>
+            <id>gt--sinn-01</id>
             <person-id>sinn-melvin-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>
@@ -1270,15 +1270,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1980-08-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1980-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1981-09</date>
+                <date>1981-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1920,7 +1920,7 @@
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1856-marl-01</id>
+            <id>gt--marl-01</id>
             <person-id>marling-john-leake</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>
@@ -1975,7 +1975,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>gt-1860-chur-01</id>
+            <id>gt--chur-01</id>
             <person-id>churchwell-william-montgomery</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>guatemala</contemporary-territory-id>

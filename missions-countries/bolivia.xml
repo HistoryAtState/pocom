@@ -12,12 +12,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1849-01-03</date>
                 <note>Officially recognized on.</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date>1849-05-04</date>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1850-07-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1850-07-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -67,11 +67,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1852-12-18</date>
                 <note/>
             </arrived>
             <started>
-                <date>1852-12-18</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -95,11 +95,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1854-02-23</date>
                 <note/>
             </arrived>
             <started>
-                <date>1854-02-23</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -185,7 +185,7 @@
                 <note/>
             </started>
             <ended>
-                <date>1862-10</date>
+                <date>1862-10-01</date>
                 <note>Left post about</note>
             </ended>
             <note/>
@@ -741,7 +741,7 @@
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-014</last-modified-date>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>bo-1919-magi-01</id>
@@ -852,7 +852,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bo-1933-des-01</id>
+            <id>bo-1933-des--01</id>
             <person-id>des-portes-fay-allen</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1372,7 +1372,7 @@
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
         <chief>
-            <id>bo-1980-wats-01</id>
+            <id>bo--wats-01</id>
             <person-id>watson-alexander-fletcher</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1381,15 +1381,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1980-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1980-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1981-09</date>
+                <date>1981-09-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1633,8 +1633,7 @@
             </started>
             <ended>
                 <date>2008-09-14</date>
-                <note>Declared <hi rend="italic">persona non grata</hi> by the Government of
-                    Bolivia; left post,</note>
+                <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -1643,7 +1642,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>bo-2009-crea-01</id>
+            <id>bo--crea-01</id>
             <person-id>creamer-john-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1652,15 +1651,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2009-08-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2009-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>2012-07</date>
+                <date>2012-07-01</date>
                 <note/>
             </ended>
             <note/>
@@ -1670,7 +1669,7 @@
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
         <chief>
-            <id>bo-2012-memm-01</id>
+            <id>bo--memm-01</id>
             <person-id>memmott-larry-l</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1679,11 +1678,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2012-07-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2012-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1697,7 +1696,7 @@
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
         <chief>
-            <id>bo-2014-brenn-01</id>
+            <id>bo--bren-01</id>
             <person-id>brennan-peter-m</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1706,11 +1705,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2014-06-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>2014-06-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1724,7 +1723,7 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
         <chief>
-            <id>bo-2017-will-01</id>
+            <id>bo--will-01</id>
             <person-id>williamson-bruce-m</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1733,11 +1732,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-12-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-12-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1751,7 +1750,7 @@
             <last-modified-date>2020-09-10</last-modified-date>
         </chief>
         <chief>
-            <id>bo-2020-phil-01</id>
+            <id>bo--phil-01</id>
             <person-id>phillips-charisse</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1760,11 +1759,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2020-08-26</date>
                 <note/>
             </arrived>
             <started>
-                <date>2020-08-26</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1808,7 +1807,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>bo-1856-dana-01</id>
+            <id>bo--dana-01</id>
             <person-id>dana-john-winchester</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>

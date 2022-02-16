@@ -30,7 +30,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1972-wood-01</id>
+            <id>ws--wood-01</id>
             <person-id>wood-chalmers-benedict</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -39,15 +39,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1972-11-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1972-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1974-04</date>
+                <date>1974-04-01</date>
                 <note/>
             </ended>
             <note/>
@@ -382,10 +382,37 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-30</last-modified-date>
         </chief>
+        <chief>
+            <id>ws-2021-udal-01</id>
+            <person-id>udall-tom</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>samoa</contemporary-territory-id>
+            <appointed>
+                <date>2021-10-27</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-12-08</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </chiefs>
     <other-nominees>
         <chief>
-            <id>ws-1970-fran-01</id>
+            <id>ws--fran-01</id>
             <person-id>franzheim-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -412,7 +439,7 @@
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1973-farl-01</id>
+            <id>ws--farl-01</id>
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>
@@ -440,7 +467,7 @@
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
-            <id>ws-1992-good-01</id>
+            <id>ws--good-01</id>
             <person-id>goodwin-robert-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>samoa</contemporary-territory-id>

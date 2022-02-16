@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1831-09-13</date>
                 <note/>
             </arrived>
             <started>
-                <date>1831-09-13</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -360,7 +360,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tr-1885-cox-01</id>
+            <id>tr-1885-cox--01</id>
             <person-id>cox-samuel-sullivan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1465,33 +1465,6 @@
                 <note/>
             </started>
             <ended>
-                <date/>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-07-13</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-07-13</last-modified-date>
-        </chief>
-        <chief>
-            <id>tr-2014-bass-01</id>
-            <person-id>bass-john-r</person-id>
-            <role-title-id>ambassador-e-p</role-title-id>
-            <contemporary-territory-id>turkey</contemporary-territory-id>
-            <appointed>
-                <date>2014-09-18</date>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>2014-10-20</date>
-                <note/>
-            </started>
-            <ended>
                 <date>2017-10-15</date>
                 <note/>
             </ended>
@@ -1528,6 +1501,33 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-19</last-modified-date>
         </chief>
+        <chief>
+            <id>tr-2021-flak-01</id>
+            <person-id>flake-jeffry-lane</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>turkey</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-07</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-12-08</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
+        </chief>
     </chiefs>
     <other-nominees>
         <chief>
@@ -1558,7 +1558,7 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
         <chief>
-            <id>tr-1856-spen-01</id>
+            <id>tr--spen-01</id>
             <person-id>spence-carroll</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>

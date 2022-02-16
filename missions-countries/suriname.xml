@@ -3,7 +3,7 @@
     <territory-id>suriname</territory-id>
     <chiefs>
         <chief>
-            <id>sr-1975-flan-01</id>
+            <id>sr--flan-01</id>
             <person-id>flanagin-robert-l</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>suriname</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1975-11-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>1975-11-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -354,7 +354,7 @@
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
         <chief>
-            <id>sr-2009-nay-01</id>
+            <id>sr-2009-nay--01</id>
             <person-id>nay-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>suriname</contemporary-territory-id>

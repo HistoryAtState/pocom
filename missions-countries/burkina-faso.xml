@@ -3,7 +3,7 @@
     <territory-id>burkina-faso</territory-id>
     <chiefs>
         <chief>
-            <id>bf-1960-norl-01</id>
+            <id>bf--norl-01</id>
             <person-id>norland-donald-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1960-08-05</date>
                 <note/>
             </arrived>
             <started>
-                <date>1960-08-05</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -223,7 +223,7 @@
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
         <chief>
-            <id>bf-1980-grah-01</id>
+            <id>bf--grah-01</id>
             <person-id>grahl-larry-c</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burkina-faso</contemporary-territory-id>
@@ -232,15 +232,15 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1980-10-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1980-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>
-                <date>1981-11</date>
+                <date>1981-11-01</date>
                 <note/>
             </ended>
             <note/>
