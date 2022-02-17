@@ -7,8 +7,7 @@ element principal-position {
     element category { text },
     element names {
         element singular { text },
-        element plural { text },
-        element alternate { text }*
+        element plural { text }
     },
     element start { xsd:gYear },
     element end { xsd:gYear? },
