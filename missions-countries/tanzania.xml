@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>tanzania</territory-id>
     <chiefs>
-        <chief id="tz-1961-dugg-01">
+        <chief>
+            <id>tz-1961-dugg-01</id>
             <person-id>duggan-william-redman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="tz-1962-leon-01">
+        <chief>
+            <id>tz-1962-leon-01</id>
             <person-id>leonhart-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -68,7 +70,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </mission-note>
-        <chief id="tz-1966-burn-01">
+        <chief>
+            <id>tz-1966-burn-01</id>
             <person-id>burns-john-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -94,7 +97,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-1969-ross-01">
+        <chief>
+            <id>tz-1969-ross-01</id>
             <person-id>ross-claude-george-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -120,7 +124,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-1972-cart-01">
+        <chief>
+            <id>tz-1972-cart-01</id>
             <person-id>carter-william-beverly</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -146,7 +151,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-1976-spai-01">
+        <chief>
+            <id>tz-1976-spai-01</id>
             <person-id>spain-james-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -172,7 +178,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief id="tz-1979-viet-01">
+        <chief>
+            <id>tz-1979-viet-01</id>
             <person-id>viets-richard-noyes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -198,7 +205,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-1981-mill-01">
+        <chief>
+            <id>tz-1981-mill-01</id>
             <person-id>miller-david-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -224,7 +232,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-1984-shir-01">
+        <chief>
+            <id>tz-1984-shir-01</id>
             <person-id>shirley-john-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -250,7 +259,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-1986-pett-01">
+        <chief>
+            <id>tz-1986-pett-01</id>
             <person-id>petterson-donald-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -276,7 +286,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-1990-deja-01">
+        <chief>
+            <id>tz-1990-deja-01</id>
             <person-id>dejarnette-edmund-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -302,7 +313,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-02-21</last-modified-date>
         </chief>
-        <chief id="tz-1993-de-01">
+        <chief>
+            <id>tz-1993-de-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -328,7 +340,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
-        <chief id="tz-1994-ande-01">
+        <chief>
+            <id>tz-1994-ande-01</id>
             <person-id>anderson-j-brady</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -354,7 +367,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-1998-stit-01">
+        <chief>
+            <id>tz-1998-stit-01</id>
             <person-id>stith-charles-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -380,7 +394,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-2001-roya-01">
+        <chief>
+            <id>tz-2001-roya-01</id>
             <person-id>royall-robert-v</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -406,7 +421,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="tz-2003-owen-01">
+        <chief>
+            <id>tz-2003-owen-01</id>
             <person-id>owen-michael-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -432,7 +448,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="tz-2005-retz-01">
+        <chief>
+            <id>tz-2005-retz-01</id>
             <person-id>retzer-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -458,7 +475,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tz-2007-gree-01">
+        <chief>
+            <id>tz-2007-gree-01</id>
             <person-id>green-mark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -484,7 +502,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief id="tz-2009-lenh-01">
+        <chief>
+            <id>tz-2009-lenh-01</id>
             <person-id>lenhardt-alfonso-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -510,7 +529,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief id="tz-2014-chil-01">
+        <chief>
+            <id>tz-2014-chil-01</id>
             <person-id>childress-mark-bradley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -536,7 +556,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-14</last-modified-date>
         </chief>
-        <chief id="tz-2017-patt-01">
+        <chief>
+            <id>tz-2017-patt-01</id>
             <person-id>patterson-inmi-k</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>
@@ -562,7 +583,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-06-23</last-modified-date>
         </chief>
-        <chief id="tz-2020-wrig-01">
+        <chief>
+            <id>tz-2020-wrig-01</id>
             <person-id>wright-donald-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tanzania</contemporary-territory-id>

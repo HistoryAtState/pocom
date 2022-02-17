@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>nicaragua</territory-id>
     <chiefs>
-        <chief id="ni-1852-kerr-01">
+        <chief>
+            <id>ni-1852-kerr-01</id>
             <person-id>kerr-john-bozman</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -30,7 +31,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1853-borl-01">
+        <chief>
+            <id>ni-1853-borl-01</id>
             <person-id>borland-solon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -57,7 +59,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1855-whee-01">
+        <chief>
+            <id>ni-1855-whee-01</id>
             <person-id>wheeler-john-h</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -83,7 +86,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1858-lama-01">
+        <chief>
+            <id>ni-1858-lama-01</id>
             <person-id>lamar-mirabeau-buonaparte</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -109,7 +113,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1859-dimi-01">
+        <chief>
+            <id>ni-1859-dimi-01</id>
             <person-id>dimitry-alexander</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -136,7 +141,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1861-dick-01">
+        <chief>
+            <id>ni-1861-dick-01</id>
             <person-id>dickinson-andrew-b</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -162,7 +168,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
-        <chief id="ni-1863-clay-01">
+        <chief>
+            <id>ni-1863-clay-01</id>
             <person-id>clay-thomas-hart</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -189,7 +196,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1863-dick-01">
+        <chief>
+            <id>ni-1863-dick-01</id>
             <person-id>dickinson-andrew-b</person-id>
             <role-title-id>minister-resident-and-extraordinary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -216,7 +224,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1869-riot-01">
+        <chief>
+            <id>ni-1869-riot-01</id>
             <person-id>riotte-charles-n</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -242,7 +251,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-12</last-modified-date>
         </chief>
-        <chief id="ni-1873-will-01">
+        <chief>
+            <id>ni-1873-will-01</id>
             <person-id>williamson-george-mcwillie</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -270,7 +280,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1879-loga-01">
+        <chief>
+            <id>ni-1879-loga-01</id>
             <person-id>logan-cornelius-ambrose</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -296,7 +307,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief id="ni-1882-hall-01">
+        <chief>
+            <id>ni-1882-hall-01</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -322,7 +334,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief id="ni-1882-hall-02">
+        <chief>
+            <id>ni-1882-hall-02</id>
             <person-id>hall-henry-cook</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -348,7 +361,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1889-mizn-01">
+        <chief>
+            <id>ni-1889-mizn-01</id>
             <person-id>mizner-lansing-bond</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -374,7 +388,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1891-pach-01">
+        <chief>
+            <id>ni-1891-pach-01</id>
             <person-id>pacheco-romualdo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -400,7 +415,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1891-shan-01">
+        <chief>
+            <id>ni-1891-shan-01</id>
             <person-id>shannon-richard-cutts</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -427,7 +443,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1893-bake-01">
+        <chief>
+            <id>ni-1893-bake-01</id>
             <person-id>baker-lewis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -453,7 +470,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1899-merr-01">
+        <chief>
+            <id>ni-1899-merr-01</id>
             <person-id>merry-william-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -479,7 +497,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-18</last-modified-date>
         </chief>
-        <chief id="ni-1907-merr-01">
+        <chief>
+            <id>ni-1907-merr-01</id>
             <person-id>merry-william-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -505,7 +524,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief id="ni-1908-cool-01">
+        <chief>
+            <id>ni-1908-cool-01</id>
             <person-id>coolidge-john-gardner</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -531,7 +551,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1909-03-12-greg-01">
+        <chief>
+            <id>ni-1909-03-12-greg-01</id>
             <person-id>gregory-john-hanaford</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -558,7 +579,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="ni-1911-nort-01">
+        <chief>
+            <id>ni-1911-nort-01</id>
             <person-id>northcott-elliott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -584,7 +606,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1912-weit-01">
+        <chief>
+            <id>ni-1912-weit-01</id>
             <person-id>weitzel-george-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -610,7 +633,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1913-jeff-01">
+        <chief>
+            <id>ni-1913-jeff-01</id>
             <person-id>jefferson-benjamin-lafayette</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -636,7 +660,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1921-rame-01">
+        <chief>
+            <id>ni-1921-rame-01</id>
             <person-id>ramer-john-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -662,7 +687,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1925-eber-01">
+        <chief>
+            <id>ni-1925-eber-01</id>
             <person-id>eberhardt-charles-christopher</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -688,7 +714,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1930-hann-01">
+        <chief>
+            <id>ni-1930-hann-01</id>
             <person-id>hanna-matthew-elting</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -714,7 +741,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1933-lane-01">
+        <chief>
+            <id>ni-1933-lane-01</id>
             <person-id>lane-arthur-bliss</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -741,7 +769,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="ni-1936-long-01">
+        <chief>
+            <id>ni-1936-long-01</id>
             <person-id>long-boaz-walton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -767,7 +796,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1938-nich-01">
+        <chief>
+            <id>ni-1938-nich-01</id>
             <person-id>nicholson-meredith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -793,7 +823,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1941-boal-01">
+        <chief>
+            <id>ni-1941-boal-01</id>
             <person-id>boal-pierre-de-lagarde</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -819,7 +850,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1942-stew-01">
+        <chief>
+            <id>ni-1942-stew-01</id>
             <person-id>stewart-james-bolton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -845,7 +877,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="ni-1943-stew-01">
+        <chief>
+            <id>ni-1943-stew-01</id>
             <person-id>stewart-james-bolton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -871,7 +904,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1945-warr-01">
+        <chief>
+            <id>ni-1945-warr-01</id>
             <person-id>warren-william-fletcher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -897,7 +931,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1948-shaw-01">
+        <chief>
+            <id>ni-1948-shaw-01</id>
             <person-id>shaw-george-price</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -923,7 +958,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1949-wayn-01">
+        <chief>
+            <id>ni-1949-wayn-01</id>
             <person-id>waynick-capus-miller</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -949,7 +985,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief id="ni-1951-whel-01">
+        <chief>
+            <id>ni-1951-whel-01</id>
             <person-id>whelan-thomas-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -975,7 +1012,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1961-brow-01">
+        <chief>
+            <id>ni-1961-brow-01</id>
             <person-id>brown-aaron-switzer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1001,7 +1039,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1967-croc-01">
+        <chief>
+            <id>ni-1967-croc-01</id>
             <person-id>crockett-kennedy-mccampbell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1027,7 +1066,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1970-shel-01">
+        <chief>
+            <id>ni-1970-shel-01</id>
             <person-id>shelton-turner-blair</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1053,7 +1093,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1975-theb-01">
+        <chief>
+            <id>ni-1975-theb-01</id>
             <person-id>theberge-james-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1079,7 +1120,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1977-sola-01">
+        <chief>
+            <id>ni-1977-sola-01</id>
             <person-id>solaun-mauricio</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1105,7 +1147,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1979-pezz-01">
+        <chief>
+            <id>ni-1979-pezz-01</id>
             <person-id>pezzulo-lawrence-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1131,7 +1174,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1982-quai-01">
+        <chief>
+            <id>ni-1982-quai-01</id>
             <person-id>quainton-anthony-cecil-eden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1157,7 +1201,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief id="ni-1984-berg-01">
+        <chief>
+            <id>ni-1984-berg-01</id>
             <person-id>bergold-harry-earl-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1183,7 +1228,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-06-04</last-modified-date>
         </chief>
-        <chief id="ni-1988-melt-01">
+        <chief>
+            <id>ni-1988-melt-01</id>
             <person-id>melton-richard-huntington</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1209,7 +1255,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="ni-1988-leon-01">
+        <chief>
+            <id>ni-1988-leon-01</id>
             <person-id>leonard-john-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1235,7 +1282,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="ni-1990-shla-01">
+        <chief>
+            <id>ni-1990-shla-01</id>
             <person-id>shlaudeman-harry-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1261,7 +1309,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="ni-1992-goda-01">
+        <chief>
+            <id>ni-1992-goda-01</id>
             <person-id>godard-ronald-d</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1287,7 +1336,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="ni-1993-mais-01">
+        <chief>
+            <id>ni-1993-mais-01</id>
             <person-id>maisto-john-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1313,7 +1363,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief id="ni-1996-guti-01">
+        <chief>
+            <id>ni-1996-guti-01</id>
             <person-id>gutierrez-lino</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1339,7 +1390,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1999-garz-01">
+        <chief>
+            <id>ni-1999-garz-01</id>
             <person-id>garza-oliver-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1365,7 +1417,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-2002-moor-01">
+        <chief>
+            <id>ni-2002-moor-01</id>
             <person-id>moore-barbara-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1391,7 +1444,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-2005-triv-01">
+        <chief>
+            <id>ni-2005-triv-01</id>
             <person-id>trivelli-paul-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1417,7 +1471,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="ni-2008-call-01">
+        <chief>
+            <id>ni-2008-call-01</id>
             <person-id>callahan-robert-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1443,7 +1498,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="ni-2012-powe-01">
+        <chief>
+            <id>ni-2012-powe-01</id>
             <person-id>powers-phyllis-marie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1469,7 +1525,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief id="ni-2015-dogu-01">
+        <chief>
+            <id>ni-2015-dogu-01</id>
             <person-id>dogu-laura-farnsworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1495,7 +1552,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief id="ni-2018-sull-01">
+        <chief>
+            <id>ni-2018-sull-01</id>
             <person-id>sullivan-kevin-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1523,7 +1581,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="ni--evan-01">
+        <chief>
+            <id>ni--evan-01</id>
             <person-id>evans-george</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1549,7 +1608,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1853-slid-01">
+        <chief>
+            <id>ni-1853-slid-01</id>
             <person-id>slidell-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1576,7 +1636,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni-1857-lama-01">
+        <chief>
+            <id>ni-1857-lama-01</id>
             <person-id>lamar-mirabeau-buonaparte</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1602,7 +1663,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief id="ni--part-01">
+        <chief>
+            <id>ni--part-01</id>
             <person-id>partridge-james-rudolph</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1628,7 +1690,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ni-1909-know-01">
+        <chief>
+            <id>ni-1909-know-01</id>
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1654,7 +1717,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="ni--sull-01">
+        <chief>
+            <id>ni--sull-01</id>
             <person-id>sullivan-joseph-gerard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>
@@ -1680,7 +1744,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief id="ni--farr-01">
+        <chief>
+            <id>ni--farr-01</id>
             <person-id>farrar-jonathan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nicaragua</contemporary-territory-id>

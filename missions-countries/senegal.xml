@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>senegal</territory-id>
     <chiefs>
-        <chief id="sn-1960-mccl-01">
+        <chief>
+            <id>sn-1960-mccl-01</id>
             <person-id>mcclelland-roswell-dunlop</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-1960-vill-01">
+        <chief>
+            <id>sn-1960-vill-01</id>
             <person-id>villard-henry-serrano</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-1961-kais-01">
+        <chief>
+            <id>sn-1961-kais-01</id>
             <person-id>kaiser-philip-mayer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-1964-cook-01">
+        <chief>
+            <id>sn-1964-cook-01</id>
             <person-id>cook-mercer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-1966-rivk-01">
+        <chief>
+            <id>sn-1966-rivk-01</id>
             <person-id>rivkin-william-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="sn-1967-brow-01">
+        <chief>
+            <id>sn-1967-brow-01</id>
             <person-id>brown-lewis-dean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-1970-clar-01">
+        <chief>
+            <id>sn-1970-clar-01</id>
             <person-id>clark-gilbert-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-1974-aggr-01">
+        <chief>
+            <id>sn-1974-aggr-01</id>
             <person-id>aggrey-orison-rudolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -211,7 +219,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-1977-cohe-01">
+        <chief>
+            <id>sn-1977-cohe-01</id>
             <person-id>cohen-herman-jay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -237,7 +246,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-1980-carr-01">
+        <chief>
+            <id>sn-1980-carr-01</id>
             <person-id>carrington-walter-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -263,7 +273,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sn-1981-bray-01">
+        <chief>
+            <id>sn-1981-bray-01</id>
             <person-id>bray-charles-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -289,7 +300,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sn-1985-walk-01">
+        <chief>
+            <id>sn-1985-walk-01</id>
             <person-id>walker-lannon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -315,7 +327,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
-        <chief id="sn-1988-moos-01">
+        <chief>
+            <id>sn-1988-moos-01</id>
             <person-id>moose-george-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -341,7 +354,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sn-1991-shir-01">
+        <chief>
+            <id>sn-1991-shir-01</id>
             <person-id>shirley-katherine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -367,7 +381,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sn-1993-john-01">
+        <chief>
+            <id>sn-1993-john-01</id>
             <person-id>johnson-mark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -393,7 +408,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sn-1996-smit-01">
+        <chief>
+            <id>sn-1996-smit-01</id>
             <person-id>smith-dane-farnsworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -419,7 +435,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sn-2000-elam-01">
+        <chief>
+            <id>sn-2000-elam-01</id>
             <person-id>elam-thomas-harriet-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -445,7 +462,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sn-2003-roth-01">
+        <chief>
+            <id>sn-2003-roth-01</id>
             <person-id>roth-richard-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -471,7 +489,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-2006-jaco-01">
+        <chief>
+            <id>sn-2006-jaco-01</id>
             <person-id>jacobs-janice-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -497,7 +516,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-2008-bern-01">
+        <chief>
+            <id>sn-2008-bern-01</id>
             <person-id>bernicat-marcia-stephens-bloom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -523,7 +543,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="sn-2011-luke-01">
+        <chief>
+            <id>sn-2011-luke-01</id>
             <person-id>lukens-lewis-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -549,7 +570,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="sn-2015-zumw-01">
+        <chief>
+            <id>sn-2015-zumw-01</id>
             <person-id>zumwalt-james-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>
@@ -575,7 +597,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-14</last-modified-date>
         </chief>
-        <chief id="sn-2017-mush-01">
+        <chief>
+            <id>sn-2017-mush-01</id>
             <person-id>mushingi-tulinabo-salama</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>senegal</contemporary-territory-id>

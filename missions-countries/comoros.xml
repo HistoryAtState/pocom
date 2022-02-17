@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>comoros</territory-id>
     <chiefs>
-        <chief id="km-1977-barr-01">
+        <chief>
+            <id>km-1977-barr-01</id>
             <person-id>barrett-robert-south</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-29</last-modified-date>
         </chief>
-        <chief id="km-1982-rond-01">
+        <chief>
+            <id>km-1982-rond-01</id>
             <person-id>rondon-fernando-enrique</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-29</last-modified-date>
         </chief>
-        <chief id="km-1983-keat-01">
+        <chief>
+            <id>km-1983-keat-01</id>
             <person-id>keating-robert-brendon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief id="km-1986-lync-01">
+        <chief>
+            <id>km-1986-lync-01</id>
             <person-id>lynch-patricia-gates</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief id="km-1989-walk-01">
+        <chief>
+            <id>km-1989-walk-01</id>
             <person-id>walker-howard-kent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief id="km-1990-pelt-01">
+        <chief>
+            <id>km-1990-pelt-01</id>
             <person-id>peltier-kenneth-noel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -166,7 +172,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </mission-note>
-        <chief id="km-1994-alex-01">
+        <chief>
+            <id>km-1994-alex-01</id>
             <person-id>alexander-leslie-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -192,7 +199,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief id="km-1996-geis-01">
+        <chief>
+            <id>km-1996-geis-01</id>
             <person-id>geisel-harold-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -218,7 +226,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief id="km-2000-erwi-01">
+        <chief>
+            <id>km-2000-erwi-01</id>
             <person-id>erwin-mark-wylea</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -244,7 +253,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief id="km-2002-pric-01">
+        <chief>
+            <id>km-2002-pric-01</id>
             <person-id>price-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -270,7 +280,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief id="km-2005-schw-01">
+        <chief>
+            <id>km-2005-schw-01</id>
             <person-id>schwartz-stephen-michael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -296,7 +307,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-31</last-modified-date>
         </chief>
-        <chief id="km-2007-marq-01">
+        <chief>
+            <id>km-2007-marq-01</id>
             <person-id>marquardt-r-niels</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -322,7 +334,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief id="km-2010-stro-01">
+        <chief>
+            <id>km-2010-stro-01</id>
             <person-id>stromayer-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -348,7 +361,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief id="km-2011-wong-01">
+        <chief>
+            <id>km-2011-wong-01</id>
             <person-id>wong-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -374,7 +388,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief id="km-2015-yama-01">
+        <chief>
+            <id>km-2015-yama-01</id>
             <person-id>yamate-robert-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -400,7 +415,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="km-2019-pell-01">
+        <chief>
+            <id>km-2019-pell-01</id>
             <person-id>pelletier-michael-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>
@@ -428,7 +444,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="km-2006-mcge-01">
+        <chief>
+            <id>km-2006-mcge-01</id>
             <person-id>mcgee-james-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>comoros</contemporary-territory-id>

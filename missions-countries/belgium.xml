@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>belgium</territory-id>
     <chiefs>
-        <chief id="be-1832-lega-01">
+        <chief>
+            <id>be-1832-lega-01</id>
             <person-id>legare-hugh-swinton</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1837-maxc-01">
+        <chief>
+            <id>be-1837-maxc-01</id>
             <person-id>maxcy-virgil</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1842-hill-01">
+        <chief>
+            <id>be-1842-hill-01</id>
             <person-id>hilliard-henry-washington</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1844-clem-01">
+        <chief>
+            <id>be-1844-clem-01</id>
             <person-id>clemson-thomas-green</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1851-baya-01">
+        <chief>
+            <id>be-1851-baya-01</id>
             <person-id>bayard-richard-henry</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1853-seib-01">
+        <chief>
+            <id>be-1853-seib-01</id>
             <person-id>seibels-john-jacob</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1854-seib-01">
+        <chief>
+            <id>be-1854-seib-01</id>
             <person-id>seibels-john-jacob</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1858-fair-01">
+        <chief>
+            <id>be-1858-fair-01</id>
             <person-id>fair-elisha-young</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1861-sanf-01">
+        <chief>
+            <id>be-1861-sanf-01</id>
             <person-id>sanford-henry-shelton</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1869-jone-01">
+        <chief>
+            <id>be-1869-jone-01</id>
             <person-id>jones-joseph-russell</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -265,7 +275,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1876-merr-01">
+        <chief>
+            <id>be-1876-merr-01</id>
             <person-id>merrill-ayres-phillips</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -291,7 +302,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1878-good-01">
+        <chief>
+            <id>be-1878-good-01</id>
             <person-id>goodloe-william-cassius</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -317,7 +329,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1880-putn-01">
+        <chief>
+            <id>be-1880-putn-01</id>
             <person-id>putnam-james-osborne</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -343,7 +356,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1882-fish-01">
+        <chief>
+            <id>be-1882-fish-01</id>
             <person-id>fish-nicholas</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -369,7 +383,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1885-tree-01">
+        <chief>
+            <id>be-1885-tree-01</id>
             <person-id>tree-lambert</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -396,7 +411,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1888-tree-01">
+        <chief>
+            <id>be-1888-tree-01</id>
             <person-id>tree-lambert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -422,7 +438,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1888-park-01">
+        <chief>
+            <id>be-1888-park-01</id>
             <person-id>parkhurst-john-gibson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -448,7 +465,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1889-terr-01">
+        <chief>
+            <id>be-1889-terr-01</id>
             <person-id>terrell-edwin-holland</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -474,7 +492,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1893-ewin-01">
+        <chief>
+            <id>be-1893-ewin-01</id>
             <person-id>ewing-james-stevenson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -500,7 +519,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1897-stor-01">
+        <chief>
+            <id>be-1897-stor-01</id>
             <person-id>storer-bellamy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -526,7 +546,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1899-town-01">
+        <chief>
+            <id>be-1899-town-01</id>
             <person-id>townsend-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -553,7 +574,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1905-wils-01">
+        <chief>
+            <id>be-1905-wils-01</id>
             <person-id>wilson-henry-lane</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -579,7 +601,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1910-brya-01">
+        <chief>
+            <id>be-1910-brya-01</id>
             <person-id>bryan-charles-page</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -605,7 +628,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1911-ande-01">
+        <chief>
+            <id>be-1911-ande-01</id>
             <person-id>anderson-larz</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -631,7 +655,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1913-marb-01">
+        <chief>
+            <id>be-1913-marb-01</id>
             <person-id>marburg-theodore</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -658,7 +683,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1914-whit-01">
+        <chief>
+            <id>be-1914-whit-01</id>
             <person-id>whitlock-brand</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -684,7 +710,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1919-whit-01">
+        <chief>
+            <id>be-1919-whit-01</id>
             <person-id>whitlock-brand</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -710,7 +737,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1922-flet-01">
+        <chief>
+            <id>be-1922-flet-01</id>
             <person-id>fletcher-henry-prather</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -736,7 +764,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1924-phil-01">
+        <chief>
+            <id>be-1924-phil-01</id>
             <person-id>phillips-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -762,7 +791,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1927-gibs-01">
+        <chief>
+            <id>be-1927-gibs-01</id>
             <person-id>gibson-hugh-simons</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -788,7 +818,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1933-morr-01">
+        <chief>
+            <id>be-1933-morr-01</id>
             <person-id>morris-dave-hennen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -814,7 +845,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1937-gibs-01">
+        <chief>
+            <id>be-1937-gibs-01</id>
             <person-id>gibson-hugh-simons</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -840,7 +872,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1938-davi-01">
+        <chief>
+            <id>be-1938-davi-01</id>
             <person-id>davies-joseph-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -866,7 +899,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1940-cuda-01">
+        <chief>
+            <id>be-1940-cuda-01</id>
             <person-id>cudahy-john-clarence</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -895,7 +929,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1940-scho-01">
+        <chief>
+            <id>be-1940-scho-01</id>
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -922,7 +957,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1940-scho-02">
+        <chief>
+            <id>be-1940-scho-02</id>
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -949,7 +985,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1941-bidd-01">
+        <chief>
+            <id>be-1941-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -975,7 +1012,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="be-1944-09-08-scho-01">
+        <chief>
+            <id>be-1944-09-08-scho-01</id>
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1001,7 +1039,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1944-maye-01">
+        <chief>
+            <id>be-1944-maye-01</id>
             <person-id>mayer-ernest-de-wael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1027,7 +1066,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1944-sawy-01">
+        <chief>
+            <id>be-1944-sawy-01</id>
             <person-id>sawyer-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1053,7 +1093,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1946-kirk-01">
+        <chief>
+            <id>be-1946-kirk-01</id>
             <person-id>kirk-alan-goodrich</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1079,7 +1120,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1949-murp-01">
+        <chief>
+            <id>be-1949-murp-01</id>
             <person-id>murphy-robert-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1105,7 +1147,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1952-cowe-01">
+        <chief>
+            <id>be-1952-cowe-01</id>
             <person-id>cowen-myron-melvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1131,7 +1174,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1953-alge-01">
+        <chief>
+            <id>be-1953-alge-01</id>
             <person-id>alger-frederick-moulton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1157,7 +1201,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1957-folg-01">
+        <chief>
+            <id>be-1957-folg-01</id>
             <person-id>folger-john-clifford</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1183,7 +1228,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1959-burd-01">
+        <chief>
+            <id>be-1959-burd-01</id>
             <person-id>burden-william-armistead-moale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1209,7 +1255,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1961-maca-01">
+        <chief>
+            <id>be-1961-maca-01</id>
             <person-id>macarthur-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1235,7 +1282,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1965-knig-01">
+        <chief>
+            <id>be-1965-knig-01</id>
             <person-id>knight-ridgway-brewster</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1261,7 +1309,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1969-eise-01">
+        <chief>
+            <id>be-1969-eise-01</id>
             <person-id>eisenhower-john-sheldon-doud</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1287,7 +1336,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1972-stra-01">
+        <chief>
+            <id>be-1972-stra-01</id>
             <person-id>strausz-hupe-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1313,7 +1363,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief id="be-1974-fire-01">
+        <chief>
+            <id>be-1974-fire-01</id>
             <person-id>firestone-leonard-kimball</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1339,7 +1390,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief id="be-1977-cham-01">
+        <chief>
+            <id>be-1977-cham-01</id>
             <person-id>chambers-anne-cox</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1365,7 +1417,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1981-pric-01">
+        <chief>
+            <id>be-1981-pric-01</id>
             <person-id>price-charles-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1391,7 +1444,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1983-swae-01">
+        <chief>
+            <id>be-1983-swae-01</id>
             <person-id>swaebe-geoffrey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1417,7 +1471,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief id="be-1988-glit-01">
+        <chief>
+            <id>be-1988-glit-01</id>
             <person-id>glitman-maynard-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1443,7 +1498,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-09</last-modified-date>
         </chief>
-        <chief id="be-1991-gelb-01">
+        <chief>
+            <id>be-1991-gelb-01</id>
             <person-id>gelb-bruce-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1469,7 +1525,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1993-blin-01">
+        <chief>
+            <id>be-1993-blin-01</id>
             <person-id>blinken-alan-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1495,7 +1552,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-1998-ceja-01">
+        <chief>
+            <id>be-1998-ceja-01</id>
             <person-id>cejas-paul-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1521,7 +1579,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-2001-brau-01">
+        <chief>
+            <id>be-2001-brau-01</id>
             <person-id>brauer-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1547,7 +1606,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-2004-koro-01">
+        <chief>
+            <id>be-2004-koro-01</id>
             <person-id>korologos-tom-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1573,7 +1633,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be-2007-fox-01">
+        <chief>
+            <id>be-2007-fox-01</id>
             <person-id>fox-sam</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1599,7 +1660,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-2009-gutm-01">
+        <chief>
+            <id>be-2009-gutm-01</id>
             <person-id>gutman-howard-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1625,7 +1687,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="be-2013-baue-01">
+        <chief>
+            <id>be-2013-baue-01</id>
             <person-id>bauer-denise-campbell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1651,7 +1714,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="be-2017-luss-01">
+        <chief>
+            <id>be-2017-luss-01</id>
             <person-id>lussenhop-matthew-r</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1677,7 +1741,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="be-2018-gidw-01">
+        <chief>
+            <id>be-2018-gidw-01</id>
             <person-id>gidwitz-ronald-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1705,7 +1770,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="be-1837-hayw-01">
+        <chief>
+            <id>be-1837-hayw-01</id>
             <person-id>haywood-william-henry</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1731,7 +1797,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be--seib-01">
+        <chief>
+            <id>be--seib-01</id>
             <person-id>seibels-john-jacob</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1757,7 +1824,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be--sanf-01">
+        <chief>
+            <id>be--sanf-01</id>
             <person-id>sanford-henry-shelton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1783,7 +1851,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be--sanf-02">
+        <chief>
+            <id>be--sanf-02</id>
             <person-id>sanford-henry-shelton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1809,7 +1878,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be-1875-bade-01">
+        <chief>
+            <id>be-1875-bade-01</id>
             <person-id>badeau-adam</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1835,7 +1905,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be--sanf-03">
+        <chief>
+            <id>be--sanf-03</id>
             <person-id>sanford-henry-shelton</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1861,7 +1932,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be--marc-01">
+        <chief>
+            <id>be--marc-01</id>
             <person-id>marcus-jeffrey-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1887,7 +1959,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="be--fox-01">
+        <chief>
+            <id>be--fox-01</id>
             <person-id>fox-sam</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>
@@ -1913,7 +1986,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="be--mcco-01">
+        <chief>
+            <id>be--mcco-01</id>
             <person-id>mccourt-jamie-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belgium</contemporary-territory-id>

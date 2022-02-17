@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>gambia</territory-id>
     <chiefs>
-        <chief id="gm-1965-cook-01">
+        <chief>
+            <id>gm-1965-cook-01</id>
             <person-id>cook-mercer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -29,7 +30,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gm-1967-rivk-01">
+        <chief>
+            <id>gm-1967-rivk-01</id>
             <person-id>rivkin-william-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gm-1968-brow-01">
+        <chief>
+            <id>gm-1968-brow-01</id>
             <person-id>brown-lewis-dean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gm-1970-clar-01">
+        <chief>
+            <id>gm-1970-clar-01</id>
             <person-id>clark-gilbert-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gm-1974-aggr-01">
+        <chief>
+            <id>gm-1974-aggr-01</id>
             <person-id>aggrey-orison-rudolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gm-1978-cohe-01">
+        <chief>
+            <id>gm-1978-cohe-01</id>
             <person-id>cohen-herman-jay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gm-1980-pipe-01">
+        <chief>
+            <id>gm-1980-pipe-01</id>
             <person-id>piper-larry-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gm-1984-henn-01">
+        <chief>
+            <id>gm-1984-henn-01</id>
             <person-id>hennemeyer-robert-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -211,7 +219,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gm-1986-horo-01">
+        <chief>
+            <id>gm-1986-horo-01</id>
             <person-id>horowitz-herbert-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -237,7 +246,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gm-1990-bram-01">
+        <chief>
+            <id>gm-1990-bram-01</id>
             <person-id>bramante-a-donald</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -263,7 +273,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gm-1990-rend-01">
+        <chief>
+            <id>gm-1990-rend-01</id>
             <person-id>render-arlene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -289,7 +300,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
-        <chief id="gm-1993-wint-01">
+        <chief>
+            <id>gm-1993-wint-01</id>
             <person-id>winter-andrew-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -315,7 +327,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gm-1996-scot-01">
+        <chief>
+            <id>gm-1996-scot-01</id>
             <person-id>scott-gerald-wesley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -341,7 +354,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gm-1998-hale-01">
+        <chief>
+            <id>gm-1998-hale-01</id>
             <person-id>haley-george-williford-boyce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -367,7 +381,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gm-2001-mcdo-01">
+        <chief>
+            <id>gm-2001-mcdo-01</id>
             <person-id>mcdonald-jackson-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -393,7 +408,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief id="gm-2004-staf-01">
+        <chief>
+            <id>gm-2004-staf-01</id>
             <person-id>stafford-joseph-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -419,7 +435,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief id="gm-2008-well-01">
+        <chief>
+            <id>gm-2008-well-01</id>
             <person-id>wells-barry-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -445,7 +462,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="gm-2010-whit-01">
+        <chief>
+            <id>gm-2010-whit-01</id>
             <person-id>white-pamela-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -471,7 +489,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief id="gm-2012-alfo-01">
+        <chief>
+            <id>gm-2012-alfo-01</id>
             <person-id>alford-edward-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -497,7 +516,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="gm-2016-alsu-01">
+        <chief>
+            <id>gm-2016-alsu-01</id>
             <person-id>alsup-carolyn-patricia</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -523,7 +543,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief id="gm-2019-pasc-01">
+        <chief>
+            <id>gm-2019-pasc-01</id>
             <person-id>paschall-richard-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -551,7 +572,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="gm-1982-ahma-01">
+        <chief>
+            <id>gm-1982-ahma-01</id>
             <person-id>ahmad-sharon-erdkamp</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>
@@ -577,7 +599,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gm-1989-wash-01">
+        <chief>
+            <id>gm-1989-wash-01</id>
             <person-id>washington-ruth-v</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gambia</contemporary-territory-id>

@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>botswana</territory-id>
     <chiefs>
-        <chief id="bw-1966-plet-01">
+        <chief>
+            <id>bw-1966-plet-01</id>
             <person-id>pletcher-charles-hutchinson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="bw-1970-crom-01">
+        <chief>
+            <id>bw-1970-crom-01</id>
             <person-id>cromwell-william-kennedy</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="bw-1971-nels-01">
+        <chief>
+            <id>bw-1971-nels-01</id>
             <person-id>nelson-charles-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="bw-1974-bole-01">
+        <chief>
+            <id>bw-1974-bole-01</id>
             <person-id>bolen-david-benjamin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="bw-1976-norl-01">
+        <chief>
+            <id>bw-1976-norl-01</id>
             <person-id>norland-donald-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="bw-1979-daws-01">
+        <chief>
+            <id>bw-1979-daws-01</id>
             <person-id>dawson-horace-greeley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bw-1982-main-01">
+        <chief>
+            <id>bw-1982-main-01</id>
             <person-id>maino-theodore-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bw-1985-bell-01">
+        <chief>
+            <id>bw-1985-bell-01</id>
             <person-id>bellocchi-natale-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -211,7 +219,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief id="bw-1988-kord-01">
+        <chief>
+            <id>bw-1988-kord-01</id>
             <person-id>kordek-john-florian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -237,7 +246,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bw-1990-pass-01">
+        <chief>
+            <id>bw-1990-pass-01</id>
             <person-id>passage-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -263,7 +273,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bw-1993-jete-01">
+        <chief>
+            <id>bw-1993-jete-01</id>
             <person-id>jeter-howard-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -289,7 +300,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bw-1996-krue-01">
+        <chief>
+            <id>bw-1996-krue-01</id>
             <person-id>krueger-robert-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -315,7 +327,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bw-1999-lang-01">
+        <chief>
+            <id>bw-1999-lang-01</id>
             <person-id>lange-john-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -341,7 +354,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-01-24</last-modified-date>
         </chief>
-        <chief id="bw-2003-hugg-01">
+        <chief>
+            <id>bw-2003-hugg-01</id>
             <person-id>huggins-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -367,7 +381,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bw-2005-pete-01">
+        <chief>
+            <id>bw-2005-pete-01</id>
             <person-id>peterson-katherine-hubay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -393,7 +408,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-04-29</last-modified-date>
         </chief>
-        <chief id="bw-2008-nola-01">
+        <chief>
+            <id>bw-2008-nola-01</id>
             <person-id>nolan-stephen-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -419,7 +435,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief id="bw-2011-gavi-01">
+        <chief>
+            <id>bw-2011-gavi-01</id>
             <person-id>gavin-michelle-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -445,7 +462,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="bw-2015-mill-01">
+        <chief>
+            <id>bw-2015-mill-01</id>
             <person-id>miller-earl-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>
@@ -471,7 +489,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="bw-2019-clou-01">
+        <chief>
+            <id>bw-2019-clou-01</id>
             <person-id>cloud-craig-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>botswana</contemporary-territory-id>

@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>algeria</territory-id>
     <chiefs>
-        <chief id="dz-1962-port-01">
+        <chief>
+            <id>dz-1962-port-01</id>
             <person-id>porter-william-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -29,7 +30,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
-        <chief id="dz-1965-jern-01">
+        <chief>
+            <id>dz-1965-jern-01</id>
             <person-id>jernegan-john-durnford</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -63,7 +65,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-22</last-modified-date>
         </mission-note>
-        <chief id="dz-1967-hoff-01">
+        <chief>
+            <id>dz-1967-hoff-01</id>
             <person-id>hoffacker-roscoe-lewis</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -89,7 +92,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
-        <chief id="dz-1969-eagl-01">
+        <chief>
+            <id>dz-1969-eagl-01</id>
             <person-id>eagleton-william-lester-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -115,7 +119,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
-        <chief id="dz-1974-park-01">
+        <chief>
+            <id>dz-1974-park-01</id>
             <person-id>parker-richard-bordeaux</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -148,7 +153,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-22</last-modified-date>
         </mission-note>
-        <chief id="dz-1975-park-01">
+        <chief>
+            <id>dz-1975-park-01</id>
             <person-id>parker-richard-bordeaux</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -174,7 +180,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
-        <chief id="dz-1977-hayn-01">
+        <chief>
+            <id>dz-1977-hayn-01</id>
             <person-id>haynes-ulric-st-clair</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -200,7 +207,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="dz-1981-newl-01">
+        <chief>
+            <id>dz-1981-newl-01</id>
             <person-id>newlin-michael-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -226,7 +234,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="dz-1985-john-01">
+        <chief>
+            <id>dz-1985-john-01</id>
             <person-id>johnstone-l-craig</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -252,7 +261,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="dz-1988-ross-01">
+        <chief>
+            <id>dz-1988-ross-01</id>
             <person-id>ross-christopher-w-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -278,7 +288,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="dz-1991-case-01">
+        <chief>
+            <id>dz-1991-case-01</id>
             <person-id>casey-mary-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -304,7 +315,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="dz-1994-neum-01">
+        <chief>
+            <id>dz-1994-neum-01</id>
             <person-id>neumann-ronald-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -330,7 +342,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="dz-1997-hume-01">
+        <chief>
+            <id>dz-1997-hume-01</id>
             <person-id>hume-cameron-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -356,7 +369,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="dz-2000-sand-01">
+        <chief>
+            <id>dz-2000-sand-01</id>
             <person-id>sanderson-janet-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -382,7 +396,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="dz-2003-erdm-01">
+        <chief>
+            <id>dz-2003-erdm-01</id>
             <person-id>erdman-richard-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -408,7 +423,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="dz-2006-ford-01">
+        <chief>
+            <id>dz-2006-ford-01</id>
             <person-id>ford-robert-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -434,7 +450,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief id="dz-2008-pear-01">
+        <chief>
+            <id>dz-2008-pear-01</id>
             <person-id>pearce-david-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -460,7 +477,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief id="dz-2011-ensh-01">
+        <chief>
+            <id>dz-2011-ensh-01</id>
             <person-id>ensher-henry-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -486,7 +504,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="dz-2014-pola-01">
+        <chief>
+            <id>dz-2014-pola-01</id>
             <person-id>polaschik-joan-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>
@@ -512,7 +531,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-16</last-modified-date>
         </chief>
-        <chief id="dz-2017-desr-01">
+        <chief>
+            <id>dz-2017-desr-01</id>
             <person-id>desrocher-john-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>algeria</contemporary-territory-id>

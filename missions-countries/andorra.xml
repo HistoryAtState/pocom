@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>andorra</territory-id>
     <chiefs>
-        <chief id="ad-1998-rome-01">
+        <chief>
+            <id>ad-1998-rome-01</id>
             <person-id>romero-edward-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -30,7 +31,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
-        <chief id="ad-2002-argy-01">
+        <chief>
+            <id>ad-2002-argy-01</id>
             <person-id>argyros-george-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -58,7 +60,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
-        <chief id="ad-2005-agui-01">
+        <chief>
+            <id>ad-2005-agui-01</id>
             <person-id>aguirre-eduardo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -86,7 +89,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
-        <chief id="ad-2010-solo-01">
+        <chief>
+            <id>ad-2010-solo-01</id>
             <person-id>solomont-alan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -114,7 +118,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
-        <chief id="ad-2014-cost-01">
+        <chief>
+            <id>ad-2014-cost-01</id>
             <person-id>costos-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>
@@ -142,7 +147,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="ad-2018-buch-01">
+        <chief>
+            <id>ad-2018-buch-01</id>
             <person-id>buchan-richard-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>andorra</contemporary-territory-id>

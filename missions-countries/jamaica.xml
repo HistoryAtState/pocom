@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>jamaica</territory-id>
     <chiefs>
-        <chief id="jm-1962-ches-01">
+        <chief>
+            <id>jm-1962-ches-01</id>
             <person-id>cheslaw-irving-gottlieb</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief id="jm-1962-dohe-01">
+        <chief>
+            <id>jm-1962-dohe-01</id>
             <person-id>doherty-william-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief id="jm-1965-beal-01">
+        <chief>
+            <id>jm-1965-beal-01</id>
             <person-id>beale-wilson-thomas-moore-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="jm-1967-tobr-01">
+        <chief>
+            <id>jm-1967-tobr-01</id>
             <person-id>tobriner-walter-nathan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief id="jm-1969-de-01">
+        <chief>
+            <id>jm-1969-de-01</id>
             <person-id>de-roulet-vincent-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -134,7 +139,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief id="jm-1974-gera-01">
+        <chief>
+            <id>jm-1974-gera-01</id>
             <person-id>gerard-sumner</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-09</last-modified-date>
         </chief>
-        <chief id="jm-1977-irvi-01">
+        <chief>
+            <id>jm-1977-irvi-01</id>
             <person-id>irving-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="jm-1979-lawr-01">
+        <chief>
+            <id>jm-1979-lawr-01</id>
             <person-id>lawrence-loren-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="jm-1982-hewi-01">
+        <chief>
+            <id>jm-1982-hewi-01</id>
             <person-id>hewitt-william-alexander</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
-        <chief id="jm-1985-soti-01">
+        <chief>
+            <id>jm-1985-soti-01</id>
             <person-id>sotirhos-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -264,7 +274,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="jm-1989-hold-01">
+        <chief>
+            <id>jm-1989-hold-01</id>
             <person-id>holden-glen-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -290,7 +301,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief id="jm-1993-wrig-01">
+        <chief>
+            <id>jm-1993-wrig-01</id>
             <person-id>wright-lacy-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -316,7 +328,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief id="jm-1994-coop-01">
+        <chief>
+            <id>jm-1994-coop-01</id>
             <person-id>cooper-jerome-gary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -342,7 +355,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="jm-1998-mcle-01">
+        <chief>
+            <id>jm-1998-mcle-01</id>
             <person-id>mclelland-stanley-louis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -368,7 +382,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="jm-2001-cobb-01">
+        <chief>
+            <id>jm-2001-cobb-01</id>
             <person-id>cobb-sue-mccourt</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -394,7 +409,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="jm-2005-john-01">
+        <chief>
+            <id>jm-2005-john-01</id>
             <person-id>johnson-brenda-lagrange</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -420,7 +436,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief id="jm-2010-brid-01">
+        <chief>
+            <id>jm-2010-brid-01</id>
             <person-id>bridgewater-awkward-pamela-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -446,7 +463,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="jm-2013-mart-01">
+        <chief>
+            <id>jm-2013-mart-01</id>
             <person-id>martinez-elizabeth-lee</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -472,7 +490,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief id="jm-2015-more-01">
+        <chief>
+            <id>jm-2015-more-01</id>
             <person-id>moreno-luis-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -498,7 +517,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="jm-2017-khan-01">
+        <chief>
+            <id>jm-2017-khan-01</id>
             <person-id>khant-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -524,7 +544,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-19</last-modified-date>
         </chief>
-        <chief id="jm-2019-tapi-01">
+        <chief>
+            <id>jm-2019-tapi-01</id>
             <person-id>tapia-donald-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>
@@ -552,7 +573,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="jm--chis-01">
+        <chief>
+            <id>jm--chis-01</id>
             <person-id>chisholm-shirley-anita</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>jamaica</contemporary-territory-id>

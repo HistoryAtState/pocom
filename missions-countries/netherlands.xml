@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>netherlands</territory-id>
     <chiefs>
-        <chief id="nl-1782-adam-01">
+        <chief>
+            <id>nl-1782-adam-01</id>
             <person-id>adams-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -29,7 +30,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1782-duma-01">
+        <chief>
+            <id>nl-1782-duma-01</id>
             <person-id>dumas-charles-william-frederic</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -58,7 +60,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="nl-1792-shor-01">
+        <chief>
+            <id>nl-1792-shor-01</id>
             <person-id>short-william</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -84,7 +87,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1794-adam-01">
+        <chief>
+            <id>nl-1794-adam-01</id>
             <person-id>adams-john-quincy</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -111,7 +115,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1797-murr-01">
+        <chief>
+            <id>nl-1797-murr-01</id>
             <person-id>murray-william-vans</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -137,7 +142,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1815-eust-01">
+        <chief>
+            <id>nl-1815-eust-01</id>
             <person-id>eustis-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -163,7 +169,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1819-ever-01">
+        <chief>
+            <id>nl-1819-ever-01</id>
             <person-id>everett-alexander-hill</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -190,7 +197,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1826-hugh-01">
+        <chief>
+            <id>nl-1826-hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -216,7 +224,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1830-preb-01">
+        <chief>
+            <id>nl-1830-preb-01</id>
             <person-id>preble-william-pitt</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -243,7 +252,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1831-dave-01">
+        <chief>
+            <id>nl-1831-dave-01</id>
             <person-id>davezac-auguste-genevieve-valentin</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -270,7 +280,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1839-blee-01">
+        <chief>
+            <id>nl-1839-blee-01</id>
             <person-id>bleecker-harmanus</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -298,7 +309,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1842-hugh-01">
+        <chief>
+            <id>nl-1842-hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -324,7 +336,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-05-23</last-modified-date>
         </chief>
-        <chief id="nl-1845-dave-01">
+        <chief>
+            <id>nl-1845-dave-01</id>
             <person-id>davezac-auguste-genevieve-valentin</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -351,7 +364,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1850-fols-01">
+        <chief>
+            <id>nl-1850-fols-01</id>
             <person-id>folsom-george</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -378,7 +392,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1853-belm-01">
+        <chief>
+            <id>nl-1853-belm-01</id>
             <person-id>belmont-august</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -405,7 +420,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1854-belm-01">
+        <chief>
+            <id>nl-1854-belm-01</id>
             <person-id>belmont-august</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -431,7 +447,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1857-murp-01">
+        <chief>
+            <id>nl-1857-murp-01</id>
             <person-id>murphy-henry-cruse</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -458,7 +475,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1861-pike-01">
+        <chief>
+            <id>nl-1861-pike-01</id>
             <person-id>pike-james-shepard</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -484,7 +502,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1866-rhod-01">
+        <chief>
+            <id>nl-1866-rhod-01</id>
             <person-id>rhodes-albert</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -510,7 +529,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1866-ewin-01">
+        <chief>
+            <id>nl-1866-ewin-01</id>
             <person-id>ewing-hugh-boyle</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -537,7 +557,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1870-gorh-01">
+        <chief>
+            <id>nl-1870-gorh-01</id>
             <person-id>gorham-charles-t</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -563,7 +584,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1876-birn-01">
+        <chief>
+            <id>nl-1876-birn-01</id>
             <person-id>birney-james</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -589,7 +611,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1882-dayt-01">
+        <chief>
+            <id>nl-1882-dayt-01</id>
             <person-id>dayton-william-lewis-jr</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -615,7 +638,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1885-bell-01">
+        <chief>
+            <id>nl-1885-bell-01</id>
             <person-id>bell-isaac-jr</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -641,7 +665,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1888-roos-01">
+        <chief>
+            <id>nl-1888-roos-01</id>
             <person-id>roosevelt-robert-barnwell</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -667,7 +692,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1888-roos-02">
+        <chief>
+            <id>nl-1888-roos-02</id>
             <person-id>roosevelt-robert-barnwell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -693,7 +719,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1889-thay-01">
+        <chief>
+            <id>nl-1889-thay-01</id>
             <person-id>thayer-samuel-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -719,7 +746,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1893-quin-01">
+        <chief>
+            <id>nl-1893-quin-01</id>
             <person-id>quinby-william-emory</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -746,7 +774,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1897-newe-01">
+        <chief>
+            <id>nl-1897-newe-01</id>
             <person-id>newel-stanford</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -772,7 +801,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1903-newe-01">
+        <chief>
+            <id>nl-1903-newe-01</id>
             <person-id>newel-stanford</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -799,7 +829,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1905-hill-01">
+        <chief>
+            <id>nl-1905-hill-01</id>
             <person-id>hill-david-jayne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -825,7 +856,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1908-beau-01">
+        <chief>
+            <id>nl-1908-beau-01</id>
             <person-id>beaupre-arthur-matthias</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -851,7 +883,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1911-bryc-01">
+        <chief>
+            <id>nl-1911-bryc-01</id>
             <person-id>bryce-lloyd-stephens</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -877,7 +910,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1913-van-01">
+        <chief>
+            <id>nl-1913-van-01</id>
             <person-id>van-dyke-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -903,7 +937,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1917-garr-01">
+        <chief>
+            <id>nl-1917-garr-01</id>
             <person-id>garrett-john-work</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -929,7 +964,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1920-phil-01">
+        <chief>
+            <id>nl-1920-phil-01</id>
             <person-id>phillips-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -955,7 +991,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1923-tobi-01">
+        <chief>
+            <id>nl-1923-tobi-01</id>
             <person-id>tobin-richard-montgomery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -982,7 +1019,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1929-diek-01">
+        <chief>
+            <id>nl-1929-diek-01</id>
             <person-id>diekema-gerrit-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1008,7 +1046,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="nl-1931-swen-01">
+        <chief>
+            <id>nl-1931-swen-01</id>
             <person-id>swenson-laurits-selmer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1034,7 +1073,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1934-emme-01">
+        <chief>
+            <id>nl-1934-emme-01</id>
             <person-id>emmet-grenville-temple</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1060,7 +1100,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1937-gord-01">
+        <chief>
+            <id>nl-1937-gord-01</id>
             <person-id>gordon-george-anderson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1090,7 +1131,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1941-bidd-01">
+        <chief>
+            <id>nl-1941-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1116,7 +1158,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="nl-1942-bidd-01">
+        <chief>
+            <id>nl-1942-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1142,7 +1185,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="nl-1944-horn-01">
+        <chief>
+            <id>nl-1944-horn-01</id>
             <person-id>hornbeck-stanley-kuhl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1170,7 +1214,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1947-baru-01">
+        <chief>
+            <id>nl-1947-baru-01</id>
             <person-id>baruch-herman-benjamin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1196,7 +1241,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1949-chap-01">
+        <chief>
+            <id>nl-1949-chap-01</id>
             <person-id>chapin-selden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1222,7 +1268,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1953-matt-01">
+        <chief>
+            <id>nl-1953-matt-01</id>
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1249,7 +1296,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1957-youn-01">
+        <chief>
+            <id>nl-1957-youn-01</id>
             <person-id>young-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1275,7 +1323,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1961-rice-01">
+        <chief>
+            <id>nl-1961-rice-01</id>
             <person-id>rice-john-stanley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1301,7 +1350,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1965-tyle-01">
+        <chief>
+            <id>nl-1965-tyle-01</id>
             <person-id>tyler-william-royall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1327,7 +1377,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1969-midd-01">
+        <chief>
+            <id>nl-1969-midd-01</id>
             <person-id>middendorf-john-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1353,7 +1404,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief id="nl-1973-goul-01">
+        <chief>
+            <id>nl-1973-goul-01</id>
             <person-id>gould-kingdon-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1379,7 +1431,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1976-mccl-01">
+        <chief>
+            <id>nl-1976-mccl-01</id>
             <person-id>mccloskey-robert-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1405,7 +1458,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1978-jose-01">
+        <chief>
+            <id>nl-1978-jose-01</id>
             <person-id>joseph-geri-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1431,7 +1485,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1982-dyes-01">
+        <chief>
+            <id>nl-1982-dyes-01</id>
             <person-id>dyess-william-jennings</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1457,7 +1512,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1983-brem-01">
+        <chief>
+            <id>nl-1983-brem-01</id>
             <person-id>bremer-l-paul</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1483,7 +1539,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1987-shad-01">
+        <chief>
+            <id>nl-1987-shad-01</id>
             <person-id>shad-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1509,7 +1566,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1989-wilk-01">
+        <chief>
+            <id>nl-1989-wilk-01</id>
             <person-id>wilkins-c-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1535,7 +1593,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="nl-1992-gewe-01">
+        <chief>
+            <id>nl-1992-gewe-01</id>
             <person-id>gewecke-thomas-howard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1561,7 +1620,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
-        <chief id="nl-1994-dorn-01">
+        <chief>
+            <id>nl-1994-dorn-01</id>
             <person-id>dornbush-k-terry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1587,7 +1647,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1998-schn-01">
+        <chief>
+            <id>nl-1998-schn-01</id>
             <person-id>schneider-cynthia-perrin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1613,7 +1674,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-2001-sobe-01">
+        <chief>
+            <id>nl-2001-sobe-01</id>
             <person-id>sobel-clifford-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1639,7 +1701,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief id="nl-2006-arna-01">
+        <chief>
+            <id>nl-2006-arna-01</id>
             <person-id>arnall-roland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1665,7 +1728,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
-        <chief id="nl-2008-culb-01">
+        <chief>
+            <id>nl-2008-culb-01</id>
             <person-id>culbertson-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1691,7 +1755,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="nl-2009-levi-01">
+        <chief>
+            <id>nl-2009-levi-01</id>
             <person-id>levin-fay-hartog</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1717,7 +1782,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief id="nl-2011-nola-01">
+        <chief>
+            <id>nl-2011-nola-01</id>
             <person-id>nolan-edwin-richard-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1743,7 +1809,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-31</last-modified-date>
         </chief>
-        <chief id="nl-2014-broa-01">
+        <chief>
+            <id>nl-2014-broa-01</id>
             <person-id>broas-timothy-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1769,7 +1836,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="nl-2016-crow-01">
+        <chief>
+            <id>nl-2016-crow-01</id>
             <person-id>crowley-shawn-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1795,7 +1863,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief id="nl-2018-hoek-01">
+        <chief>
+            <id>nl-2018-hoek-01</id>
             <person-id>hoekstra-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1823,7 +1892,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="nl--livi-01">
+        <chief>
+            <id>nl--livi-01</id>
             <person-id>livingston-william</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1850,7 +1920,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl--rutl-01">
+        <chief>
+            <id>nl--rutl-01</id>
             <person-id>rutledge-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1877,7 +1948,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="nl--hugh-01">
+        <chief>
+            <id>nl--hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1903,7 +1975,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl--belm-01">
+        <chief>
+            <id>nl--belm-01</id>
             <person-id>belmont-august</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1929,7 +2002,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1866-sick-01">
+        <chief>
+            <id>nl-1866-sick-01</id>
             <person-id>sickles-daniel-edgar</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1955,7 +2029,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1866-dix-01">
+        <chief>
+            <id>nl-1866-dix-01</id>
             <person-id>dix-john-adams</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -1981,7 +2056,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1875-stoc-01">
+        <chief>
+            <id>nl-1875-stoc-01</id>
             <person-id>stockbridge-francis-brown</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2008,7 +2084,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl--root-01">
+        <chief>
+            <id>nl--root-01</id>
             <person-id>root-joseph-pomeroy</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2034,7 +2111,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl-1923-tobi-02">
+        <chief>
+            <id>nl-1923-tobi-02</id>
             <person-id>tobin-richard-montgomery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2060,7 +2138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="nl-1933-emme-01">
+        <chief>
+            <id>nl-1933-emme-01</id>
             <person-id>emmet-grenville-temple</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>
@@ -2087,7 +2166,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="nl--alex-01">
+        <chief>
+            <id>nl--alex-01</id>
             <person-id>alexander-donald-herman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>netherlands</contemporary-territory-id>

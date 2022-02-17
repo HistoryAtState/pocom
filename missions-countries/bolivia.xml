@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>bolivia</territory-id>
     <chiefs>
-        <chief id="bo-1849-appl-01">
+        <chief>
+            <id>bo-1849-appl-01</id>
             <person-id>appleton-john</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1850-mccl-01">
+        <chief>
+            <id>bo-1850-mccl-01</id>
             <person-id>mcclung-alexander-keith</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1852-mill-01">
+        <chief>
+            <id>bo-1852-mill-01</id>
             <person-id>miller-horace-h</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -82,7 +85,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1854-dana-01">
+        <chief>
+            <id>bo-1854-dana-01</id>
             <person-id>dana-john-winchester</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -109,7 +113,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1854-dana-02">
+        <chief>
+            <id>bo-1854-dana-02</id>
             <person-id>dana-john-winchester</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -135,7 +140,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1859-smit-01">
+        <chief>
+            <id>bo-1859-smit-01</id>
             <person-id>smith-john-cotton</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -161,7 +167,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1861-cart-01">
+        <chief>
+            <id>bo-1861-cart-01</id>
             <person-id>cartter-david-kellogg</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -187,7 +194,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1863-hall-01">
+        <chief>
+            <id>bo-1863-hall-01</id>
             <person-id>hall-allen-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -214,7 +222,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1868-cald-01">
+        <chief>
+            <id>bo-1868-cald-01</id>
             <person-id>caldwell-john-watson</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -240,7 +249,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1869-mark-01">
+        <chief>
+            <id>bo-1869-mark-01</id>
             <person-id>markbreit-leopold</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -266,7 +276,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1873-crox-01">
+        <chief>
+            <id>bo-1873-crox-01</id>
             <person-id>croxton-john-thomas</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -292,7 +303,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="bo-1875-reyn-01">
+        <chief>
+            <id>bo-1875-reyn-01</id>
             <person-id>reynolds-robert-mcconnell</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -318,7 +330,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1879-pett-01">
+        <chief>
+            <id>bo-1879-pett-01</id>
             <person-id>pettis-solomon-newton</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -345,7 +358,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1880-adam-01">
+        <chief>
+            <id>bo-1880-adam-01</id>
             <person-id>adams-charles</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -371,7 +385,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1882-mane-01">
+        <chief>
+            <id>bo-1882-mane-01</id>
             <person-id>maney-george-earl</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -397,7 +412,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1883-gibb-01">
+        <chief>
+            <id>bo-1883-gibb-01</id>
             <person-id>gibbs-richard</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -424,7 +440,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1885-seay-01">
+        <chief>
+            <id>bo-1885-seay-01</id>
             <person-id>seay-william-a</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -451,7 +468,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1888-carl-01">
+        <chief>
+            <id>bo-1888-carl-01</id>
             <person-id>carlisle-samuel-stewart</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -478,7 +496,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1889-ande-01">
+        <chief>
+            <id>bo-1889-ande-01</id>
             <person-id>anderson-thomas-henry</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -505,7 +524,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1890-ande-01">
+        <chief>
+            <id>bo-1890-ande-01</id>
             <person-id>anderson-thomas-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -531,7 +551,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1893-gran-01">
+        <chief>
+            <id>bo-1893-gran-01</id>
             <person-id>grant-frederic-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -557,7 +578,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1894-moon-01">
+        <chief>
+            <id>bo-1894-moon-01</id>
             <person-id>moonlight-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -583,7 +605,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1898-brid-01">
+        <chief>
+            <id>bo-1898-brid-01</id>
             <person-id>bridgman-george-h</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -610,7 +633,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1902-sors-01">
+        <chief>
+            <id>bo-1902-sors-01</id>
             <person-id>sorsby-william-brooks</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -637,7 +661,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1908-stut-01">
+        <chief>
+            <id>bo-1908-stut-01</id>
             <person-id>stutesman-james-flynn</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -664,7 +689,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1910-know-01">
+        <chief>
+            <id>bo-1910-know-01</id>
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -690,7 +716,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1913-orea-01">
+        <chief>
+            <id>bo-1913-orea-01</id>
             <person-id>orear-john-davis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -716,7 +743,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="bo-1920-magi-01">
+        <chief>
+            <id>bo-1920-magi-01</id>
             <person-id>maginnis-samuel-abbot</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -742,7 +770,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1922-cott-01">
+        <chief>
+            <id>bo-1922-cott-01</id>
             <person-id>cottrell-jesse-samuel</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -768,7 +797,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1928-kauf-01">
+        <chief>
+            <id>bo-1928-kauf-01</id>
             <person-id>kaufman-david-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -794,7 +824,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1930-feel-01">
+        <chief>
+            <id>bo-1930-feel-01</id>
             <person-id>feely-edward-francis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -820,7 +851,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1933-des-01">
+        <chief>
+            <id>bo-1933-des-01</id>
             <person-id>des-portes-fay-allen</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -847,7 +879,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1936-norw-01">
+        <chief>
+            <id>bo-1936-norw-01</id>
             <person-id>norweb-raymond-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -873,7 +906,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1937-cald-01">
+        <chief>
+            <id>bo-1937-cald-01</id>
             <person-id>caldwell-robert-granville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -899,7 +933,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1939-jenk-01">
+        <chief>
+            <id>bo-1939-jenk-01</id>
             <person-id>jenkins-douglas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -925,7 +960,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1942-boal-01">
+        <chief>
+            <id>bo-1942-boal-01</id>
             <person-id>boal-pierre-de-lagarde</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -952,7 +988,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1944-thur-01">
+        <chief>
+            <id>bo-1944-thur-01</id>
             <person-id>thurston-walter-clarence</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -978,7 +1015,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1946-flac-01">
+        <chief>
+            <id>bo-1946-flac-01</id>
             <person-id>flack-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1004,7 +1042,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1950-flor-01">
+        <chief>
+            <id>bo-1950-flor-01</id>
             <person-id>florman-irving</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1032,7 +1071,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1952-spar-01">
+        <chief>
+            <id>bo-1952-spar-01</id>
             <person-id>sparks-edward-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1059,7 +1099,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1954-drew-01">
+        <chief>
+            <id>bo-1954-drew-01</id>
             <person-id>drew-gerald-augustin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1086,7 +1127,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1957-bons-01">
+        <chief>
+            <id>bo-1957-bons-01</id>
             <person-id>bonsal-philip-wilson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1112,7 +1154,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1959-stro-01">
+        <chief>
+            <id>bo-1959-stro-01</id>
             <person-id>strom-carl-walther</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1138,7 +1181,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1961-step-01">
+        <chief>
+            <id>bo-1961-step-01</id>
             <person-id>stephansky-ben-solomon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1164,7 +1208,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1963-hend-01">
+        <chief>
+            <id>bo-1963-hend-01</id>
             <person-id>henderson-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1190,7 +1235,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
-        <chief id="bo-1968-cast-01">
+        <chief>
+            <id>bo-1968-cast-01</id>
             <person-id>castro-raul-hector</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1216,7 +1262,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1969-sira-01">
+        <chief>
+            <id>bo-1969-sira-01</id>
             <person-id>siracusa-ernest-victor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1242,7 +1289,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1973-sted-01">
+        <chief>
+            <id>bo-1973-sted-01</id>
             <person-id>stedman-william-perry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1268,7 +1316,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1977-boek-01">
+        <chief>
+            <id>bo-1977-boek-01</id>
             <person-id>boeker-paul-harold</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1294,7 +1343,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1980-weis-01">
+        <chief>
+            <id>bo-1980-weis-01</id>
             <person-id>weissman-marvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1321,7 +1371,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1980-wats-01">
+        <chief>
+            <id>bo-1980-wats-01</id>
             <person-id>watson-alexander-fletcher</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1347,7 +1398,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1981-corr-01">
+        <chief>
+            <id>bo-1981-corr-01</id>
             <person-id>corr-edwin-gharst</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1373,7 +1425,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1985-rowe-01">
+        <chief>
+            <id>bo-1985-rowe-01</id>
             <person-id>rowell-edward-morgan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1399,7 +1452,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1988-gelb-01">
+        <chief>
+            <id>bo-1988-gelb-01</id>
             <person-id>gelbard-robert-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1425,7 +1479,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1991-bowe-01">
+        <chief>
+            <id>bo-1991-bowe-01</id>
             <person-id>bowers-charles-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1451,7 +1506,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1994-kamm-01">
+        <chief>
+            <id>bo-1994-kamm-01</id>
             <person-id>kamman-curtis-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1477,7 +1533,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1998-hrin-01">
+        <chief>
+            <id>bo-1998-hrin-01</id>
             <person-id>hrinak-donna-jean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1503,7 +1560,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="bo-2000-roch-01">
+        <chief>
+            <id>bo-2000-roch-01</id>
             <person-id>rocha-v-manuel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1529,7 +1587,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-2003-gree-01">
+        <chief>
+            <id>bo-2003-gree-01</id>
             <person-id>greenlee-david-n</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1555,7 +1614,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-2006-gold-01">
+        <chief>
+            <id>bo-2006-gold-01</id>
             <person-id>goldberg-philip-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1581,7 +1641,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="bo-2009-crea-01">
+        <chief>
+            <id>bo-2009-crea-01</id>
             <person-id>creamer-john-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1607,7 +1668,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="bo-2012-memm-01">
+        <chief>
+            <id>bo-2012-memm-01</id>
             <person-id>memmott-larry-l</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1633,7 +1695,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief id="bo-2014-bren-01">
+        <chief>
+            <id>bo-2014-bren-01</id>
             <person-id>brennan-peter-m</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1659,7 +1722,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="bo-2017-will-01">
+        <chief>
+            <id>bo-2017-will-01</id>
             <person-id>williamson-bruce-m</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1685,7 +1749,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-09-10</last-modified-date>
         </chief>
-        <chief id="bo-2020-phil-01">
+        <chief>
+            <id>bo-2020-phil-01</id>
             <person-id>phillips-charisse</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1713,7 +1778,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="bo-1853-wood-01">
+        <chief>
+            <id>bo-1853-wood-01</id>
             <person-id>woodbury-charles-levi</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1740,7 +1806,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo--dana-01">
+        <chief>
+            <id>bo--dana-01</id>
             <person-id>dana-john-winchester</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1767,7 +1834,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-17</last-modified-date>
         </chief>
-        <chief id="bo-1867-neth-01">
+        <chief>
+            <id>bo-1867-neth-01</id>
             <person-id>netherland-john</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1793,7 +1861,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo-1885-blox-01">
+        <chief>
+            <id>bo-1885-blox-01</id>
             <person-id>bloxham-william-dunnington</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1820,7 +1889,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bo--tayl-01">
+        <chief>
+            <id>bo--tayl-01</id>
             <person-id>taylor-charles-henry-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>
@@ -1846,7 +1916,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief id="bo-1929-youn-01">
+        <chief>
+            <id>bo-1929-youn-01</id>
             <person-id>young-evan-erastus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bolivia</contemporary-territory-id>

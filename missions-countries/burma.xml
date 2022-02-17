@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>burma</territory-id>
     <chiefs>
-        <chief id="bu-1947-pack-01">
+        <chief>
+            <id>bu-1947-pack-01</id>
             <person-id>packer-earl-lenoir</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-20</last-modified-date>
         </chief>
-        <chief id="bu-1948-hudd-01">
+        <chief>
+            <id>bu-1948-hudd-01</id>
             <person-id>huddle-jerome-klahr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-20</last-modified-date>
         </chief>
-        <chief id="bu-1950-key-01">
+        <chief>
+            <id>bu-1950-key-01</id>
             <person-id>key-david-mckendree</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bu-1952-seba-01">
+        <chief>
+            <id>bu-1952-seba-01</id>
             <person-id>sebald-william-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bu-1955-satt-01">
+        <chief>
+            <id>bu-1955-satt-01</id>
             <person-id>satterthwaite-joseph-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
-        <chief id="bu-1957-mcco-01">
+        <chief>
+            <id>bu-1957-mcco-01</id>
             <person-id>mcconaughy-walter-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bu-1959-snow-01">
+        <chief>
+            <id>bu-1959-snow-01</id>
             <person-id>snow-william-pennell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-20</last-modified-date>
         </chief>
-        <chief id="bu-1961-ever-01">
+        <chief>
+            <id>bu-1961-ever-01</id>
             <person-id>everton-john-scott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bu-1963-byro-01">
+        <chief>
+            <id>bu-1963-byro-01</id>
             <person-id>byroade-henry-alfred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bu-1968-humm-01">
+        <chief>
+            <id>bu-1968-humm-01</id>
             <person-id>hummel-arthur-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -264,7 +274,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-20</last-modified-date>
         </chief>
-        <chief id="bu-1971-mart-01">
+        <chief>
+            <id>bu-1971-mart-01</id>
             <person-id>martin-edwin-webb</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -290,7 +301,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-01-24</last-modified-date>
         </chief>
-        <chief id="bu-1974-osbo-01">
+        <chief>
+            <id>bu-1974-osbo-01</id>
             <person-id>osborn-david-lawrence</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -316,7 +328,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bu-1977-bean-01">
+        <chief>
+            <id>bu-1977-bean-01</id>
             <person-id>bean-maurice-darrow</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -342,7 +355,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
-        <chief id="bu-1980-byrn-01">
+        <chief>
+            <id>bu-1980-byrn-01</id>
             <person-id>byrne-patricia-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -368,7 +382,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
-        <chief id="bu-1983-odon-01">
+        <chief>
+            <id>bu-1983-odon-01</id>
             <person-id>odonohue-daniel-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -394,7 +409,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bu-1987-levi-01">
+        <chief>
+            <id>bu-1987-levi-01</id>
             <person-id>levin-burton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -420,7 +436,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="bu-1990-hudd-01">
+        <chief>
+            <id>bu-1990-hudd-01</id>
             <person-id>huddle-franklin-pierce</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -446,7 +463,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="bu-1994-meye-01">
+        <chief>
+            <id>bu-1994-meye-01</id>
             <person-id>meyers-marilyn-ann</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -472,7 +490,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="bu-1996-wied-01">
+        <chief>
+            <id>bu-1996-wied-01</id>
             <person-id>wiedemann-kent-m</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -498,7 +517,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="bu-1999-clap-01">
+        <chief>
+            <id>bu-1999-clap-01</id>
             <person-id>clapp-priscilla-ann</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -524,7 +544,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief id="bu-2002-mart-01">
+        <chief>
+            <id>bu-2002-mart-01</id>
             <person-id>martinez-carmen-maria</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -550,7 +571,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief id="bu-2005-vill-01">
+        <chief>
+            <id>bu-2005-vill-01</id>
             <person-id>villarosa-sharon-english-woods</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -576,7 +598,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief id="bu-2008-ding-01">
+        <chief>
+            <id>bu-2008-ding-01</id>
             <person-id>dinger-larry-miles</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -602,7 +625,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief id="bu-2012-mitc-01">
+        <chief>
+            <id>bu-2012-mitc-01</id>
             <person-id>mitchell-derek-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -628,7 +652,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="bu-2016-marc-01">
+        <chief>
+            <id>bu-2016-marc-01</id>
             <person-id>marciel-scot-alan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -654,7 +679,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-05-18</last-modified-date>
         </chief>
-        <chief id="bu-2021-vajd-01">
+        <chief>
+            <id>bu-2021-vajd-01</id>
             <person-id>vajda-thomas-laszlo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -682,7 +708,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="bu--vree-01">
+        <chief>
+            <id>bu--vree-01</id>
             <person-id>vreeland-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>
@@ -708,7 +735,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bu--borg-01">
+        <chief>
+            <id>bu--borg-01</id>
             <person-id>borg-parker-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burma</contemporary-territory-id>

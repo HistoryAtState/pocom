@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>czechoslovakia-1993</territory-id>
     <chiefs>
-        <chief id="xe-1919-cran-01">
+        <chief>
+            <id>xe-1919-cran-01</id>
             <person-id>crane-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -29,7 +30,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xe-1921-eins-01">
+        <chief>
+            <id>xe-1921-eins-01</id>
             <person-id>einstein-lewis-david</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1930-rats-01">
+        <chief>
+            <id>xe-1930-rats-01</id>
             <person-id>ratshesky-radzkey-abraham-c</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1933-whit-01">
+        <chief>
+            <id>xe-1933-whit-01</id>
             <person-id>white-francis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1934-wrig-01">
+        <chief>
+            <id>xe-1934-wrig-01</id>
             <person-id>wright-joshua-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1937-carr-01">
+        <chief>
+            <id>xe-1937-carr-01</id>
             <person-id>carr-wilbur-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xe-1941-bidd-01">
+        <chief>
+            <id>xe-1941-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="xe-1943-bidd-01">
+        <chief>
+            <id>xe-1943-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -214,7 +222,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xe-1945-klie-01">
+        <chief>
+            <id>xe-1945-klie-01</id>
             <person-id>klieforth-alfred-will</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -240,7 +249,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xe-1945-stei-01">
+        <chief>
+            <id>xe-1945-stei-01</id>
             <person-id>steinhardt-laurence-adolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -266,7 +276,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xe-1949-jaco-01">
+        <chief>
+            <id>xe-1949-jaco-01</id>
             <person-id>jacobs-joseph-earle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -293,7 +304,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xe-1949-brig-01">
+        <chief>
+            <id>xe-1949-brig-01</id>
             <person-id>briggs-ellis-ormsbee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -319,7 +331,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1952-wads-01">
+        <chief>
+            <id>xe-1952-wads-01</id>
             <person-id>wadsworth-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -346,7 +359,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="xe-1953-john-01">
+        <chief>
+            <id>xe-1953-john-01</id>
             <person-id>johnson-ural-alexis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -373,7 +387,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xe-1958-alli-01">
+        <chief>
+            <id>xe-1958-alli-01</id>
             <person-id>allison-john-moore</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -399,7 +414,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1960-ravn-01">
+        <chief>
+            <id>xe-1960-ravn-01</id>
             <person-id>ravndal-christian-magelssen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -426,7 +442,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xe-1961-wail-01">
+        <chief>
+            <id>xe-1961-wail-01</id>
             <person-id>wailes-edward-thompson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -452,7 +469,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1963-hors-01">
+        <chief>
+            <id>xe-1963-hors-01</id>
             <person-id>horsey-outerbridge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -479,7 +497,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xe-1966-beam-01">
+        <chief>
+            <id>xe-1966-beam-01</id>
             <person-id>beam-jacob-dyneley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -505,7 +524,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1969-toon-01">
+        <chief>
+            <id>xe-1969-toon-01</id>
             <person-id>toon-malcolm</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -531,7 +551,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief id="xe-1972-sher-01">
+        <chief>
+            <id>xe-1972-sher-01</id>
             <person-id>sherer-albert-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -557,7 +578,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1976-byrn-01">
+        <chief>
+            <id>xe-1976-byrn-01</id>
             <person-id>byrne-thomas-ryan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -583,7 +605,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1979-meeh-01">
+        <chief>
+            <id>xe-1979-meeh-01</id>
             <person-id>meehan-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -609,7 +632,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1981-matl-01">
+        <chief>
+            <id>xe-1981-matl-01</id>
             <person-id>matlock-jack-foust</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -635,7 +659,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief id="xe-1983-luer-01">
+        <chief>
+            <id>xe-1983-luer-01</id>
             <person-id>luers-william-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -661,7 +686,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xe-1986-niem-01">
+        <chief>
+            <id>xe-1986-niem-01</id>
             <person-id>niemczyk-julian-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -687,7 +713,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief id="xe-1989-blac-01">
+        <chief>
+            <id>xe-1989-blac-01</id>
             <person-id>black-shirley-jane-temple</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -713,7 +740,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-11</last-modified-date>
         </chief>
-        <chief id="xe-1992-baso-01">
+        <chief>
+            <id>xe-1992-baso-01</id>
             <person-id>basora-adrian-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>
@@ -741,7 +769,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="xe--holt-01">
+        <chief>
+            <id>xe--holt-01</id>
             <person-id>holthusen-henry-frank</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>czechoslovakia-1993</contemporary-territory-id>

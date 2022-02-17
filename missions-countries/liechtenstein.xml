@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>liechtenstein</territory-id>
     <chiefs>
-        <chief id="li-1997-kuni-01">
+        <chief>
+            <id>li-1997-kuni-01</id>
             <person-id>kunin-madeleine-may</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liechtenstein</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="li-2000-fred-01">
+        <chief>
+            <id>li-2000-fred-01</id>
             <person-id>fredericks-j-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liechtenstein</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="li-2001-reyn-01">
+        <chief>
+            <id>li-2001-reyn-01</id>
             <person-id>reynolds-mercer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liechtenstein</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="li-2003-will-01">
+        <chief>
+            <id>li-2003-will-01</id>
             <person-id>willeford-pamela-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liechtenstein</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="li-2006-cone-01">
+        <chief>
+            <id>li-2006-cone-01</id>
             <person-id>coneway-peter-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liechtenstein</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="li-2009-beye-01">
+        <chief>
+            <id>li-2009-beye-01</id>
             <person-id>beyer-donald-sternhoff</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liechtenstein</contemporary-territory-id>
@@ -158,7 +164,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="li-2014-levi-01">
+        <chief>
+            <id>li-2014-levi-01</id>
             <person-id>levine-suzan-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liechtenstein</contemporary-territory-id>
@@ -184,7 +191,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="li-2017-mcmu-01">
+        <chief>
+            <id>li-2017-mcmu-01</id>
             <person-id>mcmullen-edward-t-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liechtenstein</contemporary-territory-id>

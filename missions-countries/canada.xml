@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>canada</territory-id>
     <chiefs>
-        <chief id="ca-1927-phil-01">
+        <chief>
+            <id>ca-1927-phil-01</id>
             <person-id>phillips-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1930-macn-01">
+        <chief>
+            <id>ca-1930-macn-01</id>
             <person-id>macnider-hanford</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1933-robb-01">
+        <chief>
+            <id>ca-1933-robb-01</id>
             <person-id>robbins-warren-delano</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1935-armo-01">
+        <chief>
+            <id>ca-1935-armo-01</id>
             <person-id>armour-norman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="ca-1939-rope-01">
+        <chief>
+            <id>ca-1939-rope-01</id>
             <person-id>roper-daniel-calhoun</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1940-crom-01">
+        <chief>
+            <id>ca-1940-crom-01</id>
             <person-id>cromwell-james-henry-roberts</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -158,7 +164,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1940-moff-01">
+        <chief>
+            <id>ca-1940-moff-01</id>
             <person-id>moffat-jay-pierrepont</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -184,7 +191,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="ca-1943-athe-01">
+        <chief>
+            <id>ca-1943-athe-01</id>
             <person-id>atherton-ray</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -210,7 +218,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1943-athe-02">
+        <chief>
+            <id>ca-1943-athe-02</id>
             <person-id>atherton-ray</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -236,7 +245,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1948-stei-01">
+        <chief>
+            <id>ca-1948-stei-01</id>
             <person-id>steinhardt-laurence-adolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -263,7 +273,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="ca-1950-wood-01">
+        <chief>
+            <id>ca-1950-wood-01</id>
             <person-id>woodward-stanley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -289,7 +300,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1953-stua-01">
+        <chief>
+            <id>ca-1953-stua-01</id>
             <person-id>stuart-robert-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -315,7 +327,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1956-merc-01">
+        <chief>
+            <id>ca-1956-merc-01</id>
             <person-id>merchant-livingston-tallmadge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -341,7 +354,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1958-wigg-01">
+        <chief>
+            <id>ca-1958-wigg-01</id>
             <person-id>wigglesworth-richard-bowditch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -368,7 +382,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="ca-1961-merc-01">
+        <chief>
+            <id>ca-1961-merc-01</id>
             <person-id>merchant-livingston-tallmadge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -394,7 +409,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1962-butt-01">
+        <chief>
+            <id>ca-1962-butt-01</id>
             <person-id>butterworth-william-walton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -420,7 +436,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
-        <chief id="ca-1968-lind-01">
+        <chief>
+            <id>ca-1968-lind-01</id>
             <person-id>linder-harold-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -446,7 +463,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1969-schm-01">
+        <chief>
+            <id>ca-1969-schm-01</id>
             <person-id>schmidt-adolph-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -472,7 +490,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief id="ca-1974-port-01">
+        <chief>
+            <id>ca-1974-port-01</id>
             <person-id>porter-william-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -498,7 +517,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1976-ende-01">
+        <chief>
+            <id>ca-1976-ende-01</id>
             <person-id>enders-thomas-ostrom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -524,7 +544,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
-        <chief id="ca-1979-curt-01">
+        <chief>
+            <id>ca-1979-curt-01</id>
             <person-id>curtis-kenneth-merwin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -550,7 +571,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1981-robi-01">
+        <chief>
+            <id>ca-1981-robi-01</id>
             <person-id>robinson-paul-heron</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -576,7 +598,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1985-nile-01">
+        <chief>
+            <id>ca-1985-nile-01</id>
             <person-id>niles-thomas-michael-tolliver</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -602,7 +625,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
-        <chief id="ca-1989-ney-01">
+        <chief>
+            <id>ca-1989-ney-01</id>
             <person-id>ney-edward-noonan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -628,7 +652,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1992-teel-01">
+        <chief>
+            <id>ca-1992-teel-01</id>
             <person-id>teeley-peter-barry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -654,7 +679,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1993-blan-01">
+        <chief>
+            <id>ca-1993-blan-01</id>
             <person-id>blanchard-james-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -680,7 +706,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-1996-wals-01">
+        <chief>
+            <id>ca-1996-wals-01</id>
             <person-id>walsh-james-donald</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -706,7 +733,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief id="ca-1997-giff-01">
+        <chief>
+            <id>ca-1997-giff-01</id>
             <person-id>giffen-gordon-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -732,7 +760,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-2001-cell-01">
+        <chief>
+            <id>ca-2001-cell-01</id>
             <person-id>cellucci-argeo-paul</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -758,7 +787,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca-2005-wilk-01">
+        <chief>
+            <id>ca-2005-wilk-01</id>
             <person-id>wilkins-david-horton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -784,7 +814,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="ca-2009-jaco-01">
+        <chief>
+            <id>ca-2009-jaco-01</id>
             <person-id>jacobson-david-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -810,7 +841,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="ca-2014-heym-01">
+        <chief>
+            <id>ca-2014-heym-01</id>
             <person-id>heyman-bruce-alan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -836,7 +868,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="ca-2017-craf-01">
+        <chief>
+            <id>ca-2017-craf-01</id>
             <person-id>craft-kelly-knight</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -862,7 +895,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-08-29</last-modified-date>
         </chief>
-        <chief id="ca-2021-cohe-01">
+        <chief>
+            <id>ca-2021-cohe-01</id>
             <person-id>cohen-david-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -890,7 +924,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="ca--macc-01">
+        <chief>
+            <id>ca--macc-01</id>
             <person-id>macchesney-nathan-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>
@@ -916,7 +951,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ca--wos-01">
+        <chief>
+            <id>ca--wos-01</id>
             <person-id>wos-aldona</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>canada</contemporary-territory-id>

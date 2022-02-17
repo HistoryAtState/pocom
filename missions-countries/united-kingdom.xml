@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>united-kingdom</territory-id>
     <chiefs>
-        <chief id="gb-1785-adam-01">
+        <chief>
+            <id>gb-1785-adam-01</id>
             <person-id>adams-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1792-pinc-01">
+        <chief>
+            <id>gb-1792-pinc-01</id>
             <person-id>pinckney-thomas</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1796-king-01">
+        <chief>
+            <id>gb-1796-king-01</id>
             <person-id>king-rufus</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1803-monr-01">
+        <chief>
+            <id>gb-1803-monr-01</id>
             <person-id>monroe-james</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1808-pink-01">
+        <chief>
+            <id>gb-1808-pink-01</id>
             <person-id>pinkney-william</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -140,7 +145,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="gb-1811-russ-01">
+        <chief>
+            <id>gb-1811-russ-01</id>
             <person-id>russell-jonathan</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -168,7 +174,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1815-adam-01">
+        <chief>
+            <id>gb-1815-adam-01</id>
             <person-id>adams-john-quincy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -195,7 +202,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1818-rush-01">
+        <chief>
+            <id>gb-1818-rush-01</id>
             <person-id>rush-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -223,7 +231,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1825-king-01">
+        <chief>
+            <id>gb-1825-king-01</id>
             <person-id>king-rufus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -251,7 +260,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1826-gall-01">
+        <chief>
+            <id>gb-1826-gall-01</id>
             <person-id>gallatin-albert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -278,7 +288,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1828-barb-01">
+        <chief>
+            <id>gb-1828-barb-01</id>
             <person-id>barbour-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -305,7 +316,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1829-mcla-01">
+        <chief>
+            <id>gb-1829-mcla-01</id>
             <person-id>mclane-louis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -333,7 +345,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1831-van-01">
+        <chief>
+            <id>gb-1831-van-01</id>
             <person-id>van-buren-martin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -361,7 +374,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1832-vail-01">
+        <chief>
+            <id>gb-1832-vail-01</id>
             <person-id>vail-aaron</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -390,7 +404,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="gb-1836-stev-01">
+        <chief>
+            <id>gb-1836-stev-01</id>
             <person-id>stevenson-andrew</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -417,7 +432,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1841-ever-01">
+        <chief>
+            <id>gb-1841-ever-01</id>
             <person-id>everett-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -444,7 +460,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1845-mcla-01">
+        <chief>
+            <id>gb-1845-mcla-01</id>
             <person-id>mclane-louis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -472,7 +489,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1846-banc-01">
+        <chief>
+            <id>gb-1846-banc-01</id>
             <person-id>bancroft-george</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -500,7 +518,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1849-lawr-01">
+        <chief>
+            <id>gb-1849-lawr-01</id>
             <person-id>lawrence-abbott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -528,7 +547,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1852-inge-01">
+        <chief>
+            <id>gb-1852-inge-01</id>
             <person-id>ingersoll-joseph-reed</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -555,7 +575,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1853-buch-01">
+        <chief>
+            <id>gb-1853-buch-01</id>
             <person-id>buchanan-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -582,7 +603,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1856-dall-01">
+        <chief>
+            <id>gb-1856-dall-01</id>
             <person-id>dallas-george-mifflin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -608,7 +630,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1861-adam-01">
+        <chief>
+            <id>gb-1861-adam-01</id>
             <person-id>adams-charles-francis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -634,7 +657,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1868-john-01">
+        <chief>
+            <id>gb-1868-john-01</id>
             <person-id>johnson-reverdy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -660,7 +684,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1869-motl-01">
+        <chief>
+            <id>gb-1869-motl-01</id>
             <person-id>motley-john-lothrop</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -686,7 +711,8 @@
             <last-modified-by>faithti</last-modified-by>
             <last-modified-date>2018-04-26</last-modified-date>
         </chief>
-        <chief id="gb-1871-sche-01">
+        <chief>
+            <id>gb-1871-sche-01</id>
             <person-id>schenck-robert-cumming</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -712,7 +738,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1876-pier-01">
+        <chief>
+            <id>gb-1876-pier-01</id>
             <person-id>pierrepont-edwards</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -738,7 +765,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1877-wels-01">
+        <chief>
+            <id>gb-1877-wels-01</id>
             <person-id>welsh-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -764,7 +792,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1880-lowe-01">
+        <chief>
+            <id>gb-1880-lowe-01</id>
             <person-id>lowell-james-russell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -790,7 +819,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1885-phel-01">
+        <chief>
+            <id>gb-1885-phel-01</id>
             <person-id>phelps-edward-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -816,7 +846,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="gb-1889-linc-01">
+        <chief>
+            <id>gb-1889-linc-01</id>
             <person-id>lincoln-robert-todd</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -842,7 +873,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1893-baya-01">
+        <chief>
+            <id>gb-1893-baya-01</id>
             <person-id>bayard-thomas-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -868,7 +900,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1897-hay-01">
+        <chief>
+            <id>gb-1897-hay-01</id>
             <person-id>hay-john-milton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -894,7 +927,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1899-choa-01">
+        <chief>
+            <id>gb-1899-choa-01</id>
             <person-id>choate-joseph-hodges</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -920,7 +954,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1905-reid-01">
+        <chief>
+            <id>gb-1905-reid-01</id>
             <person-id>reid-whitelaw</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -946,7 +981,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="gb-1913-page-01">
+        <chief>
+            <id>gb-1913-page-01</id>
             <person-id>page-walter-hines</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -972,7 +1008,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1918-davi-01">
+        <chief>
+            <id>gb-1918-davi-01</id>
             <person-id>davis-john-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -998,7 +1035,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1921-harv-01">
+        <chief>
+            <id>gb-1921-harv-01</id>
             <person-id>harvey-george-brinton-mcclellan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1024,7 +1062,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1924-kell-01">
+        <chief>
+            <id>gb-1924-kell-01</id>
             <person-id>kellogg-frank-billings</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1050,7 +1089,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1925-houg-01">
+        <chief>
+            <id>gb-1925-houg-01</id>
             <person-id>houghton-alanson-bigelow</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1076,7 +1116,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1929-dawe-01">
+        <chief>
+            <id>gb-1929-dawe-01</id>
             <person-id>dawes-charles-gates</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1102,7 +1143,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1932-mell-01">
+        <chief>
+            <id>gb-1932-mell-01</id>
             <person-id>mellon-andrew-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1128,7 +1170,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1933-bing-01">
+        <chief>
+            <id>gb-1933-bing-01</id>
             <person-id>bingham-robert-worth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1154,7 +1197,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1938-kenn-01">
+        <chief>
+            <id>gb-1938-kenn-01</id>
             <person-id>kennedy-joseph-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1180,7 +1224,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1941-wina-01">
+        <chief>
+            <id>gb-1941-wina-01</id>
             <person-id>winant-john-gilbert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1206,7 +1251,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1946-harr-01">
+        <chief>
+            <id>gb-1946-harr-01</id>
             <person-id>harriman-william-averell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1232,7 +1278,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1947-doug-01">
+        <chief>
+            <id>gb-1947-doug-01</id>
             <person-id>douglas-lewis-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1258,7 +1305,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1950-giff-01">
+        <chief>
+            <id>gb-1950-giff-01</id>
             <person-id>gifford-walter-sherman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1284,7 +1332,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1953-aldr-01">
+        <chief>
+            <id>gb-1953-aldr-01</id>
             <person-id>aldrich-winthrop-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1310,7 +1359,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1957-whit-01">
+        <chief>
+            <id>gb-1957-whit-01</id>
             <person-id>whitney-john-hay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1336,7 +1386,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1961-bruc-01">
+        <chief>
+            <id>gb-1961-bruc-01</id>
             <person-id>bruce-david-kirkpatrick-este</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1362,7 +1413,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1969-anne-01">
+        <chief>
+            <id>gb-1969-anne-01</id>
             <person-id>annenberg-walter-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1388,7 +1440,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1975-rich-01">
+        <chief>
+            <id>gb-1975-rich-01</id>
             <person-id>richardson-elliot-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1414,7 +1467,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1976-arms-01">
+        <chief>
+            <id>gb-1976-arms-01</id>
             <person-id>armstrong-anne-legendre</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1440,7 +1494,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-07-05</last-modified-date>
         </chief>
-        <chief id="gb-1977-brew-01">
+        <chief>
+            <id>gb-1977-brew-01</id>
             <person-id>brewster-kingman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1466,7 +1521,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1981-loui-01">
+        <chief>
+            <id>gb-1981-loui-01</id>
             <person-id>louis-john-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1492,7 +1548,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
-        <chief id="gb-1983-pric-01">
+        <chief>
+            <id>gb-1983-pric-01</id>
             <person-id>price-charles-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1518,7 +1575,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1989-catt-01">
+        <chief>
+            <id>gb-1989-catt-01</id>
             <person-id>catto-henry-edward-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1544,7 +1602,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-28</last-modified-date>
         </chief>
-        <chief id="gb-1991-seit-01">
+        <chief>
+            <id>gb-1991-seit-01</id>
             <person-id>seitz-raymond-george-hardenbergh</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1570,7 +1629,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1994-crow-01">
+        <chief>
+            <id>gb-1994-crow-01</id>
             <person-id>crowe-william-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1596,7 +1656,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-01</last-modified-date>
         </chief>
-        <chief id="gb-1997-lade-01">
+        <chief>
+            <id>gb-1997-lade-01</id>
             <person-id>lader-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1622,7 +1683,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-2001-fari-01">
+        <chief>
+            <id>gb-2001-fari-01</id>
             <person-id>farish-william-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1648,7 +1710,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-05-23</last-modified-date>
         </chief>
-        <chief id="gb-2005-tutt-01">
+        <chief>
+            <id>gb-2005-tutt-01</id>
             <person-id>tuttle-robert-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1674,7 +1737,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-05-23</last-modified-date>
         </chief>
-        <chief id="gb-2009-susm-01">
+        <chief>
+            <id>gb-2009-susm-01</id>
             <person-id>susman-louis-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1700,7 +1764,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief id="gb-2013-barz-01">
+        <chief>
+            <id>gb-2013-barz-01</id>
             <person-id>barzun-matthew-winthrop</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1726,7 +1791,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief id="gb-2017-john-01">
+        <chief>
+            <id>gb-2017-john-01</id>
             <person-id>johnson-robert-wood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1754,7 +1820,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="gb--stev-01">
+        <chief>
+            <id>gb--stev-01</id>
             <person-id>stevenson-andrew</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1780,7 +1847,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1870-frel-01">
+        <chief>
+            <id>gb-1870-frel-01</id>
             <person-id>frelinghuysen-frederick-theodore</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1806,7 +1874,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb--mccl-01">
+        <chief>
+            <id>gb--mccl-01</id>
             <person-id>mcclellan-george-brinton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1832,7 +1901,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1870-mort-01">
+        <chief>
+            <id>gb-1870-mort-01</id>
             <person-id>morton-oliver-hazard-perry-throck</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1859,7 +1929,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb--dana-01">
+        <chief>
+            <id>gb--dana-01</id>
             <person-id>dana-richard-henry-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1885,7 +1956,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gb-1946-gard-01">
+        <chief>
+            <id>gb-1946-gard-01</id>
             <person-id>gardner-oliver-maxwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>
@@ -1915,7 +1987,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="gb-1950-giff-02">
+        <chief>
+            <id>gb-1950-giff-02</id>
             <person-id>gifford-walter-sherman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-kingdom</contemporary-territory-id>

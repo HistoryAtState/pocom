@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>cuba</territory-id>
     <chiefs>
-        <chief id="cu-1902-squi-01">
+        <chief>
+            <id>cu-1902-squi-01</id>
             <person-id>squiers-herbert-goldsmith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1906-morg-01">
+        <chief>
+            <id>cu-1906-morg-01</id>
             <person-id>morgan-edwin-vernon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-03-17</last-modified-date>
         </chief>
-        <chief id="cu-1910-jack-01">
+        <chief>
+            <id>cu-1910-jack-01</id>
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1911-beau-01">
+        <chief>
+            <id>cu-1911-beau-01</id>
             <person-id>beaupre-arthur-matthias</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1913-gonz-01">
+        <chief>
+            <id>cu-1913-gonz-01</id>
             <person-id>gonzales-william-elliott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1920-long-01">
+        <chief>
+            <id>cu-1920-long-01</id>
             <person-id>long-boaz-walton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1923-crow-01">
+        <chief>
+            <id>cu-1923-crow-01</id>
             <person-id>crowder-enoch-herbert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1927-juda-01">
+        <chief>
+            <id>cu-1927-juda-01</id>
             <person-id>judah-noble-brandon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1929-gugg-01">
+        <chief>
+            <id>cu-1929-gugg-01</id>
             <person-id>guggenheim-harry-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1933-well-01">
+        <chief>
+            <id>cu-1933-well-01</id>
             <person-id>welles-benjamin-sumner</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -265,7 +275,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1934-caff-01">
+        <chief>
+            <id>cu-1934-caff-01</id>
             <person-id>caffery-jefferson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -291,7 +302,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1937-wrig-01">
+        <chief>
+            <id>cu-1937-wrig-01</id>
             <person-id>wright-joshua-butler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -317,7 +329,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="cu-1940-mess-01">
+        <chief>
+            <id>cu-1940-mess-01</id>
             <person-id>messersmith-george-strausser</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -343,7 +356,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1942-brad-01">
+        <chief>
+            <id>cu-1942-brad-01</id>
             <person-id>braden-spruille</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -369,7 +383,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1945-norw-01">
+        <chief>
+            <id>cu-1945-norw-01</id>
             <person-id>norweb-raymond-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -395,7 +410,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1948-butl-01">
+        <chief>
+            <id>cu-1948-butl-01</id>
             <person-id>butler-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -421,7 +437,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1951-beau-01">
+        <chief>
+            <id>cu-1951-beau-01</id>
             <person-id>beaulac-willard-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -447,7 +464,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="cu-1953-gard-01">
+        <chief>
+            <id>cu-1953-gard-01</id>
             <person-id>gardner-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -473,7 +491,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1957-smit-01">
+        <chief>
+            <id>cu-1957-smit-01</id>
             <person-id>smith-earl-edward-tailer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -499,7 +518,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cu-1959-bons-01">
+        <chief>
+            <id>cu-1959-bons-01</id>
             <person-id>bonsal-philip-wilson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -525,7 +545,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1961-01-brad-01">
+        <chief>
+            <id>cu-1961-01-brad-01</id>
             <person-id>braddock-daniel-mccoy</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -563,7 +584,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-08-07</last-modified-date>
         </mission-note>
-        <chief id="cu-1977-lane-01">
+        <chief>
+            <id>cu-1977-lane-01</id>
             <person-id>lane-lyle-francis</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -589,7 +611,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1979-smit-01">
+        <chief>
+            <id>cu-1979-smit-01</id>
             <person-id>smith-wayne-s</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -615,7 +638,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1982-ferc-01">
+        <chief>
+            <id>cu-1982-ferc-01</id>
             <person-id>ferch-john-arthur</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -641,7 +665,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1985-kamm-01">
+        <chief>
+            <id>cu-1985-kamm-01</id>
             <person-id>kamman-curtis-w</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -667,7 +692,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1987-tayl-01">
+        <chief>
+            <id>cu-1987-tayl-01</id>
             <person-id>taylor-john-jackson</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -693,7 +719,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1990-flan-01">
+        <chief>
+            <id>cu-1990-flan-01</id>
             <person-id>flanigan-alan-h</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -719,7 +746,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1993-sull-01">
+        <chief>
+            <id>cu-1993-sull-01</id>
             <person-id>sullivan-joseph-gerard</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -745,7 +773,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1996-koza-01">
+        <chief>
+            <id>cu-1996-koza-01</id>
             <person-id>kozak-michael-g</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -771,7 +800,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-1999-hudd-01">
+        <chief>
+            <id>cu-1999-hudd-01</id>
             <person-id>huddleston-vicki-j</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -797,7 +827,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief id="cu-2002-caso-01">
+        <chief>
+            <id>cu-2002-caso-01</id>
             <person-id>cason-james-caldwell</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -823,7 +854,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="cu-2005-parm-01">
+        <chief>
+            <id>cu-2005-parm-01</id>
             <person-id>parmley-michael-e</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -849,7 +881,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="cu-2008-farr-01">
+        <chief>
+            <id>cu-2008-farr-01</id>
             <person-id>farrar-jonathan-d</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -875,7 +908,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="cu-2011-caul-01">
+        <chief>
+            <id>cu-2011-caul-01</id>
             <person-id>caulfield-john-patrick</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -901,7 +935,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="cu-2014-de-01">
+        <chief>
+            <id>cu-2014-de-01</id>
             <person-id>de-laurentis-jeffrey</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -927,7 +962,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="cu-2015-de-01">
+        <chief>
+            <id>cu-2015-de-01</id>
             <person-id>de-laurentis-jeffrey</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>
@@ -963,7 +999,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-08-07</last-modified-date>
         </mission-note>
-        <chief id="cu-2018-teka-01">
+        <chief>
+            <id>cu-2018-teka-01</id>
             <person-id>tekach-mara-r</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>cuba</contemporary-territory-id>

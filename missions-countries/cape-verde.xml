@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>cape-verde</territory-id>
     <chiefs>
-        <chief id="cv-1976-well-01">
+        <chief>
+            <id>cv-1976-well-01</id>
             <person-id>wells-melissa-foelsch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="cv-1977-mark-01">
+        <chief>
+            <id>cv-1977-mark-01</id>
             <person-id>marks-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="cv-1980-de-01">
+        <chief>
+            <id>cv-1980-de-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="cv-1983-yate-01">
+        <chief>
+            <id>cv-1983-yate-01</id>
             <person-id>yates-john-melvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cv-1986-penn-01">
+        <chief>
+            <id>cv-1986-penn-01</id>
             <person-id>penner-vernon-dubois</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cv-1989-mcna-01">
+        <chief>
+            <id>cv-1989-mcna-01</id>
             <person-id>mcnamara-francis-terry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cv-1993-sega-01">
+        <chief>
+            <id>cv-1993-sega-01</id>
             <person-id>segars-joseph-monroe</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cv-1996-bene-01">
+        <chief>
+            <id>cv-1996-bene-01</id>
             <person-id>benedict-lawrence-neal</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -211,7 +219,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cv-1999-mete-01">
+        <chief>
+            <id>cv-1999-mete-01</id>
             <person-id>metelits-michael-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -237,7 +246,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cv-2002-john-01">
+        <chief>
+            <id>cv-2002-john-01</id>
             <person-id>johnson-donald-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -263,7 +273,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief id="cv-2005-pier-01">
+        <chief>
+            <id>cv-2005-pier-01</id>
             <person-id>pierce-roger-dwayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -289,7 +300,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="cv-2008-myle-01">
+        <chief>
+            <id>cv-2008-myle-01</id>
             <person-id>myles-marianne-matuzek</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -315,7 +327,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief id="cv-2011-onea-01">
+        <chief>
+            <id>cv-2011-onea-01</id>
             <person-id>oneal-adrienne-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -341,7 +354,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="cv-2015-hefl-01">
+        <chief>
+            <id>cv-2015-hefl-01</id>
             <person-id>heflin-donald-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>
@@ -367,7 +381,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="cv-2019-daig-01">
+        <chief>
+            <id>cv-2019-daig-01</id>
             <person-id>daigle-john-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cape-verde</contemporary-territory-id>

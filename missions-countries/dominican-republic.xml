@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>dominican-republic</territory-id>
     <chiefs>
-        <chief id="do-1884-lang-01">
+        <chief>
+            <id>do-1884-lang-01</id>
             <person-id>langston-john-mercer</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -29,7 +30,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1885-thom-01">
+        <chief>
+            <id>do-1885-thom-01</id>
             <person-id>thompson-john-edgar-west</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -60,7 +62,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="do-1890-doug-01">
+        <chief>
+            <id>do-1890-doug-01</id>
             <person-id>douglass-frederick-augustus-washington-bailey</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -90,7 +93,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1892-durh-01">
+        <chief>
+            <id>do-1892-durh-01</id>
             <person-id>durham-john-stephens</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -120,7 +124,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1893-smyt-01">
+        <chief>
+            <id>do-1893-smyt-01</id>
             <person-id>smythe-henry-maxwell</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -150,7 +155,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1897-powe-01">
+        <chief>
+            <id>do-1897-powe-01</id>
             <person-id>powell-william-frank</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -179,7 +185,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1904-daws-01">
+        <chief>
+            <id>do-1904-daws-01</id>
             <person-id>dawson-thomas-cleland</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -206,7 +213,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1907-mccr-01">
+        <chief>
+            <id>do-1907-mccr-01</id>
             <person-id>mccreery-fenton-reuben</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -232,7 +240,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1910-know-01">
+        <chief>
+            <id>do-1910-know-01</id>
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -258,7 +267,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1910-russ-01">
+        <chief>
+            <id>do-1910-russ-01</id>
             <person-id>russell-william-worthington</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -284,7 +294,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1911-russ-01">
+        <chief>
+            <id>do-1911-russ-01</id>
             <person-id>russell-william-worthington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -310,7 +321,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1913-sull-01">
+        <chief>
+            <id>do-1913-sull-01</id>
             <person-id>sullivan-james-mark</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -336,7 +348,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1915-russ-01">
+        <chief>
+            <id>do-1915-russ-01</id>
             <person-id>russell-william-worthington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -363,7 +376,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1925-youn-01">
+        <chief>
+            <id>do-1925-youn-01</id>
             <person-id>young-evan-erastus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -390,7 +404,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1930-curt-01">
+        <chief>
+            <id>do-1930-curt-01</id>
             <person-id>curtis-charles-boyd</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -416,7 +431,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1931-scho-01">
+        <chief>
+            <id>do-1931-scho-01</id>
             <person-id>schoenfeld-hans-frederick-arthur</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -443,7 +459,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1937-norw-01">
+        <chief>
+            <id>do-1937-norw-01</id>
             <person-id>norweb-raymond-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -469,7 +486,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1940-scot-01">
+        <chief>
+            <id>do-1940-scot-01</id>
             <person-id>scotten-robert-mcgregor</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -495,7 +513,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1942-warr-01">
+        <chief>
+            <id>do-1942-warr-01</id>
             <person-id>warren-avra-milvin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -521,7 +540,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1943-warr-01">
+        <chief>
+            <id>do-1943-warr-01</id>
             <person-id>warren-avra-milvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -547,7 +567,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1944-brig-01">
+        <chief>
+            <id>do-1944-brig-01</id>
             <person-id>briggs-ellis-ormsbee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -573,7 +594,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1945-mcgu-01">
+        <chief>
+            <id>do-1945-mcgu-01</id>
             <person-id>mcgurk-joseph-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -599,7 +621,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1946-butl-01">
+        <chief>
+            <id>do-1946-butl-01</id>
             <person-id>butler-george-howland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -625,7 +648,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1948-acke-01">
+        <chief>
+            <id>do-1948-acke-01</id>
             <person-id>ackerman-ralph-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -651,7 +675,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1952-phel-01">
+        <chief>
+            <id>do-1952-phel-01</id>
             <person-id>phelps-phelps</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -677,7 +702,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief id="do-1953-phei-01">
+        <chief>
+            <id>do-1953-phei-01</id>
             <person-id>pheiffer-william-townsend</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -703,7 +729,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1957-farl-01">
+        <chief>
+            <id>do-1957-farl-01</id>
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -729,7 +756,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1960-08-26-dear-01">
+        <chief>
+            <id>do-1960-08-26-dear-01</id>
             <person-id>dearborn-henry-mark-valpey</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -756,7 +784,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1962-hill-01">
+        <chief>
+            <id>do-1962-hill-01</id>
             <person-id>hill-john-calvin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -782,7 +811,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-1962-mart-01">
+        <chief>
+            <id>do-1962-mart-01</id>
             <person-id>martin-john-bartlow</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -809,7 +839,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="do-1964-benn-01">
+        <chief>
+            <id>do-1964-benn-01</id>
             <person-id>bennett-william-tapley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -835,7 +866,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1966-crim-01">
+        <chief>
+            <id>do-1966-crim-01</id>
             <person-id>crimmins-john-hugh</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -861,7 +893,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-01</last-modified-date>
         </chief>
-        <chief id="do-1969-melo-01">
+        <chief>
+            <id>do-1969-melo-01</id>
             <person-id>meloy-francis-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -887,7 +920,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1973-hurw-01">
+        <chief>
+            <id>do-1973-hurw-01</id>
             <person-id>hurwitch-robert-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -913,7 +947,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
-        <chief id="do-1978-yost-01">
+        <chief>
+            <id>do-1978-yost-01</id>
             <person-id>yost-robert-lloyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -939,7 +974,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1982-ande-01">
+        <chief>
+            <id>do-1982-ande-01</id>
             <person-id>anderson-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -965,7 +1001,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1985-kild-01">
+        <chief>
+            <id>do-1985-kild-01</id>
             <person-id>kilday-lowell-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -991,7 +1028,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-09-24</last-modified-date>
         </chief>
-        <chief id="do-1988-tayl-01">
+        <chief>
+            <id>do-1988-tayl-01</id>
             <person-id>taylor-paul-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1017,7 +1055,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1992-past-01">
+        <chief>
+            <id>do-1992-past-01</id>
             <person-id>pastorino-robert-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1043,7 +1082,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-28</last-modified-date>
         </chief>
-        <chief id="do-1994-hrin-01">
+        <chief>
+            <id>do-1994-hrin-01</id>
             <person-id>hrinak-donna-jean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1069,7 +1109,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do-1999-mana-01">
+        <chief>
+            <id>do-1999-mana-01</id>
             <person-id>manatt-charles-taylor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1095,7 +1136,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-13</last-modified-date>
         </chief>
-        <chief id="do-2001-hert-01">
+        <chief>
+            <id>do-2001-hert-01</id>
             <person-id>hertell-hans-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1121,7 +1163,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-23</last-modified-date>
         </chief>
-        <chief id="do-2007-fann-01">
+        <chief>
+            <id>do-2007-fann-01</id>
             <person-id>fannin-p-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1147,7 +1190,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief id="do-2009-lamb-01">
+        <chief>
+            <id>do-2009-lamb-01</id>
             <person-id>lambert-christopher</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1173,7 +1217,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief id="do-2010-yzag-01">
+        <chief>
+            <id>do-2010-yzag-01</id>
             <person-id>yzaguirre-raul</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1199,7 +1244,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-23</last-modified-date>
         </chief>
-        <chief id="do-2013-brew-01">
+        <chief>
+            <id>do-2013-brew-01</id>
             <person-id>brewster-james-walter-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1225,7 +1271,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="do-2018-bern-01">
+        <chief>
+            <id>do-2018-bern-01</id>
             <person-id>bernstein-robin-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1253,7 +1300,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="do-1960-chap-01">
+        <chief>
+            <id>do-1960-chap-01</id>
             <person-id>chapin-vinton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>
@@ -1279,7 +1327,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="do--apon-01">
+        <chief>
+            <id>do--apon-01</id>
             <person-id>aponte-mari-del-carmen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>dominican-republic</contemporary-territory-id>

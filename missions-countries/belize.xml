@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>belize</territory-id>
     <chiefs>
-        <chief id="bz-1981-barn-01">
+        <chief>
+            <id>bz-1981-barn-01</id>
             <person-id>barnebey-malcolm-r</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
-        <chief id="bz-1983-barn-01">
+        <chief>
+            <id>bz-1983-barn-01</id>
             <person-id>barnebey-malcolm-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
-        <chief id="bz-1985-guth-01">
+        <chief>
+            <id>bz-1985-guth-01</id>
             <person-id>guthrie-donald-keith</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
-        <chief id="bz-1987-rich-01">
+        <chief>
+            <id>bz-1987-rich-01</id>
             <person-id>rich-robert-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief id="bz-1990-scas-01">
+        <chief>
+            <id>bz-1990-scas-01</id>
             <person-id>scassa-eugene-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief id="bz-1994-brun-01">
+        <chief>
+            <id>bz-1994-brun-01</id>
             <person-id>bruno-george-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -158,7 +164,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bz-1998-curi-01">
+        <chief>
+            <id>bz-1998-curi-01</id>
             <person-id>curiel-carolyn</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -184,7 +191,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bz-2001-free-01">
+        <chief>
+            <id>bz-2001-free-01</id>
             <person-id>freeman-russell-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -210,7 +218,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bz-2005-diet-01">
+        <chief>
+            <id>bz-2005-diet-01</id>
             <person-id>dieter-robert-johann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -236,7 +245,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief id="bz-2009-thum-01">
+        <chief>
+            <id>bz-2009-thum-01</id>
             <person-id>thummalapally-vinai-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -262,7 +272,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="bz-2014-more-01">
+        <chief>
+            <id>bz-2014-more-01</id>
             <person-id>moreno-carlos-roberto</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -288,7 +299,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="bz-2017-gala-01">
+        <chief>
+            <id>bz-2017-gala-01</id>
             <person-id>galanek-adrienne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -314,7 +326,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="bz-2018-gilg-01">
+        <chief>
+            <id>bz-2018-gilg-01</id>
             <person-id>gilges-keith-r</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -342,7 +355,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="bz--malo-01">
+        <chief>
+            <id>bz--malo-01</id>
             <person-id>malone-james-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>
@@ -368,7 +382,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
-        <chief id="bz--baue-01">
+        <chief>
+            <id>bz--baue-01</id>
             <person-id>bauer-andre</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belize</contemporary-territory-id>

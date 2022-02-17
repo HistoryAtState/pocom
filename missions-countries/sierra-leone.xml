@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>sierra-leone</territory-id>
     <chiefs>
-        <chief id="sl-1961-rein-01">
+        <chief>
+            <id>sl-1961-rein-01</id>
             <person-id>reiner-herbert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief id="sl-1961-carn-01">
+        <chief>
+            <id>sl-1961-carn-01</id>
             <person-id>carnahan-albert-sidney-johnson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief id="sl-1964-corr-01">
+        <chief>
+            <id>sl-1964-corr-01</id>
             <person-id>corry-andrew-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-1967-mine-01">
+        <chief>
+            <id>sl-1967-mine-01</id>
             <person-id>miner-robert-graham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief id="sl-1972-olso-01">
+        <chief>
+            <id>sl-1972-olso-01</id>
             <person-id>olson-clinton-louis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-1975-samu-01">
+        <chief>
+            <id>sl-1975-samu-01</id>
             <person-id>samuels-michael-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-1977-line-01">
+        <chief>
+            <id>sl-1977-line-01</id>
             <person-id>linehan-john-andrew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-13</last-modified-date>
         </chief>
-        <chief id="sl-1980-heal-01">
+        <chief>
+            <id>sl-1980-heal-01</id>
             <person-id>healy-theresa-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -211,7 +219,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-1983-lewi-01">
+        <chief>
+            <id>sl-1983-lewi-01</id>
             <person-id>lewis-arthur-winston</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -237,7 +246,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
-        <chief id="sl-1986-perr-01">
+        <chief>
+            <id>sl-1986-perr-01</id>
             <person-id>perry-cynthia-shepart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -263,7 +273,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-1989-youn-01">
+        <chief>
+            <id>sl-1989-youn-01</id>
             <person-id>young-johnny</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -289,7 +300,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-1992-pete-01">
+        <chief>
+            <id>sl-1992-pete-01</id>
             <person-id>peters-lauralee-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -315,7 +327,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-1995-hirs-01">
+        <chief>
+            <id>sl-1995-hirs-01</id>
             <person-id>hirsch-john-lewis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -341,7 +354,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-1998-melr-01">
+        <chief>
+            <id>sl-1998-melr-01</id>
             <person-id>melrose-joseph-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -367,7 +381,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-2001-chav-01">
+        <chief>
+            <id>sl-2001-chav-01</id>
             <person-id>chaveas-peter-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -393,7 +408,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-2004-hull-01">
+        <chief>
+            <id>sl-2004-hull-01</id>
             <person-id>hull-thomas-neil</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -419,7 +435,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sl-2007-perr-01">
+        <chief>
+            <id>sl-2007-perr-01</id>
             <person-id>perry-june-carter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -445,7 +462,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="sl-2009-fedz-01">
+        <chief>
+            <id>sl-2009-fedz-01</id>
             <person-id>fedzer-glenn-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -471,7 +489,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief id="sl-2010-owen-01">
+        <chief>
+            <id>sl-2010-owen-01</id>
             <person-id>owen-michael-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -497,7 +516,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-23</last-modified-date>
         </chief>
-        <chief id="sl-2013-fitz-01">
+        <chief>
+            <id>sl-2013-fitz-01</id>
             <person-id>fitzgibbon-kathleen-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -523,7 +543,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief id="sl-2014-hoov-01">
+        <chief>
+            <id>sl-2014-hoov-01</id>
             <person-id>hoover-john-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -549,7 +570,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief id="sl-2017-brew-01">
+        <chief>
+            <id>sl-2017-brew-01</id>
             <person-id>brewer-maria-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>
@@ -577,7 +599,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="sl--mace-01">
+        <chief>
+            <id>sl--mace-01</id>
             <person-id>mace-howard-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sierra-leone</contemporary-territory-id>

@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>bahamas</territory-id>
     <chiefs>
-        <chief id="bs-1973-spea-01">
+        <chief>
+            <id>bs-1973-spea-01</id>
             <person-id>spear-moncrieff-johnston</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-27</last-modified-date>
         </chief>
-        <chief id="bs-1973-spie-01">
+        <chief>
+            <id>bs-1973-spie-01</id>
             <person-id>spiers-ronald-ian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bs-1974-weis-01">
+        <chief>
+            <id>bs-1974-weis-01</id>
             <person-id>weiss-seymour</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bs-1976-olso-01">
+        <chief>
+            <id>bs-1976-olso-01</id>
             <person-id>olson-jack-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bs-1977-schw-01">
+        <chief>
+            <id>bs-1977-schw-01</id>
             <person-id>schwartz-william-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief id="bs-1983-dobr-01">
+        <chief>
+            <id>bs-1983-dobr-01</id>
             <person-id>dobriansky-lev-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -158,7 +164,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-02</last-modified-date>
         </chief>
-        <chief id="bs-1986-hall-01">
+        <chief>
+            <id>bs-1986-hall-01</id>
             <person-id>hallett-carol-boyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -184,7 +191,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bs-1989-hech-01">
+        <chief>
+            <id>bs-1989-hech-01</id>
             <person-id>hecht-chic</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -210,7 +218,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-27</last-modified-date>
         </chief>
-        <chief id="bs-1994-will-01">
+        <chief>
+            <id>bs-1994-will-01</id>
             <person-id>williams-sidney</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -236,7 +245,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bs-1998-sche-01">
+        <chief>
+            <id>bs-1998-sche-01</id>
             <person-id>schechter-arthur-louis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -262,7 +272,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bs-2001-blan-01">
+        <chief>
+            <id>bs-2001-blan-01</id>
             <person-id>blankenship-j-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -288,7 +299,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-27</last-modified-date>
         </chief>
-        <chief id="bs-2003-wita-01">
+        <chief>
+            <id>bs-2003-wita-01</id>
             <person-id>witajewski-robert-m</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -314,7 +326,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-27</last-modified-date>
         </chief>
-        <chief id="bs-2004-rood-01">
+        <chief>
+            <id>bs-2004-rood-01</id>
             <person-id>rood-john-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -340,7 +353,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="bs-2007-sieg-01">
+        <chief>
+            <id>bs-2007-sieg-01</id>
             <person-id>siegel-ned-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -366,7 +380,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief id="bs-2009-avan-01">
+        <chief>
+            <id>bs-2009-avan-01</id>
             <person-id>avant-nicole-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -392,7 +407,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief id="bs-2011-dink-01">
+        <chief>
+            <id>bs-2011-dink-01</id>
             <person-id>dinkelman-john-walter</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -418,7 +434,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
-        <chief id="bs-2014-john-01">
+        <chief>
+            <id>bs-2014-john-01</id>
             <person-id>johnson-lisa-anne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -444,7 +461,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="bs-2018-bowe-01">
+        <chief>
+            <id>bs-2018-bowe-01</id>
             <person-id>bowers-stephanie-l</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -472,7 +490,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="bs--butt-01">
+        <chief>
+            <id>bs--butt-01</id>
             <person-id>butts-cassandra-quin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -499,7 +518,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-06-06</last-modified-date>
         </chief>
-        <chief id="bs--manc-01">
+        <chief>
+            <id>bs--manc-01</id>
             <person-id>manchester-doug</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>
@@ -525,7 +545,8 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-        <chief id="bs--doug-01">
+        <chief>
+            <id>bs--doug-01</id>
             <person-id>douglass-william-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bahamas</contemporary-territory-id>

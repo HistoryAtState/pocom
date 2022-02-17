@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>oman</territory-id>
     <chiefs>
-        <chief id="om-1972-stol-01">
+        <chief>
+            <id>om-1972-stol-01</id>
             <person-id>stoltzfus-william-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -30,7 +31,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="om-1974-woll-01">
+        <chief>
+            <id>om-1974-woll-01</id>
             <person-id>wolle-william-down</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -56,7 +58,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="om-1978-wile-01">
+        <chief>
+            <id>om-1978-wile-01</id>
             <person-id>wiley-marshall-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -82,7 +85,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="om-1981-coun-01">
+        <chief>
+            <id>om-1981-coun-01</id>
             <person-id>countryman-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -108,7 +112,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="om-1985-mont-01">
+        <chief>
+            <id>om-1985-mont-01</id>
             <person-id>montgomery-george-cranwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -134,7 +139,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="om-1989-boeh-01">
+        <chief>
+            <id>om-1989-boeh-01</id>
             <person-id>boehm-richard-wood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -161,7 +167,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="om-1992-dunf-01">
+        <chief>
+            <id>om-1992-dunf-01</id>
             <person-id>dunford-david-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -187,7 +194,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="om-1996-cook-01">
+        <chief>
+            <id>om-1996-cook-01</id>
             <person-id>cook-frances-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -213,7 +221,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="om-1999-crai-01">
+        <chief>
+            <id>om-1999-crai-01</id>
             <person-id>craig-john-bruce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -239,7 +248,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="om-2001-dry-01">
+        <chief>
+            <id>om-2001-dry-01</id>
             <person-id>dry-robert-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -265,7 +275,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief id="om-2002-balt-01">
+        <chief>
+            <id>om-2002-balt-01</id>
             <person-id>baltimore-richard-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -291,7 +302,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="om-2006-grap-01">
+        <chief>
+            <id>om-2006-grap-01</id>
             <person-id>grappo-gary-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -317,7 +329,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="om-2009-schm-01">
+        <chief>
+            <id>om-2009-schm-01</id>
             <person-id>schmierer-richard-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -343,7 +356,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief id="om-2012-holt-01">
+        <chief>
+            <id>om-2012-holt-01</id>
             <person-id>holtz-greta-christine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -369,7 +383,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief id="om-2016-siev-01">
+        <chief>
+            <id>om-2016-siev-01</id>
             <person-id>sievers-marc-jonathan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>
@@ -395,7 +410,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-12</last-modified-date>
         </chief>
-        <chief id="om-2020-tsou-01">
+        <chief>
+            <id>om-2020-tsou-01</id>
             <person-id>tsou-leslie-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>oman</contemporary-territory-id>

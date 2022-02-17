@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>kingdom-of-two-sicilies-1861</territory-id>
     <chiefs>
-        <chief id="xg-1832-nels-01">
+        <chief>
+            <id>xg-1832-nels-01</id>
             <person-id>nelson-john</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -29,7 +30,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="xg-1838-thro-01">
+        <chief>
+            <id>xg-1838-thro-01</id>
             <person-id>throop-enos-thompson</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xg-1841-boul-01">
+        <chief>
+            <id>xg-1841-boul-01</id>
             <person-id>boulware-william</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xg-1845-polk-01">
+        <chief>
+            <id>xg-1845-polk-01</id>
             <person-id>polk-william-hawkins</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xg-1848-rowa-01">
+        <chief>
+            <id>xg-1848-rowa-01</id>
             <person-id>rowan-john</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xg-1850-morr-01">
+        <chief>
+            <id>xg-1850-morr-01</id>
             <person-id>morris-edward-joy</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xg-1853-owen-01">
+        <chief>
+            <id>xg-1853-owen-01</id>
             <person-id>owen-robert-dale</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="xg-1854-owen-01">
+        <chief>
+            <id>xg-1854-owen-01</id>
             <person-id>owen-robert-dale</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="xg-1858-chan-01">
+        <chief>
+            <id>xg-1858-chan-01</id>
             <person-id>chandler-joseph-ripley</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -241,7 +250,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="xg-1849-chin-01">
+        <chief>
+            <id>xg-1849-chin-01</id>
             <person-id>chinn-thomas-withers</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -267,7 +277,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xg-1849-powe-01">
+        <chief>
+            <id>xg-1849-powe-01</id>
             <person-id>power-james-m</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>
@@ -293,7 +304,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief id="xg--owen-01">
+        <chief>
+            <id>xg--owen-01</id>
             <person-id>owen-robert-dale</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>kingdom-of-two-sicilies-1861</contemporary-territory-id>

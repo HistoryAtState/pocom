@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>barbados</territory-id>
     <chiefs>
-        <chief id="bb-1966-dolg-01">
+        <chief>
+            <id>bb-1966-dolg-01</id>
             <person-id>dolgin-george</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-1967-mann-01">
+        <chief>
+            <id>bb-1967-mann-01</id>
             <person-id>mann-fredric-rand</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-1969-dono-01">
+        <chief>
+            <id>bb-1969-dono-01</id>
             <person-id>donovan-eileen-roberta</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bb-1975-brit-01">
+        <chief>
+            <id>bb-1975-brit-01</id>
             <person-id>britton-theodore-roosevelt</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-1977-orti-01">
+        <chief>
+            <id>bb-1977-orti-01</id>
             <person-id>ortiz-francis-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-1979-shel-01">
+        <chief>
+            <id>bb-1979-shel-01</id>
             <person-id>shelton-sally-angela</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-1981-bish-01">
+        <chief>
+            <id>bb-1981-bish-01</id>
             <person-id>bish-milan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-1984-ande-01">
+        <chief>
+            <id>bb-1984-ande-01</id>
             <person-id>anderson-thomas-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-1986-russ-01">
+        <chief>
+            <id>bb-1986-russ-01</id>
             <person-id>russo-paul-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bb-1988-clar-01">
+        <chief>
+            <id>bb-1988-clar-01</id>
             <person-id>clark-john-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -264,7 +274,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="bb-1990-hugh-01">
+        <chief>
+            <id>bb-1990-hugh-01</id>
             <person-id>hughes-g-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -290,7 +301,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-1994-hyde-01">
+        <chief>
+            <id>bb-1994-hyde-01</id>
             <person-id>hyde-jeanette-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -316,7 +328,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-1998-crot-01">
+        <chief>
+            <id>bb-1998-crot-01</id>
             <person-id>crotty-e-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -342,7 +355,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-05-02</last-modified-date>
         </chief>
-        <chief id="bb-2000-dale-01">
+        <chief>
+            <id>bb-2000-dale-01</id>
             <person-id>daley-james-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -369,7 +383,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-2002-phil-01">
+        <chief>
+            <id>bb-2002-phil-01</id>
             <person-id>phillips-earl-norfleet</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -395,7 +410,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-2004-kram-01">
+        <chief>
+            <id>bb-2004-kram-01</id>
             <person-id>kramer-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -421,7 +437,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-2006-ouri-01">
+        <chief>
+            <id>bb-2006-ouri-01</id>
             <person-id>ourisman-mary-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -447,7 +464,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="bb-2009-hard-01">
+        <chief>
+            <id>bb-2009-hard-01</id>
             <person-id>hardt-d-brent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -473,7 +491,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="bb-2012-palm-01">
+        <chief>
+            <id>bb-2012-palm-01</id>
             <person-id>palmer-larry-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -499,7 +518,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="bb-2016-tagl-01">
+        <chief>
+            <id>bb-2016-tagl-01</id>
             <person-id>taglialatela-linda-swartz</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -527,7 +547,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="bb--silv-01">
+        <chief>
+            <id>bb--silv-01</id>
             <person-id>silverman-joy-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>
@@ -553,7 +574,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="bb--rizz-01">
+        <chief>
+            <id>bb--rizz-01</id>
             <person-id>rizzuto-leandro</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>barbados</contemporary-territory-id>

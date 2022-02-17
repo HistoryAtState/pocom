@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>italy</territory-id>
     <chiefs>
-        <chief id="it-1840-roge-01">
+        <chief>
+            <id>it-1840-roge-01</id>
             <person-id>rogers-hezekiah-gold</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1841-babe-01">
+        <chief>
+            <id>it-1841-babe-01</id>
             <person-id>baber-ambrose</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1844-wick-01">
+        <chief>
+            <id>it-1844-wick-01</id>
             <person-id>wickliffe-robert</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1848-nile-01">
+        <chief>
+            <id>it-1848-nile-01</id>
             <person-id>niles-nathaniel</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1850-kinn-01">
+        <chief>
+            <id>it-1850-kinn-01</id>
             <person-id>kinney-william-burnet</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1853-dani-01">
+        <chief>
+            <id>it-1853-dani-01</id>
             <person-id>daniel-john-moncure</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1854-dani-01">
+        <chief>
+            <id>it-1854-dani-01</id>
             <person-id>daniel-john-moncure</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1861-mars-01">
+        <chief>
+            <id>it-1861-mars-01</id>
             <person-id>marsh-george-perkins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -213,7 +221,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1882-asto-01">
+        <chief>
+            <id>it-1882-asto-01</id>
             <person-id>astor-william-waldorf</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -239,7 +248,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1885-stal-01">
+        <chief>
+            <id>it-1885-stal-01</id>
             <person-id>stallo-john-bernhard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -266,7 +276,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1889-port-01">
+        <chief>
+            <id>it-1889-port-01</id>
             <person-id>porter-albert-gallatin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -292,7 +303,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1892-pott-01">
+        <chief>
+            <id>it-1892-pott-01</id>
             <person-id>potter-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -319,7 +331,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1894-macv-01">
+        <chief>
+            <id>it-1894-macv-01</id>
             <person-id>macveagh-isaac-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -345,7 +358,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1897-drap-01">
+        <chief>
+            <id>it-1897-drap-01</id>
             <person-id>draper-william-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -371,7 +385,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1901-meye-01">
+        <chief>
+            <id>it-1901-meye-01</id>
             <person-id>meyer-george-von-lengerke</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -397,7 +412,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1905-whit-01">
+        <chief>
+            <id>it-1905-whit-01</id>
             <person-id>white-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -423,7 +439,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1907-gris-01">
+        <chief>
+            <id>it-1907-gris-01</id>
             <person-id>griscom-lloyd-carpenter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -449,7 +466,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1909-leis-01">
+        <chief>
+            <id>it-1909-leis-01</id>
             <person-id>leishman-john-g-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -475,7 +493,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1911-obri-01">
+        <chief>
+            <id>it-1911-obri-01</id>
             <person-id>obrien-thomas-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -501,7 +520,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1913-page-01">
+        <chief>
+            <id>it-1913-page-01</id>
             <person-id>page-thomas-nelson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -527,7 +547,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1920-john-01">
+        <chief>
+            <id>it-1920-john-01</id>
             <person-id>johnson-robert-underwood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -553,7 +574,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1921-chil-01">
+        <chief>
+            <id>it-1921-chil-01</id>
             <person-id>child-richard-washburn</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -579,7 +601,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1924-flet-01">
+        <chief>
+            <id>it-1924-flet-01</id>
             <person-id>fletcher-henry-prather</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -605,7 +628,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1929-garr-01">
+        <chief>
+            <id>it-1929-garr-01</id>
             <person-id>garrett-john-work</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -631,7 +655,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1933-long-01">
+        <chief>
+            <id>it-1933-long-01</id>
             <person-id>long-samuel-miller-breckinridge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -657,7 +682,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1936-phil-01">
+        <chief>
+            <id>it-1936-phil-01</id>
             <person-id>phillips-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -684,7 +710,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1941-wads-01">
+        <chief>
+            <id>it-1941-wads-01</id>
             <person-id>wadsworth-george</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -710,7 +737,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1945-kirk-01">
+        <chief>
+            <id>it-1945-kirk-01</id>
             <person-id>kirk-alexander-comstock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -736,7 +764,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1947-dunn-01">
+        <chief>
+            <id>it-1947-dunn-01</id>
             <person-id>dunn-james-clement</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -762,7 +791,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1952-bunk-01">
+        <chief>
+            <id>it-1952-bunk-01</id>
             <person-id>bunker-ellsworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -788,7 +818,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief id="it-1953-luce-01">
+        <chief>
+            <id>it-1953-luce-01</id>
             <person-id>luce-ann-clare-boothe</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -814,7 +845,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1957-zell-01">
+        <chief>
+            <id>it-1957-zell-01</id>
             <person-id>zellerbach-james-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -841,7 +873,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1961-rein-01">
+        <chief>
+            <id>it-1961-rein-01</id>
             <person-id>reinhardt-george-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -867,7 +900,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1968-ackl-01">
+        <chief>
+            <id>it-1968-ackl-01</id>
             <person-id>ackley-hugh-gardner</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -893,7 +927,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-02-28</last-modified-date>
         </chief>
-        <chief id="it-1969-mart-01">
+        <chief>
+            <id>it-1969-mart-01</id>
             <person-id>martin-graham-anderson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -919,7 +954,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1973-volp-01">
+        <chief>
+            <id>it-1973-volp-01</id>
             <person-id>volpe-john-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -945,7 +981,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief id="it-1977-gard-01">
+        <chief>
+            <id>it-1977-gard-01</id>
             <person-id>gardner-richard-newton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -971,7 +1008,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1981-rabb-01">
+        <chief>
+            <id>it-1981-rabb-01</id>
             <person-id>rabb-maxwell-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -997,7 +1035,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief id="it-1989-secc-01">
+        <chief>
+            <id>it-1989-secc-01</id>
             <person-id>secchia-peter-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1023,7 +1062,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1993-bart-01">
+        <chief>
+            <id>it-1993-bart-01</id>
             <person-id>bartholomew-reginald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1049,7 +1089,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
-        <chief id="it-1997-fogl-01">
+        <chief>
+            <id>it-1997-fogl-01</id>
             <person-id>foglietta-thomas-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1075,7 +1116,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief id="it-2001-semb-01">
+        <chief>
+            <id>it-2001-semb-01</id>
             <person-id>sembler-melvin-floyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1101,7 +1143,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-2005-spog-01">
+        <chief>
+            <id>it-2005-spog-01</id>
             <person-id>spogli-ronald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1127,7 +1170,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-2009-thor-01">
+        <chief>
+            <id>it-2009-thor-01</id>
             <person-id>thorne-david-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1153,7 +1197,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-2013-phil-01">
+        <chief>
+            <id>it-2013-phil-01</id>
             <person-id>phillips-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1179,7 +1224,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="it-2017-eise-01">
+        <chief>
+            <id>it-2017-eise-01</id>
             <person-id>eisenberg-lewis-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1207,7 +1253,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="it-1853-mead-01">
+        <chief>
+            <id>it-1853-mead-01</id>
             <person-id>meade-richard-kidder</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1234,7 +1281,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it--dani-01">
+        <chief>
+            <id>it--dani-01</id>
             <person-id>daniel-john-moncure</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1260,7 +1308,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="it-1885-keil-01">
+        <chief>
+            <id>it-1885-keil-01</id>
             <person-id>keiley-anthony-michael</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1287,7 +1336,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1893-van-01">
+        <chief>
+            <id>it-1893-van-01</id>
             <person-id>van-alen-james-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>
@@ -1313,7 +1363,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="it-1900-wolc-01">
+        <chief>
+            <id>it-1900-wolc-01</id>
             <person-id>wolcott-roger</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>italy</contemporary-territory-id>

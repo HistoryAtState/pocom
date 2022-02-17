@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>yugoslavia</territory-id>
     <chiefs>
-        <chief id="xi-1919-dodg-01">
+        <chief>
+            <id>xi-1919-dodg-01</id>
             <person-id>dodge-henry-percival</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yugoslavia</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="xi-1926-prin-01">
+        <chief>
+            <id>xi-1926-prin-01</id>
             <person-id>prince-john-dyneley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yugoslavia-1946</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1933-wils-01">
+        <chief>
+            <id>xi-1933-wils-01</id>
             <person-id>wilson-charles-stetson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yugoslavia-1946</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="xi-1937-lane-01">
+        <chief>
+            <id>xi-1937-lane-01</id>
             <person-id>lane-arthur-bliss</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yugoslavia-1946</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="xi-1941-bidd-01">
+        <chief>
+            <id>xi-1941-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yugoslavia-1946</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="xi-1942-bidd-01">
+        <chief>
+            <id>xi-1942-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yugoslavia-1946</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="xi-1943-macv-01">
+        <chief>
+            <id>xi-1943-macv-01</id>
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yugoslavia-1946</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="xi-1944-patt-01">
+        <chief>
+            <id>xi-1944-patt-01</id>
             <person-id>patterson-richard-cunningham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yugoslavia-1946</contemporary-territory-id>
@@ -213,7 +221,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="xi-1947-cann-01">
+        <chief>
+            <id>xi-1947-cann-01</id>
             <person-id>cannon-cavendish-wells</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -239,7 +248,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1950-alle-01">
+        <chief>
+            <id>xi-1950-alle-01</id>
             <person-id>allen-george-venable</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -266,7 +276,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="xi-1953-ridd-01">
+        <chief>
+            <id>xi-1953-ridd-01</id>
             <person-id>riddleberger-james-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -292,7 +303,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1958-rank-01">
+        <chief>
+            <id>xi-1958-rank-01</id>
             <person-id>rankin-karl-lott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -319,7 +331,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xi-1961-kenn-01">
+        <chief>
+            <id>xi-1961-kenn-01</id>
             <person-id>kennan-george-frost</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -345,7 +358,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1964-elbr-01">
+        <chief>
+            <id>xi-1964-elbr-01</id>
             <person-id>elbrick-charles-burke</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -371,7 +385,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1969-leon-01">
+        <chief>
+            <id>xi-1969-leon-01</id>
             <person-id>leonhart-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -397,7 +412,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1971-toon-01">
+        <chief>
+            <id>xi-1971-toon-01</id>
             <person-id>toon-malcolm</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -423,7 +439,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1975-silb-01">
+        <chief>
+            <id>xi-1975-silb-01</id>
             <person-id>silberman-laurence-hirsch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -449,7 +466,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1977-eagl-01">
+        <chief>
+            <id>xi-1977-eagl-01</id>
             <person-id>eagleburger-lawrence-sidney</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -475,7 +493,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1981-ande-01">
+        <chief>
+            <id>xi-1981-ande-01</id>
             <person-id>anderson-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -501,7 +520,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1985-scan-01">
+        <chief>
+            <id>xi-1985-scan-01</id>
             <person-id>scanlan-john-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -527,7 +547,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="xi-1989-zimm-01">
+        <chief>
+            <id>xi-1989-zimm-01</id>
             <person-id>zimmermann-warren</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -554,7 +575,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="xi-1992-rack-01">
+        <chief>
+            <id>xi-1992-rack-01</id>
             <person-id>rackmales-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -589,7 +611,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </mission-note>
-        <chief id="xi-1993-peri-01">
+        <chief>
+            <id>xi-1993-peri-01</id>
             <person-id>perina-rudolf-vilem</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>
@@ -615,7 +638,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief id="xi-1996-mile-01">
+        <chief>
+            <id>xi-1996-mile-01</id>
             <person-id>miles-richard-monroe</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>socialist-federal-republic-of-yugoslavia-1992</contemporary-territory-id>

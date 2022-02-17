@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>latvia</territory-id>
     <chiefs>
-        <chief id="lv-1922-cole-01">
+        <chief>
+            <id>lv-1922-cole-01</id>
             <person-id>coleman-frederick-william-backus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief id="lv-1932-skin-01">
+        <chief>
+            <id>lv-1932-skin-01</id>
             <person-id>skinner-robert-peet</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief id="lv-1933-macm-01">
+        <chief>
+            <id>lv-1933-macm-01</id>
             <person-id>macmurray-john-van-antwerp</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -82,7 +85,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief id="lv-1936-lane-01">
+        <chief>
+            <id>lv-1936-lane-01</id>
             <person-id>lane-arthur-bliss</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -108,7 +112,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief id="lv-1938-wile-01">
+        <chief>
+            <id>lv-1938-wile-01</id>
             <person-id>wiley-john-cooper</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -135,7 +140,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief id="lv-1940-09-05-pack-01">
+        <chief>
+            <id>lv-1940-09-05-pack-01</id>
             <person-id>packer-earl-lenoir</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -169,7 +175,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </mission-note>
-        <chief id="lv-1991-sili-01">
+        <chief>
+            <id>lv-1991-sili-01</id>
             <person-id>silins-ints-m</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -195,7 +202,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief id="lv-1992-sili-01">
+        <chief>
+            <id>lv-1992-sili-01</id>
             <person-id>silins-ints-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -221,7 +229,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lv-1995-napp-01">
+        <chief>
+            <id>lv-1995-napp-01</id>
             <person-id>napper-larry-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -247,7 +256,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lv-1998-holm-01">
+        <chief>
+            <id>lv-1998-holm-01</id>
             <person-id>holmes-james-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -273,7 +283,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lv-2001-carl-01">
+        <chief>
+            <id>lv-2001-carl-01</id>
             <person-id>carlson-brian-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -299,7 +310,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lv-2005-bail-01">
+        <chief>
+            <id>lv-2005-bail-01</id>
             <person-id>bailey-catherine-todd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -325,7 +337,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief id="lv-2008-lars-01">
+        <chief>
+            <id>lv-2008-lars-01</id>
             <person-id>larson-charles-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -351,7 +364,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="lv-2009-garb-01">
+        <chief>
+            <id>lv-2009-garb-01</id>
             <person-id>garber-judith-gail</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -377,7 +391,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief id="lv-2012-peka-01">
+        <chief>
+            <id>lv-2012-peka-01</id>
             <person-id>pekala-mark-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -403,7 +418,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief id="lv-2015-pett-01">
+        <chief>
+            <id>lv-2015-pett-01</id>
             <person-id>pettit-nancy-bikoff</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -429,7 +445,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-19</last-modified-date>
         </chief>
-        <chief id="lv-2019-carw-01">
+        <chief>
+            <id>lv-2019-carw-01</id>
             <person-id>carwile-john-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>
@@ -457,7 +474,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="lv-1937-ster-01">
+        <chief>
+            <id>lv-1937-ster-01</id>
             <person-id>sterling-frederick-augustine</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>latvia</contemporary-territory-id>

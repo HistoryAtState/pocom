@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>sweden</territory-id>
     <chiefs>
-        <chief id="se-1818-russ-01">
+        <chief>
+            <id>se-1818-russ-01</id>
             <person-id>russell-jonathan</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -29,7 +30,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1819-hugh-01">
+        <chief>
+            <id>se-1819-hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -58,7 +60,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1826-appl-01">
+        <chief>
+            <id>se-1826-appl-01</id>
             <person-id>appleton-john-james</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -84,7 +87,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1830-hugh-01">
+        <chief>
+            <id>se-1830-hugh-01</id>
             <person-id>hughes-christopher</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -110,7 +114,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-05-23</last-modified-date>
         </chief>
-        <chief id="se-1842-lay-01">
+        <chief>
+            <id>se-1842-lay-01</id>
             <person-id>lay-george-washington</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -136,7 +141,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1845-ells-01">
+        <chief>
+            <id>se-1845-ells-01</id>
             <person-id>ellsworth-henry-william</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -164,7 +170,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1850-schr-01">
+        <chief>
+            <id>se-1850-schr-01</id>
             <person-id>schroeder-francis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -192,7 +199,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1854-schr-01">
+        <chief>
+            <id>se-1854-schr-01</id>
             <person-id>schroeder-francis</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -218,7 +226,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief id="se-1857-ange-01">
+        <chief>
+            <id>se-1857-ange-01</id>
             <person-id>angel-benjamin-franklin</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -246,7 +255,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1861-hald-01">
+        <chief>
+            <id>se-1861-hald-01</id>
             <person-id>haldeman-jacob-samils</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -272,7 +282,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1864-camp-01">
+        <chief>
+            <id>se-1864-camp-01</id>
             <person-id>campbell-james-hepburn</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -298,7 +309,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1867-bart-01">
+        <chief>
+            <id>se-1867-bart-01</id>
             <person-id>bartlett-joseph-jackson</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -324,7 +336,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1869-andr-01">
+        <chief>
+            <id>se-1869-andr-01</id>
             <person-id>andrews-christopher-columbus</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -352,7 +365,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1877-stev-01">
+        <chief>
+            <id>se-1877-stev-01</id>
             <person-id>stevens-john-leavitt</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -380,7 +394,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1883-thom-01">
+        <chief>
+            <id>se-1883-thom-01</id>
             <person-id>thomas-william-widgery</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -408,7 +423,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1885-mage-01">
+        <chief>
+            <id>se-1885-mage-01</id>
             <person-id>magee-rufus</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -434,7 +450,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1888-mage-01">
+        <chief>
+            <id>se-1888-mage-01</id>
             <person-id>magee-rufus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -460,7 +477,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1889-thom-01">
+        <chief>
+            <id>se-1889-thom-01</id>
             <person-id>thomas-william-widgery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -486,7 +504,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1894-ferg-01">
+        <chief>
+            <id>se-1894-ferg-01</id>
             <person-id>ferguson-thomas-barker</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -512,7 +531,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1898-thom-01">
+        <chief>
+            <id>se-1898-thom-01</id>
             <person-id>thomas-william-widgery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -538,7 +558,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-10</last-modified-date>
         </chief>
-        <chief id="se-1905-grav-01">
+        <chief>
+            <id>se-1905-grav-01</id>
             <person-id>graves-charles-hinman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -564,7 +585,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1914-morr-01">
+        <chief>
+            <id>se-1914-morr-01</id>
             <person-id>morris-ira-nelson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -590,7 +612,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1923-blis-01">
+        <chief>
+            <id>se-1923-blis-01</id>
             <person-id>bliss-robert-woods</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -616,7 +639,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1927-harr-01">
+        <chief>
+            <id>se-1927-harr-01</id>
             <person-id>harrison-leland</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -642,7 +666,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1930-more-01">
+        <chief>
+            <id>se-1930-more-01</id>
             <person-id>morehead-john-motley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -668,7 +693,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1933-stei-01">
+        <chief>
+            <id>se-1933-stei-01</id>
             <person-id>steinhardt-laurence-adolph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -694,7 +720,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1937-dear-01">
+        <chief>
+            <id>se-1937-dear-01</id>
             <person-id>dearing-fred-morris</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -720,7 +747,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1938-ster-01">
+        <chief>
+            <id>se-1938-ster-01</id>
             <person-id>sterling-frederick-augustine</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -746,7 +774,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1941-john-01">
+        <chief>
+            <id>se-1941-john-01</id>
             <person-id>johnson-herschel-vespasian</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -772,7 +801,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1947-drey-01">
+        <chief>
+            <id>se-1947-drey-01</id>
             <person-id>dreyfus-louis-goethe-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -798,7 +828,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="se-1947-matt-01">
+        <chief>
+            <id>se-1947-matt-01</id>
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -825,7 +856,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1950-butt-01">
+        <chief>
+            <id>se-1950-butt-01</id>
             <person-id>butterworth-william-walton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -851,7 +883,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
-        <chief id="se-1954-cabo-01">
+        <chief>
+            <id>se-1954-cabo-01</id>
             <person-id>cabot-john-moors</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -877,7 +910,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1957-whit-01">
+        <chief>
+            <id>se-1957-whit-01</id>
             <person-id>white-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -903,7 +937,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1959-bonb-01">
+        <chief>
+            <id>se-1959-bonb-01</id>
             <person-id>bonbright-james-cowles-hart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -930,7 +965,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1961-pars-01">
+        <chief>
+            <id>se-1961-pars-01</id>
             <person-id>parsons-james-graham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -956,7 +992,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1967-heat-01">
+        <chief>
+            <id>se-1967-heat-01</id>
             <person-id>heath-william-womack</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -982,7 +1019,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1970-holl-01">
+        <chief>
+            <id>se-1970-holl-01</id>
             <person-id>holland-jerome-heartwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1008,7 +1046,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="se-1972-olse-01">
+        <chief>
+            <id>se-1972-olse-01</id>
             <person-id>olsen-arthur-joseph</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1034,7 +1073,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1974-stra-01">
+        <chief>
+            <id>se-1974-stra-01</id>
             <person-id>strausz-hupe-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1060,7 +1100,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief id="se-1976-smit-01">
+        <chief>
+            <id>se-1976-smit-01</id>
             <person-id>smith-david-shiverick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1086,7 +1127,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief id="se-1977-kenn-01">
+        <chief>
+            <id>se-1977-kenn-01</id>
             <person-id>kennedy-minott-rodney-ogliasain</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1112,7 +1154,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1980-hami-01">
+        <chief>
+            <id>se-1980-hami-01</id>
             <person-id>hamilton-william-cowles</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1138,7 +1181,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1982-fors-01">
+        <chief>
+            <id>se-1982-fors-01</id>
             <person-id>forsberg-franklin-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1164,7 +1208,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief id="se-1985-newe-01">
+        <chief>
+            <id>se-1985-newe-01</id>
             <person-id>newell-gregory-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1190,7 +1235,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1989-redm-01">
+        <chief>
+            <id>se-1989-redm-01</id>
             <person-id>redman-charles-edgar</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1216,7 +1262,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1994-sieb-01">
+        <chief>
+            <id>se-1994-sieb-01</id>
             <person-id>siebert-thomas-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1242,7 +1289,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="se-1998-olso-01">
+        <chief>
+            <id>se-1998-olso-01</id>
             <person-id>olson-lyndon-lowell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1268,7 +1316,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-2001-heim-01">
+        <chief>
+            <id>se-2001-heim-01</id>
             <person-id>heimbold-charles-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1294,7 +1343,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-2004-bivi-01">
+        <chief>
+            <id>se-2004-bivi-01</id>
             <person-id>bivins-miles-teel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1320,7 +1370,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
-        <chief id="se-2006-wood-01">
+        <chief>
+            <id>se-2006-wood-01</id>
             <person-id>wood-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1346,7 +1397,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief id="se-2009-barz-01">
+        <chief>
+            <id>se-2009-barz-01</id>
             <person-id>barzun-matthew-winthrop</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1372,7 +1424,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief id="se-2011-brze-01">
+        <chief>
+            <id>se-2011-brze-01</id>
             <person-id>brzezinski-mark-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1398,7 +1451,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-25</last-modified-date>
         </chief>
-        <chief id="se-2016-raji-01">
+        <chief>
+            <id>se-2016-raji-01</id>
             <person-id>raji-azita</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1424,7 +1478,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief id="se-2017-lind-01">
+        <chief>
+            <id>se-2017-lind-01</id>
             <person-id>lindwall-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1450,7 +1505,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief id="se-2019-howe-01">
+        <chief>
+            <id>se-2019-howe-01</id>
             <person-id>howery-kenneth-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1478,7 +1534,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="se-1782-fran-01">
+        <chief>
+            <id>se-1782-fran-01</id>
             <person-id>franklin-benjamin</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1505,7 +1562,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se-1825-some-01">
+        <chief>
+            <id>se-1825-some-01</id>
             <person-id>somerville-william-clark</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1531,7 +1589,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1866-mcgi-01">
+        <chief>
+            <id>se-1866-mcgi-01</id>
             <person-id>mcginnis-john</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1558,7 +1617,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="se--carl-01">
+        <chief>
+            <id>se--carl-01</id>
             <person-id>carlile-john-snyder</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1585,7 +1645,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="se-1947-matt-02">
+        <chief>
+            <id>se-1947-matt-02</id>
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>
@@ -1611,7 +1672,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief id="se--salg-01">
+        <chief>
+            <id>se--salg-01</id>
             <person-id>salgo-nicolas-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sweden</contemporary-territory-id>

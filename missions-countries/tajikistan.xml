@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>tajikistan</territory-id>
     <chiefs>
-        <chief id="tj-1992-mcwi-01">
+        <chief>
+            <id>tj-1992-mcwi-01</id>
             <person-id>mcwilliams-edmund</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="tj-1992-escu-01">
+        <chief>
+            <id>tj-1992-escu-01</id>
             <person-id>escudero-stanley-tuemler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -62,7 +64,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </mission-note>
-        <chief id="tj-1995-smit-01">
+        <chief>
+            <id>tj-1995-smit-01</id>
             <person-id>smith-r-grant</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -88,7 +91,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tj-1998-finn-01">
+        <chief>
+            <id>tj-1998-finn-01</id>
             <person-id>finn-robert-patrick-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -114,7 +118,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
-        <chief id="tj-2001-hudd-01">
+        <chief>
+            <id>tj-2001-hudd-01</id>
             <person-id>huddle-franklin-pierce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -140,7 +145,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="tj-2003-hoag-01">
+        <chief>
+            <id>tj-2003-hoag-01</id>
             <person-id>hoagland-richard-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -166,7 +172,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="tj-2006-jaco-01">
+        <chief>
+            <id>tj-2006-jaco-01</id>
             <person-id>jacobson-tracey-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -192,7 +199,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief id="tj-2009-gros-01">
+        <chief>
+            <id>tj-2009-gros-01</id>
             <person-id>gross-kenneth-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -218,7 +226,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief id="tj-2012-elli-01">
+        <chief>
+            <id>tj-2012-elli-01</id>
             <person-id>elliott-susan-marsh</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -244,7 +253,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-25</last-modified-date>
         </chief>
-        <chief id="tj-2016-mill-01">
+        <chief>
+            <id>tj-2016-mill-01</id>
             <person-id>millard-elisabeth-i</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -270,7 +280,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief id="tj-2017-cove-01">
+        <chief>
+            <id>tj-2017-cove-01</id>
             <person-id>covert-kevin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>
@@ -296,7 +307,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-29</last-modified-date>
         </chief>
-        <chief id="tj-2019-pomm-01">
+        <chief>
+            <id>tj-2019-pomm-01</id>
             <person-id>pommersheim-john-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tajikistan</contemporary-territory-id>

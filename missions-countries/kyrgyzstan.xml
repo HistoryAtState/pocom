@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>kyrgyzstan</territory-id>
     <chiefs>
-        <chief id="kg-1992-mcwi-01">
+        <chief>
+            <id>kg-1992-mcwi-01</id>
             <person-id>mcwilliams-edmund</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
-        <chief id="kg-1992-hurw-01">
+        <chief>
+            <id>kg-1992-hurw-01</id>
             <person-id>hurwitz-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
-        <chief id="kg-1993-robe-01">
+        <chief>
+            <id>kg-1993-robe-01</id>
             <person-id>roberts-george-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="kg-1994-mall-01">
+        <chief>
+            <id>kg-1994-mall-01</id>
             <person-id>malloy-eileen-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kg-1997-sigm-01">
+        <chief>
+            <id>kg-1997-sigm-01</id>
             <person-id>sigmund-anne-marie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kg-2000-okee-01">
+        <chief>
+            <id>kg-2000-okee-01</id>
             <person-id>okeefe-john-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -158,7 +164,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kg-2003-youn-01">
+        <chief>
+            <id>kg-2003-youn-01</id>
             <person-id>young-stephen-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -184,7 +191,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kg-2005-yova-01">
+        <chief>
+            <id>kg-2005-yova-01</id>
             <person-id>yovanovitch-marie-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -210,7 +218,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief id="kg-2008-gfoe-01">
+        <chief>
+            <id>kg-2008-gfoe-01</id>
             <person-id>gfoeller-volkoff-tatiana-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -236,7 +245,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="kg-2011-spra-01">
+        <chief>
+            <id>kg-2011-spra-01</id>
             <person-id>spratlen-pamela-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -262,7 +272,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief id="kg-2015-gwal-01">
+        <chief>
+            <id>kg-2015-gwal-01</id>
             <person-id>gwaltney-sheila</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>
@@ -288,7 +299,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="kg-2018-lu-01">
+        <chief>
+            <id>kg-2018-lu-01</id>
             <person-id>lu-donald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kyrgyzstan</contemporary-territory-id>

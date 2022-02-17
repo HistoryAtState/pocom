@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>kuwait</territory-id>
     <chiefs>
-        <chief id="kw-1961-mak-01">
+        <chief>
+            <id>kw-1961-mak-01</id>
             <person-id>mak-dayton-s</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -29,7 +30,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="kw-1962-hart-01">
+        <chief>
+            <id>kw-1962-hart-01</id>
             <person-id>hart-parker-thompson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -56,7 +58,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="kw-1963-cott-01">
+        <chief>
+            <id>kw-1963-cott-01</id>
             <person-id>cottam-howard-rex</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -82,7 +85,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kw-1969-wals-01">
+        <chief>
+            <id>kw-1969-wals-01</id>
             <person-id>walsh-john-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -108,7 +112,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kw-1972-stol-01">
+        <chief>
+            <id>kw-1972-stol-01</id>
             <person-id>stoltzfus-william-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -134,7 +139,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="kw-1976-maes-01">
+        <chief>
+            <id>kw-1976-maes-01</id>
             <person-id>maestrone-frank-eusebio</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief id="kw-1979-dick-01">
+        <chief>
+            <id>kw-1979-dick-01</id>
             <person-id>dickman-francois-moussiegt</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="kw-1983-grif-01">
+        <chief>
+            <id>kw-1983-grif-01</id>
             <person-id>griffin-philip-joseph</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="kw-1984-quai-01">
+        <chief>
+            <id>kw-1984-quai-01</id>
             <person-id>quainton-anthony-cecil-eden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief id="kw-1987-howe-01">
+        <chief>
+            <id>kw-1987-howe-01</id>
             <person-id>howell-w-nathaniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -271,7 +281,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </mission-note>
-        <chief id="kw-1991-gneh-01">
+        <chief>
+            <id>kw-1991-gneh-01</id>
             <person-id>gnehm-edward-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -297,7 +308,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kw-1994-croc-01">
+        <chief>
+            <id>kw-1994-croc-01</id>
             <person-id>crocker-ryan-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -323,7 +335,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="kw-1997-laro-01">
+        <chief>
+            <id>kw-1997-laro-01</id>
             <person-id>larocco-james-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -349,7 +362,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kw-2001-jone-01">
+        <chief>
+            <id>kw-2001-jone-01</id>
             <person-id>jones-richard-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -375,7 +389,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kw-2004-leba-01">
+        <chief>
+            <id>kw-2004-leba-01</id>
             <person-id>lebaron-richard-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -401,7 +416,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="kw-2008-jone-01">
+        <chief>
+            <id>kw-2008-jone-01</id>
             <person-id>jones-deborah-kay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -427,7 +443,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief id="kw-2011-tuel-01">
+        <chief>
+            <id>kw-2011-tuel-01</id>
             <person-id>tueller-matthew-haywood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -453,7 +470,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-23</last-modified-date>
         </chief>
-        <chief id="kw-2014-sill-01">
+        <chief>
+            <id>kw-2014-sill-01</id>
             <person-id>silliman-douglas-alan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -479,7 +497,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-14</last-modified-date>
         </chief>
-        <chief id="kw-2016-silv-01">
+        <chief>
+            <id>kw-2016-silv-01</id>
             <person-id>silverman-lawrence-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -505,7 +524,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
-        <chief id="kw-2020-roma-01">
+        <chief>
+            <id>kw-2020-roma-01</id>
             <person-id>romanowski-alina-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>
@@ -533,7 +553,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="kw--pope-01">
+        <chief>
+            <id>kw--pope-01</id>
             <person-id>pope-laurence-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kuwait</contemporary-territory-id>

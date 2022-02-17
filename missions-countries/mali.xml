@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>mali</territory-id>
     <chiefs>
-        <chief id="ml-1960-dumo-01">
+        <chief>
+            <id>ml-1960-dumo-01</id>
             <person-id>dumont-donald-albert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief id="ml-1960-dean-01">
+        <chief>
+            <id>ml-1960-dean-01</id>
             <person-id>dean-john-gunther</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief id="ml-1961-wrig-01">
+        <chief>
+            <id>ml-1961-wrig-01</id>
             <person-id>wright-thomas-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="ml-1962-hand-01">
+        <chief>
+            <id>ml-1962-hand-01</id>
             <person-id>handley-william-jules</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -108,7 +112,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="ml-1965-moor-01">
+        <chief>
+            <id>ml-1965-moor-01</id>
             <person-id>moore-charles-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -134,7 +139,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-1968-clar-01">
+        <chief>
+            <id>ml-1968-clar-01</id>
             <person-id>clark-gilbert-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-29</last-modified-date>
         </chief>
-        <chief id="ml-1971-blak-01">
+        <chief>
+            <id>ml-1971-blak-01</id>
             <person-id>blake-robert-orris</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-1974-mcgu-01">
+        <chief>
+            <id>ml-1974-mcgu-01</id>
             <person-id>mcguire-ralph-jack</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-1976-byrn-01">
+        <chief>
+            <id>ml-1976-byrn-01</id>
             <person-id>byrne-patricia-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
-        <chief id="ml-1980-holl-01">
+        <chief>
+            <id>ml-1980-holl-01</id>
             <person-id>holloway-anne-forrester</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -264,7 +274,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-1981-borg-01">
+        <chief>
+            <id>ml-1981-borg-01</id>
             <person-id>borg-parker-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -290,7 +301,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-1984-ryan-01">
+        <chief>
+            <id>ml-1984-ryan-01</id>
             <person-id>ryan-robert-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -316,7 +328,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
-        <chief id="ml-1987-prin-01">
+        <chief>
+            <id>ml-1987-prin-01</id>
             <person-id>pringle-robert-maxwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -342,7 +355,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-1990-gelb-01">
+        <chief>
+            <id>ml-1990-gelb-01</id>
             <person-id>gelber-herbert-donald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -368,7 +382,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-1993-dame-01">
+        <chief>
+            <id>ml-1993-dame-01</id>
             <person-id>dameron-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -394,7 +409,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="ml-1995-heil-01">
+        <chief>
+            <id>ml-1995-heil-01</id>
             <person-id>heileman-carolee</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -420,7 +436,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="ml-1996-raws-01">
+        <chief>
+            <id>ml-1996-raws-01</id>
             <person-id>rawson-david-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -446,7 +463,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-2000-rann-01">
+        <chief>
+            <id>ml-2000-rann-01</id>
             <person-id>ranneberger-michael-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -472,7 +490,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-2002-hudd-01">
+        <chief>
+            <id>ml-2002-hudd-01</id>
             <person-id>huddleston-vicki-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -498,7 +517,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="ml-2005-mccu-01">
+        <chief>
+            <id>ml-2005-mccu-01</id>
             <person-id>mcculley-terence-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -524,7 +544,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="ml-2008-milo-01">
+        <chief>
+            <id>ml-2008-milo-01</id>
             <person-id>milovanovic-gillian-arlette</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -550,7 +571,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief id="ml-2011-leon-01">
+        <chief>
+            <id>ml-2011-leon-01</id>
             <person-id>leonard-mary-beth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -576,7 +598,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief id="ml-2015-folm-01">
+        <chief>
+            <id>ml-2015-folm-01</id>
             <person-id>folmsbee-paul-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -602,7 +625,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="ml-2019-hank-01">
+        <chief>
+            <id>ml-2019-hank-01</id>
             <person-id>hankins-dennis-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>
@@ -630,7 +654,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="ml-1960-vill-01">
+        <chief>
+            <id>ml-1960-vill-01</id>
             <person-id>villard-henry-serrano</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>mali</contemporary-territory-id>

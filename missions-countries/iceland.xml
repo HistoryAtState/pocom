@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>iceland</territory-id>
     <chiefs>
-        <chief id="is-1941-macv-01">
+        <chief>
+            <id>is-1941-macv-01</id>
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="is-1942-morr-01">
+        <chief>
+            <id>is-1942-morr-01</id>
             <person-id>morris-leland-burnette</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1944-drey-01">
+        <chief>
+            <id>is-1944-drey-01</id>
             <person-id>dreyfus-louis-goethe-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="is-1948-butr-01">
+        <chief>
+            <id>is-1948-butr-01</id>
             <person-id>butrick-richard-porter</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1949-laws-01">
+        <chief>
+            <id>is-1949-laws-01</id>
             <person-id>lawson-edward-burnett</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1954-mucc-01">
+        <chief>
+            <id>is-1954-mucc-01</id>
             <person-id>muccio-john-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="is-1955-mucc-01">
+        <chief>
+            <id>is-1955-mucc-01</id>
             <person-id>muccio-john-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="is-1960-thom-01">
+        <chief>
+            <id>is-1960-thom-01</id>
             <person-id>thompson-tyler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1961-penf-01">
+        <chief>
+            <id>is-1961-penf-01</id>
             <person-id>penfield-james-kedzie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1967-rolv-01">
+        <chief>
+            <id>is-1967-rolv-01</id>
             <person-id>rolvaag-karl-fritjof</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -264,7 +274,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
-        <chief id="is-1969-repl-01">
+        <chief>
+            <id>is-1969-repl-01</id>
             <person-id>replogle-luther-irvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -290,7 +301,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1972-irvi-01">
+        <chief>
+            <id>is-1972-irvi-01</id>
             <person-id>irving-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -316,7 +328,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1976-blak-01">
+        <chief>
+            <id>is-1976-blak-01</id>
             <person-id>blake-james-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -342,7 +355,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-20</last-modified-date>
         </chief>
-        <chief id="is-1978-eric-01">
+        <chief>
+            <id>is-1978-eric-01</id>
             <person-id>ericson-richard-august-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -368,7 +382,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief id="is-1981-brem-01">
+        <chief>
+            <id>is-1981-brem-01</id>
             <person-id>brement-marshall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -394,7 +409,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
-        <chief id="is-1985-ruwe-01">
+        <chief>
+            <id>is-1985-ruwe-01</id>
             <person-id>ruwe-l-nicholas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -420,7 +436,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1989-cobb-01">
+        <chief>
+            <id>is-1989-cobb-01</id>
             <person-id>cobb-charles-elvan-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -446,7 +463,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1992-rogi-01">
+        <chief>
+            <id>is-1992-rogi-01</id>
             <person-id>rogich-sigmund-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -472,7 +490,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1993-borg-01">
+        <chief>
+            <id>is-1993-borg-01</id>
             <person-id>borg-parker-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -498,7 +517,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1996-moun-01">
+        <chief>
+            <id>is-1996-moun-01</id>
             <person-id>mount-day-olin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -524,7 +544,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-1999-grif-01">
+        <chief>
+            <id>is-1999-grif-01</id>
             <person-id>griffiths-barbara-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -550,7 +571,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="is-2002-gads-01">
+        <chief>
+            <id>is-2002-gads-01</id>
             <person-id>gadsden-james-irvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -576,7 +598,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2014-07-03</last-modified-date>
         </chief>
-        <chief id="is-2006-van-01">
+        <chief>
+            <id>is-2006-van-01</id>
             <person-id>van-voorst-carol</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -602,7 +625,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="is-2009-wats-01">
+        <chief>
+            <id>is-2009-wats-01</id>
             <person-id>watson-samuel-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -628,7 +652,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
-        <chief id="is-2010-arre-01">
+        <chief>
+            <id>is-2010-arre-01</id>
             <person-id>arreaga-rodas-luis-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -654,7 +679,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="is-2013-ofri-01">
+        <chief>
+            <id>is-2013-ofri-01</id>
             <person-id>ofriel-paul-christopher</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -680,7 +706,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
-        <chief id="is-2015-barb-01">
+        <chief>
+            <id>is-2015-barb-01</id>
             <person-id>barber-robert-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -706,7 +733,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="is-2017-espo-01">
+        <chief>
+            <id>is-2017-espo-01</id>
             <person-id>esposito-jill-m</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -732,7 +760,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-06-25</last-modified-date>
         </chief>
-        <chief id="is-2019-gunt-01">
+        <chief>
+            <id>is-2019-gunt-01</id>
             <person-id>gunter-jeffrey-ross</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -760,7 +789,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="is-1933-owen-01">
+        <chief>
+            <id>is-1933-owen-01</id>
             <person-id>owen-ruth-bryan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>
@@ -786,7 +816,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="is--conn-01">
+        <chief>
+            <id>is--conn-01</id>
             <person-id>connan-robert-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>iceland</contemporary-territory-id>

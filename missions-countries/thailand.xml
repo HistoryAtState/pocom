@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>thailand</territory-id>
     <chiefs>
-        <chief id="th-1882-hald-01">
+        <chief>
+            <id>th-1882-hald-01</id>
             <person-id>halderman-john-acoming-jr</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1886-chil-01">
+        <chief>
+            <id>th-1886-chil-01</id>
             <person-id>child-jacob-t</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1891-boyd-01">
+        <chief>
+            <id>th-1891-boyd-01</id>
             <person-id>boyd-sempronius-hamilton</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1894-barr-01">
+        <chief>
+            <id>th-1894-barr-01</id>
             <person-id>barrett-john</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="th-1898-king-01">
+        <chief>
+            <id>th-1898-king-01</id>
             <person-id>king-hamilton</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-1903-king-01">
+        <chief>
+            <id>th-1903-king-01</id>
             <person-id>king-hamilton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="th-1913-carp-01">
+        <chief>
+            <id>th-1913-carp-01</id>
             <person-id>carpenter-fred-warner</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-1915-horn-01">
+        <chief>
+            <id>th-1915-horn-01</id>
             <person-id>hornibrook-william-harrison</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1917-inge-01">
+        <chief>
+            <id>th-1917-inge-01</id>
             <person-id>ingersoll-george-pratt</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1920-hunt-01">
+        <chief>
+            <id>th-1920-hunt-01</id>
             <person-id>hunt-george-wylie-paul</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -264,7 +274,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1922-brod-01">
+        <chief>
+            <id>th-1922-brod-01</id>
             <person-id>brodie-edward-everett</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -290,7 +301,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1926-russ-01">
+        <chief>
+            <id>th-1926-russ-01</id>
             <person-id>russell-william-worthington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -317,7 +329,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-1927-mack-01">
+        <chief>
+            <id>th-1927-mack-01</id>
             <person-id>mackenzie-harold-orville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -343,7 +356,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1930-kauf-01">
+        <chief>
+            <id>th-1930-kauf-01</id>
             <person-id>kaufman-david-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -369,7 +383,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1933-bake-01">
+        <chief>
+            <id>th-1933-bake-01</id>
             <person-id>baker-james-marion</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -396,7 +411,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-1937-nevi-01">
+        <chief>
+            <id>th-1937-nevi-01</id>
             <person-id>neville-edwin-lowe</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -422,7 +438,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1940-gran-01">
+        <chief>
+            <id>th-1940-gran-01</id>
             <person-id>grant-hugh-gladney</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -448,7 +465,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1941-peck-01">
+        <chief>
+            <id>th-1941-peck-01</id>
             <person-id>peck-willys-ruggles</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -475,7 +493,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-1946-yost-01">
+        <chief>
+            <id>th-1946-yost-01</id>
             <person-id>yost-charles-woodruff</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -502,7 +521,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-1946-stan-01">
+        <chief>
+            <id>th-1946-stan-01</id>
             <person-id>stanton-edwin-forward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -528,7 +548,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-1947-stan-01">
+        <chief>
+            <id>th-1947-stan-01</id>
             <person-id>stanton-edwin-forward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -554,7 +575,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-1953-dono-01">
+        <chief>
+            <id>th-1953-dono-01</id>
             <person-id>donovan-william-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -580,7 +602,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1954-peur-01">
+        <chief>
+            <id>th-1954-peur-01</id>
             <person-id>peurifoy-john-emil</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -607,7 +630,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1956-bish-01">
+        <chief>
+            <id>th-1956-bish-01</id>
             <person-id>bishop-max-waldo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -634,7 +658,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-1958-john-01">
+        <chief>
+            <id>th-1958-john-01</id>
             <person-id>johnson-ural-alexis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -660,7 +685,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1961-youn-01">
+        <chief>
+            <id>th-1961-youn-01</id>
             <person-id>young-kenneth-todd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -686,7 +712,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1963-mart-01">
+        <chief>
+            <id>th-1963-mart-01</id>
             <person-id>martin-graham-anderson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -712,7 +739,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1967-unge-01">
+        <chief>
+            <id>th-1967-unge-01</id>
             <person-id>unger-leonard-seidman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -738,7 +766,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief id="th-1973-kint-01">
+        <chief>
+            <id>th-1973-kint-01</id>
             <person-id>kintner-william-roscoe</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -764,7 +793,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1975-whit-01">
+        <chief>
+            <id>th-1975-whit-01</id>
             <person-id>whitehouse-charles-sheldon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -790,7 +820,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-12-23</last-modified-date>
         </chief>
-        <chief id="th-1978-abra-01">
+        <chief>
+            <id>th-1978-abra-01</id>
             <person-id>abramowitz-morton-isaac</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -816,7 +847,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1981-dean-01">
+        <chief>
+            <id>th-1981-dean-01</id>
             <person-id>dean-john-gunther</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -842,7 +874,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1985-brow-01">
+        <chief>
+            <id>th-1985-brow-01</id>
             <person-id>brown-william-andreas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -868,7 +901,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1988-odon-01">
+        <chief>
+            <id>th-1988-odon-01</id>
             <person-id>odonohue-daniel-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -894,7 +928,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1991-lamb-01">
+        <chief>
+            <id>th-1991-lamb-01</id>
             <person-id>lambertson-david-floyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -920,7 +955,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1996-itoh-01">
+        <chief>
+            <id>th-1996-itoh-01</id>
             <person-id>itoh-william-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -946,7 +982,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1999-heck-01">
+        <chief>
+            <id>th-1999-heck-01</id>
             <person-id>hecklinger-richard-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -972,7 +1009,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-2002-john-01">
+        <chief>
+            <id>th-2002-john-01</id>
             <person-id>johnson-darryl-norman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -998,7 +1036,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-2005-boyc-01">
+        <chief>
+            <id>th-2005-boyc-01</id>
             <person-id>boyce-ralph-leo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -1024,7 +1063,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief id="th-2008-john-01">
+        <chief>
+            <id>th-2008-john-01</id>
             <person-id>john-eric-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -1050,7 +1090,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief id="th-2011-kenn-01">
+        <chief>
+            <id>th-2011-kenn-01</id>
             <person-id>kenney-kristie-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -1076,7 +1117,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-25</last-modified-date>
         </chief>
-        <chief id="th-2015-davi-01">
+        <chief>
+            <id>th-2015-davi-01</id>
             <person-id>davies-glyn-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -1102,7 +1144,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-29</last-modified-date>
         </chief>
-        <chief id="th-2020-deso-01">
+        <chief>
+            <id>th-2020-deso-01</id>
             <person-id>desombre-michael-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -1130,7 +1173,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="th-1890-moor-01">
+        <chief>
+            <id>th-1890-moor-01</id>
             <person-id>moore-alexander-c</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -1156,7 +1200,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th--swee-01">
+        <chief>
+            <id>th--swee-01</id>
             <person-id>sweek-alexander</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>
@@ -1182,7 +1227,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="th-1929-geis-01">
+        <chief>
+            <id>th-1929-geis-01</id>
             <person-id>geissler-arthur-h</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>thailand</contemporary-territory-id>

@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>liberia</territory-id>
     <chiefs>
-        <chief id="lr-1864-hans-01">
+        <chief>
+            <id>lr-1864-hans-01</id>
             <person-id>hanson-abraham</person-id>
             <role-title-id>commissioner-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -29,7 +30,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1867-seys-01">
+        <chief>
+            <id>lr-1867-seys-01</id>
             <person-id>seys-john</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -56,7 +58,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1871-turn-01">
+        <chief>
+            <id>lr-1871-turn-01</id>
             <person-id>turner-james-milton</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -82,7 +85,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1878-smyt-01">
+        <chief>
+            <id>lr-1878-smyt-01</id>
             <person-id>smyth-john-henry</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -108,7 +112,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1881-garn-01">
+        <chief>
+            <id>lr-1881-garn-01</id>
             <person-id>garnet-henry-highland</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -136,7 +141,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="lr-1882-smyt-01">
+        <chief>
+            <id>lr-1882-smyt-01</id>
             <person-id>smyth-john-henry</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -162,7 +168,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1885-hopk-01">
+        <chief>
+            <id>lr-1885-hopk-01</id>
             <person-id>hopkins-moses-aaron</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -189,7 +196,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="lr-1887-tayl-01">
+        <chief>
+            <id>lr-1887-tayl-01</id>
             <person-id>taylor-charles-henry-james</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -215,7 +223,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1888-smit-01">
+        <chief>
+            <id>lr-1888-smit-01</id>
             <person-id>smith-ezekiel-ezra</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -241,7 +250,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1890-clar-01">
+        <chief>
+            <id>lr-1890-clar-01</id>
             <person-id>clark-alexander</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -267,7 +277,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="lr-1892-mcco-01">
+        <chief>
+            <id>lr-1892-mcco-01</id>
             <person-id>mccoy-william-d</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -293,7 +304,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="lr-1895-hear-01">
+        <chief>
+            <id>lr-1895-hear-01</id>
             <person-id>heard-william-henry</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -319,7 +331,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1898-smit-01">
+        <chief>
+            <id>lr-1898-smit-01</id>
             <person-id>smith-owen-lun-west</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -345,7 +358,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief id="lr-1902-cros-01">
+        <chief>
+            <id>lr-1902-cros-01</id>
             <person-id>crossland-john-r-a</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -371,7 +385,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1903-lyon-01">
+        <chief>
+            <id>lr-1903-lyon-01</id>
             <person-id>lyon-ernest</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -397,7 +412,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1910-crum-01">
+        <chief>
+            <id>lr-1910-crum-01</id>
             <person-id>crum-william-demos</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -423,7 +439,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1913-buck-01">
+        <chief>
+            <id>lr-1913-buck-01</id>
             <person-id>buckner-george-washington</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -449,7 +466,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
-        <chief id="lr-1915-curt-01">
+        <chief>
+            <id>lr-1915-curt-01</id>
             <person-id>curtis-james-l</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -476,7 +494,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1919-john-01">
+        <chief>
+            <id>lr-1919-john-01</id>
             <person-id>johnson-joseph-lowery</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -502,7 +521,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1922-hood-01">
+        <chief>
+            <id>lr-1922-hood-01</id>
             <person-id>hood-solomon-porter</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -528,7 +548,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1927-fran-01">
+        <chief>
+            <id>lr-1927-fran-01</id>
             <person-id>francis-william-treyanne</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -555,7 +576,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="lr-1935-walt-01">
+        <chief>
+            <id>lr-1935-walt-01</id>
             <person-id>walton-lester-aglar</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -581,7 +603,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1946-lani-01">
+        <chief>
+            <id>lr-1946-lani-01</id>
             <person-id>lanier-raphael-ohara</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -607,7 +630,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1948-dudl-01">
+        <chief>
+            <id>lr-1948-dudl-01</id>
             <person-id>dudley-edward-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -634,7 +658,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1949-dudl-01">
+        <chief>
+            <id>lr-1949-dudl-01</id>
             <person-id>dudley-edward-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -660,7 +685,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief id="lr-1953-lock-01">
+        <chief>
+            <id>lr-1953-lock-01</id>
             <person-id>locker-jesse-dwight</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -686,7 +712,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="lr-1955-jone-01">
+        <chief>
+            <id>lr-1955-jone-01</id>
             <person-id>jones-richard-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -712,7 +739,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1959-math-01">
+        <chief>
+            <id>lr-1959-math-01</id>
             <person-id>mathews-elbert-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -738,7 +766,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1962-rhet-01">
+        <chief>
+            <id>lr-1962-rhet-01</id>
             <person-id>rhetts-charles-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -764,7 +793,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1965-brow-01">
+        <chief>
+            <id>lr-1965-brow-01</id>
             <person-id>brown-ben-hill</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -791,7 +821,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1969-west-01">
+        <chief>
+            <id>lr-1969-west-01</id>
             <person-id>westerfield-samuel-zazachilds</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -817,7 +848,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="lr-1972-manf-01">
+        <chief>
+            <id>lr-1972-manf-01</id>
             <person-id>manfull-melvin-lawrence</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -844,7 +876,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1976-cart-01">
+        <chief>
+            <id>lr-1976-cart-01</id>
             <person-id>carter-william-beverly</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -870,7 +903,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1979-smit-01">
+        <chief>
+            <id>lr-1979-smit-01</id>
             <person-id>smith-robert-powell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -896,7 +930,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1981-swin-01">
+        <chief>
+            <id>lr-1981-swin-01</id>
             <person-id>swing-william-lacy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -922,7 +957,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1985-perk-01">
+        <chief>
+            <id>lr-1985-perk-01</id>
             <person-id>perkins-edward-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -948,7 +984,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief id="lr-1987-bish-01">
+        <chief>
+            <id>lr-1987-bish-01</id>
             <person-id>bishop-james-keough</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -974,7 +1011,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1990-de-01">
+        <chief>
+            <id>lr-1990-de-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1001,7 +1039,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1992-twad-01">
+        <chief>
+            <id>lr-1992-twad-01</id>
             <person-id>twaddell-william-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1027,7 +1066,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1995-mila-01">
+        <chief>
+            <id>lr-1995-mila-01</id>
             <person-id>milam-william-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1053,7 +1093,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1999-myri-01">
+        <chief>
+            <id>lr-1999-myri-01</id>
             <person-id>myrick-bismarck</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1079,7 +1120,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-2002-blan-01">
+        <chief>
+            <id>lr-2002-blan-01</id>
             <person-id>blaney-john-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1105,7 +1147,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-2005-boot-01">
+        <chief>
+            <id>lr-2005-boot-01</id>
             <person-id>booth-donald-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1131,7 +1174,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="lr-2008-thom-01">
+        <chief>
+            <id>lr-2008-thom-01</id>
             <person-id>thomas-greenfield-linda</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1157,7 +1201,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-15</last-modified-date>
         </chief>
-        <chief id="lr-2012-mala-01">
+        <chief>
+            <id>lr-2012-mala-01</id>
             <person-id>malac-deborah-ruth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1183,7 +1228,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief id="lr-2016-elde-01">
+        <chief>
+            <id>lr-2016-elde-01</id>
             <person-id>elder-christine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1209,7 +1255,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-03-24</last-modified-date>
         </chief>
-        <chief id="lr-2021-mcca-01">
+        <chief>
+            <id>lr-2021-mcca-01</id>
             <person-id>mccarthy-michael-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1237,7 +1284,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="lr-1863-henr-01">
+        <chief>
+            <id>lr-1863-henr-01</id>
             <person-id>henry-john-j</person-id>
             <role-title-id>commissioner-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1263,7 +1311,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr--clay-01">
+        <chief>
+            <id>lr--clay-01</id>
             <person-id>clay-john-randolph</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1289,7 +1338,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-28</last-modified-date>
         </chief>
-        <chief id="lr-1869-duma-01">
+        <chief>
+            <id>lr-1869-duma-01</id>
             <person-id>dumas-francis-e</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1315,7 +1365,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1870-maso-01">
+        <chief>
+            <id>lr-1870-maso-01</id>
             <person-id>mason-james-w</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1341,7 +1392,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1913-moor-01">
+        <chief>
+            <id>lr-1913-moor-01</id>
             <person-id>moore-frederick-randolph</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1367,7 +1419,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1927-cart-01">
+        <chief>
+            <id>lr-1927-cart-01</id>
             <person-id>carter-james-garneth</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1393,7 +1446,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="lr-1930-mitc-01">
+        <chief>
+            <id>lr-1930-mitc-01</id>
             <person-id>mitchell-charles-edward</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>
@@ -1420,7 +1474,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief id="lr-1931-mitc-01">
+        <chief>
+            <id>lr-1931-mitc-01</id>
             <person-id>mitchell-charles-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>liberia</contemporary-territory-id>

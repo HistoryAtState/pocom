@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>afghanistan</territory-id>
     <chiefs>
-        <chief id="af-1935-horn-01">
+        <chief>
+            <id>af-1935-horn-01</id>
             <person-id>hornibrook-william-harrison</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-02-13</last-modified-date>
         </chief>
-        <chief id="af-1941-drey-01">
+        <chief>
+            <id>af-1941-drey-01</id>
             <person-id>dreyfus-louis-goethe-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-02-13</last-modified-date>
         </chief>
-        <chief id="af-1942-thay-01">
+        <chief>
+            <id>af-1942-thay-01</id>
             <person-id>thayer-charles-wheeler</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -89,7 +92,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-02-12</last-modified-date>
         </mission-note>
-        <chief id="af-1942-enge-01">
+        <chief>
+            <id>af-1942-enge-01</id>
             <person-id>engert-cornelius-van-hemert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -115,7 +119,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="af-1945-palm-01">
+        <chief>
+            <id>af-1945-palm-01</id>
             <person-id>palmer-ely-eliot</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -141,7 +146,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-02-13</last-modified-date>
         </chief>
-        <chief id="af-1948-palm-01">
+        <chief>
+            <id>af-1948-palm-01</id>
             <person-id>palmer-ely-eliot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -167,7 +173,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="af-1949-drey-01">
+        <chief>
+            <id>af-1949-drey-01</id>
             <person-id>dreyfus-louis-goethe-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -193,7 +200,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="af-1951-merr-01">
+        <chief>
+            <id>af-1951-merr-01</id>
             <person-id>merrell-george-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -219,7 +227,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief id="af-1952-ward-01">
+        <chief>
+            <id>af-1952-ward-01</id>
             <person-id>ward-angus-ivan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -245,7 +254,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="af-1956-mill-01">
+        <chief>
+            <id>af-1956-mill-01</id>
             <person-id>mills-sheldon-tibbetts</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -271,7 +281,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="af-1959-byro-01">
+        <chief>
+            <id>af-1959-byro-01</id>
             <person-id>byroade-henry-alfred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -297,7 +308,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="af-1962-stee-01">
+        <chief>
+            <id>af-1962-stee-01</id>
             <person-id>steeves-john-milton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -323,7 +335,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="af-1967-neum-01">
+        <chief>
+            <id>af-1967-neum-01</id>
             <person-id>neumann-robert-gerhard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -349,7 +362,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="af-1973-elio-01">
+        <chief>
+            <id>af-1973-elio-01</id>
             <person-id>eliot-theodore-lyman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -375,7 +389,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="af-1978-dubs-01">
+        <chief>
+            <id>af-1978-dubs-01</id>
             <person-id>dubs-adolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -401,7 +416,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief id="af-1979-amst-01">
+        <chief>
+            <id>af-1979-amst-01</id>
             <person-id>amstutz-j-bruce</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -427,7 +443,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
-        <chief id="af-1980-mill-01">
+        <chief>
+            <id>af-1980-mill-01</id>
             <person-id>mills-hawthorne-quinn</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -453,7 +470,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
-        <chief id="af-1982-dunb-01">
+        <chief>
+            <id>af-1982-dunb-01</id>
             <person-id>dunbar-charles-franklin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -479,7 +497,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
-        <chief id="af-1983-hurw-01">
+        <chief>
+            <id>af-1983-hurw-01</id>
             <person-id>hurwitz-edward</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -505,7 +524,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
-        <chief id="af-1986-ealu-01">
+        <chief>
+            <id>af-1986-ealu-01</id>
             <person-id>ealum-james-maurice</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -539,7 +559,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-02-13</last-modified-date>
         </mission-note>
-        <chief id="af-1987-glas-01">
+        <chief>
+            <id>af-1987-glas-01</id>
             <person-id>glassman-jon-david</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -573,7 +594,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-02-12</last-modified-date>
         </mission-note>
-        <chief id="af-2002-croc-01">
+        <chief>
+            <id>af-2002-croc-01</id>
             <person-id>crocker-ryan-clark</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -599,7 +621,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="af-2002-finn-01">
+        <chief>
+            <id>af-2002-finn-01</id>
             <person-id>finn-robert-patrick-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -625,7 +648,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
-        <chief id="af-2003-khal-01">
+        <chief>
+            <id>af-2003-khal-01</id>
             <person-id>khalilzad-zalmay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -651,7 +675,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-08-12</last-modified-date>
         </chief>
-        <chief id="af-2005-neum-01">
+        <chief>
+            <id>af-2005-neum-01</id>
             <person-id>neumann-ronald-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -677,7 +702,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="af-2007-wood-01">
+        <chief>
+            <id>af-2007-wood-01</id>
             <person-id>wood-william-braucher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -703,7 +729,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief id="af-2009-eike-01">
+        <chief>
+            <id>af-2009-eike-01</id>
             <person-id>eikenberry-karl-winfrid</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -729,7 +756,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief id="af-2011-croc-01">
+        <chief>
+            <id>af-2011-croc-01</id>
             <person-id>crocker-ryan-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -755,7 +783,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief id="af-2012-cunn-01">
+        <chief>
+            <id>af-2012-cunn-01</id>
             <person-id>cunningham-james-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -781,7 +810,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="af-2015-mcki-01">
+        <chief>
+            <id>af-2015-mcki-01</id>
             <person-id>mckinley-peter-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -807,7 +837,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="af-2017-bass-01">
+        <chief>
+            <id>af-2017-bass-01</id>
             <person-id>bass-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>
@@ -835,7 +866,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="af--ruge-01">
+        <chief>
+            <id>af--ruge-01</id>
             <person-id>ruger-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>afghanistan</contemporary-territory-id>

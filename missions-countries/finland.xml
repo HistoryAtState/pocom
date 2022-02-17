@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>finland</territory-id>
     <chiefs>
-        <chief id="fi-1920-magr-01">
+        <chief>
+            <id>fi-1920-magr-01</id>
             <person-id>magruder-alexander-richardson</person-id>
             <role-title-id>charge-daffaires-pro-tem</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief id="fi-1922-kage-01">
+        <chief>
+            <id>fi-1922-kage-01</id>
             <person-id>kagey-charles-lemuel</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1925-pear-01">
+        <chief>
+            <id>fi-1925-pear-01</id>
             <person-id>pearson-alfred-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief id="fi-1930-brod-01">
+        <chief>
+            <id>fi-1930-brod-01</id>
             <person-id>brodie-edward-everett</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1933-albr-01">
+        <chief>
+            <id>fi-1933-albr-01</id>
             <person-id>albright-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -134,7 +139,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief id="fi-1937-scho-01">
+        <chief>
+            <id>fi-1937-scho-01</id>
             <person-id>schoenfeld-hans-frederick-arthur</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="fi-1944-06-30-gull-01">
+        <chief>
+            <id>fi-1944-06-30-gull-01</id>
             <person-id>gullion-edmund-asbury</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief id="fi-1945-hull-01">
+        <chief>
+            <id>fi-1945-hull-01</id>
             <person-id>hulley-benjamin-mayham</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief id="fi-1946-hami-01">
+        <chief>
+            <id>fi-1946-hami-01</id>
             <person-id>hamilton-maxwell-mcgaughey</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1948-warr-01">
+        <chief>
+            <id>fi-1948-warr-01</id>
             <person-id>warren-avra-milvin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -264,7 +274,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1950-cabo-01">
+        <chief>
+            <id>fi-1950-cabo-01</id>
             <person-id>cabot-john-moors</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -290,7 +301,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1952-mcfa-01">
+        <chief>
+            <id>fi-1952-mcfa-01</id>
             <person-id>mcfall-jack-kirkham</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -317,7 +329,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief id="fi-1954-mcfa-01">
+        <chief>
+            <id>fi-1954-mcfa-01</id>
             <person-id>mcfall-jack-kirkham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -345,7 +358,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief id="fi-1955-hick-01">
+        <chief>
+            <id>fi-1955-hick-01</id>
             <person-id>hickerson-john-dewey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -372,7 +386,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief id="fi-1959-sess-01">
+        <chief>
+            <id>fi-1959-sess-01</id>
             <person-id>sessions-edson-oliver</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -399,7 +414,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief id="fi-1961-gufl-01">
+        <chief>
+            <id>fi-1961-gufl-01</id>
             <person-id>gufler-bernard-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -425,7 +441,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1963-rowa-01">
+        <chief>
+            <id>fi-1963-rowa-01</id>
             <person-id>rowan-carl-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -451,7 +468,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1964-thom-01">
+        <chief>
+            <id>fi-1964-thom-01</id>
             <person-id>thompson-tyler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -477,7 +495,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1969-pete-01">
+        <chief>
+            <id>fi-1969-pete-01</id>
             <person-id>peterson-frederick-valdemar-erastus</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -503,7 +522,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1973-kreh-01">
+        <chief>
+            <id>fi-1973-kreh-01</id>
             <person-id>krehbiel-victor-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -529,7 +549,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
-        <chief id="fi-1975-aust-01">
+        <chief>
+            <id>fi-1975-aust-01</id>
             <person-id>austad-marcus-jacob-mark-evans</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -555,7 +576,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1977-ridg-01">
+        <chief>
+            <id>fi-1977-ridg-01</id>
             <person-id>ridgway-rozanne-lejeanne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -581,7 +603,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1980-good-01">
+        <chief>
+            <id>fi-1980-good-01</id>
             <person-id>goodby-james-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -607,7 +630,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1981-nybo-01">
+        <chief>
+            <id>fi-1981-nybo-01</id>
             <person-id>nyborg-keith-foote</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -633,7 +657,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1986-schn-01">
+        <chief>
+            <id>fi-1986-schn-01</id>
             <person-id>schnabel-rockwell-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -659,7 +684,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1989-wein-01">
+        <chief>
+            <id>fi-1989-wein-01</id>
             <person-id>weinmann-john-griffin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -685,7 +711,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1991-kell-01">
+        <chief>
+            <id>fi-1991-kell-01</id>
             <person-id>kelly-john-hubert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -711,7 +738,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief id="fi-1994-shea-01">
+        <chief>
+            <id>fi-1994-shea-01</id>
             <person-id>shearer-derek</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -737,7 +765,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-1998-edel-01">
+        <chief>
+            <id>fi-1998-edel-01</id>
             <person-id>edelman-eric-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -763,7 +792,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-2001-mcel-01">
+        <chief>
+            <id>fi-2001-mcel-01</id>
             <person-id>mcelveen-hunter-bonnie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -789,7 +819,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-2005-mack-01">
+        <chief>
+            <id>fi-2005-mack-01</id>
             <person-id>mack-earle-i</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -815,7 +846,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-2006-ware-01">
+        <chief>
+            <id>fi-2006-ware-01</id>
             <person-id>ware-marilyn</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -841,7 +873,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="fi-2008-barr-01">
+        <chief>
+            <id>fi-2008-barr-01</id>
             <person-id>barrett-barbara-mcconnell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -867,7 +900,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="fi-2009-orec-01">
+        <chief>
+            <id>fi-2009-orec-01</id>
             <person-id>oreck-bruce-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -893,7 +927,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief id="fi-2015-adam-01">
+        <chief>
+            <id>fi-2015-adam-01</id>
             <person-id>adams-charles-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -919,7 +954,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="fi-2017-welt-01">
+        <chief>
+            <id>fi-2017-welt-01</id>
             <person-id>welton-donna-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -945,7 +981,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="fi-2018-penc-01">
+        <chief>
+            <id>fi-2018-penc-01</id>
             <person-id>pence-robert-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>
@@ -973,7 +1010,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="fi-1925-stet-01">
+        <chief>
+            <id>fi-1925-stet-01</id>
             <person-id>stetson-john-batterson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>finland</contemporary-territory-id>

@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>swaziland</territory-id>
     <chiefs>
-        <chief id="sz-1968-papp-01">
+        <chief>
+            <id>sz-1968-papp-01</id>
             <person-id>pappas-christos-constantine</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="sz-1969-chas-01">
+        <chief>
+            <id>sz-1969-chas-01</id>
             <person-id>chase-robert-willard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="sz-1971-nels-01">
+        <chief>
+            <id>sz-1971-nels-01</id>
             <person-id>nelson-charles-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="sz-1974-bole-01">
+        <chief>
+            <id>sz-1974-bole-01</id>
             <person-id>bolen-david-benjamin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="sz-1978-norl-01">
+        <chief>
+            <id>sz-1978-norl-01</id>
             <person-id>norland-donald-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-28</last-modified-date>
         </chief>
-        <chief id="sz-1980-math-01">
+        <chief>
+            <id>sz-1980-math-01</id>
             <person-id>matheron-richard-cavins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sz-1983-phin-01">
+        <chief>
+            <id>sz-1983-phin-01</id>
             <person-id>phinny-robert-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sz-1985-nels-01">
+        <chief>
+            <id>sz-1985-nels-01</id>
             <person-id>nelson-harvey-frans</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -211,7 +219,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sz-1988-ryan-01">
+        <chief>
+            <id>sz-1988-ryan-01</id>
             <person-id>ryan-mary-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -237,7 +246,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sz-1990-roge-01">
+        <chief>
+            <id>sz-1990-roge-01</id>
             <person-id>rogers-stephen-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -263,7 +273,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sz-1994-spro-01">
+        <chief>
+            <id>sz-1994-spro-01</id>
             <person-id>sprott-john-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -289,7 +300,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sz-1996-mcke-01">
+        <chief>
+            <id>sz-1996-mcke-01</id>
             <person-id>mckee-alan-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -315,7 +327,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sz-2000-john-01">
+        <chief>
+            <id>sz-2000-john-01</id>
             <person-id>johnson-gregory-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -341,7 +354,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sz-2002-mcge-01">
+        <chief>
+            <id>sz-2002-mcge-01</id>
             <person-id>mcgee-james-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -367,7 +381,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief id="sz-2004-luck-01">
+        <chief>
+            <id>sz-2004-luck-01</id>
             <person-id>lucke-lewis-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -393,7 +408,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="sz-2007-park-01">
+        <chief>
+            <id>sz-2007-park-01</id>
             <person-id>parker-maurice-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -419,7 +435,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief id="sz-2009-irvi-01">
+        <chief>
+            <id>sz-2009-irvi-01</id>
             <person-id>irving-earl-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -445,7 +462,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief id="sz-2012-jame-01">
+        <chief>
+            <id>sz-2012-jame-01</id>
             <person-id>james-makila</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -471,7 +489,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-25</last-modified-date>
         </chief>
-        <chief id="sz-2016-pete-01">
+        <chief>
+            <id>sz-2016-pete-01</id>
             <person-id>peterson-lisa-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>
@@ -497,7 +516,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-25</last-modified-date>
         </chief>
-        <chief id="sz-2021-malo-01">
+        <chief>
+            <id>sz-2021-malo-01</id>
             <person-id>maloney-jeanne-marie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>swaziland</contemporary-territory-id>

@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>malawi</territory-id>
     <chiefs>
-        <chief id="mw-1964-holm-01">
+        <chief>
+            <id>mw-1964-holm-01</id>
             <person-id>holmes-edward-warren</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="mw-1964-gils-01">
+        <chief>
+            <id>mw-1964-gils-01</id>
             <person-id>gilstrap-samuel-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="mw-1966-jone-01">
+        <chief>
+            <id>mw-1966-jone-01</id>
             <person-id>jones-marshall-paul</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -82,7 +85,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="mw-1970-burd-01">
+        <chief>
+            <id>mw-1970-burd-01</id>
             <person-id>burdett-william-carter-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -108,7 +112,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="mw-1974-stev-01">
+        <chief>
+            <id>mw-1974-stev-01</id>
             <person-id>stevenson-robert-ayer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -134,7 +139,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="mw-1979-hora-01">
+        <chief>
+            <id>mw-1979-hora-01</id>
             <person-id>horan-harold-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="mw-1980-maxi-01">
+        <chief>
+            <id>mw-1980-maxi-01</id>
             <person-id>maxim-robert-morgan</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -186,7 +193,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="mw-1981-burr-01">
+        <chief>
+            <id>mw-1981-burr-01</id>
             <person-id>burroughs-john-andrew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -212,7 +220,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief id="mw-1984-adam-01">
+        <chief>
+            <id>mw-1984-adam-01</id>
             <person-id>adams-weston</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -238,7 +247,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="mw-1986-jett-01">
+        <chief>
+            <id>mw-1986-jett-01</id>
             <person-id>jett-dennis-coleman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -264,7 +274,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief id="mw-1988-trai-01">
+        <chief>
+            <id>mw-1988-trai-01</id>
             <person-id>trail-george-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -290,7 +301,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="mw-1991-pist-01">
+        <chief>
+            <id>mw-1991-pist-01</id>
             <person-id>pistor-michael-t-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -316,7 +328,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief id="mw-1994-chav-01">
+        <chief>
+            <id>mw-1994-chav-01</id>
             <person-id>chaveas-peter-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -342,7 +355,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="mw-1998-ship-01">
+        <chief>
+            <id>mw-1998-ship-01</id>
             <person-id>shippy-amelia-ellen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -368,7 +382,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="mw-2000-meec-01">
+        <chief>
+            <id>mw-2000-meec-01</id>
             <person-id>meece-roger-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -394,7 +409,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief id="mw-2003-brow-01">
+        <chief>
+            <id>mw-2003-brow-01</id>
             <person-id>browning-steven-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -420,7 +436,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-09</last-modified-date>
         </chief>
-        <chief id="mw-2005-east-01">
+        <chief>
+            <id>mw-2005-east-01</id>
             <person-id>eastham-alan-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -446,7 +463,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="mw-2008-bodd-01">
+        <chief>
+            <id>mw-2008-bodd-01</id>
             <person-id>bodde-peter-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -472,7 +490,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief id="mw-2011-jack-01">
+        <chief>
+            <id>mw-2011-jack-01</id>
             <person-id>jackson-jeanine-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -498,7 +517,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="mw-2015-palm-01">
+        <chief>
+            <id>mw-2015-palm-01</id>
             <person-id>palmer-virginia-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>
@@ -524,7 +544,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-06-10</last-modified-date>
         </chief>
-        <chief id="mw-2019-scot-01">
+        <chief>
+            <id>mw-2019-scot-01</id>
             <person-id>scott-robert-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malawi</contemporary-territory-id>

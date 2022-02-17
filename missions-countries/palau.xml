@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>palau</territory-id>
     <chiefs>
-        <chief id="pw-1996-hubb-01">
+        <chief>
+            <id>pw-1996-hubb-01</id>
             <person-id>hubbard-thomas-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
-        <chief id="pw-2002-ricc-01">
+        <chief>
+            <id>pw-2002-ricc-01</id>
             <person-id>ricciardone-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-03</last-modified-date>
         </chief>
-        <chief id="pw-2006-bezn-01">
+        <chief>
+            <id>pw-2006-bezn-01</id>
             <person-id>bezner-mark-j</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief id="pw-2010-reed-01">
+        <chief>
+            <id>pw-2010-reed-01</id>
             <person-id>reed-rowe-helen-patricia</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
-        <chief id="pw-2013-dale-01">
+        <chief>
+            <id>pw-2013-dale-01</id>
             <person-id>daley-thomas-edward</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
-        <chief id="pw-2015-hyat-01">
+        <chief>
+            <id>pw-2015-hyat-01</id>
             <person-id>hyatt-amy-jane</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>
@@ -158,7 +164,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-02-12</last-modified-date>
         </chief>
-        <chief id="pw-2020-henn-01">
+        <chief>
+            <id>pw-2020-henn-01</id>
             <person-id>hennessey-niland-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>
@@ -186,7 +193,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="pw--burl-01">
+        <chief>
+            <id>pw--burl-01</id>
             <person-id>burleigh-albert-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>palau</contemporary-territory-id>

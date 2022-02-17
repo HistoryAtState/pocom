@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>angola</territory-id>
     <chiefs>
-        <chief id="ao-1992-mill-01">
+        <chief>
+            <id>ao-1992-mill-01</id>
             <person-id>millington-jeffrey</person-id>
             <role-title-id>director</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-06-24</last-modified-date>
         </chief>
-        <chief id="ao-1992-deja-01">
+        <chief>
+            <id>ao-1992-deja-01</id>
             <person-id>dejarnette-edmund-t</person-id>
             <role-title-id>director</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
-        <chief id="ao-1994-deja-01">
+        <chief>
+            <id>ao-1994-deja-01</id>
             <person-id>dejarnette-edmund-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-06-10</last-modified-date>
         </chief>
-        <chief id="ao-1995-stei-01">
+        <chief>
+            <id>ao-1995-stei-01</id>
             <person-id>steinberg-donald-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-02-21</last-modified-date>
         </chief>
-        <chief id="ao-1998-sull-01">
+        <chief>
+            <id>ao-1998-sull-01</id>
             <person-id>sullivan-joseph-gerard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief id="ao-2001-dell-01">
+        <chief>
+            <id>ao-2001-dell-01</id>
             <person-id>dell-christopher-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -158,7 +164,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-15</last-modified-date>
         </chief>
-        <chief id="ao-2004-efir-01">
+        <chief>
+            <id>ao-2004-efir-01</id>
             <person-id>efird-cynthia-grissom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -184,7 +191,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-06-01</last-modified-date>
         </chief>
-        <chief id="ao-2008-moze-01">
+        <chief>
+            <id>ao-2008-moze-01</id>
             <person-id>mozena-dan-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -210,7 +218,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief id="ao-2011-mcmu-01">
+        <chief>
+            <id>ao-2011-mcmu-01</id>
             <person-id>mcmullen-christopher-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -236,7 +245,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="ao-2013-merr-01">
+        <chief>
+            <id>ao-2013-merr-01</id>
             <person-id>merritt-heather</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -262,7 +272,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="ao-2014-la-01">
+        <chief>
+            <id>ao-2014-la-01</id>
             <person-id>la-lime-helen-r-meagher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>
@@ -288,7 +299,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="ao-2018-fite-01">
+        <chief>
+            <id>ao-2018-fite-01</id>
             <person-id>fite-nina-marie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>angola</contemporary-territory-id>

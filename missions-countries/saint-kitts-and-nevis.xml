@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>saint-kitts-and-nevis</territory-id>
     <chiefs>
-        <chief id="kn-1984-ande-01">
+        <chief>
+            <id>kn-1984-ande-01</id>
             <person-id>anderson-thomas-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="kn-1986-russ-01">
+        <chief>
+            <id>kn-1986-russ-01</id>
             <person-id>russo-paul-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="kn-1988-mchu-01">
+        <chief>
+            <id>kn-1988-mchu-01</id>
             <person-id>mchugh-r-james</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="kn-1991-salt-01">
+        <chief>
+            <id>kn-1991-salt-01</id>
             <person-id>salter-bryant-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief id="kn-1995-hyde-01">
+        <chief>
+            <id>kn-1995-hyde-01</id>
             <person-id>hyde-jeanette-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="kn-2000-dale-01">
+        <chief>
+            <id>kn-2000-dale-01</id>
             <person-id>daley-james-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="kn-2002-phil-01">
+        <chief>
+            <id>kn-2002-phil-01</id>
             <person-id>phillips-earl-norfleet</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="kn-2004-kram-01">
+        <chief>
+            <id>kn-2004-kram-01</id>
             <person-id>kramer-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -211,7 +219,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="kn-2006-ouri-01">
+        <chief>
+            <id>kn-2006-ouri-01</id>
             <person-id>ourisman-mary-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -237,7 +246,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="kn-2009-hard-01">
+        <chief>
+            <id>kn-2009-hard-01</id>
             <person-id>hardt-d-brent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -263,7 +273,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="kn-2012-palm-01">
+        <chief>
+            <id>kn-2012-palm-01</id>
             <person-id>palmer-larry-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -289,7 +300,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief id="kn-2016-tagl-01">
+        <chief>
+            <id>kn-2016-tagl-01</id>
             <person-id>taglialatela-linda-swartz</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -317,7 +329,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="kn-1998-crot-01">
+        <chief>
+            <id>kn-1998-crot-01</id>
             <person-id>crotty-e-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>
@@ -343,7 +356,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief id="kn--rizz-01">
+        <chief>
+            <id>kn--rizz-01</id>
             <person-id>rizzuto-leandro</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-kitts-and-nevis</contemporary-territory-id>

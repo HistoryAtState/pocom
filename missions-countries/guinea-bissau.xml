@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>guinea-bissau</territory-id>
     <chiefs>
-        <chief id="gw-1976-curr-01">
+        <chief>
+            <id>gw-1976-curr-01</id>
             <person-id>curran-brian-dean</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-1976-well-01">
+        <chief>
+            <id>gw-1976-well-01</id>
             <person-id>wells-melissa-foelsch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-1977-mark-01">
+        <chief>
+            <id>gw-1977-mark-01</id>
             <person-id>marks-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-1980-de-01">
+        <chief>
+            <id>gw-1980-de-01</id>
             <person-id>de-vos-peter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-1983-egan-01">
+        <chief>
+            <id>gw-1983-egan-01</id>
             <person-id>egan-wesley-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-1985-masl-01">
+        <chief>
+            <id>gw-1985-masl-01</id>
             <person-id>maslak-barbara-c</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -158,7 +164,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-1986-blac-01">
+        <chief>
+            <id>gw-1986-blac-01</id>
             <person-id>blacken-john-dale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -184,7 +191,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gw-1989-jaco-01">
+        <chief>
+            <id>gw-1989-jaco-01</id>
             <person-id>jacobsen-william-ludwig</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -210,7 +218,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gw-1992-mcgu-01">
+        <chief>
+            <id>gw-1992-mcgu-01</id>
             <person-id>mcguire-roger-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -236,7 +245,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gw-1995-blac-01">
+        <chief>
+            <id>gw-1995-blac-01</id>
             <person-id>blackford-peggy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -262,7 +272,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gw-2003-roth-01">
+        <chief>
+            <id>gw-2003-roth-01</id>
             <person-id>roth-richard-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -288,7 +299,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-2006-jaco-01">
+        <chief>
+            <id>gw-2006-jaco-01</id>
             <person-id>jacobs-janice-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -314,7 +326,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-2008-bern-01">
+        <chief>
+            <id>gw-2008-bern-01</id>
             <person-id>bernicat-marcia-stephens-bloom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -340,7 +353,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-2011-luke-01">
+        <chief>
+            <id>gw-2011-luke-01</id>
             <person-id>lukens-lewis-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -366,7 +380,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-09</last-modified-date>
         </chief>
-        <chief id="gw-2015-zumw-01">
+        <chief>
+            <id>gw-2015-zumw-01</id>
             <person-id>zumwalt-james-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>
@@ -392,7 +407,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="gw-2017-mush-01">
+        <chief>
+            <id>gw-2017-mush-01</id>
             <person-id>mushingi-tulinabo-salama</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guinea-bissau</contemporary-territory-id>

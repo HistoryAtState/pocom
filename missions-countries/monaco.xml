@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>monaco</territory-id>
     <chiefs>
-        <chief id="mc-2006-stap-01">
+        <chief>
+            <id>mc-2006-stap-01</id>
             <person-id>stapleton-craig-roberts</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>monaco</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="mc-2009-rivk-01">
+        <chief>
+            <id>mc-2009-rivk-01</id>
             <person-id>rivkin-charles-hammerman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>monaco</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief id="mc-2014-hart-01">
+        <chief>
+            <id>mc-2014-hart-01</id>
             <person-id>hartley-jane-dorothy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>monaco</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="mc-2018-mcco-01">
+        <chief>
+            <id>mc-2018-mcco-01</id>
             <person-id>mccourt-jamie-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>monaco</contemporary-territory-id>

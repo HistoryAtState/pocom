@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>greece</territory-id>
     <chiefs>
-        <chief id="gr-1868-tuck-01">
+        <chief>
+            <id>gr-1868-tuck-01</id>
             <person-id>tuckerman-charles-keating</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1871-fran-01">
+        <chief>
+            <id>gr-1871-fran-01</id>
             <person-id>francis-john-morgan</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1874-read-01">
+        <chief>
+            <id>gr-1874-read-01</id>
             <person-id>read-john-meredith</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1877-read-01">
+        <chief>
+            <id>gr-1877-read-01</id>
             <person-id>read-john-meredith</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1883-schu-01">
+        <chief>
+            <id>gr-1883-schu-01</id>
             <person-id>schuyler-eugene</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1885-fear-01">
+        <chief>
+            <id>gr-1885-fear-01</id>
             <person-id>fearn-john-walker</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -160,7 +166,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1889-snow-01">
+        <chief>
+            <id>gr-1889-snow-01</id>
             <person-id>snowden-archibald-loudon</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -187,7 +194,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1891-snow-01">
+        <chief>
+            <id>gr-1891-snow-01</id>
             <person-id>snowden-archibald-loudon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -214,7 +222,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1892-beal-01">
+        <chief>
+            <id>gr-1892-beal-01</id>
             <person-id>beale-truxtun</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -240,7 +249,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1893-alex-01">
+        <chief>
+            <id>gr-1893-alex-01</id>
             <person-id>alexander-eben</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -266,7 +276,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1897-rock-01">
+        <chief>
+            <id>gr-1897-rock-01</id>
             <person-id>rockhill-william-woodville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -292,7 +303,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1898-rock-01">
+        <chief>
+            <id>gr-1898-rock-01</id>
             <person-id>rockhill-william-woodville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -318,7 +330,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1899-hard-01">
+        <chief>
+            <id>gr-1899-hard-01</id>
             <person-id>hardy-arthur-sherburne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -345,7 +358,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1901-fran-01">
+        <chief>
+            <id>gr-1901-fran-01</id>
             <person-id>francis-charles-spencer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -371,7 +385,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1902-jack-01">
+        <chief>
+            <id>gr-1902-jack-01</id>
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -398,7 +413,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1903-jack-01">
+        <chief>
+            <id>gr-1903-jack-01</id>
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -425,7 +441,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-18</last-modified-date>
         </chief>
-        <chief id="gr-1905-jack-01">
+        <chief>
+            <id>gr-1905-jack-01</id>
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -451,7 +468,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1907-pear-01">
+        <chief>
+            <id>gr-1907-pear-01</id>
             <person-id>pearson-richmond</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -478,7 +496,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1909-mose-01">
+        <chief>
+            <id>gr-1909-mose-01</id>
             <person-id>moses-george-higgins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -504,7 +523,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1912-schu-01">
+        <chief>
+            <id>gr-1912-schu-01</id>
             <person-id>schurman-jacob-gould</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -530,7 +550,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1914-will-01">
+        <chief>
+            <id>gr-1914-will-01</id>
             <person-id>williams-george-fred</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -556,7 +577,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1914-drop-01">
+        <chief>
+            <id>gr-1914-drop-01</id>
             <person-id>droppers-garrett</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -582,7 +604,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1920-capp-01">
+        <chief>
+            <id>gr-1920-capp-01</id>
             <person-id>capps-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -610,7 +633,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1922-caff-01">
+        <chief>
+            <id>gr-1922-caff-01</id>
             <person-id>caffery-jefferson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -636,7 +660,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1923-athe-01">
+        <chief>
+            <id>gr-1923-athe-01</id>
             <person-id>atherton-ray</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -662,7 +687,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1924-laug-01">
+        <chief>
+            <id>gr-1924-laug-01</id>
             <person-id>laughlin-irwin-boyle</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -688,7 +714,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1926-skin-01">
+        <chief>
+            <id>gr-1926-skin-01</id>
             <person-id>skinner-robert-peet</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -714,7 +741,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1933-macv-01">
+        <chief>
+            <id>gr-1933-macv-01</id>
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -743,7 +771,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="gr-1941-07-14-reed-01">
+        <chief>
+            <id>gr-1941-07-14-reed-01</id>
             <person-id>reed-leslie-edgar</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -769,7 +798,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1941-bidd-01">
+        <chief>
+            <id>gr-1941-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -795,7 +825,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="gr-1942-bidd-01">
+        <chief>
+            <id>gr-1942-bidd-01</id>
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -821,7 +852,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1943-kirk-01">
+        <chief>
+            <id>gr-1943-kirk-01</id>
             <person-id>kirk-alexander-comstock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -847,7 +879,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1943-macv-01">
+        <chief>
+            <id>gr-1943-macv-01</id>
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -874,7 +907,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1948-grad-01">
+        <chief>
+            <id>gr-1948-grad-01</id>
             <person-id>grady-henry-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -900,7 +934,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1950-peur-01">
+        <chief>
+            <id>gr-1950-peur-01</id>
             <person-id>peurifoy-john-emil</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -926,7 +961,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1953-cann-01">
+        <chief>
+            <id>gr-1953-cann-01</id>
             <person-id>cannon-cavendish-wells</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -952,7 +988,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1956-alle-01">
+        <chief>
+            <id>gr-1956-alle-01</id>
             <person-id>allen-george-venable</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -978,7 +1015,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1958-ridd-01">
+        <chief>
+            <id>gr-1958-ridd-01</id>
             <person-id>riddleberger-james-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1004,7 +1042,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1959-brig-01">
+        <chief>
+            <id>gr-1959-brig-01</id>
             <person-id>briggs-ellis-ormsbee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1030,7 +1069,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1962-labo-01">
+        <chief>
+            <id>gr-1962-labo-01</id>
             <person-id>labouisse-henry-richardson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1057,7 +1097,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1965-talb-01">
+        <chief>
+            <id>gr-1965-talb-01</id>
             <person-id>talbot-phillips</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1083,7 +1124,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief id="gr-1970-tasc-01">
+        <chief>
+            <id>gr-1970-tasc-01</id>
             <person-id>tasca-henry-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1109,7 +1151,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1974-kubi-01">
+        <chief>
+            <id>gr-1974-kubi-01</id>
             <person-id>kubisch-jack-bloom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1135,7 +1178,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1978-mccl-01">
+        <chief>
+            <id>gr-1978-mccl-01</id>
             <person-id>mccloskey-robert-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1161,7 +1205,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1981-stea-01">
+        <chief>
+            <id>gr-1981-stea-01</id>
             <person-id>stearns-monteagle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1187,7 +1232,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
-        <chief id="gr-1985-keel-01">
+        <chief>
+            <id>gr-1985-keel-01</id>
             <person-id>keeley-robert-vossler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1213,7 +1259,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1989-soti-01">
+        <chief>
+            <id>gr-1989-soti-01</id>
             <person-id>sotirhos-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1239,7 +1286,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1993-nile-01">
+        <chief>
+            <id>gr-1993-nile-01</id>
             <person-id>niles-thomas-michael-tolliver</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1265,7 +1313,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
-        <chief id="gr-1997-burn-01">
+        <chief>
+            <id>gr-1997-burn-01</id>
             <person-id>burns-r-nicholas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1291,7 +1340,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-2001-mill-01">
+        <chief>
+            <id>gr-2001-mill-01</id>
             <person-id>miller-thomas-joel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1317,7 +1367,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-2005-ries-01">
+        <chief>
+            <id>gr-2005-ries-01</id>
             <person-id>ries-charles-parker</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1343,7 +1394,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-2007-spec-01">
+        <chief>
+            <id>gr-2007-spec-01</id>
             <person-id>speckhard-daniel-v</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1369,7 +1421,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief id="gr-2010-smit-01">
+        <chief>
+            <id>gr-2010-smit-01</id>
             <person-id>smith-daniel-bennett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1395,7 +1448,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief id="gr-2013-pear-01">
+        <chief>
+            <id>gr-2013-pear-01</id>
             <person-id>pearce-david-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1421,7 +1475,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="gr-2016-pyat-01">
+        <chief>
+            <id>gr-2016-pyat-01</id>
             <person-id>pyatt-geoffrey-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1449,7 +1504,8 @@
         </chief>
     </chiefs>
     <other-nomines>
-        <chief id="gr--smit-01">
+        <chief>
+            <id>gr--smit-01</id>
             <person-id>smith-nicholas</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1475,7 +1531,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1892-beal-02">
+        <chief>
+            <id>gr-1892-beal-02</id>
             <person-id>beale-truxtun</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1501,7 +1558,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1893-beal-01">
+        <chief>
+            <id>gr-1893-beal-01</id>
             <person-id>beale-truxtun</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1528,7 +1586,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr-1902-wils-01">
+        <chief>
+            <id>gr-1902-wils-01</id>
             <person-id>wilson-henry-lane</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1554,7 +1613,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief id="gr--mats-01">
+        <chief>
+            <id>gr--mats-01</id>
             <person-id>matson-roderick-nathaniel</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1580,7 +1640,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1957-ridd-01">
+        <chief>
+            <id>gr-1957-ridd-01</id>
             <person-id>riddleberger-james-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1607,7 +1668,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="gr-1977-scha-01">
+        <chief>
+            <id>gr-1977-scha-01</id>
             <person-id>schaufele-william-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>
@@ -1633,7 +1695,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
-        <chief id="gr--good-01">
+        <chief>
+            <id>gr--good-01</id>
             <person-id>goodby-james-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>greece</contemporary-territory-id>

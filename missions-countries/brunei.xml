@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>brunei</territory-id>
     <chiefs>
-        <chief id="bn-1984-elli-01">
+        <chief>
+            <id>bn-1984-elli-01</id>
             <person-id>ellice-douglas-v</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
-        <chief id="bn-1984-king-01">
+        <chief>
+            <id>bn-1984-king-01</id>
             <person-id>king-barrington</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -54,7 +56,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="bn-1987-ferg-01">
+        <chief>
+            <id>bn-1987-ferg-01</id>
             <person-id>ferguson-thomas-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -80,7 +83,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-10</last-modified-date>
         </chief>
-        <chief id="bn-1989-phil-01">
+        <chief>
+            <id>bn-1989-phil-01</id>
             <person-id>phillips-christopher-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -106,7 +110,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief id="bn-1992-ense-01">
+        <chief>
+            <id>bn-1992-ense-01</id>
             <person-id>ensenat-donald-burnham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -132,7 +137,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bn-1994-tull-01">
+        <chief>
+            <id>bn-1994-tull-01</id>
             <person-id>tull-theresa-anne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -158,7 +164,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bn-1996-rase-01">
+        <chief>
+            <id>bn-1996-rase-01</id>
             <person-id>rase-glen-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -184,7 +191,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bn-1999-stan-01">
+        <chief>
+            <id>bn-1999-stan-01</id>
             <person-id>stanfield-sylvia-gaye</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -210,7 +218,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bn-2003-chri-01">
+        <chief>
+            <id>bn-2003-chri-01</id>
             <person-id>christy-gene-burl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -236,7 +245,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bn-2005-skod-01">
+        <chief>
+            <id>bn-2005-skod-01</id>
             <person-id>skodon-emil-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -262,7 +272,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief id="bn-2008-todd-01">
+        <chief>
+            <id>bn-2008-todd-01</id>
             <person-id>todd-william-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -288,7 +299,8 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief id="bn-2011-shie-01">
+        <chief>
+            <id>bn-2011-shie-01</id>
             <person-id>shields-daniel-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -314,7 +326,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief id="bn-2015-alle-01">
+        <chief>
+            <id>bn-2015-alle-01</id>
             <person-id>allen-craig-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>
@@ -340,7 +353,8 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief id="bn-2019-matt-01">
+        <chief>
+            <id>bn-2019-matt-01</id>
             <person-id>matthews-matthew-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>brunei</contemporary-territory-id>

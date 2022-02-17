@@ -2,7 +2,8 @@
 <country-mission>
     <territory-id>congo-brazzaville</territory-id>
     <chiefs>
-        <chief id="cg-1960-luke-01">
+        <chief>
+            <id>cg-1960-luke-01</id>
             <person-id>lukens-alan-wood</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -28,7 +29,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief id="cg-1960-blan-01">
+        <chief>
+            <id>cg-1960-blan-01</id>
             <person-id>blancke-wilton-wendell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -55,7 +57,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-1964-kore-01">
+        <chief>
+            <id>cg-1964-kore-01</id>
             <person-id>koren-henry-lloyd-thornell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -81,7 +84,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief id="cg-1965-08-15-rive-01">
+        <chief>
+            <id>cg-1965-08-15-rive-01</id>
             <person-id>rives-lloyd-michael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -107,7 +111,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief id="cg-1977-katz-01">
+        <chief>
+            <id>cg-1977-katz-01</id>
             <person-id>katzen-jay-kenneth</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -133,7 +138,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief id="cg-1979-swin-01">
+        <chief>
+            <id>cg-1979-swin-01</id>
             <person-id>swing-william-lacy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -159,7 +165,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-1982-brow-01">
+        <chief>
+            <id>cg-1982-brow-01</id>
             <person-id>brown-kenneth-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -185,7 +192,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-1984-luke-01">
+        <chief>
+            <id>cg-1984-luke-01</id>
             <person-id>lukens-alan-wood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -211,7 +219,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-1987-shur-01">
+        <chief>
+            <id>cg-1987-shur-01</id>
             <person-id>shurtleff-leonard-grant</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -237,7 +246,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-1990-phil-01">
+        <chief>
+            <id>cg-1990-phil-01</id>
             <person-id>phillips-james-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -263,7 +273,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief id="cg-1993-rams-01">
+        <chief>
+            <id>cg-1993-rams-01</id>
             <person-id>ramsay-william-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -289,7 +300,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-1996-hook-01">
+        <chief>
+            <id>cg-1996-hook-01</id>
             <person-id>hooks-aubrey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -315,7 +327,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-1999-kaeu-01">
+        <chief>
+            <id>cg-1999-kaeu-01</id>
             <person-id>kaeuper-david-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -341,7 +354,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-2003-sand-01">
+        <chief>
+            <id>cg-2003-sand-01</id>
             <person-id>sanders-robin-renee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -367,7 +381,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-2006-weis-01">
+        <chief>
+            <id>cg-2006-weis-01</id>
             <person-id>weisberg-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -393,7 +408,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief id="cg-2008-east-01">
+        <chief>
+            <id>cg-2008-east-01</id>
             <person-id>eastham-alan-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -419,7 +435,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-2010-murr-01">
+        <chief>
+            <id>cg-2010-murr-01</id>
             <person-id>murray-christopher-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -445,7 +462,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief id="cg-2013-sull-01">
+        <chief>
+            <id>cg-2013-sull-01</id>
             <person-id>sullivan-stephanie-sanders</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
@@ -471,7 +489,8 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief id="cg-2017-hask-01">
+        <chief>
+            <id>cg-2017-hask-01</id>
             <person-id>haskell-todd-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>congo-brazzaville</contemporary-territory-id>
