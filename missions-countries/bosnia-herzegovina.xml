@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>bosnia-herzegovina</territory-id>
     <chiefs>
-        <chief>
-            <id>ba-1993-jack-01</id>
+        <chief id="ba-1993-jack-01">
             <person-id>jackovich-victor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-1996-menz-01</id>
+        <chief id="ba-1996-menz-01">
             <person-id>menzies-john-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-1997-kauz-01</id>
+        <chief id="ba-1997-kauz-01">
             <person-id>kauzlarich-richard-dale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-1999-mill-01</id>
+        <chief id="ba-1999-mill-01">
             <person-id>miller-thomas-joel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-2001-bond-01</id>
+        <chief id="ba-2001-bond-01">
             <person-id>bond-clifford-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-2004-mcel-01</id>
+        <chief id="ba-2004-mcel-01">
             <person-id>mcelhaney-douglas-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-2007-engl-01</id>
+        <chief id="ba-2007-engl-01">
             <person-id>english-charles-lewis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-2010-moon-01</id>
+        <chief id="ba-2010-moon-01">
             <person-id>moon-patrick-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-2013-hill-01</id>
+        <chief id="ba-2013-hill-01">
             <person-id>hill-nicholas-manning</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-2015-corm-01</id>
+        <chief id="ba-2015-corm-01">
             <person-id>cormack-maureen-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ba-2019-nels-01</id>
+        <chief id="ba-2019-nels-01">
             <person-id>nelson-eric-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bosnia-herzegovina</contemporary-territory-id>
@@ -300,5 +289,5 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

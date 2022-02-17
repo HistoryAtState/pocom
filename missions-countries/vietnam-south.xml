@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>vietnam-south</territory-id>
     <chiefs>
-        <chief>
-            <id>xh-1950-heat-01</id>
+        <chief id="xh-1950-heat-01">
             <person-id>heath-donald-read</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>state-of-vietnam-1955</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>xh-1952-heat-01</id>
+        <chief id="xh-1952-heat-01">
             <person-id>heath-donald-read</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>state-of-vietnam-1955</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>xh-1955-rein-01</id>
+        <chief id="xh-1955-rein-01">
             <person-id>reinhardt-george-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>xh-1957-durb-01</id>
+        <chief id="xh-1957-durb-01">
             <person-id>durbrow-elbridge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>xh-1961-nolt-01</id>
+        <chief id="xh-1961-nolt-01">
             <person-id>nolting-frederick-ernest</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>xh-1963-lodg-01</id>
+        <chief id="xh-1963-lodg-01">
             <person-id>lodge-henry-cabot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -167,8 +161,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>xh-1964-tayl-01</id>
+        <chief id="xh-1964-tayl-01">
             <person-id>taylor-maxwell-davenport</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -195,8 +188,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>xh-1965-lodg-01</id>
+        <chief id="xh-1965-lodg-01">
             <person-id>lodge-henry-cabot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -224,8 +216,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>xh-1967-bunk-01</id>
+        <chief id="xh-1967-bunk-01">
             <person-id>bunker-ellsworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -254,8 +245,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>xh-1973-mart-01</id>
+        <chief id="xh-1973-mart-01">
             <person-id>martin-graham-anderson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-vietnam-1975</contemporary-territory-id>
@@ -285,5 +275,5 @@
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

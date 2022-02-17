@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>syria</territory-id>
     <chiefs>
-        <chief>
-            <id>sy-1942-wads-01</id>
+        <chief id="sy-1942-wads-01">
             <person-id>wadsworth-george</person-id>
             <role-title-id>diplomatic-agent-consul-general</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1944-wads-01</id>
+        <chief id="sy-1944-wads-01">
             <person-id>wadsworth-george</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1948-keel-01</id>
+        <chief id="sy-1948-keel-01">
             <person-id>keeley-james-hugh-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1950-cann-01</id>
+        <chief id="sy-1950-cann-01">
             <person-id>cannon-cavendish-wells</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1952-moos-01</id>
+        <chief id="sy-1952-moos-01">
             <person-id>moose-james-sayle</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1952-moos-01</id>
+        <chief id="sy-1952-moos-02">
             <person-id>moose-james-sayle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1958-yost-01</id>
+        <chief id="sy-1958-yost-01">
             <person-id>yost-charles-woodruff</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -202,8 +195,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </mission-note>
-        <chief>
-            <id>sy-1961-knig-01</id>
+        <chief id="sy-1961-knig-01">
             <person-id>knight-ridgway-brewster</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -229,8 +221,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1962-knig-01</id>
+        <chief id="sy-1962-knig-01">
             <person-id>knight-ridgway-brewster</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -257,8 +248,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1965-smyt-01</id>
+        <chief id="sy-1965-smyt-01">
             <person-id>smythe-hugh-heyne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -293,8 +283,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </mission-note>
-        <chief>
-            <id>sy-1974-scot-01</id>
+        <chief id="sy-1974-scot-01">
             <person-id>scotes-thomas-james</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -320,8 +309,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1974-murp-01</id>
+        <chief id="sy-1974-murp-01">
             <person-id>murphy-richard-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -347,8 +335,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1978-seel-01</id>
+        <chief id="sy-1978-seel-01">
             <person-id>seelye-talcott-williams</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -374,8 +361,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1981-paga-01</id>
+        <chief id="sy-1981-paga-01">
             <person-id>paganelli-robert-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -401,8 +387,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1984-eagl-01</id>
+        <chief id="sy-1984-eagl-01">
             <person-id>eagleton-william-lester-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -428,8 +413,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1988-djer-01</id>
+        <chief id="sy-1988-djer-01">
             <person-id>djerejian-edward-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -455,8 +439,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1991-ross-01</id>
+        <chief id="sy-1991-ross-01">
             <person-id>ross-christopher-w-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -482,8 +465,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-1999-croc-01</id>
+        <chief id="sy-1999-croc-01">
             <person-id>crocker-ryan-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -509,8 +491,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-2002-katt-01</id>
+        <chief id="sy-2002-katt-01">
             <person-id>kattouf-theodore-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -536,8 +517,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-2004-scob-01</id>
+        <chief id="sy-2004-scob-01">
             <person-id>scobey-margaret</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -563,8 +543,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-2005-sech-01</id>
+        <chief id="sy-2005-sech-01">
             <person-id>seche-stephen-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -590,8 +569,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-2006-corb-01</id>
+        <chief id="sy-2006-corb-01">
             <person-id>corbin-michael-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -617,8 +595,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-2009-hunt-01</id>
+        <chief id="sy-2009-hunt-01">
             <person-id>hunter-charles-f</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -644,8 +621,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sy-2011-ford-01</id>
+        <chief id="sy-2011-ford-01">
             <person-id>ford-robert-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -681,9 +657,8 @@
             <last-modified-date>2019-08-07</last-modified-date>
         </mission-note>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>sy-1947-alli-01</id>
+    <other-nomines>
+        <chief id="sy-1947-alli-01">
             <person-id>alling-paul-humiston</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>syria</contemporary-territory-id>
@@ -710,5 +685,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

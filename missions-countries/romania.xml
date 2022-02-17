@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>romania</territory-id>
     <chiefs>
-        <chief>
-            <id>ro-1880-schu-01</id>
+        <chief id="ro-1880-schu-01">
             <person-id>schuyler-eugene</person-id>
             <role-title-id>diplomatic-agent-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1881-schu-01</id>
+        <chief id="ro-1881-schu-01">
             <person-id>schuyler-eugene</person-id>
             <role-title-id>charge-daffaires-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1882-schu-01</id>
+        <chief id="ro-1882-schu-01">
             <person-id>schuyler-eugene</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1885-fear-01</id>
+        <chief id="ro-1885-fear-01">
             <person-id>fearn-john-walker</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -113,8 +109,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1889-snow-01</id>
+        <chief id="ro-1889-snow-01">
             <person-id>snowden-archibald-loudon</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -141,8 +136,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1892-snow-01</id>
+        <chief id="ro-1892-snow-01">
             <person-id>snowden-archibald-loudon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -169,8 +163,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1894-alex-01</id>
+        <chief id="ro-1894-alex-01">
             <person-id>alexander-eben</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -196,8 +189,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1898-rock-01</id>
+        <chief id="ro-1898-rock-01">
             <person-id>rockhill-william-woodville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -223,8 +215,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1898-rock-01</id>
+        <chief id="ro-1898-rock-02">
             <person-id>rockhill-william-woodville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -250,8 +241,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1900-hard-01</id>
+        <chief id="ro-1900-hard-01">
             <person-id>hardy-arthur-sherburne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -278,8 +268,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1901-fran-01</id>
+        <chief id="ro-1901-fran-01">
             <person-id>francis-charles-spencer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -305,8 +294,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1903-jack-01</id>
+        <chief id="ro-1903-jack-01">
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -333,8 +321,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-18</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1903-jack-01</id>
+        <chief id="ro-1903-jack-02">
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -361,8 +348,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1905-ridd-01</id>
+        <chief id="ro-1905-ridd-01">
             <person-id>riddle-john-wallace</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -388,8 +374,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1907-know-01</id>
+        <chief id="ro-1907-know-01">
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -415,8 +400,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-18</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1907-know-01</id>
+        <chief id="ro-1907-know-02">
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -443,8 +427,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1909-eddy-01</id>
+        <chief id="ro-1909-eddy-01">
             <person-id>eddy-spencer-fayette</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -470,8 +453,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1909-cart-01</id>
+        <chief id="ro-1909-cart-01">
             <person-id>carter-john-ridgely</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -498,8 +480,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1910-cart-01</id>
+        <chief id="ro-1910-cart-01">
             <person-id>carter-john-ridgely</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -525,8 +506,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1911-jack-01</id>
+        <chief id="ro-1911-jack-01">
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -552,8 +532,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1913-vopi-01</id>
+        <chief id="ro-1913-vopi-01">
             <person-id>vopicka-charles-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -579,8 +558,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1921-jay-01</id>
+        <chief id="ro-1921-jay-01">
             <person-id>jay-peter-augustus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -606,8 +584,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1925-culb-01</id>
+        <chief id="ro-1925-culb-01">
             <person-id>culbertson-william-smith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -634,8 +611,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1928-wils-01</id>
+        <chief id="ro-1928-wils-01">
             <person-id>wilson-charles-stetson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -662,8 +638,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1933-owsl-01</id>
+        <chief id="ro-1933-owsl-01">
             <person-id>owsley-alvin-mansfield</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -689,8 +664,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-18</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1935-harr-01</id>
+        <chief id="ro-1935-harr-01">
             <person-id>harrison-leland</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -716,8 +690,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1937-gunt-01</id>
+        <chief id="ro-1937-gunt-01">
             <person-id>gunther-franklin-mott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -743,8 +716,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1947-scho-01</id>
+        <chief id="ro-1947-scho-01">
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -771,8 +743,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1950-gant-01</id>
+        <chief id="ro-1950-gant-01">
             <person-id>gantenbein-james-watson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -798,8 +769,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1952-shan-01</id>
+        <chief id="ro-1952-shan-01">
             <person-id>shantz-harold</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -826,8 +796,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1955-thay-01</id>
+        <chief id="ro-1955-thay-01">
             <person-id>thayer-robert-helyer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -854,8 +823,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1958-whar-01</id>
+        <chief id="ro-1958-whar-01">
             <person-id>wharton-clifton-reginald</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -881,8 +849,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1962-craw-01</id>
+        <chief id="ro-1962-craw-01">
             <person-id>crawford-william-avery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -909,8 +876,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1964-craw-01</id>
+        <chief id="ro-1964-craw-01">
             <person-id>crawford-william-avery</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -938,8 +904,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-09-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1965-davi-01</id>
+        <chief id="ro-1965-davi-01">
             <person-id>davis-richard-hallock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -965,8 +930,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1969-meek-01</id>
+        <chief id="ro-1969-meek-01">
             <person-id>meeker-leonard-carpenter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -992,8 +956,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1974-barn-01</id>
+        <chief id="ro-1974-barn-01">
             <person-id>barnes-harry-george-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1019,8 +982,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1977-aggr-01</id>
+        <chief id="ro-1977-aggr-01">
             <person-id>aggrey-orison-rudolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1046,8 +1008,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1981-fund-01</id>
+        <chief id="ro-1981-fund-01">
             <person-id>funderburk-david-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1073,8 +1034,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1985-kirk-01</id>
+        <chief id="ro-1985-kirk-01">
             <person-id>kirk-roger</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1100,8 +1060,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1989-gree-01</id>
+        <chief id="ro-1989-gree-01">
             <person-id>green-alan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1127,8 +1086,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1992-davi-01</id>
+        <chief id="ro-1992-davi-01">
             <person-id>davis-john-roger</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1154,8 +1112,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1994-mose-01</id>
+        <chief id="ro-1994-mose-01">
             <person-id>moses-alfred-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1181,8 +1138,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1998-rosa-01</id>
+        <chief id="ro-1998-rosa-01">
             <person-id>rosapepe-james-carew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1208,8 +1164,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-2001-gues-01</id>
+        <chief id="ro-2001-gues-01">
             <person-id>guest-michael-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1235,8 +1190,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-2004-crou-01</id>
+        <chief id="ro-2004-crou-01">
             <person-id>crouch-jack-dyer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1262,8 +1216,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-2005-taub-01</id>
+        <chief id="ro-2005-taub-01">
             <person-id>taubman-nicholas-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1289,8 +1242,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-2009-gite-01</id>
+        <chief id="ro-2009-gite-01">
             <person-id>gitenstein-mark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1316,8 +1268,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-2012-butc-01</id>
+        <chief id="ro-2012-butc-01">
             <person-id>butcher-duane-clemens</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1343,8 +1294,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-2014-thom-01</id>
+        <chief id="ro-2014-thom-01">
             <person-id>thompson-dean-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1370,8 +1320,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-2015-klem-01</id>
+        <chief id="ro-2015-klem-01">
             <person-id>klemm-hans-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1397,8 +1346,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-2019-zuck-01</id>
+        <chief id="ro-2019-zuck-01">
             <person-id>zuckerman-adrian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1425,9 +1373,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ro-1892-beal-01</id>
+    <other-nomines>
+        <chief id="ro-1892-beal-01">
             <person-id>beale-truxtun</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1453,8 +1400,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1892-beal-01</id>
+        <chief id="ro-1892-beal-02">
             <person-id>beale-truxtun</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1480,8 +1426,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1893-beal-01</id>
+        <chief id="ro-1893-beal-01">
             <person-id>beale-truxtun</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1507,8 +1452,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1902-wils-01</id>
+        <chief id="ro-1902-wils-01">
             <person-id>wilson-henry-lane</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1534,8 +1478,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ro-1908-wils-01</id>
+        <chief id="ro-1908-wils-01">
             <person-id>wilson-francis-mairs-huntington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>romania</contemporary-territory-id>
@@ -1561,5 +1504,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-16</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

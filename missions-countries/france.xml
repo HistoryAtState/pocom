@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>france</territory-id>
     <chiefs>
-        <chief>
-            <id>fr-1779-fran-01</id>
+        <chief id="fr-1779-fran-01">
             <person-id>franklin-benjamin</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1785-jeff-01</id>
+        <chief id="fr-1785-jeff-01">
             <person-id>jefferson-thomas</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1790-shor-01</id>
+        <chief id="fr-1790-shor-01">
             <person-id>short-william</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1792-morr-01</id>
+        <chief id="fr-1792-morr-01">
             <person-id>morris-gouverneur</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1794-monr-01</id>
+        <chief id="fr-1794-monr-01">
             <person-id>monroe-james</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1801-livi-01</id>
+        <chief id="fr-1801-livi-01">
             <person-id>livingston-robert-r</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1804-arms-01</id>
+        <chief id="fr-1804-arms-01">
             <person-id>armstrong-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1810-russ-01</id>
+        <chief id="fr-1810-russ-01">
             <person-id>russell-jonathan</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -222,8 +214,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1811-barl-01</id>
+        <chief id="fr-1811-barl-01">
             <person-id>barlow-joel</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -250,8 +241,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1813-craw-01</id>
+        <chief id="fr-1813-craw-01">
             <person-id>crawford-william-harris</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -279,8 +269,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1816-gall-01</id>
+        <chief id="fr-1816-gall-01">
             <person-id>gallatin-albert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -306,8 +295,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1824-brow-01</id>
+        <chief id="fr-1824-brow-01">
             <person-id>brown-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -333,8 +321,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1829-rive-01</id>
+        <chief id="fr-1829-rive-01">
             <person-id>rives-william-cabell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -362,8 +349,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1833-harr-01</id>
+        <chief id="fr-1833-harr-01">
             <person-id>harris-levett</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -389,8 +375,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1833-livi-01</id>
+        <chief id="fr-1833-livi-01">
             <person-id>livingston-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -417,8 +402,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1835-11-08-bart-01</id>
+        <chief id="fr-1835-11-08-bart-01">
             <person-id>barton-thomas-pennant</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -444,8 +428,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1836-cass-01</id>
+        <chief id="fr-1836-cass-01">
             <person-id>cass-lewis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -471,8 +454,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1844-king-01</id>
+        <chief id="fr-1844-king-01">
             <person-id>king-william-rufus-de-vane</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -498,8 +480,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1847-rush-01</id>
+        <chief id="fr-1847-rush-01">
             <person-id>rush-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -525,8 +506,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1849-rive-01</id>
+        <chief id="fr-1849-rive-01">
             <person-id>rives-william-cabell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -554,8 +534,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1854-maso-01</id>
+        <chief id="fr-1854-maso-01">
             <person-id>mason-john-young</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -582,8 +561,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1860-faul-01</id>
+        <chief id="fr-1860-faul-01">
             <person-id>faulkner-charles-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -609,8 +587,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1861-dayt-01</id>
+        <chief id="fr-1861-dayt-01">
             <person-id>dayton-william-lewis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -636,8 +613,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1865-bige-01</id>
+        <chief id="fr-1865-bige-01">
             <person-id>bigelow-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -664,8 +640,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1866-dix-01</id>
+        <chief id="fr-1866-dix-01">
             <person-id>dix-john-adams</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -692,8 +667,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1869-wash-01</id>
+        <chief id="fr-1869-wash-01">
             <person-id>washburne-elihu-benjamin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -719,8 +693,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-30</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1877-noye-01</id>
+        <chief id="fr-1877-noye-01">
             <person-id>noyes-edward-follansbee</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -747,8 +720,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1881-mort-01</id>
+        <chief id="fr-1881-mort-01">
             <person-id>morton-levi-parsons</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -774,8 +746,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1885-mcla-01</id>
+        <chief id="fr-1885-mcla-01">
             <person-id>mclane-robert-milligan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -801,8 +772,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1889-reid-01</id>
+        <chief id="fr-1889-reid-01">
             <person-id>reid-whitelaw</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -828,8 +798,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1892-cool-01</id>
+        <chief id="fr-1892-cool-01">
             <person-id>coolidge-thomas-jefferson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -855,8 +824,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1893-eust-01</id>
+        <chief id="fr-1893-eust-01">
             <person-id>eustis-james-biddle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -882,8 +850,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1897-port-01</id>
+        <chief id="fr-1897-port-01">
             <person-id>porter-horace</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -909,8 +876,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1905-mcco-01</id>
+        <chief id="fr-1905-mcco-01">
             <person-id>mccormick-robert-sanderson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -936,8 +902,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1907-whit-01</id>
+        <chief id="fr-1907-whit-01">
             <person-id>white-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -963,8 +928,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1909-baco-01</id>
+        <chief id="fr-1909-baco-01">
             <person-id>bacon-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -990,8 +954,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1912-herr-01</id>
+        <chief id="fr-1912-herr-01">
             <person-id>herrick-myron-timothy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1017,8 +980,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1914-shar-01</id>
+        <chief id="fr-1914-shar-01">
             <person-id>sharp-william-graves</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1044,8 +1006,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1919-wall-01</id>
+        <chief id="fr-1919-wall-01">
             <person-id>wallace-hugh-campbell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1071,8 +1032,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1921-herr-01</id>
+        <chief id="fr-1921-herr-01">
             <person-id>herrick-myron-timothy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1098,8 +1058,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1929-edge-01</id>
+        <chief id="fr-1929-edge-01">
             <person-id>edge-walter-evans</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1125,8 +1084,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1933-stra-01</id>
+        <chief id="fr-1933-stra-01">
             <person-id>straus-jesse-isidor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1152,8 +1110,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1936-bull-01</id>
+        <chief id="fr-1936-bull-01">
             <person-id>bullitt-william-christian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1180,8 +1137,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1941-leah-01</id>
+        <chief id="fr-1941-leah-01">
             <person-id>leahy-william-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1207,8 +1163,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1942-11-08-tuck-01</id>
+        <chief id="fr-1942-11-08-tuck-01">
             <person-id>tuck-somerville-pinkney</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1234,8 +1189,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1944-caff-01</id>
+        <chief id="fr-1944-caff-01">
             <person-id>caffery-jefferson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1262,8 +1216,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1949-bruc-01</id>
+        <chief id="fr-1949-bruc-01">
             <person-id>bruce-david-kirkpatrick-este</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1289,8 +1242,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1952-dunn-01</id>
+        <chief id="fr-1952-dunn-01">
             <person-id>dunn-james-clement</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1316,8 +1268,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1953-dill-01</id>
+        <chief id="fr-1953-dill-01">
             <person-id>dillon-clarence-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1343,8 +1294,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1957-houg-01</id>
+        <chief id="fr-1957-houg-01">
             <person-id>houghton-amory</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1370,8 +1320,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1961-gavi-01</id>
+        <chief id="fr-1961-gavi-01">
             <person-id>gavin-james-maurice</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1397,8 +1346,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1962-bohl-01</id>
+        <chief id="fr-1962-bohl-01">
             <person-id>bohlen-charles-eustis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1424,8 +1372,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1968-shri-01</id>
+        <chief id="fr-1968-shri-01">
             <person-id>shriver-robert-sargent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1451,8 +1398,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1970-wats-01</id>
+        <chief id="fr-1970-wats-01">
             <person-id>watson-arthur-kittredge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1478,8 +1424,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1973-irwi-01</id>
+        <chief id="fr-1973-irwi-01">
             <person-id>irwin-john-nichol2</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1505,8 +1450,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1974-rush-01</id>
+        <chief id="fr-1974-rush-01">
             <person-id>rush-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1532,8 +1476,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1977-hart-01</id>
+        <chief id="fr-1977-hart-01">
             <person-id>hartman-arthur-adair</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1559,8 +1502,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1981-galb-01</id>
+        <chief id="fr-1981-galb-01">
             <person-id>galbraith-evan-griffith</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1586,8 +1528,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-09</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1985-rodg-01</id>
+        <chief id="fr-1985-rodg-01">
             <person-id>rodgers-joe-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1613,8 +1554,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1989-curl-01</id>
+        <chief id="fr-1989-curl-01">
             <person-id>curley-walter-joseph-patrick-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1640,8 +1580,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1993-harr-01</id>
+        <chief id="fr-1993-harr-01">
             <person-id>harriman-pamela-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1667,8 +1606,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1997-roha-01</id>
+        <chief id="fr-1997-roha-01">
             <person-id>rohatyn-felix</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1694,8 +1632,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-2001-leac-01</id>
+        <chief id="fr-2001-leac-01">
             <person-id>leach-howard-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1721,8 +1658,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-2005-stap-01</id>
+        <chief id="fr-2005-stap-01">
             <person-id>stapleton-craig-roberts</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1748,8 +1684,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-2009-rivk-01</id>
+        <chief id="fr-2009-rivk-01">
             <person-id>rivkin-charles-hammerman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1775,8 +1710,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-2014-hart-01</id>
+        <chief id="fr-2014-hart-01">
             <person-id>hartley-jane-dorothy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1802,8 +1736,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-2017-mcco-01</id>
+        <chief id="fr-2017-mcco-01">
             <person-id>mccourt-jamie-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1830,9 +1763,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>fr-1796-pinc-01</id>
+    <other-nomines>
+        <chief id="fr-1796-pinc-01">
             <person-id>pinckney-charles-cotesworth</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1861,8 +1793,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>fr--murr-01</id>
+        <chief id="fr--murr-01">
             <person-id>murray-william-vans</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1889,8 +1820,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1801-baya-01</id>
+        <chief id="fr-1801-baya-01">
             <person-id>bayard-james-asheton</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1916,8 +1846,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr--wise-01</id>
+        <chief id="fr--wise-01">
             <person-id>wise-henry-alexander</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1943,8 +1872,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>fr--inge-01</id>
+        <chief id="fr--inge-01">
             <person-id>ingersoll-charles-jared</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1970,8 +1898,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>fr-1893-eust-01</id>
+        <chief id="fr-1893-eust-02">
             <person-id>eustis-james-biddle</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>france</contemporary-territory-id>
@@ -1997,5 +1924,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

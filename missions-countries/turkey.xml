@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>turkey</territory-id>
     <chiefs>
-        <chief>
-            <id>tr-1831-port-01</id>
+        <chief id="tr-1831-port-01">
             <person-id>porter-david</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1840-port-01</id>
+        <chief id="tr-1840-port-01">
             <person-id>porter-david</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1844-carr-01</id>
+        <chief id="tr-1844-carr-01">
             <person-id>carr-dabney-smith</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1850-mars-01</id>
+        <chief id="tr-1850-mars-01">
             <person-id>marsh-george-perkins</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -113,8 +109,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1854-spen-01</id>
+        <chief id="tr-1854-spen-01">
             <person-id>spence-carroll</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -141,8 +136,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1858-will-01</id>
+        <chief id="tr-1858-will-01">
             <person-id>williams-james</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -168,8 +162,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1861-morr-01</id>
+        <chief id="tr-1861-morr-01">
             <person-id>morris-edward-joy</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -196,8 +189,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1870-macv-01</id>
+        <chief id="tr-1870-macv-01">
             <person-id>macveagh-isaac-wayne</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -223,8 +215,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1872-boke-01</id>
+        <chief id="tr-1872-boke-01">
             <person-id>boker-george-henry</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -251,8 +242,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1875-mayn-01</id>
+        <chief id="tr-1875-mayn-01">
             <person-id>maynard-horace</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -278,8 +268,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1880-long-01</id>
+        <chief id="tr-1880-long-01">
             <person-id>longstreet-james</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -305,8 +294,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1881-wall-01</id>
+        <chief id="tr-1881-wall-01">
             <person-id>wallace-lewis</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -332,8 +320,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1882-wall-01</id>
+        <chief id="tr-1882-wall-01">
             <person-id>wallace-lewis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -359,8 +346,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1885-cox-01</id>
+        <chief id="tr-1885-cox-01">
             <person-id>cox-samuel-sullivan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -386,8 +372,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1887-stra-01</id>
+        <chief id="tr-1887-stra-01">
             <person-id>straus-oscar-solomon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -414,8 +399,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1889-hirs-01</id>
+        <chief id="tr-1889-hirs-01">
             <person-id>hirsch-solomon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -443,8 +427,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1893-thom-01</id>
+        <chief id="tr-1893-thom-01">
             <person-id>thompson-david-preston</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -471,8 +454,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1893-terr-01</id>
+        <chief id="tr-1893-terr-01">
             <person-id>terrell-alexander-watkins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -498,8 +480,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1897-ange-01</id>
+        <chief id="tr-1897-ange-01">
             <person-id>angell-james-burrill</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -525,8 +506,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1898-stra-01</id>
+        <chief id="tr-1898-stra-01">
             <person-id>straus-oscar-solomon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -552,8 +532,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1901-leis-01</id>
+        <chief id="tr-1901-leis-01">
             <person-id>leishman-john-g-a</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -579,8 +558,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1906-leis-01</id>
+        <chief id="tr-1906-leis-01">
             <person-id>leishman-john-g-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -606,8 +584,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1909-stra-01</id>
+        <chief id="tr-1909-stra-01">
             <person-id>straus-oscar-solomon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -633,8 +610,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1911-rock-01</id>
+        <chief id="tr-1911-rock-01">
             <person-id>rockhill-william-woodville</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -660,8 +636,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1913-morg-01</id>
+        <chief id="tr-1913-morg-01">
             <person-id>morgenthau-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -687,8 +662,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1916-elku-01</id>
+        <chief id="tr-1916-elku-01">
             <person-id>elkus-abram-isaac</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -714,8 +688,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1927-grew-01</id>
+        <chief id="tr-1927-grew-01">
             <person-id>grew-joseph-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -742,8 +715,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1932-sher-01</id>
+        <chief id="tr-1932-sher-01">
             <person-id>sherrill-charles-hitchcock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -769,8 +741,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1933-skin-01</id>
+        <chief id="tr-1933-skin-01">
             <person-id>skinner-robert-peet</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -796,8 +767,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1936-macm-01</id>
+        <chief id="tr-1936-macm-01">
             <person-id>macmurray-john-van-antwerp</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -823,8 +793,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1942-stei-01</id>
+        <chief id="tr-1942-stei-01">
             <person-id>steinhardt-laurence-adolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -850,8 +819,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1945-wils-01</id>
+        <chief id="tr-1945-wils-01">
             <person-id>wilson-edwin-carleton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -877,8 +845,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1948-wads-01</id>
+        <chief id="tr-1948-wads-01">
             <person-id>wadsworth-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -905,8 +872,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1952-mcgh-01</id>
+        <chief id="tr-1952-mcgh-01">
             <person-id>mcghee-george-crews</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -933,8 +899,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1953-warr-01</id>
+        <chief id="tr-1953-warr-01">
             <person-id>warren-avra-milvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -960,8 +925,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1956-warr-01</id>
+        <chief id="tr-1956-warr-01">
             <person-id>warren-william-fletcher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -987,8 +951,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1961-hare-01</id>
+        <chief id="tr-1961-hare-01">
             <person-id>hare-raymond-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1014,8 +977,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1965-hart-01</id>
+        <chief id="tr-1965-hart-01">
             <person-id>hart-parker-thompson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1041,8 +1003,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1968-kome-01</id>
+        <chief id="tr-1968-kome-01">
             <person-id>komer-robert-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1068,8 +1029,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1969-hand-01</id>
+        <chief id="tr-1969-hand-01">
             <person-id>handley-william-jules</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1095,8 +1055,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1973-maco-01</id>
+        <chief id="tr-1973-maco-01">
             <person-id>macomber-william-butts-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1122,8 +1081,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1977-spie-01</id>
+        <chief id="tr-1977-spie-01">
             <person-id>spiers-ronald-ian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1149,8 +1107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1980-spai-01</id>
+        <chief id="tr-1980-spai-01">
             <person-id>spain-james-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1176,8 +1133,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1981-stra-01</id>
+        <chief id="tr-1981-stra-01">
             <person-id>strausz-hupe-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1203,8 +1159,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1989-abra-01</id>
+        <chief id="tr-1989-abra-01">
             <person-id>abramowitz-morton-isaac</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1230,8 +1185,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1991-bark-01</id>
+        <chief id="tr-1991-bark-01">
             <person-id>barkley-richard-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1257,8 +1211,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1995-gros-01</id>
+        <chief id="tr-1995-gros-01">
             <person-id>grossman-marc-isaiah</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1284,8 +1237,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1997-parr-01</id>
+        <chief id="tr-1997-parr-01">
             <person-id>parris-mark-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1311,8 +1263,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-2000-pear-01</id>
+        <chief id="tr-2000-pear-01">
             <person-id>pearson-w-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1338,8 +1289,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-18</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-2003-edel-01</id>
+        <chief id="tr-2003-edel-01">
             <person-id>edelman-eric-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1365,8 +1315,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-2005-wils-01</id>
+        <chief id="tr-2005-wils-01">
             <person-id>wilson-ross-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1392,8 +1341,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-2008-jeff-01</id>
+        <chief id="tr-2008-jeff-01">
             <person-id>jeffrey-james-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1419,8 +1367,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-2011-ricc-01</id>
+        <chief id="tr-2011-ricc-01">
             <person-id>ricciardone-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1447,8 +1394,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-02-04</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-2014-bass-01</id>
+        <chief id="tr-2014-bass-01">
             <person-id>bass-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1474,8 +1420,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-15</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-2019-satt-01</id>
+        <chief id="tr-2019-satt-01">
             <person-id>satterfield-david-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1501,8 +1446,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-19</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-2021-flak-01</id>
+        <chief id="tr-2021-flak-01">
             <person-id>flake-jeffry-lane</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1529,9 +1473,8 @@
             <last-modified-date/>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>tr--ervi-01</id>
+    <other-nomines>
+        <chief id="tr--ervi-01">
             <person-id>erving-george-william</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1557,8 +1500,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr--spen-01</id>
+        <chief id="tr--spen-01">
             <person-id>spence-carroll</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1584,8 +1526,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tr-1861-webb-01</id>
+        <chief id="tr-1861-webb-01">
             <person-id>webb-james-watson</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1611,8 +1552,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tr--stew-01</id>
+        <chief id="tr--stew-01">
             <person-id>stewart-joseph-j</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>turkey</contemporary-territory-id>
@@ -1638,5 +1578,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

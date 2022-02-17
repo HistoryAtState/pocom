@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>burundi</territory-id>
     <chiefs>
-        <chief>
-            <id>bi-1962-olds-01</id>
+        <chief id="bi-1962-olds-01">
             <person-id>olds-herbert-vincent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2010-12-22</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1963-dumo-01</id>
+        <chief id="bi-1963-dumo-01">
             <person-id>dumont-donald-albert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1963-dumo-01</id>
+        <chief id="bi-1963-dumo-02">
             <person-id>dumont-donald-albert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1968-renc-01</id>
+        <chief id="bi-1968-renc-01">
             <person-id>renchard-george-willmot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1970-mela-01</id>
+        <chief id="bi-1970-mela-01">
             <person-id>melady-thomas-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1972-yost-01</id>
+        <chief id="bi-1972-yost-01">
             <person-id>yost-robert-lloyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1974-mark-01</id>
+        <chief id="bi-1974-mark-01">
             <person-id>mark-david-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1978-corc-01</id>
+        <chief id="bi-1978-corc-01">
             <person-id>corcoran-thomas-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1980-cook-01</id>
+        <chief id="bi-1980-cook-01">
             <person-id>cook-frances-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1983-bull-01</id>
+        <chief id="bi-1983-bull-01">
             <person-id>bullington-james-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1986-phil-01</id>
+        <chief id="bi-1986-phil-01">
             <person-id>phillips-james-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1990-perr-01</id>
+        <chief id="bi-1990-perr-01">
             <person-id>perry-cynthia-shepart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1993-lang-01</id>
+        <chief id="bi-1993-lang-01">
             <person-id>lange-leonard-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1994-krue-01</id>
+        <chief id="bi-1994-krue-01">
             <person-id>krueger-robert-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1996-hugh-01</id>
+        <chief id="bi-1996-hugh-01">
             <person-id>hughes-morris-nelson-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -409,8 +394,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-18</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-1999-yate-01</id>
+        <chief id="bi-1999-yate-01">
             <person-id>yates-mary-carlin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -436,8 +420,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-2002-yell-01</id>
+        <chief id="bi-2002-yell-01">
             <person-id>yellin-james-howard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -463,8 +446,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-2006-moll-01</id>
+        <chief id="bi-2006-moll-01">
             <person-id>moller-patricia-newton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -490,8 +472,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-2009-slut-01</id>
+        <chief id="bi-2009-slut-01">
             <person-id>slutz-pamela-jo-howell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -517,8 +498,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-2013-libe-01</id>
+        <chief id="bi-2013-libe-01">
             <person-id>liberi-dawn-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -544,8 +524,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-2016-casp-01</id>
+        <chief id="bi-2016-casp-01">
             <person-id>casper-anne-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -571,8 +550,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-29</last-modified-date>
         </chief>
-        <chief>
-            <id>bi-2019-redd-01</id>
+        <chief id="bi-2019-redd-01">
             <person-id>reddick-eunice-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>burundi</contemporary-territory-id>
@@ -599,5 +577,5 @@
             <last-modified-date>2020-12-16</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

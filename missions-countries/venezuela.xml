@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>venezuela</territory-id>
     <chiefs>
-        <chief>
-            <id>ve-1835-will-01</id>
+        <chief id="ve-1835-will-01">
             <person-id>williamson-john-gustavus-adolphus</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1841-hall-01</id>
+        <chief id="ve-1841-hall-01">
             <person-id>hall-allen-a</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-28</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1844-elli-01</id>
+        <chief id="ve-1844-elli-01">
             <person-id>ellis-vespasian</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1845-shie-01</id>
+        <chief id="ve-1845-shie-01">
             <person-id>shields-benjamin-glover</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1850-stee-01</id>
+        <chief id="ve-1850-stee-01">
             <person-id>steele-isaac-nevitt</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1854-eame-01</id>
+        <chief id="ve-1854-eame-01">
             <person-id>eames-charles</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1854-eame-01</id>
+        <chief id="ve-1854-eame-02">
             <person-id>eames-charles</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1858-turp-01</id>
+        <chief id="ve-1858-turp-01">
             <person-id>turpin-edward-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1862-culv-01</id>
+        <chief id="ve-1862-culv-01">
             <person-id>culver-erastus-dean</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -250,8 +241,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1866-wils-01</id>
+        <chief id="ve-1866-wils-01">
             <person-id>wilson-james</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -277,8 +267,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1867-stil-01</id>
+        <chief id="ve-1867-stil-01">
             <person-id>stilwell-thomas-neel</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -304,8 +293,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1869-part-01</id>
+        <chief id="ve-1869-part-01">
             <person-id>partridge-james-rudolph</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -331,8 +319,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1871-pile-01</id>
+        <chief id="ve-1871-pile-01">
             <person-id>pile-william-anderson</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -358,8 +345,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1874-russ-01</id>
+        <chief id="ve-1874-russ-01">
             <person-id>russell-thomas</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -389,8 +375,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1878-bake-01</id>
+        <chief id="ve-1878-bake-01">
             <person-id>baker-jehu</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -416,8 +401,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1881-cart-01</id>
+        <chief id="ve-1881-cart-01">
             <person-id>carter-george-w</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -445,8 +429,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1882-bake-01</id>
+        <chief id="ve-1882-bake-01">
             <person-id>baker-jehu</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -474,8 +457,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1884-bake-01</id>
+        <chief id="ve-1884-bake-01">
             <person-id>baker-jehu</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -504,8 +486,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1885-scot-01</id>
+        <chief id="ve-1885-scot-01">
             <person-id>scott-charles-lewis</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -532,8 +513,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1888-scot-01</id>
+        <chief id="ve-1888-scot-01">
             <person-id>scott-charles-lewis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -559,8 +539,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1889-scru-01</id>
+        <chief id="ve-1889-scru-01">
             <person-id>scruggs-william-lindsay</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -586,8 +565,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1893-part-01</id>
+        <chief id="ve-1893-part-01">
             <person-id>partridge-frank-charles</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -613,8 +591,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1894-hase-01</id>
+        <chief id="ve-1894-hase-01">
             <person-id>haselton-seneca</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -640,8 +617,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1895-thom-01</id>
+        <chief id="ve-1895-thom-01">
             <person-id>thomas-allen</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -668,8 +644,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1897-loom-01</id>
+        <chief id="ve-1897-loom-01">
             <person-id>loomis-francis-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -695,8 +670,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1901-bowe-01</id>
+        <chief id="ve-1901-bowe-01">
             <person-id>bowen-herbert-wolcott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -723,8 +697,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1905-russ-01</id>
+        <chief id="ve-1905-russ-01">
             <person-id>russell-william-worthington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -755,8 +728,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1911-garr-01</id>
+        <chief id="ve-1911-garr-01">
             <person-id>garrett-john-work</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -782,8 +754,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1912-nort-01</id>
+        <chief id="ve-1912-nort-01">
             <person-id>northcott-elliott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -809,8 +780,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1913-mcgo-01</id>
+        <chief id="ve-1913-mcgo-01">
             <person-id>mcgoodwin-preston-buford</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -836,8 +806,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1922-cook-01</id>
+        <chief id="ve-1922-cook-01">
             <person-id>cook-willis-clifford</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -863,8 +832,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1930-summ-01</id>
+        <chief id="ve-1930-summ-01">
             <person-id>summerlin-george-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -890,8 +858,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1935-nich-01</id>
+        <chief id="ve-1935-nich-01">
             <person-id>nicholson-meredith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -917,8 +884,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1938-gonz-01</id>
+        <chief id="ve-1938-gonz-01">
             <person-id>gonzalez-antonio-cornelius</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -944,8 +910,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1939-corr-01</id>
+        <chief id="ve-1939-corr-01">
             <person-id>corrigan-francis-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -971,8 +936,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1947-donn-01</id>
+        <chief id="ve-1947-donn-01">
             <person-id>donnelly-walter-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -999,8 +963,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1950-armo-01</id>
+        <chief id="ve-1950-armo-01">
             <person-id>armour-norman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1026,8 +989,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1951-warr-01</id>
+        <chief id="ve-1951-warr-01">
             <person-id>warren-william-fletcher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1053,8 +1015,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1956-mcin-01</id>
+        <chief id="ve-1956-mcin-01">
             <person-id>mcintosh-dempster</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1080,8 +1041,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1958-spar-01</id>
+        <chief id="ve-1958-spar-01">
             <person-id>sparks-edward-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1107,8 +1067,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1961-mosc-01</id>
+        <chief id="ve-1961-mosc-01">
             <person-id>moscoso-teodoro</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1134,8 +1093,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1962-stew-01</id>
+        <chief id="ve-1962-stew-01">
             <person-id>stewart-charles-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1161,8 +1119,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1965-bern-01</id>
+        <chief id="ve-1965-bern-01">
             <person-id>bernbaum-maurice-marshall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1188,8 +1145,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1970-mccl-01</id>
+        <chief id="ve-1970-mccl-01">
             <person-id>mcclintock-robert-mills</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1215,8 +1171,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1975-shla-01</id>
+        <chief id="ve-1975-shla-01">
             <person-id>shlaudeman-harry-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1242,8 +1197,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1976-vaky-01</id>
+        <chief id="ve-1976-vaky-01">
             <person-id>vaky-viron-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1269,8 +1223,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1978-luer-01</id>
+        <chief id="ve-1978-luer-01">
             <person-id>luers-william-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1296,8 +1249,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1982-land-01</id>
+        <chief id="ve-1982-land-01">
             <person-id>landau-george-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1323,8 +1275,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1986-reic-01</id>
+        <chief id="ve-1986-reic-01">
             <person-id>reich-otto-juan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1350,8 +1301,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1989-skou-01</id>
+        <chief id="ve-1989-skou-01">
             <person-id>skoug-kenneth-n</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1377,8 +1327,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1990-skol-01</id>
+        <chief id="ve-1990-skol-01">
             <person-id>skol-michael-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1404,8 +1353,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1993-davi-01</id>
+        <chief id="ve-1993-davi-01">
             <person-id>davidow-jeffrey-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1431,8 +1379,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1997-mais-01</id>
+        <chief id="ve-1997-mais-01">
             <person-id>maisto-john-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1458,8 +1405,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-2000-hrin-01</id>
+        <chief id="ve-2000-hrin-01">
             <person-id>hrinak-donna-jean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1485,8 +1431,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-2002-shap-01</id>
+        <chief id="ve-2002-shap-01">
             <person-id>shapiro-charles-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1512,8 +1457,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-2004-brow-01</id>
+        <chief id="ve-2004-brow-01">
             <person-id>brownfield-william-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1539,8 +1483,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-2007-dudd-01</id>
+        <chief id="ve-2007-dudd-01">
             <person-id>duddy-patrick-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1566,8 +1509,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-2010-caul-01</id>
+        <chief id="ve-2010-caul-01">
             <person-id>caulfield-john-patrick</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1593,8 +1535,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-2011-derh-01</id>
+        <chief id="ve-2011-derh-01">
             <person-id>derham-james-michael</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1620,8 +1561,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-2014-mccl-01</id>
+        <chief id="ve-2014-mccl-01">
             <person-id>mcclenny-lee</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1647,8 +1587,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-2018-stor-01</id>
+        <chief id="ve-2018-stor-01">
             <person-id>story-james</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1674,8 +1613,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-12-16</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-2020-stor-01</id>
+        <chief id="ve-2020-stor-01">
             <person-id>story-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1702,9 +1640,8 @@
             <last-modified-date>2020-12-16</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ve--eame-01</id>
+    <other-nomines>
+        <chief id="ve--eame-01">
             <person-id>eames-charles</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1730,8 +1667,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1861-blow-01</id>
+        <chief id="ve-1861-blow-01">
             <person-id>blow-henry-taylor</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1759,8 +1695,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve--pile-01</id>
+        <chief id="ve--pile-01">
             <person-id>pile-william-anderson</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1786,8 +1721,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve-1910-hitt-01</id>
+        <chief id="ve-1910-hitt-01">
             <person-id>hitt-robert-stockwell-reynolds</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1813,8 +1747,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ve--hurd-01</id>
+        <chief id="ve--hurd-01">
             <person-id>hurd-john-gavin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1840,8 +1773,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>ve--javi-01</id>
+        <chief id="ve--javi-01">
             <person-id>javits-eric-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1867,8 +1799,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ve--palm-01</id>
+        <chief id="ve--palm-01">
             <person-id>palmer-larry-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>venezuela</contemporary-territory-id>
@@ -1895,5 +1826,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>micronesia-federated-states-of</territory-id>
     <chiefs>
-        <chief>
-            <id>fm-1987-wyga-01</id>
+        <chief id="fm-1987-wyga-01">
             <person-id>wygant-michael-gordon</person-id>
             <role-title-id>representative</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-1990-braz-01</id>
+        <chief id="fm-1990-braz-01">
             <person-id>brazeal-aurelia-erskine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-1994-eu-01</id>
+        <chief id="fm-1994-eu-01">
             <person-id>eu-march-fong</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-1996-mart-01</id>
+        <chief id="fm-1996-mart-01">
             <person-id>martin-cheryl-ann</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-1999-wats-01</id>
+        <chief id="fm-1999-wats-01">
             <person-id>watson-diane-edith</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-2002-ding-01</id>
+        <chief id="fm-2002-ding-01">
             <person-id>dinger-larry-miles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-2004-hale-01</id>
+        <chief id="fm-2004-hale-01">
             <person-id>hale-suzanne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-2007-hugh-01</id>
+        <chief id="fm-2007-hugh-01">
             <person-id>hughes-miriam-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-2010-prah-01</id>
+        <chief id="fm-2010-prah-01">
             <person-id>prahar-peter-alan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-10</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-2012-rose-01</id>
+        <chief id="fm-2012-rose-01">
             <person-id>rosen-dorothea-maria</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-2016-rile-01</id>
+        <chief id="fm-2016-rile-01">
             <person-id>riley-robert-annan-iii</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -299,8 +288,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-31</last-modified-date>
         </chief>
-        <chief>
-            <id>fm-2020-cant-01</id>
+        <chief id="fm-2020-cant-01">
             <person-id>cantor-carmen-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>micronesia-federated-states-of</contemporary-territory-id>
@@ -327,5 +315,5 @@
             <last-modified-date>2020-02-02</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

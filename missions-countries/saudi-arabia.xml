@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>saudi-arabia</territory-id>
     <chiefs>
-        <chief>
-            <id>sa-1940-fish-01</id>
+        <chief id="sa-1940-fish-01">
             <person-id>fish-bert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -31,8 +30,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1942-kirk-01</id>
+        <chief id="sa-1942-kirk-01">
             <person-id>kirk-alexander-comstock</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -58,8 +56,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1943-moos-01</id>
+        <chief id="sa-1943-moos-01">
             <person-id>moose-james-sayle</person-id>
             <role-title-id>minister-resident-foreign-service-officer</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1944-eddy-01</id>
+        <chief id="sa-1944-eddy-01">
             <person-id>eddy-william-alfred</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1946-chil-01</id>
+        <chief id="sa-1946-chil-01">
             <person-id>childs-james-rives</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1949-chil-01</id>
+        <chief id="sa-1949-chil-01">
             <person-id>childs-james-rives</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1950-hare-01</id>
+        <chief id="sa-1950-hare-01">
             <person-id>hare-raymond-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1954-wads-01</id>
+        <chief id="sa-1954-wads-01">
             <person-id>wadsworth-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -221,8 +213,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1958-heat-01</id>
+        <chief id="sa-1958-heat-01">
             <person-id>heath-donald-read</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -249,8 +240,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1961-hart-01</id>
+        <chief id="sa-1961-hart-01">
             <person-id>hart-parker-thompson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -276,8 +266,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1966-eilt-01</id>
+        <chief id="sa-1966-eilt-01">
             <person-id>eilts-hermann-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -303,8 +292,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1970-thac-01</id>
+        <chief id="sa-1970-thac-01">
             <person-id>thacher-nicholas-gilman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -330,8 +318,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1973-akin-01</id>
+        <chief id="sa-1973-akin-01">
             <person-id>akins-james-elmer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -357,8 +344,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1976-port-01</id>
+        <chief id="sa-1976-port-01">
             <person-id>porter-william-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -384,8 +370,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1977-west-01</id>
+        <chief id="sa-1977-west-01">
             <person-id>west-john-carl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -411,8 +396,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1981-neum-01</id>
+        <chief id="sa-1981-neum-01">
             <person-id>neumann-robert-gerhard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -438,8 +422,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1981-murp-01</id>
+        <chief id="sa-1981-murp-01">
             <person-id>murphy-richard-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -466,8 +449,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1984-cutl-01</id>
+        <chief id="sa-1984-cutl-01">
             <person-id>cutler-walter-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -493,8 +475,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1987-hora-01</id>
+        <chief id="sa-1987-hora-01">
             <person-id>horan-hume-alexander</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -520,8 +501,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1988-cutl-01</id>
+        <chief id="sa-1988-cutl-01">
             <person-id>cutler-walter-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -547,8 +527,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1990-free-01</id>
+        <chief id="sa-1990-free-01">
             <person-id>freeman-charles-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -574,8 +553,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1992-welc-01</id>
+        <chief id="sa-1992-welc-01">
             <person-id>welch-c-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -601,8 +579,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1994-mabu-01</id>
+        <chief id="sa-1994-mabu-01">
             <person-id>mabus-raymond-edwin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -628,8 +605,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-1996-fowl-01</id>
+        <chief id="sa-1996-fowl-01">
             <person-id>fowler-wyche</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -656,8 +632,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-2002-jord-01</id>
+        <chief id="sa-2002-jord-01">
             <person-id>jordan-robert-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -683,8 +658,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-2004-ober-01</id>
+        <chief id="sa-2004-ober-01">
             <person-id>oberwetter-james-curtis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -710,8 +684,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-2007-frak-01</id>
+        <chief id="sa-2007-frak-01">
             <person-id>fraker-ford-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -737,8 +710,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-2009-smit-01</id>
+        <chief id="sa-2009-smit-01">
             <person-id>smith-james-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -764,8 +736,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-2014-west-01</id>
+        <chief id="sa-2014-west-01">
             <person-id>westphal-joseph-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -791,8 +762,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-2017-henz-01</id>
+        <chief id="sa-2017-henz-01">
             <person-id>henzel-christopher</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -818,8 +788,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief>
-            <id>sa-2019-abiz-01</id>
+        <chief id="sa-2019-abiz-01">
             <person-id>abizaid-john-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -846,9 +815,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>sa--port-01</id>
+    <other-nomines>
+        <chief id="sa--port-01">
             <person-id>porter-william-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -874,8 +842,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sa--book-01</id>
+        <chief id="sa--book-01">
             <person-id>bookout-john-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saudi-arabia</contemporary-territory-id>
@@ -901,5 +868,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

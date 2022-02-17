@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>bulgaria</territory-id>
     <chiefs>
-        <chief>
-            <id>bg-1903-jack-01</id>
+        <chief id="bg-1903-jack-01">
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>diplomatic-agent</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-18</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1905-jack-01</id>
+        <chief id="bg-1905-jack-01">
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>diplomatic-agent</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1907-know-01</id>
+        <chief id="bg-1907-know-01">
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>diplomatic-agent</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1912-jack-01</id>
+        <chief id="bg-1912-jack-01">
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1913-vopi-01</id>
+        <chief id="bg-1913-vopi-01">
             <person-id>vopicka-charles-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1919-wils-01</id>
+        <chief id="bg-1919-wils-01">
             <person-id>wilson-charles-stetson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1921-wils-01</id>
+        <chief id="bg-1921-wils-01">
             <person-id>wilson-charles-stetson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1930-shoe-01</id>
+        <chief id="bg-1930-shoe-01">
             <person-id>shoemaker-henry-wharton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1934-ster-01</id>
+        <chief id="bg-1934-ster-01">
             <person-id>sterling-frederick-augustine</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -248,8 +239,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1937-athe-01</id>
+        <chief id="bg-1937-athe-01">
             <person-id>atherton-ray</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -275,8 +265,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1940-earl-01</id>
+        <chief id="bg-1940-earl-01">
             <person-id>earle-george-howard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -303,8 +292,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1947-horn-01</id>
+        <chief id="bg-1947-horn-01">
             <person-id>horner-john-evarts</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -330,8 +318,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1947-heat-01</id>
+        <chief id="bg-1947-heat-01">
             <person-id>heath-donald-read</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -360,8 +347,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1960-page-01</id>
+        <chief id="bg-1960-page-01">
             <person-id>page-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -388,8 +374,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1962-ande-01</id>
+        <chief id="bg-1962-ande-01">
             <person-id>anderson-helen-eugenie-moore</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -415,8 +400,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1965-davi-01</id>
+        <chief id="bg-1965-davi-01">
             <person-id>davis-nathaniel</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -442,8 +426,7 @@
             <last-modified-by>admin</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1966-mcsw-01</id>
+        <chief id="bg-1966-mcsw-01">
             <person-id>mcsweeney-john-morgan</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -469,8 +452,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1967-mcsw-01</id>
+        <chief id="bg-1967-mcsw-01">
             <person-id>mcsweeney-john-morgan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -498,8 +480,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1970-torb-01</id>
+        <chief id="bg-1970-torb-01">
             <person-id>torbert-horace-gates</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -525,8 +506,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1974-herz-01</id>
+        <chief id="bg-1974-herz-01">
             <person-id>herz-martin-florian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -552,8 +532,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1977-gart-01</id>
+        <chief id="bg-1977-gart-01">
             <person-id>garthoff-raymond-leonard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -579,8 +558,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1979-perr-01</id>
+        <chief id="bg-1979-perr-01">
             <person-id>perry-jack-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -606,8 +584,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1981-barr-01</id>
+        <chief id="bg-1981-barr-01">
             <person-id>barry-robert-louis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -633,8 +610,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1984-levi-01</id>
+        <chief id="bg-1984-levi-01">
             <person-id>levitsky-melvyn</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -660,8 +636,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1987-pola-01</id>
+        <chief id="bg-1987-pola-01">
             <person-id>polansky-sol</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -687,8 +662,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1990-hill-01</id>
+        <chief id="bg-1990-hill-01">
             <person-id>hill-hugh-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -714,8 +688,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1993-mont-01</id>
+        <chief id="bg-1993-mont-01">
             <person-id>montgomery-william-dale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -741,8 +714,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1996-bohl-01</id>
+        <chief id="bg-1996-bohl-01">
             <person-id>bohlen-avis-thayer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -768,8 +740,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1999-mile-01</id>
+        <chief id="bg-1999-mile-01">
             <person-id>miles-richard-monroe</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -795,8 +766,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-2002-pard-01</id>
+        <chief id="bg-2002-pard-01">
             <person-id>pardew-james-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -822,8 +792,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-2005-beyr-01</id>
+        <chief id="bg-2005-beyr-01">
             <person-id>beyrle-john-ross</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -849,8 +818,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-2008-mcel-01</id>
+        <chief id="bg-2008-mcel-01">
             <person-id>mceldowney-nancy-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -876,8 +844,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-15</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-2010-warl-01</id>
+        <chief id="bg-2010-warl-01">
             <person-id>warlick-james-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -903,8 +870,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-2012-ries-01</id>
+        <chief id="bg-2012-ries-01">
             <person-id>ries-marcie-berman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -930,8 +896,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-2016-rubi-01</id>
+        <chief id="bg-2016-rubi-01">
             <person-id>rubin-eric-seth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -957,8 +922,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-15</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-2019-must-01</id>
+        <chief id="bg-2019-must-01">
             <person-id>mustafa-herro-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -985,9 +949,8 @@
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>bg-1901-dick-01</id>
+    <other-nomines>
+        <chief id="bg-1901-dick-01">
             <person-id>dickinson-charles-monroe</person-id>
             <role-title-id>agent</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -1016,8 +979,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1908-wils-01</id>
+        <chief id="bg-1908-wils-01">
             <person-id>wilson-francis-mairs-huntington</person-id>
             <role-title-id>diplomatic-agent</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -1043,8 +1005,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1909-eddy-01</id>
+        <chief id="bg-1909-eddy-01">
             <person-id>eddy-spencer-fayette</person-id>
             <role-title-id>diplomatic-agent</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -1070,8 +1031,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1909-cart-01</id>
+        <chief id="bg-1909-cart-01">
             <person-id>carter-john-ridgely</person-id>
             <role-title-id>diplomatic-agent</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -1098,8 +1058,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1910-cart-01</id>
+        <chief id="bg-1910-cart-01">
             <person-id>carter-john-ridgely</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -1125,8 +1084,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>bg-1928-scho-01</id>
+        <chief id="bg-1928-scho-01">
             <person-id>schoenfeld-hans-frederick-arthur</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>bulgaria</contemporary-territory-id>
@@ -1153,5 +1111,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>macedonia</territory-id>
     <chiefs>
-        <chief>
-            <id>mk-1993-norm-01</id>
+        <chief id="mk-1993-norm-01">
             <person-id>norman-robert</person-id>
             <role-title-id>acting-principal-officer</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>mk-1994-comr-01</id>
+        <chief id="mk-1994-comr-01">
             <person-id>comras-victor-d</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>mk-1996-hill-01</id>
+        <chief id="mk-1996-hill-01">
             <person-id>hill-christopher-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>mk-1999-eini-01</id>
+        <chief id="mk-1999-eini-01">
             <person-id>einik-m-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>mk-2002-butl-01</id>
+        <chief id="mk-2002-butl-01">
             <person-id>butler-lawrence-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>mk-2005-milo-01</id>
+        <chief id="mk-2005-milo-01">
             <person-id>milovanovic-gillian-arlette</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>mk-2008-reek-01</id>
+        <chief id="mk-2008-reek-01">
             <person-id>reeker-philip-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mk-2011-wohl-01</id>
+        <chief id="mk-2011-wohl-01">
             <person-id>wohlers-paul-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>mk-2015-bail-01</id>
+        <chief id="mk-2015-bail-01">
             <person-id>baily-jess-lippencott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>mk-2019-byrn-01</id>
+        <chief id="mk-2019-byrn-01">
             <person-id>byrnes-kate-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>macedonia</contemporary-territory-id>
@@ -273,5 +263,5 @@
             <last-modified-date>2019-07-19</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

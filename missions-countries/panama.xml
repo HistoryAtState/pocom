@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>panama</territory-id>
     <chiefs>
-        <chief>
-            <id>pa-1903-buch-01</id>
+        <chief id="pa-1903-buch-01">
             <person-id>buchanan-william-insco</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -34,8 +33,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1904-barr-01</id>
+        <chief id="pa-1904-barr-01">
             <person-id>barrett-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -61,8 +59,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1905-mago-01</id>
+        <chief id="pa-1905-mago-01">
             <person-id>magoon-charles-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -89,8 +86,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1906-squi-01</id>
+        <chief id="pa-1906-squi-01">
             <person-id>squiers-herbert-goldsmith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -117,8 +113,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1910-hitt-01</id>
+        <chief id="pa-1910-hitt-01">
             <person-id>hitt-robert-stockwell-reynolds</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -144,8 +139,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1910-daws-01</id>
+        <chief id="pa-1910-daws-01">
             <person-id>dawson-thomas-cleland</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -171,8 +165,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1911-dodg-01</id>
+        <chief id="pa-1911-dodg-01">
             <person-id>dodge-henry-percival</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -198,8 +191,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1913-pric-01</id>
+        <chief id="pa-1913-pric-01">
             <person-id>price-william-jennings</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -225,8 +217,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1921-sout-01</id>
+        <chief id="pa-1921-sout-01">
             <person-id>south-john-glover</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -252,8 +243,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1930-davi-01</id>
+        <chief id="pa-1930-davi-01">
             <person-id>davis-roy-tasco</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -279,8 +269,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1933-gonz-01</id>
+        <chief id="pa-1933-gonz-01">
             <person-id>gonzalez-antonio-cornelius</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -307,8 +296,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1935-summ-01</id>
+        <chief id="pa-1935-summ-01">
             <person-id>summerlin-george-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -334,8 +322,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1937-corr-01</id>
+        <chief id="pa-1937-corr-01">
             <person-id>corrigan-francis-patrick</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -361,8 +348,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1939-daws-01</id>
+        <chief id="pa-1939-daws-01">
             <person-id>dawson-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -388,8 +374,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1941-wils-01</id>
+        <chief id="pa-1941-wils-01">
             <person-id>wilson-edwin-carleton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -415,8 +400,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1944-warr-01</id>
+        <chief id="pa-1944-warr-01">
             <person-id>warren-avra-milvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -442,8 +426,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1945-hine-01</id>
+        <chief id="pa-1945-hine-01">
             <person-id>hines-frank-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -469,8 +452,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1948-davi-01</id>
+        <chief id="pa-1948-davi-01">
             <person-id>davis-monnett-bain</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -496,8 +478,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1951-wile-01</id>
+        <chief id="pa-1951-wile-01">
             <person-id>wiley-john-cooper</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -523,8 +504,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1954-chap-01</id>
+        <chief id="pa-1954-chap-01">
             <person-id>chapin-selden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -551,8 +531,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1955-harr-01</id>
+        <chief id="pa-1955-harr-01">
             <person-id>harrington-julian-fiske</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -578,8 +557,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1960-farl-01</id>
+        <chief id="pa-1960-farl-01">
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -605,8 +583,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1964-01-10-stua-01</id>
+        <chief id="pa-1964-01-10-stua-01">
             <person-id>stuart-wallace-wyman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -632,8 +609,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1964-tayl-01</id>
+        <chief id="pa-1964-tayl-01">
             <person-id>taylor-henry-landes</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -659,8 +635,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1964-vaug-01</id>
+        <chief id="pa-1964-vaug-01">
             <person-id>vaughn-jack-hood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -686,8 +661,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1965-adai-01</id>
+        <chief id="pa-1965-adai-01">
             <person-id>adair-charles-wallace</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -713,8 +687,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1969-sayr-01</id>
+        <chief id="pa-1969-sayr-01">
             <person-id>sayre-robert-marion</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -740,8 +713,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1974-jord-01</id>
+        <chief id="pa-1974-jord-01">
             <person-id>jorden-william-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -767,8 +739,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1978-moss-01</id>
+        <chief id="pa-1978-moss-01">
             <person-id>moss-ambler-holmes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -794,8 +765,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1982-brig-01</id>
+        <chief id="pa-1982-brig-01">
             <person-id>briggs-everett-ellis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -821,8 +791,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1986-davi-01</id>
+        <chief id="pa-1986-davi-01">
             <person-id>davis-arthur-h-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -848,8 +817,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-18</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1990-hint-01</id>
+        <chief id="pa-1990-hint-01">
             <person-id>hinton-deane-roesch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -876,8 +844,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-02</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1994-garz-01</id>
+        <chief id="pa-1994-garz-01">
             <person-id>garza-oliver-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -903,8 +870,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1995-hugh-01</id>
+        <chief id="pa-1995-hugh-01">
             <person-id>hughes-william-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -930,8 +896,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1999-ferr-01</id>
+        <chief id="pa-1999-ferr-01">
             <person-id>ferro-simon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -957,8 +922,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-2002-watt-01</id>
+        <chief id="pa-2002-watt-01">
             <person-id>watt-linda-ellen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -984,8 +948,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-2005-eato-01</id>
+        <chief id="pa-2005-eato-01">
             <person-id>eaton-william-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1011,8 +974,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-2008-step-01</id>
+        <chief id="pa-2008-step-01">
             <person-id>stephenson-barbara-jean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1038,8 +1000,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-2010-powe-01</id>
+        <chief id="pa-2010-powe-01">
             <person-id>powers-phyllis-marie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1065,8 +1026,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-2012-farr-01</id>
+        <chief id="pa-2012-farr-01">
             <person-id>farrar-jonathan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1092,8 +1052,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-2016-feel-01</id>
+        <chief id="pa-2016-feel-01">
             <person-id>feeley-john-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1119,8 +1078,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-10-06</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-2018-cabr-01</id>
+        <chief id="pa-2018-cabr-01">
             <person-id>cabral-roxanne-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1147,9 +1105,8 @@
             <last-modified-date>2020-01-23</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>pa-1934-summ-01</id>
+    <other-nomines>
+        <chief id="pa-1934-summ-01">
             <person-id>summerlin-george-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1176,8 +1133,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1945-norw-01</id>
+        <chief id="pa-1945-norw-01">
             <person-id>norweb-raymond-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1203,8 +1159,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1945-hine-01</id>
+        <chief id="pa-1945-hine-02">
             <person-id>hines-frank-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1231,8 +1186,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa-1972-bow-01</id>
+        <chief id="pa-1972-bow-01">
             <person-id>bow-frank-townsend</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1258,8 +1212,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pa--past-01</id>
+        <chief id="pa--past-01">
             <person-id>pastor-robert-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1286,8 +1239,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>pa--beth-01</id>
+        <chief id="pa--beth-01">
             <person-id>bethel-erik-paul</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>panama</contemporary-territory-id>
@@ -1313,5 +1265,5 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>czech-republic</territory-id>
     <chiefs>
-        <chief>
-            <id>cz-1992-baso-01</id>
+        <chief id="cz-1992-baso-01">
             <person-id>basora-adrian-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czech-republic</contemporary-territory-id>
@@ -31,8 +30,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cz-1995-walk-01</id>
+        <chief id="cz-1995-walk-01">
             <person-id>walker-jenonne-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czech-republic</contemporary-territory-id>
@@ -58,8 +56,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cz-1998-shat-01</id>
+        <chief id="cz-1998-shat-01">
             <person-id>shattuck-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czech-republic</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cz-2001-stap-01</id>
+        <chief id="cz-2001-stap-01">
             <person-id>stapleton-craig-roberts</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czech-republic</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>cz-2004-caba-01</id>
+        <chief id="cz-2004-caba-01">
             <person-id>cabaniss-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czech-republic</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cz-2006-grab-01</id>
+        <chief id="cz-2006-grab-01">
             <person-id>graber-richard-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czech-republic</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>cz-2011-eise-01</id>
+        <chief id="cz-2011-eise-01">
             <person-id>eisen-norman-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czech-republic</contemporary-territory-id>
@@ -194,8 +187,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>cz-2014-scha-01</id>
+        <chief id="cz-2014-scha-01">
             <person-id>schapiro-andrew-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czech-republic</contemporary-territory-id>
@@ -221,8 +213,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>cz-2017-king-01</id>
+        <chief id="cz-2017-king-01">
             <person-id>king-stephen-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>czech-republic</contemporary-territory-id>
@@ -249,5 +240,5 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

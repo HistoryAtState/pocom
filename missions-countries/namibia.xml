@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>namibia</territory-id>
     <chiefs>
-        <chief>
-            <id>na-1990-mcgu-01</id>
+        <chief id="na-1990-mcgu-01">
             <person-id>mcguire-roger-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-08</last-modified-date>
         </chief>
-        <chief>
-            <id>na-1990-holm-01</id>
+        <chief id="na-1990-holm-01">
             <person-id>holmes-genta-hawkins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>na-1993-mcca-01</id>
+        <chief id="na-1993-mcca-01">
             <person-id>mccallie-marshall-fletcher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>na-1996-ward-01</id>
+        <chief id="na-1996-ward-01">
             <person-id>ward-george-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>na-1999-bade-01</id>
+        <chief id="na-1999-bade-01">
             <person-id>bader-jeffrey-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>na-2001-mcgu-01</id>
+        <chief id="na-2001-mcgu-01">
             <person-id>mcguire-kevin-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>na-2004-barr-01</id>
+        <chief id="na-2004-barr-01">
             <person-id>barr-joyce-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief>
-            <id>na-2007-math-01</id>
+        <chief id="na-2007-math-01">
             <person-id>mathieu-gail-dennise-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief>
-            <id>na-2010-nesb-01</id>
+        <chief id="na-2010-nesb-01">
             <person-id>nesbitt-wanda-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>na-2014-daug-01</id>
+        <chief id="na-2014-daug-01">
             <person-id>daughton-thomas-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief>
-            <id>na-2018-john-01</id>
+        <chief id="na-2018-john-01">
             <person-id>johnson-lisa-anne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>namibia</contemporary-territory-id>
@@ -300,5 +289,5 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

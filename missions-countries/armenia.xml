@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>armenia</territory-id>
     <chiefs>
-        <chief>
-            <id>am-1992-mann-01</id>
+        <chief id="am-1992-mann-01">
             <person-id>mann-steven-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-08</last-modified-date>
         </chief>
-        <chief>
-            <id>am-1992-pric-01</id>
+        <chief id="am-1992-pric-01">
             <person-id>price-thomas-l</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-06-24</last-modified-date>
         </chief>
-        <chief>
-            <id>am-1993-gilm-01</id>
+        <chief id="am-1993-gilm-01">
             <person-id>gilmore-harry-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-31</last-modified-date>
         </chief>
-        <chief>
-            <id>am-1995-toms-01</id>
+        <chief id="am-1995-toms-01">
             <person-id>tomsen-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>am-1998-lemm-01</id>
+        <chief id="am-1998-lemm-01">
             <person-id>lemmon-michael-craig</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>am-2001-ordw-01</id>
+        <chief id="am-2001-ordw-01">
             <person-id>ordway-john-malcolm</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>am-2004-evan-01</id>
+        <chief id="am-2004-evan-01">
             <person-id>evans-john-marshall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>am-2008-yova-01</id>
+        <chief id="am-2008-yova-01">
             <person-id>yovanovitch-marie-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief>
-            <id>am-2011-heff-01</id>
+        <chief id="am-2011-heff-01">
             <person-id>heffern-john-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>am-2015-mill-01</id>
+        <chief id="am-2015-mill-01">
             <person-id>mills-richard-m-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>am-2019-trac-01</id>
+        <chief id="am-2019-trac-01">
             <person-id>tracy-lynne-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -300,9 +289,8 @@
             <last-modified-date>2020-10-06</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>am--hoag-01</id>
+    <other-nomines>
+        <chief id="am--hoag-01">
             <person-id>hoagland-richard-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>armenia</contemporary-territory-id>
@@ -329,5 +317,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-06-24</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>laos</territory-id>
     <chiefs>
-        <chief>
-            <id>la-1950-heat-01</id>
+        <chief id="la-1950-heat-01">
             <person-id>heath-donald-read</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1954-yost-01</id>
+        <chief id="la-1954-yost-01">
             <person-id>yost-charles-woodruff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1955-yost-01</id>
+        <chief id="la-1955-yost-01">
             <person-id>yost-charles-woodruff</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1956-pars-01</id>
+        <chief id="la-1956-pars-01">
             <person-id>parsons-james-graham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1958-smit-01</id>
+        <chief id="la-1958-smit-01">
             <person-id>smith-horace-harrison</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1960-brow-01</id>
+        <chief id="la-1960-brow-01">
             <person-id>brown-winthrop-gilman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1962-unge-01</id>
+        <chief id="la-1962-unge-01">
             <person-id>unger-leonard-seidman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1964-sull-01</id>
+        <chief id="la-1964-sull-01">
             <person-id>sullivan-william-healy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1969-godl-01</id>
+        <chief id="la-1969-godl-01">
             <person-id>godley-george-mcmurtrie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1973-whit-01</id>
+        <chief id="la-1973-whit-01">
             <person-id>whitehouse-charles-sheldon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-02-23</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1975-corc-01</id>
+        <chief id="la-1975-corc-01">
             <person-id>corcoran-thomas-james</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1978-robe-01</id>
+        <chief id="la-1978-robe-01">
             <person-id>roberts-george-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1979-mose-01</id>
+        <chief id="la-1979-mose-01">
             <person-id>moser-leo-john</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1981-thom-01</id>
+        <chief id="la-1981-thom-01">
             <person-id>thomas-william-wayt</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1983-tull-01</id>
+        <chief id="la-1983-tull-01">
             <person-id>tull-theresa-anne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -409,8 +394,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1986-isom-01</id>
+        <chief id="la-1986-isom-01">
             <person-id>isom-harriet-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -444,8 +428,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </mission-note>
-        <chief>
-            <id>la-1989-salm-01</id>
+        <chief id="la-1989-salm-01">
             <person-id>salmon-charles-b</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -471,8 +454,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1992-salm-01</id>
+        <chief id="la-1992-salm-01">
             <person-id>salmon-charles-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -498,8 +480,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1994-toms-01</id>
+        <chief id="la-1994-toms-01">
             <person-id>tomseth-victor-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -525,8 +506,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>la-1996-cham-01</id>
+        <chief id="la-1996-cham-01">
             <person-id>chamberlin-wendy-jean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -552,8 +532,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>la-2001-hart-01</id>
+        <chief id="la-2001-hart-01">
             <person-id>hartwick-douglas-alan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -579,8 +558,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief>
-            <id>la-2004-hasl-01</id>
+        <chief id="la-2004-hasl-01">
             <person-id>haslach-patricia-marie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -606,8 +584,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-24</last-modified-date>
         </chief>
-        <chief>
-            <id>la-2007-huso-01</id>
+        <chief id="la-2007-huso-01">
             <person-id>huso-ravic-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -633,8 +610,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>la-2010-stew-01</id>
+        <chief id="la-2010-stew-01">
             <person-id>stewart-karen-brevard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -660,8 +636,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>la-2013-clun-01</id>
+        <chief id="la-2013-clun-01">
             <person-id>clune-daniel-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -687,8 +662,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>la-2016-bitt-01</id>
+        <chief id="la-2016-bitt-01">
             <person-id>bitter-rena</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -714,8 +688,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-28</last-modified-date>
         </chief>
-        <chief>
-            <id>la-2020-haym-01</id>
+        <chief id="la-2020-haym-01">
             <person-id>haymond-peter-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -742,9 +715,8 @@
             <last-modified-date>2020-02-04</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>la-1975-ston-01</id>
+    <other-nomines>
+        <chief id="la-1975-ston-01">
             <person-id>stone-galen-luther</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>laos</contemporary-territory-id>
@@ -770,5 +742,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-02</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

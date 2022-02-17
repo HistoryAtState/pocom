@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>uganda</territory-id>
     <chiefs>
-        <chief>
-            <id>ug-1962-demi-01</id>
+        <chief id="ug-1962-demi-01">
             <person-id>deming-olcott-hawthorne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1963-demi-01</id>
+        <chief id="ug-1963-demi-01">
             <person-id>deming-olcott-hawthorne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -58,8 +56,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1966-steb-01</id>
+        <chief id="ug-1966-steb-01">
             <person-id>stebbins-henry-endicott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1970-ferg-01</id>
+        <chief id="ug-1970-ferg-01">
             <person-id>ferguson-clarence-clyde-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1972-mela-01</id>
+        <chief id="ug-1972-mela-01">
             <person-id>melady-thomas-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1973-11-10-keel-01</id>
+        <chief id="ug-1973-11-10-keel-01">
             <person-id>keeley-robert-vossler</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1979-hals-01</id>
+        <chief id="ug-1979-hals-01">
             <person-id>halsted-david-crane</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1980-beye-01</id>
+        <chief id="ug-1980-beye-01">
             <person-id>beyer-gordon-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1983-davi-01</id>
+        <chief id="ug-1983-davi-01">
             <person-id>davis-allen-clayton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1985-houd-01</id>
+        <chief id="ug-1985-houd-01">
             <person-id>houdek-robert-gordon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1988-burr-01</id>
+        <chief id="ug-1988-burr-01">
             <person-id>burroughs-john-andrew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1991-cars-01</id>
+        <chief id="ug-1991-cars-01">
             <person-id>carson-johnnie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1994-sout-01</id>
+        <chief id="ug-1994-sout-01">
             <person-id>southwick-e-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1997-powe-01</id>
+        <chief id="ug-1997-powe-01">
             <person-id>powell-nancy-jo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-1999-bren-01</id>
+        <chief id="ug-1999-bren-01">
             <person-id>brennan-martin-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -409,8 +394,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-2002-kolk-01</id>
+        <chief id="ug-2002-kolk-01">
             <person-id>kolker-jimmy-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -436,8 +420,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-2006-brow-01</id>
+        <chief id="ug-2006-brow-01">
             <person-id>browning-steven-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -463,8 +446,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-09</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-2010-lani-01</id>
+        <chief id="ug-2010-lani-01">
             <person-id>lanier-jerry-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -490,8 +472,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-2012-deli-01</id>
+        <chief id="ug-2012-deli-01">
             <person-id>delisi-scott-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -517,8 +498,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-25</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-2016-mala-01</id>
+        <chief id="ug-2016-mala-01">
             <person-id>malac-deborah-ruth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -544,8 +524,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-28</last-modified-date>
         </chief>
-        <chief>
-            <id>ug-2020-brow-01</id>
+        <chief id="ug-2020-brow-01">
             <person-id>brown-natalie-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>uganda</contemporary-territory-id>
@@ -572,5 +551,5 @@
             <last-modified-date>2021-08-10</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

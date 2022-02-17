@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>ethiopia</territory-id>
     <chiefs>
-        <chief>
-            <id>et-1909-phil-01</id>
+        <chief id="et-1909-phil-01">
             <person-id>philip-hoffman</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -31,8 +30,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1928-sout-01</id>
+        <chief id="et-1928-sout-01">
             <person-id>southard-addison-e</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -59,8 +57,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1936-enge-01</id>
+        <chief id="et-1936-enge-01">
             <person-id>engert-cornelius-van-hemert</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -86,8 +83,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1943-cald-01</id>
+        <chief id="et-1943-cald-01">
             <person-id>caldwell-john-kenneth</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -113,8 +109,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1943-cald-01</id>
+        <chief id="et-1943-cald-02">
             <person-id>caldwell-john-kenneth</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -140,8 +135,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1945-cole-01</id>
+        <chief id="et-1945-cole-01">
             <person-id>cole-felix</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -167,8 +161,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1948-merr-01</id>
+        <chief id="et-1948-merr-01">
             <person-id>merrell-george-robert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -194,8 +187,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1949-merr-01</id>
+        <chief id="et-1949-merr-01">
             <person-id>merrell-george-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -221,8 +213,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1951-chil-01</id>
+        <chief id="et-1951-chil-01">
             <person-id>childs-james-rives</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -248,8 +239,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1953-simo-01</id>
+        <chief id="et-1953-simo-01">
             <person-id>simonson-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -275,8 +265,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1957-blis-01</id>
+        <chief id="et-1957-blis-01">
             <person-id>bliss-don-carroll</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -302,8 +291,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1960-rich-01</id>
+        <chief id="et-1960-rich-01">
             <person-id>richards-arthur-lincoln</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -329,8 +317,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1963-korr-01</id>
+        <chief id="et-1963-korr-01">
             <person-id>korry-edward-malcolm</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -356,8 +343,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1967-hall-01</id>
+        <chief id="et-1967-hall-01">
             <person-id>hall-william-o</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -383,8 +369,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1971-adai-01</id>
+        <chief id="et-1971-adai-01">
             <person-id>adair-edwin-ross</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -410,8 +395,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-02-28</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1975-humm-01</id>
+        <chief id="et-1975-humm-01">
             <person-id>hummel-arthur-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -437,8 +421,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1978-chap-01</id>
+        <chief id="et-1978-chap-01">
             <person-id>chapin-frederic-lincoln</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -464,8 +447,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1980-robe-01</id>
+        <chief id="et-1980-robe-01">
             <person-id>roberts-owen-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -491,8 +473,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1982-korn-01</id>
+        <chief id="et-1982-korn-01">
             <person-id>korn-david-adolph</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -518,8 +499,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1985-chee-01</id>
+        <chief id="et-1985-chee-01">
             <person-id>cheek-james-richard</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -545,8 +525,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1988-houd-01</id>
+        <chief id="et-1988-houd-01">
             <person-id>houdek-robert-gordon</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -572,8 +551,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1991-baas-01</id>
+        <chief id="et-1991-baas-01">
             <person-id>baas-marc-allen</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -599,8 +577,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1992-baas-01</id>
+        <chief id="et-1992-baas-01">
             <person-id>baas-marc-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -626,8 +603,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1994-hick-01</id>
+        <chief id="et-1994-hick-01">
             <person-id>hicks-irvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -653,8 +629,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1996-shin-01</id>
+        <chief id="et-1996-shin-01">
             <person-id>shinn-david-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -680,8 +655,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-1999-nagy-01</id>
+        <chief id="et-1999-nagy-01">
             <person-id>nagy-tibor-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -707,8 +681,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>et-2002-braz-01</id>
+        <chief id="et-2002-braz-01">
             <person-id>brazeal-aurelia-erskine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -734,8 +707,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>et-2006-yama-01</id>
+        <chief id="et-2006-yama-01">
             <person-id>yamamoto-donald-y</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -761,8 +733,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>et-2010-boot-01</id>
+        <chief id="et-2010-boot-01">
             <person-id>booth-donald-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -788,8 +759,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>et-2013-hasl-01</id>
+        <chief id="et-2013-hasl-01">
             <person-id>haslach-patricia-marie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -815,8 +785,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>et-2017-rayn-01</id>
+        <chief id="et-2017-rayn-01">
             <person-id>raynor-michael-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -842,8 +811,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2021-02-17</last-modified-date>
         </chief>
-        <chief>
-            <id>et-2021-pasi-01</id>
+        <chief id="et-2021-pasi-01">
             <person-id>pasi-geeta</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -870,9 +838,8 @@
             <last-modified-date>2021-05-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>et-1974-mcel-01</id>
+    <other-nomines>
+        <chief id="et-1974-mcel-01">
             <person-id>mcelhiney-thomas-watkins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ethiopia</contemporary-territory-id>
@@ -898,5 +865,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

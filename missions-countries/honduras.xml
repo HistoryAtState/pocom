@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>honduras</territory-id>
     <chiefs>
-        <chief>
-            <id>hn-1858-clar-01</id>
+        <chief id="hn-1858-clar-01">
             <person-id>clarke-beverly-leonidas</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1862-part-01</id>
+        <chief id="hn-1862-part-01">
             <person-id>partridge-james-rudolph</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1864-clay-01</id>
+        <chief id="hn-1864-clay-01">
             <person-id>clay-thomas-hart</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1866-rous-01</id>
+        <chief id="hn-1866-rous-01">
             <person-id>rousseau-richard-hilaire</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1869-baxt-01</id>
+        <chief id="hn-1869-baxt-01">
             <person-id>baxter-henry</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1874-will-01</id>
+        <chief id="hn-1874-will-01">
             <person-id>williamson-george-mcwillie</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1879-loga-01</id>
+        <chief id="hn-1879-loga-01">
             <person-id>logan-cornelius-ambrose</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1882-hall-01</id>
+        <chief id="hn-1882-hall-01">
             <person-id>hall-henry-cook</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1882-hall-01</id>
+        <chief id="hn-1882-hall-02">
             <person-id>hall-henry-cook</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1891-pach-01</id>
+        <chief id="hn-1891-pach-01">
             <person-id>pacheco-romualdo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1891-pach-01</id>
+        <chief id="hn-1891-pach-02">
             <person-id>pacheco-romualdo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -303,8 +292,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1893-youn-01</id>
+        <chief id="hn-1893-youn-01">
             <person-id>young-pierce-manning-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -330,8 +318,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1899-hunt-01</id>
+        <chief id="hn-1899-hunt-01">
             <person-id>hunter-whiteside-godfrey</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -358,8 +345,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1903-comb-01</id>
+        <chief id="hn-1903-comb-01">
             <person-id>combs-leslie</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -386,8 +372,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1908-dodg-01</id>
+        <chief id="hn-1908-dodg-01">
             <person-id>dodge-henry-percival</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -414,8 +399,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1909-brow-01</id>
+        <chief id="hn-1909-brow-01">
             <person-id>brown-philip-marshall</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -442,8 +426,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1910-mccr-01</id>
+        <chief id="hn-1910-mccr-01">
             <person-id>mccreery-fenton-reuben</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -469,8 +452,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1911-whit-01</id>
+        <chief id="hn-1911-whit-01">
             <person-id>white-charles-dunning</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -496,8 +478,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1913-ewin-01</id>
+        <chief id="hn-1913-ewin-01">
             <person-id>ewing-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -523,8 +504,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1918-jone-01</id>
+        <chief id="hn-1918-jone-01">
             <person-id>jones-thomas-sambola</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -551,8 +531,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1922-mora-01</id>
+        <chief id="hn-1922-mora-01">
             <person-id>morales-franklin-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -578,8 +557,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1925-summ-01</id>
+        <chief id="hn-1925-summ-01">
             <person-id>summerlin-george-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -605,8 +583,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1930-lay-01</id>
+        <chief id="hn-1930-lay-01">
             <person-id>lay-julius-gareche</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -632,8 +609,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1935-keen-01</id>
+        <chief id="hn-1935-keen-01">
             <person-id>keena-leo-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -659,8 +635,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1937-erwi-01</id>
+        <chief id="hn-1937-erwi-01">
             <person-id>erwin-john-draper</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -686,8 +661,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1943-erwi-01</id>
+        <chief id="hn-1943-erwi-01">
             <person-id>erwin-john-draper</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -713,8 +687,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1947-dani-01</id>
+        <chief id="hn-1947-dani-01">
             <person-id>daniels-paul-clement</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -740,8 +713,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1948-burs-01</id>
+        <chief id="hn-1948-burs-01">
             <person-id>bursley-herbert-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -767,8 +739,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1951-erwi-01</id>
+        <chief id="hn-1951-erwi-01">
             <person-id>erwin-john-draper</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -794,8 +765,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1954-will-01</id>
+        <chief id="hn-1954-will-01">
             <person-id>willauer-whiting</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -821,8 +791,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1958-newb-01</id>
+        <chief id="hn-1958-newb-01">
             <person-id>newbegin-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -848,8 +817,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1960-burr-01</id>
+        <chief id="hn-1960-burr-01">
             <person-id>burrows-charles-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -875,8 +843,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1965-jova-01</id>
+        <chief id="hn-1965-jova-01">
             <person-id>jova-joseph-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -902,8 +869,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1969-ryan-01</id>
+        <chief id="hn-1969-ryan-01">
             <person-id>ryan-hewson-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -929,8 +895,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1973-sanc-01</id>
+        <chief id="hn-1973-sanc-01">
             <person-id>sanchez-phillip-victor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -956,8 +921,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1976-beck-01</id>
+        <chief id="hn-1976-beck-01">
             <person-id>becker-ralph-elihu</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -983,8 +947,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1977-jara-01</id>
+        <chief id="hn-1977-jara-01">
             <person-id>jaramillo-mari-luci</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1010,8 +973,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-02-01</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1980-binn-01</id>
+        <chief id="hn-1980-binn-01">
             <person-id>binns-jack-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1037,8 +999,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1981-negr-01</id>
+        <chief id="hn-1981-negr-01">
             <person-id>negroponte-john-dimitri</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1064,8 +1025,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-08-12</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1985-ferc-01</id>
+        <chief id="hn-1985-ferc-01">
             <person-id>ferch-john-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1091,8 +1051,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1986-brig-01</id>
+        <chief id="hn-1986-brig-01">
             <person-id>briggs-everett-ellis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1118,8 +1077,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-09-08</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1990-arco-01</id>
+        <chief id="hn-1990-arco-01">
             <person-id>arcos-cresencio-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1145,8 +1103,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1993-pryc-01</id>
+        <chief id="hn-1993-pryc-01">
             <person-id>pryce-william-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1172,8 +1129,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1996-crea-01</id>
+        <chief id="hn-1996-crea-01">
             <person-id>creagan-james-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1199,8 +1155,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1999-alma-01</id>
+        <chief id="hn-1999-alma-01">
             <person-id>almaguer-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1226,8 +1181,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-2002-palm-01</id>
+        <chief id="hn-2002-palm-01">
             <person-id>palmer-larry-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1253,8 +1207,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-2005-ford-01</id>
+        <chief id="hn-2005-ford-01">
             <person-id>ford-charles-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1280,8 +1233,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-2008-llor-01</id>
+        <chief id="hn-2008-llor-01">
             <person-id>llorens-hugo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1307,8 +1259,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-2011-kubi-01</id>
+        <chief id="hn-2011-kubi-01">
             <person-id>kubiske-lisa-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1334,8 +1285,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-2014-neal-01</id>
+        <chief id="hn-2014-neal-01">
             <person-id>nealon-james-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1361,8 +1311,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-2017-fult-01</id>
+        <chief id="hn-2017-fult-01">
             <person-id>fulton-heide-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1389,9 +1338,8 @@
             <last-modified-date>2019-07-15</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>hn-1853-slid-01</id>
+    <other-nomines>
+        <chief id="hn-1853-slid-01">
             <person-id>slidell-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1418,8 +1366,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1853-borl-01</id>
+        <chief id="hn-1853-borl-01">
             <person-id>borland-solon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1447,8 +1394,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>hn--chur-01</id>
+        <chief id="hn--chur-01">
             <person-id>churchwell-william-montgomery</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1474,8 +1420,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1861-well-01</id>
+        <chief id="hn-1861-well-01">
             <person-id>wells-hezekiah-g</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1501,8 +1446,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1861-howa-01</id>
+        <chief id="hn-1861-howa-01">
             <person-id>howard-jacob-merritt</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1528,8 +1472,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1889-mizn-01</id>
+        <chief id="hn-1889-mizn-01">
             <person-id>mizner-lansing-bond</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1556,8 +1499,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1896-coxe-01</id>
+        <chief id="hn-1896-coxe-01">
             <person-id>coxe-macgrane</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1584,8 +1526,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1907-lee-01</id>
+        <chief id="hn-1907-lee-01">
             <person-id>lee-joseph-wilcox-jenkins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1611,8 +1552,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-17</last-modified-date>
         </chief>
-        <chief>
-            <id>hn-1908-sors-01</id>
+        <chief id="hn-1908-sors-01">
             <person-id>sorsby-william-brooks</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1639,8 +1579,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hn--palm-01</id>
+        <chief id="hn--palm-01">
             <person-id>palmieri-francisco-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>honduras</contemporary-territory-id>
@@ -1666,5 +1605,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

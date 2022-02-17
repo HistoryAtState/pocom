@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>argentina</territory-id>
     <chiefs>
-        <chief>
-            <id>ar-1823-rodn-01</id>
+        <chief id="ar-1823-rodn-01">
             <person-id>rodney-caesar-augustus</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1825-forb-01</id>
+        <chief id="ar-1825-forb-01">
             <person-id>forbes-john-murray</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1832-bayl-01</id>
+        <chief id="ar-1832-bayl-01">
             <person-id>baylies-francis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1844-bren-01</id>
+        <chief id="ar-1844-bren-01">
             <person-id>brent-william</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1846-harr-01</id>
+        <chief id="ar-1846-harr-01">
             <person-id>harris-william-alexander</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1851-pend-01</id>
+        <chief id="ar-1851-pend-01">
             <person-id>pendleton-john-strother</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -183,8 +177,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-30</last-modified-date>
         </mission-note>
-        <chief>
-            <id>ar-1854-pede-01</id>
+        <chief id="ar-1854-pede-01">
             <person-id>peden-james-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -210,8 +203,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1855-pede-01</id>
+        <chief id="ar-1855-pede-01">
             <person-id>peden-james-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -237,8 +229,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1858-yanc-01</id>
+        <chief id="ar-1858-yanc-01">
             <person-id>yancey-benjamin-cudworth</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -264,8 +255,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1859-cush-01</id>
+        <chief id="ar-1859-cush-01">
             <person-id>cushman-john-franklin</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -292,8 +282,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-13</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1861-palm-01</id>
+        <chief id="ar-1861-palm-01">
             <person-id>palmer-robert-m</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -327,8 +316,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </mission-note>
-        <chief>
-            <id>ar-1862-kirk-01</id>
+        <chief id="ar-1862-kirk-01">
             <person-id>kirk-robert-crothers</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -354,8 +342,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1866-asbo-01</id>
+        <chief id="ar-1866-asbo-01">
             <person-id>asboth-alexander</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -381,8 +368,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1868-wort-01</id>
+        <chief id="ar-1868-wort-01">
             <person-id>worthington-henry-gaither</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -408,8 +394,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1869-kirk-01</id>
+        <chief id="ar-1869-kirk-01">
             <person-id>kirk-robert-crothers</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -435,8 +420,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1873-whit-01</id>
+        <chief id="ar-1873-whit-01">
             <person-id>white-julius</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -462,8 +446,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-12-16</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1874-osbo-01</id>
+        <chief id="ar-1874-osbo-01">
             <person-id>osborn-thomas-ogden</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -489,8 +472,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1884-osbo-01</id>
+        <chief id="ar-1884-osbo-01">
             <person-id>osborn-thomas-ogden</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -517,8 +499,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1885-hann-01</id>
+        <chief id="ar-1885-hann-01">
             <person-id>hanna-bayless-w</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -545,8 +526,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1888-hann-01</id>
+        <chief id="ar-1888-hann-01">
             <person-id>hanna-bayless-w</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -573,8 +553,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1889-pitk-01</id>
+        <chief id="ar-1889-pitk-01">
             <person-id>pitkin-john-robert-graham</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -601,8 +580,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1894-buch-01</id>
+        <chief id="ar-1894-buch-01">
             <person-id>buchanan-william-insco</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -628,8 +606,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1900-lord-01</id>
+        <chief id="ar-1900-lord-01">
             <person-id>lord-william-paine</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -656,8 +633,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1903-barr-01</id>
+        <chief id="ar-1903-barr-01">
             <person-id>barrett-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -684,8 +660,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1904-beau-01</id>
+        <chief id="ar-1904-beau-01">
             <person-id>beaupre-arthur-matthias</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -711,8 +686,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1908-eddy-01</id>
+        <chief id="ar-1908-eddy-01">
             <person-id>eddy-spencer-fayette</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -738,8 +712,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1909-sher-01</id>
+        <chief id="ar-1909-sher-01">
             <person-id>sherrill-charles-hitchcock</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -765,8 +738,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1912-garr-01</id>
+        <chief id="ar-1912-garr-01">
             <person-id>garrett-john-work</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -792,8 +764,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1915-stim-01</id>
+        <chief id="ar-1915-stim-01">
             <person-id>stimson-frederic-jesup</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -819,8 +790,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1922-ridd-01</id>
+        <chief id="ar-1922-ridd-01">
             <person-id>riddle-john-wallace</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -846,8 +816,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1925-jay-01</id>
+        <chief id="ar-1925-jay-01">
             <person-id>jay-peter-augustus</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -873,8 +842,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1927-blis-01</id>
+        <chief id="ar-1927-blis-01">
             <person-id>bliss-robert-woods</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -900,8 +868,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1933-wedd-01</id>
+        <chief id="ar-1933-wedd-01">
             <person-id>weddell-alexander-wilbourne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -927,8 +894,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1939-armo-01</id>
+        <chief id="ar-1939-armo-01">
             <person-id>armour-norman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -964,8 +930,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </mission-note>
-        <chief>
-            <id>ar-1945-brad-01</id>
+        <chief id="ar-1945-brad-01">
             <person-id>braden-spruille</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -991,8 +956,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1946-mess-01</id>
+        <chief id="ar-1946-mess-01">
             <person-id>messersmith-george-strausser</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1018,8 +982,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1947-bruc-01</id>
+        <chief id="ar-1947-bruc-01">
             <person-id>bruce-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1045,8 +1008,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1949-grif-01</id>
+        <chief id="ar-1949-grif-01">
             <person-id>griffis-stanton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1072,8 +1034,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1951-bunk-01</id>
+        <chief id="ar-1951-bunk-01">
             <person-id>bunker-ellsworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1099,8 +1060,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1952-nufe-01</id>
+        <chief id="ar-1952-nufe-01">
             <person-id>nufer-albert-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1126,8 +1086,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1956-beau-01</id>
+        <chief id="ar-1956-beau-01">
             <person-id>beaulac-willard-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1153,8 +1112,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1960-rubo-01</id>
+        <chief id="ar-1960-rubo-01">
             <person-id>rubottom-roy-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1180,8 +1138,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1962-mccl-01</id>
+        <chief id="ar-1962-mccl-01">
             <person-id>mcclintock-robert-mills</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1207,8 +1164,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1964-mart-01</id>
+        <chief id="ar-1964-mart-01">
             <person-id>martin-edwin-mccammon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1234,8 +1190,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1968-burg-01</id>
+        <chief id="ar-1968-burg-01">
             <person-id>burgess-carter-lane</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1261,8 +1216,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1969-lodg-01</id>
+        <chief id="ar-1969-lodg-01">
             <person-id>lodge-john-davis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1288,8 +1242,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1974-hill-01</id>
+        <chief id="ar-1974-hill-01">
             <person-id>hill-robert-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1315,8 +1268,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1977-cast-01</id>
+        <chief id="ar-1977-cast-01">
             <person-id>castro-raul-hector</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1342,8 +1294,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1980-shla-01</id>
+        <chief id="ar-1980-shla-01">
             <person-id>shlaudeman-harry-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1369,8 +1320,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1983-orti-01</id>
+        <chief id="ar-1983-orti-01">
             <person-id>ortiz-francis-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1396,8 +1346,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1986-gild-01</id>
+        <chief id="ar-1986-gild-01">
             <person-id>gildred-theodore-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1423,8 +1372,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1989-todm-01</id>
+        <chief id="ar-1989-todm-01">
             <person-id>todman-terence-alphonso</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1450,8 +1398,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-09-08</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1993-chee-01</id>
+        <chief id="ar-1993-chee-01">
             <person-id>cheek-james-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1477,8 +1424,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-2000-wals-01</id>
+        <chief id="ar-2000-wals-01">
             <person-id>walsh-james-donald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1504,8 +1450,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-2003-guti-01</id>
+        <chief id="ar-2003-guti-01">
             <person-id>gutierrez-lino</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1531,8 +1476,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-2007-wayn-01</id>
+        <chief id="ar-2007-wayn-01">
             <person-id>wayne-earl-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1558,8 +1502,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-2009-mart-01</id>
+        <chief id="ar-2009-mart-01">
             <person-id>martinez-vilma-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1585,8 +1528,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-2013-sull-01</id>
+        <chief id="ar-2013-sull-01">
             <person-id>sullivan-kevin-k</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1612,8 +1554,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-2015-mame-01</id>
+        <chief id="ar-2015-mame-01">
             <person-id>mamet-noah-bryson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1639,8 +1580,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-2017-coon-01</id>
+        <chief id="ar-2017-coon-01">
             <person-id>cooney-thomas-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1666,8 +1606,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-2018-prad-01</id>
+        <chief id="ar-2018-prad-01">
             <person-id>prado-edward-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1694,9 +1633,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ar--poll-01</id>
+    <other-nomines>
+        <chief id="ar--poll-01">
             <person-id>pollard-richard</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1723,8 +1661,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ar--watt-01</id>
+        <chief id="ar--watt-01">
             <person-id>watterson-harvey-magee</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1751,8 +1688,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1853-biss-01</id>
+        <chief id="ar-1853-biss-01">
             <person-id>bissell-william-henry</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1779,8 +1715,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1854-pede-01</id>
+        <chief id="ar-1854-pede-02">
             <person-id>peden-james-a</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1807,8 +1742,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1856-pede-01</id>
+        <chief id="ar-1856-pede-01">
             <person-id>peden-james-a</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1835,8 +1769,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1857-lama-01</id>
+        <chief id="ar-1857-lama-01">
             <person-id>lamar-mirabeau-buonaparte</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1863,8 +1796,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar--lege-01</id>
+        <chief id="ar--lege-01">
             <person-id>legendre-charles-william</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1891,8 +1823,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1872-whit-01</id>
+        <chief id="ar-1872-whit-01">
             <person-id>white-julius</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1919,8 +1850,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1909-wils-01</id>
+        <chief id="ar-1909-wils-01">
             <person-id>wilson-francis-mairs-huntington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1946,8 +1876,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1911-cart-01</id>
+        <chief id="ar-1911-cart-01">
             <person-id>carter-john-ridgely</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -1974,8 +1903,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1953-beau-01</id>
+        <chief id="ar-1953-beau-01">
             <person-id>beaulac-willard-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -2001,8 +1929,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1960-rubo-01</id>
+        <chief id="ar-1960-rubo-02">
             <person-id>rubottom-roy-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -2028,8 +1955,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ar--walk-01</id>
+        <chief id="ar--walk-01">
             <person-id>walker-william-graham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -2055,8 +1981,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ar-1999-nema-01</id>
+        <chief id="ar-1999-nema-01">
             <person-id>nemazee-hassan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>argentina</contemporary-territory-id>
@@ -2082,5 +2007,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

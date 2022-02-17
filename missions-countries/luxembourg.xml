@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>luxembourg</territory-id>
     <chiefs>
-        <chief>
-            <id>lu-1903-newe-01</id>
+        <chief id="lu-1903-newe-01">
             <person-id>newel-stanford</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1905-hill-01</id>
+        <chief id="lu-1905-hill-01">
             <person-id>hill-david-jayne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1908-beau-01</id>
+        <chief id="lu-1908-beau-01">
             <person-id>beaupre-arthur-matthias</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1911-bryc-01</id>
+        <chief id="lu-1911-bryc-01">
             <person-id>bryce-lloyd-stephens</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1913-van-01</id>
+        <chief id="lu-1913-van-01">
             <person-id>van-dyke-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1917-garr-01</id>
+        <chief id="lu-1917-garr-01">
             <person-id>garrett-john-work</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1920-phil-01</id>
+        <chief id="lu-1920-phil-01">
             <person-id>phillips-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1923-flet-01</id>
+        <chief id="lu-1923-flet-01">
             <person-id>fletcher-henry-prather</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1924-phil-01</id>
+        <chief id="lu-1924-phil-01">
             <person-id>phillips-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1927-gibs-01</id>
+        <chief id="lu-1927-gibs-01">
             <person-id>gibson-hugh-simons</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -280,8 +270,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1933-morr-01</id>
+        <chief id="lu-1933-morr-01">
             <person-id>morris-dave-hennen</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -307,8 +296,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1937-gibs-01</id>
+        <chief id="lu-1937-gibs-01">
             <person-id>gibson-hugh-simons</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -334,8 +322,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1938-davi-01</id>
+        <chief id="lu-1938-davi-01">
             <person-id>davies-joseph-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -361,8 +348,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1940-cuda-01</id>
+        <chief id="lu-1940-cuda-01">
             <person-id>cudahy-john-clarence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -389,8 +375,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1941-moff-01</id>
+        <chief id="lu-1941-moff-01">
             <person-id>moffat-jay-pierrepont</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -416,8 +401,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1943-athe-01</id>
+        <chief id="lu-1943-athe-01">
             <person-id>atherton-ray</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -443,8 +427,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1944-scho-01</id>
+        <chief id="lu-1944-scho-01">
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -472,8 +455,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1944-gree-01</id>
+        <chief id="lu-1944-gree-01">
             <person-id>greene-winthrop-stephenson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -499,8 +481,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1944-sawy-01</id>
+        <chief id="lu-1944-sawy-01">
             <person-id>sawyer-charles</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -526,8 +507,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1946-kirk-01</id>
+        <chief id="lu-1946-kirk-01">
             <person-id>kirk-alan-goodrich</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -553,8 +533,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1949-mest-01</id>
+        <chief id="lu-1949-mest-01">
             <person-id>mesta-perle-pearl-reid-skirvin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -581,8 +560,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1953-buch-01</id>
+        <chief id="lu-1953-buch-01">
             <person-id>buchanan-wiley-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -609,8 +587,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1956-buch-01</id>
+        <chief id="lu-1956-buch-01">
             <person-id>buchanan-wiley-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -637,8 +614,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1957-chap-01</id>
+        <chief id="lu-1957-chap-01">
             <person-id>chapin-vinton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -664,8 +640,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1960-summ-01</id>
+        <chief id="lu-1960-summ-01">
             <person-id>summers-allingham-burks</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -691,8 +666,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1961-wine-01</id>
+        <chief id="lu-1961-wine-01">
             <person-id>wine-james-wilmer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -718,8 +692,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1962-rivk-01</id>
+        <chief id="lu-1962-rivk-01">
             <person-id>rivkin-william-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -746,8 +719,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1965-harr-01</id>
+        <chief id="lu-1965-harr-01">
             <person-id>harris-patricia-roberts</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -773,8 +745,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1967-feld-01</id>
+        <chief id="lu-1967-feld-01">
             <person-id>feldman-george-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -800,8 +771,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1969-goul-01</id>
+        <chief id="lu-1969-goul-01">
             <person-id>gould-kingdon-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -827,8 +797,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1973-fark-01</id>
+        <chief id="lu-1973-fark-01">
             <person-id>farkas-ruby-ruth-lewis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -854,8 +823,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1976-ginn-01</id>
+        <chief id="lu-1976-ginn-01">
             <person-id>ginn-rosemary-lucas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -881,8 +849,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-09</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1977-lowe-01</id>
+        <chief id="lu-1977-lowe-01">
             <person-id>lowenstein-james-gordon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -908,8 +875,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1981-doli-01</id>
+        <chief id="lu-1981-doli-01">
             <person-id>dolibois-john-ernest</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -935,8 +901,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-09-08</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1985-gera-01</id>
+        <chief id="lu-1985-gera-01">
             <person-id>gerard-jean-broward-shevlin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -962,8 +927,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-13</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1990-rowe-01</id>
+        <chief id="lu-1990-rowe-01">
             <person-id>rowell-edward-morgan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -989,8 +953,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1994-cons-01</id>
+        <chief id="lu-1994-cons-01">
             <person-id>constantinou-clay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1016,8 +979,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1999-horm-01</id>
+        <chief id="lu-1999-horm-01">
             <person-id>hormel-james-catherwood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1043,8 +1005,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-2001-loft-01</id>
+        <chief id="lu-2001-loft-01">
             <person-id>loftus-gerald-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1070,8 +1031,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-2002-terp-01</id>
+        <chief id="lu-2002-terp-01">
             <person-id>terpeluk-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1097,8 +1057,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-2005-wagn-01</id>
+        <chief id="lu-2005-wagn-01">
             <person-id>wagner-anne-louise</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1124,8 +1083,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-10</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-2010-stro-01</id>
+        <chief id="lu-2010-stro-01">
             <person-id>stroum-cynthia</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1151,8 +1109,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-2011-mand-01</id>
+        <chief id="lu-2011-mand-01">
             <person-id>mandell-robert-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1178,8 +1135,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-2016-mcke-01</id>
+        <chief id="lu-2016-mcke-01">
             <person-id>mckean-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1205,8 +1161,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-2018-evan-01</id>
+        <chief id="lu-2018-evan-01">
             <person-id>evans-j-randolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1233,9 +1188,8 @@
             <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>lu-1923-tobi-01</id>
+    <other-nomines>
+        <chief id="lu-1923-tobi-01">
             <person-id>tobin-richard-montgomery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1261,8 +1215,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>lu-1943-bidd-01</id>
+        <chief id="lu-1943-bidd-01">
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1289,8 +1242,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>lu--bush-01</id>
+        <chief id="lu--bush-01">
             <person-id>bush-frederick-morris</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>luxembourg</contemporary-territory-id>
@@ -1316,5 +1268,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

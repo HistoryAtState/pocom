@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>cyprus</territory-id>
     <chiefs>
-        <chief>
-            <id>cy-1960-heck-01</id>
+        <chief id="cy-1960-heck-01">
             <person-id>heck-louis-douglas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1960-wilk-01</id>
+        <chief id="cy-1960-wilk-01">
             <person-id>wilkins-fraser</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1964-belc-01</id>
+        <chief id="cy-1964-belc-01">
             <person-id>belcher-taylor-garrison</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1969-popp-01</id>
+        <chief id="cy-1969-popp-01">
             <person-id>popper-david-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1973-mccl-01</id>
+        <chief id="cy-1973-mccl-01">
             <person-id>mccloskey-robert-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1974-davi-01</id>
+        <chief id="cy-1974-davi-01">
             <person-id>davies-rodger-paul</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1974-craw-01</id>
+        <chief id="cy-1974-craw-01">
             <person-id>crawford-william-rex</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1978-ston-01</id>
+        <chief id="cy-1978-ston-01">
             <person-id>stone-galen-luther</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1981-ewin-01</id>
+        <chief id="cy-1981-ewin-01">
             <person-id>ewing-raymond-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1984-boeh-01</id>
+        <chief id="cy-1984-boeh-01">
             <person-id>boehm-richard-wood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1988-perr-01</id>
+        <chief id="cy-1988-perr-01">
             <person-id>perrin-bill-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -299,8 +288,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1989-nix-01</id>
+        <chief id="cy-1989-nix-01">
             <person-id>nix-john-u</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -326,8 +314,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1990-lamb-01</id>
+        <chief id="cy-1990-lamb-01">
             <person-id>lamb-robert-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -353,8 +340,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1993-bouc-01</id>
+        <chief id="cy-1993-bouc-01">
             <person-id>boucher-richard-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -380,8 +366,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-11-05</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1996-bril-01</id>
+        <chief id="cy-1996-bril-01">
             <person-id>brill-kenneth-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -407,8 +392,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-1999-band-01</id>
+        <chief id="cy-1999-band-01">
             <person-id>bandler-donald-keith</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -434,8 +418,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-2002-klos-01</id>
+        <chief id="cy-2002-klos-01">
             <person-id>klosson-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -461,8 +444,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-2005-schl-01</id>
+        <chief id="cy-2005-schl-01">
             <person-id>schlicher-ronald-lewis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -488,8 +470,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-2008-urba-01</id>
+        <chief id="cy-2008-urba-01">
             <person-id>urbancic-frank-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -515,8 +496,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-26</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-2012-koen-01</id>
+        <chief id="cy-2012-koen-01">
             <person-id>koenig-john-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -542,8 +522,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-2015-dohe-01</id>
+        <chief id="cy-2015-dohe-01">
             <person-id>doherty-kathleen-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -569,8 +548,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>cy-2019-garb-01</id>
+        <chief id="cy-2019-garb-01">
             <person-id>garber-judith-gail</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>cyprus</contemporary-territory-id>
@@ -597,5 +575,5 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

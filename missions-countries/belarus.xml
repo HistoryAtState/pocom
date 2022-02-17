@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>belarus</territory-id>
     <chiefs>
-        <chief>
-            <id>by-1992-swar-01</id>
+        <chief id="by-1992-swar-01">
             <person-id>swartz-david-haywood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>by-1994-yalo-01</id>
+        <chief id="by-1994-yalo-01">
             <person-id>yalowitz-kenneth-spencer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>by-1997-spec-01</id>
+        <chief id="by-1997-spec-01">
             <person-id>speckhard-daniel-v</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2001-koza-01</id>
+        <chief id="by-2001-koza-01">
             <person-id>kozak-michael-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2003-krol-01</id>
+        <chief id="by-2003-krol-01">
             <person-id>krol-george-albert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2006-stew-01</id>
+        <chief id="by-2006-stew-01">
             <person-id>stewart-karen-brevard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2008-moor-01</id>
+        <chief id="by-2008-moor-01">
             <person-id>moore-jonathan-michael</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-07</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2009-scan-01</id>
+        <chief id="by-2009-scan-01">
             <person-id>scanlan-michael-d</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2013-gold-01</id>
+        <chief id="by-2013-gold-01">
             <person-id>goldrich-ethan-aaron</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2014-raul-01</id>
+        <chief id="by-2014-raul-01">
             <person-id>rauland-scott-m</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2016-rile-01</id>
+        <chief id="by-2016-rile-01">
             <person-id>riley-robert-j</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -299,8 +288,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2018-moor-01</id>
+        <chief id="by-2018-moor-01">
             <person-id>moore-jenifer-h</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -326,8 +314,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-07-20</last-modified-date>
         </chief>
-        <chief>
-            <id>by-2020-fish-01</id>
+        <chief id="by-2020-fish-01">
             <person-id>fisher-julie-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>belarus</contemporary-territory-id>
@@ -354,5 +341,5 @@
             <last-modified-date/>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

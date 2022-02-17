@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>georgia</territory-id>
     <chiefs>
-        <chief>
-            <id>ge-1992-cava-01</id>
+        <chief id="ge-1992-cava-01">
             <person-id>cavanaugh-carey</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-1992-brow-01</id>
+        <chief id="ge-1992-brow-01">
             <person-id>brown-kent-n</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-1995-cour-01</id>
+        <chief id="ge-1995-cour-01">
             <person-id>courtney-william-harrison</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-1998-yalo-01</id>
+        <chief id="ge-1998-yalo-01">
             <person-id>yalowitz-kenneth-spencer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-2002-mile-01</id>
+        <chief id="ge-2002-mile-01">
             <person-id>miles-richard-monroe</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-2005-teff-01</id>
+        <chief id="ge-2005-teff-01">
             <person-id>tefft-john-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-2009-bass-01</id>
+        <chief id="ge-2009-bass-01">
             <person-id>bass-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-2012-norl-01</id>
+        <chief id="ge-2012-norl-01">
             <person-id>norland-richard-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-2015-kell-01</id>
+        <chief id="ge-2015-kell-01">
             <person-id>kelly-ian-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-2018-rood-01</id>
+        <chief id="ge-2018-rood-01">
             <person-id>rood-elizabeth</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-16</last-modified-date>
         </chief>
-        <chief>
-            <id>ge-2020-degn-01</id>
+        <chief id="ge-2020-degn-01">
             <person-id>degnan-kelly-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>georgia</contemporary-territory-id>
@@ -300,5 +289,5 @@
             <last-modified-date>2020-02-10</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

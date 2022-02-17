@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>sudan</territory-id>
     <chiefs>
-        <chief>
-            <id>sd-1956-beac-01</id>
+        <chief id="sd-1956-beac-01">
             <person-id>beach-arthur-eugene</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1956-pink-01</id>
+        <chief id="sd-1956-pink-01">
             <person-id>pinkerton-lowell-call</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1958-moos-01</id>
+        <chief id="sd-1958-moos-01">
             <person-id>moose-james-sayle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1962-roun-01</id>
+        <chief id="sd-1962-roun-01">
             <person-id>rountree-william-manning</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1965-weat-01</id>
+        <chief id="sd-1965-weat-01">
             <person-id>weathersby-william-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1967-noel-01</id>
+        <chief id="sd-1967-noel-01">
             <person-id>noel-cleo-allen</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -174,8 +168,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </mission-note>
-        <chief>
-            <id>sd-1969-moor-01</id>
+        <chief id="sd-1969-moor-01">
             <person-id>moore-george-curtis</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -201,8 +194,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1972-moor-01</id>
+        <chief id="sd-1972-moor-01">
             <person-id>moore-george-curtis</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -235,8 +227,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </mission-note>
-        <chief>
-            <id>sd-1972-noel-01</id>
+        <chief id="sd-1972-noel-01">
             <person-id>noel-cleo-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -263,8 +254,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1973-brew-01</id>
+        <chief id="sd-1973-brew-01">
             <person-id>brewer-william-dodd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -290,8 +280,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1977-berg-01</id>
+        <chief id="sd-1977-berg-01">
             <person-id>bergus-donald-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -317,8 +306,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1980-kont-01</id>
+        <chief id="sd-1980-kont-01">
             <person-id>kontos-constantine-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -344,8 +332,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1983-hora-01</id>
+        <chief id="sd-1983-hora-01">
             <person-id>horan-hume-alexander</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -371,8 +358,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1986-ande-01</id>
+        <chief id="sd-1986-ande-01">
             <person-id>anderson-g-norman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -398,8 +384,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1989-chee-01</id>
+        <chief id="sd-1989-chee-01">
             <person-id>cheek-james-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -425,8 +410,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1992-pett-01</id>
+        <chief id="sd-1992-pett-01">
             <person-id>petterson-donald-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -452,8 +436,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-1995-carn-01</id>
+        <chief id="sd-1995-carn-01">
             <person-id>carney-timothy-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -479,8 +462,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2002-mill-01</id>
+        <chief id="sd-2002-mill-01">
             <person-id>millington-jeffrey</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -506,8 +488,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2003-gall-01</id>
+        <chief id="sd-2003-gall-01">
             <person-id>gallucci-gerard-m</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -533,8 +514,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2005-kaeu-01</id>
+        <chief id="sd-2005-kaeu-01">
             <person-id>kaeuper-david-h</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -560,8 +540,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2005-limb-01</id>
+        <chief id="sd-2005-limb-01">
             <person-id>limbert-john-w</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -587,8 +566,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2005-hume-01</id>
+        <chief id="sd-2005-hume-01">
             <person-id>hume-cameron-r</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -614,8 +592,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2007-fern-01</id>
+        <chief id="sd-2007-fern-01">
             <person-id>fernandez-alberto-m</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -641,8 +618,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2009-whit-01</id>
+        <chief id="sd-2009-whit-01">
             <person-id>whitehead-robert-e</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -668,8 +644,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2011-yate-01</id>
+        <chief id="sd-2011-yate-01">
             <person-id>yates-mary-carlin</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -695,8 +670,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2012-staf-01</id>
+        <chief id="sd-2012-staf-01">
             <person-id>stafford-joseph-d</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -722,8 +696,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2014-lani-01</id>
+        <chief id="sd-2014-lani-01">
             <person-id>lanier-jerry-p</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -749,8 +722,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2016-kout-01</id>
+        <chief id="sd-2016-kout-01">
             <person-id>koutsis-steven</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -776,8 +748,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-10-05</last-modified-date>
         </chief>
-        <chief>
-            <id>sd-2019-shuk-01</id>
+        <chief id="sd-2019-shuk-01">
             <person-id>shukan-brian</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>sudan</contemporary-territory-id>
@@ -804,5 +775,5 @@
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

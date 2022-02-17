@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>malaysia</territory-id>
     <chiefs>
-        <chief>
-            <id>my-1957-wrig-01</id>
+        <chief id="my-1957-wrig-01">
             <person-id>wright-thomas-kenneth</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -31,8 +30,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1957-byin-01</id>
+        <chief id="my-1957-byin-01">
             <person-id>byington-homer-morrison-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -59,8 +57,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1961-bald-01</id>
+        <chief id="my-1961-bald-01">
             <person-id>baldwin-charles-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -86,8 +83,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1964-bell-01</id>
+        <chief id="my-1964-bell-01">
             <person-id>bell-james-dunbar</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -113,8 +109,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1969-lydm-01</id>
+        <chief id="my-1969-lydm-01">
             <person-id>lydman-jack-wilson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -140,8 +135,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1974-unde-01</id>
+        <chief id="my-1974-unde-01">
             <person-id>underhill-francis-trelease</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -167,8 +161,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1977-mill-01</id>
+        <chief id="my-1977-mill-01">
             <person-id>miller-robert-hopkins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -194,8 +187,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1980-wats-01</id>
+        <chief id="my-1980-wats-01">
             <person-id>watson-barbara-mae</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -221,8 +213,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1981-palm-01</id>
+        <chief id="my-1981-palm-01">
             <person-id>palmer-ronald-dewayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -248,8 +239,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1983-shoe-01</id>
+        <chief id="my-1983-shoe-01">
             <person-id>shoesmith-thomas-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -275,8 +265,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1987-monj-01</id>
+        <chief id="my-1987-monj-01">
             <person-id>monjo-john-cameron</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -302,8 +291,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1989-clev-01</id>
+        <chief id="my-1989-clev-01">
             <person-id>cleveland-paul-matthews</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -329,8 +317,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1992-wolf-01</id>
+        <chief id="my-1992-wolf-01">
             <person-id>wolf-john-stern</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -356,8 +343,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1996-malo-01</id>
+        <chief id="my-1996-malo-01">
             <person-id>malott-john-raymond</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -383,8 +369,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-1999-pasc-01</id>
+        <chief id="my-1999-pasc-01">
             <person-id>pascoe-b-lynn</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -410,8 +395,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-2001-huht-01</id>
+        <chief id="my-2001-huht-01">
             <person-id>huhtala-marie-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -437,8 +421,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-2005-lafl-01</id>
+        <chief id="my-2005-lafl-01">
             <person-id>lafleur-christopher-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -464,8 +447,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>my-2007-keit-01</id>
+        <chief id="my-2007-keit-01">
             <person-id>keith-james-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -491,8 +473,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>my-2010-jone-01</id>
+        <chief id="my-2010-jone-01">
             <person-id>jones-paul-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -518,8 +499,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>my-2013-yun-01</id>
+        <chief id="my-2013-yun-01">
             <person-id>yun-joseph-yuosang</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -545,8 +525,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>my-2017-lakh-01</id>
+        <chief id="my-2017-lakh-01">
             <person-id>lakhdhir-kamala-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -572,8 +551,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2021-02-17</last-modified-date>
         </chief>
-        <chief>
-            <id>my-2021-mcfe-01</id>
+        <chief id="my-2021-mcfe-01">
             <person-id>mcfeeters-brian-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malaysia</contemporary-territory-id>
@@ -600,5 +578,5 @@
             <last-modified-date>2021-05-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

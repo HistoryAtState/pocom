@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>paraguay</territory-id>
     <chiefs>
-        <chief>
-            <id>py-1861-wash-01</id>
+        <chief id="py-1861-wash-01">
             <person-id>washburn-charles-ames</person-id>
             <role-title-id>commissioner</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1863-wash-01</id>
+        <chief id="py-1863-wash-01">
             <person-id>washburn-charles-ames</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1868-mcma-01</id>
+        <chief id="py-1868-mcma-01">
             <person-id>mcmahon-martin-thomas</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1870-stev-01</id>
+        <chief id="py-1870-stev-01">
             <person-id>stevens-john-leavitt</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1874-cald-01</id>
+        <chief id="py-1874-cald-01">
             <person-id>caldwell-john-curtis</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1876-cald-01</id>
+        <chief id="py-1876-cald-01">
             <person-id>caldwell-john-curtis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-30</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1882-will-01</id>
+        <chief id="py-1882-will-01">
             <person-id>williams-william</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1885-baco-01</id>
+        <chief id="py-1885-baco-01">
             <person-id>bacon-john-edmund</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1888-baco-01</id>
+        <chief id="py-1888-baco-01">
             <person-id>bacon-john-edmund</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-30</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1890-mane-01</id>
+        <chief id="py-1890-mane-01">
             <person-id>maney-george-earl</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1891-mane-01</id>
+        <chief id="py-1891-mane-01">
             <person-id>maney-george-earl</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -302,8 +291,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1894-stua-01</id>
+        <chief id="py-1894-stua-01">
             <person-id>stuart-granville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -329,8 +317,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1898-finc-01</id>
+        <chief id="py-1898-finc-01">
             <person-id>finch-william-rufus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -357,8 +344,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1905-obri-01</id>
+        <chief id="py-1905-obri-01">
             <person-id>obrien-edward-charles</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -384,8 +370,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-30</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1910-morg-01</id>
+        <chief id="py-1910-morg-01">
             <person-id>morgan-edwin-vernon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -411,8 +396,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-30</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1911-grev-01</id>
+        <chief id="py-1911-grev-01">
             <person-id>grevstad-nicolay-andrew</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -438,8 +422,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-30</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1914-moon-01</id>
+        <chief id="py-1914-moon-01">
             <person-id>mooney-daniel-francis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -465,8 +448,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1922-otoo-01</id>
+        <chief id="py-1922-otoo-01">
             <person-id>otoole-william-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -492,8 +474,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1925-kree-01</id>
+        <chief id="py-1925-kree-01">
             <person-id>kreeck-george-lewis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -519,8 +500,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1930-whee-01</id>
+        <chief id="py-1930-whee-01">
             <person-id>wheeler-george-post</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -546,8 +526,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1933-nich-01</id>
+        <chief id="py-1933-nich-01">
             <person-id>nicholson-meredith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -574,8 +553,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-30</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1935-howa-01</id>
+        <chief id="py-1935-howa-01">
             <person-id>howard-findley-burtch</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -601,8 +579,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1941-fros-01</id>
+        <chief id="py-1941-fros-01">
             <person-id>frost-wesley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -628,8 +605,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-30</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1942-fros-01</id>
+        <chief id="py-1942-fros-01">
             <person-id>frost-wesley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -655,8 +631,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1944-beau-01</id>
+        <chief id="py-1944-beau-01">
             <person-id>beaulac-willard-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -682,8 +657,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1947-warr-01</id>
+        <chief id="py-1947-warr-01">
             <person-id>warren-william-fletcher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -709,8 +683,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1951-tewk-01</id>
+        <chief id="py-1951-tewk-01">
             <person-id>tewksbury-howard-hobson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -737,8 +710,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-30</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1952-shaw-01</id>
+        <chief id="py-1952-shaw-01">
             <person-id>shaw-george-price</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -764,8 +736,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1954-aget-01</id>
+        <chief id="py-1954-aget-01">
             <person-id>ageton-arthur-ainslie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -791,8 +762,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1957-ploe-01</id>
+        <chief id="py-1957-ploe-01">
             <person-id>ploeser-walter-christian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -818,8 +788,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1959-stim-01</id>
+        <chief id="py-1959-stim-01">
             <person-id>stimpson-harry-farnum</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -845,8 +814,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1961-snow-01</id>
+        <chief id="py-1961-snow-01">
             <person-id>snow-william-pennell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -872,8 +840,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1967-hern-01</id>
+        <chief id="py-1967-hern-01">
             <person-id>hernandez-benigno-carlos</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -899,8 +866,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1969-ylit-01</id>
+        <chief id="py-1969-ylit-01">
             <person-id>ylitalo-john-raymond</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -926,8 +892,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1972-land-01</id>
+        <chief id="py-1972-land-01">
             <person-id>landau-george-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -953,8 +918,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1977-whit-01</id>
+        <chief id="py-1977-whit-01">
             <person-id>white-robert-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -980,8 +944,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1980-lane-01</id>
+        <chief id="py-1980-lane-01">
             <person-id>lane-lyle-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1007,8 +970,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-06-07</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1982-davi-01</id>
+        <chief id="py-1982-davi-01">
             <person-id>davis-arthur-h-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1034,8 +996,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-18</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1985-tayl-01</id>
+        <chief id="py-1985-tayl-01">
             <person-id>taylor-clyde-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1061,8 +1022,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1988-towe-01</id>
+        <chief id="py-1988-towe-01">
             <person-id>towell-timothy-lathrop</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1088,8 +1048,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1991-glas-01</id>
+        <chief id="py-1991-glas-01">
             <person-id>glassman-jon-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1115,8 +1074,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1994-serv-01</id>
+        <chief id="py-1994-serv-01">
             <person-id>service-robert-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1142,8 +1100,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1997-hart-01</id>
+        <chief id="py-1997-hart-01">
             <person-id>harty-maura</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1169,8 +1126,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-2000-gree-01</id>
+        <chief id="py-2000-gree-01">
             <person-id>greenlee-david-n</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1196,8 +1152,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief>
-            <id>py-2003-kean-01</id>
+        <chief id="py-2003-kean-01">
             <person-id>keane-john-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1223,8 +1178,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-2006-caso-01</id>
+        <chief id="py-2006-caso-01">
             <person-id>cason-james-caldwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1250,8 +1204,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-2008-ayal-01</id>
+        <chief id="py-2008-ayal-01">
             <person-id>ayalde-liliana</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1277,8 +1230,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>py-2011-thes-01</id>
+        <chief id="py-2011-thes-01">
             <person-id>thessin-james-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1304,8 +1256,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>py-2015-bass-01</id>
+        <chief id="py-2015-bass-01">
             <person-id>bassett-leslie-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1331,8 +1282,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>py-2017-rodr-01</id>
+        <chief id="py-2017-rodr-01">
             <person-id>rodriguez-hugo-f</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1358,8 +1308,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief>
-            <id>py-2018-mccl-01</id>
+        <chief id="py-2018-mccl-01">
             <person-id>mcclenny-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1386,9 +1335,8 @@
             <last-modified-date>2020-10-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>py--wall-01</id>
+    <other-nomines>
+        <chief id="py--wall-01">
             <person-id>wallace-lewis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1415,8 +1363,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>py-1881-rusk-01</id>
+        <chief id="py-1881-rusk-01">
             <person-id>rusk-jeremiah-mclain</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1442,8 +1389,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>py--robb-01</id>
+        <chief id="py--robb-01">
             <person-id>robb-hampton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>paraguay</contemporary-territory-id>
@@ -1469,5 +1415,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

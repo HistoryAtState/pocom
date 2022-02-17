@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>vanuatu</territory-id>
     <chiefs>
-        <chief>
-            <id>vu-1987-bier-01</id>
+        <chief id="vu-1987-bier-01">
             <person-id>bierman-everett-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-1990-farr-01</id>
+        <chief id="vu-1990-farr-01">
             <person-id>farrand-robert-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-1994-tear-01</id>
+        <chief id="vu-1994-tear-01">
             <person-id>teare-richard-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-1997-kara-01</id>
+        <chief id="vu-1997-kara-01">
             <person-id>karaer-arma-jane</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-2000-jaco-01</id>
+        <chief id="vu-2000-jaco-01">
             <person-id>jacobs-susan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-2003-fitt-01</id>
+        <chief id="vu-2003-fitt-01">
             <person-id>fitts-robert-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-2006-rowe-01</id>
+        <chief id="vu-2006-rowe-01">
             <person-id>rowe-leslie-ventura</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-2010-tayl-01</id>
+        <chief id="vu-2010-tayl-01">
             <person-id>taylor-teddy-bernard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-01</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-2013-nort-01</id>
+        <chief id="vu-2013-nort-01">
             <person-id>north-walter-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-2016-eber-01</id>
+        <chief id="vu-2016-eber-01">
             <person-id>ebert-gray-catherine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-12</last-modified-date>
         </chief>
-        <chief>
-            <id>vu-2019-mcke-01</id>
+        <chief id="vu-2019-mcke-01">
             <person-id>mckee-erin-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>vanuatu</contemporary-territory-id>
@@ -300,5 +289,5 @@
             <last-modified-date>2019-12-12</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

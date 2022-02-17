@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>colombia</territory-id>
     <chiefs>
-        <chief>
-            <id>co-1823-ande-01</id>
+        <chief id="co-1823-ande-01">
             <person-id>anderson-richard-clough</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1827-watt-01</id>
+        <chief id="co-1827-watt-01">
             <person-id>watts-beaufort-t</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -60,8 +58,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1829-harr-01</id>
+        <chief id="co-1829-harr-01">
             <person-id>harrison-william-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -88,8 +85,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1829-moor-01</id>
+        <chief id="co-1829-moor-01">
             <person-id>moore-thomas-patrick</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -116,8 +112,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1833-mcaf-01</id>
+        <chief id="co-1833-mcaf-01">
             <person-id>mcafee-robert-breckinridge</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -143,8 +138,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1838-semp-01</id>
+        <chief id="co-1838-semp-01">
             <person-id>semple-james</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -170,8 +164,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1842-blac-01</id>
+        <chief id="co-1842-blac-01">
             <person-id>blackford-william-matthews</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -197,8 +190,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1845-bidl-01</id>
+        <chief id="co-1845-bidl-01">
             <person-id>bidlack-benjamin-a</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -225,8 +217,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1850-foot-01</id>
+        <chief id="co-1850-foot-01">
             <person-id>foote-thomas-moses</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -253,8 +244,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1851-king-01</id>
+        <chief id="co-1851-king-01">
             <person-id>king-yelverton-p</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -280,8 +270,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1853-gree-01</id>
+        <chief id="co-1853-gree-01">
             <person-id>green-james-stephen</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -308,8 +297,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1855-bowl-01</id>
+        <chief id="co-1855-bowl-01">
             <person-id>bowlin-james-butler</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -335,8 +323,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1859-jone-01</id>
+        <chief id="co-1859-jone-01">
             <person-id>jones-george-wallace</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -362,8 +349,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1864-burt-01</id>
+        <chief id="co-1864-burt-01">
             <person-id>burton-allan-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -392,8 +378,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1867-sull-01</id>
+        <chief id="co-1867-sull-01">
             <person-id>sullivan-peter-john</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -419,8 +404,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1869-hurl-01</id>
+        <chief id="co-1869-hurl-01">
             <person-id>hurlbut-stephen-augustus</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -446,8 +430,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1873-scru-01</id>
+        <chief id="co-1873-scru-01">
             <person-id>scruggs-william-lindsay</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -474,8 +457,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1878-dich-01</id>
+        <chief id="co-1878-dich-01">
             <person-id>dichman-ernest-ernst-dichmann</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -501,8 +483,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1881-mane-01</id>
+        <chief id="co-1881-mane-01">
             <person-id>maney-george-earl</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -528,8 +509,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1882-scru-01</id>
+        <chief id="co-1882-scru-01">
             <person-id>scruggs-william-lindsay</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -555,8 +535,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1884-scru-01</id>
+        <chief id="co-1884-scru-01">
             <person-id>scruggs-william-lindsay</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -583,8 +562,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1886-jaco-01</id>
+        <chief id="co-1886-jaco-01">
             <person-id>jacob-charles-donald</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -611,8 +589,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1887-maur-01</id>
+        <chief id="co-1887-maur-01">
             <person-id>maury-dabney-herndon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -639,8 +616,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1889-abbo-01</id>
+        <chief id="co-1889-abbo-01">
             <person-id>abbott-john-true</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -666,8 +642,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1893-mcki-01</id>
+        <chief id="co-1893-mcki-01">
             <person-id>mckinney-luther-franklin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -694,8 +669,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1897-hart-01</id>
+        <chief id="co-1897-hart-01">
             <person-id>hart-charles-burdett</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -721,8 +695,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1903-beau-01</id>
+        <chief id="co-1903-beau-01">
             <person-id>beaupre-arthur-matthias</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -748,8 +721,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1904-russ-01</id>
+        <chief id="co-1904-russ-01">
             <person-id>russell-william-worthington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -775,8 +747,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1905-barr-01</id>
+        <chief id="co-1905-barr-01">
             <person-id>barrett-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -803,8 +774,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1907-daws-01</id>
+        <chief id="co-1907-daws-01">
             <person-id>dawson-thomas-cleland</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -830,8 +800,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1909-nort-01</id>
+        <chief id="co-1909-nort-01">
             <person-id>northcott-elliott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -857,8 +826,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1911-dubo-01</id>
+        <chief id="co-1911-dubo-01">
             <person-id>dubois-james-taylor</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -884,8 +852,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1913-thom-01</id>
+        <chief id="co-1913-thom-01">
             <person-id>thomson-thaddeus-austin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -911,8 +878,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1919-phil-01</id>
+        <chief id="co-1919-phil-01">
             <person-id>philip-hoffman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -938,8 +904,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1922-pile-01</id>
+        <chief id="co-1922-pile-01">
             <person-id>piles-samuel-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -965,8 +930,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1928-caff-01</id>
+        <chief id="co-1928-caff-01">
             <person-id>caffery-jefferson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -993,8 +957,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1933-whit-01</id>
+        <chief id="co-1933-whit-01">
             <person-id>whitehouse-sheldon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1021,8 +984,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1935-daws-01</id>
+        <chief id="co-1935-daws-01">
             <person-id>dawson-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1049,8 +1011,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1939-brad-01</id>
+        <chief id="co-1939-brad-01">
             <person-id>braden-spruille</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1076,8 +1037,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1942-lane-01</id>
+        <chief id="co-1942-lane-01">
             <person-id>lane-arthur-bliss</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1103,8 +1063,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1944-wile-01</id>
+        <chief id="co-1944-wile-01">
             <person-id>wiley-john-cooper</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1130,8 +1089,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1947-beau-01</id>
+        <chief id="co-1947-beau-01">
             <person-id>beaulac-willard-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1157,8 +1115,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-26</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1951-wayn-01</id>
+        <chief id="co-1951-wayn-01">
             <person-id>waynick-capus-miller</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1184,8 +1141,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1954-scho-01</id>
+        <chief id="co-1954-scho-01">
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1212,8 +1168,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1955-bons-01</id>
+        <chief id="co-1955-bons-01">
             <person-id>bonsal-philip-wilson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1239,8 +1194,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1957-cabo-01</id>
+        <chief id="co-1957-cabo-01">
             <person-id>cabot-john-moors</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1266,8 +1220,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1959-mcin-01</id>
+        <chief id="co-1959-mcin-01">
             <person-id>mcintosh-dempster</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1293,8 +1246,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1961-free-01</id>
+        <chief id="co-1961-free-01">
             <person-id>freeman-fulton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1320,8 +1272,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1964-oliv-01</id>
+        <chief id="co-1964-oliv-01">
             <person-id>oliver-covey-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1347,8 +1298,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1966-carl-01</id>
+        <chief id="co-1966-carl-01">
             <person-id>carlson-reynold-erland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1374,8 +1324,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1969-vaug-01</id>
+        <chief id="co-1969-vaug-01">
             <person-id>vaughn-jack-hood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1401,8 +1350,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1971-sacc-01</id>
+        <chief id="co-1971-sacc-01">
             <person-id>saccio-leonard-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1428,8 +1376,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1974-vaky-01</id>
+        <chief id="co-1974-vaky-01">
             <person-id>vaky-viron-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1455,8 +1402,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1976-sanc-01</id>
+        <chief id="co-1976-sanc-01">
             <person-id>sanchez-phillip-victor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1482,8 +1428,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1977-asen-01</id>
+        <chief id="co-1977-asen-01">
             <person-id>asencio-diego-cortes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1509,8 +1454,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1980-boya-01</id>
+        <chief id="co-1980-boya-01">
             <person-id>boyatt-thomas-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1536,8 +1480,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1983-tamb-01</id>
+        <chief id="co-1983-tamb-01">
             <person-id>tambs-lewis-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1563,8 +1506,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1985-gill-01</id>
+        <chief id="co-1985-gill-01">
             <person-id>gillespie-charles-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1590,8 +1532,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-09</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1988-mcna-01</id>
+        <chief id="co-1988-mcna-01">
             <person-id>mcnamara-thomas-edmund</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1617,8 +1558,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1991-busb-01</id>
+        <chief id="co-1991-busb-01">
             <person-id>busby-morris-dempson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1644,8 +1584,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1994-frec-01</id>
+        <chief id="co-1994-frec-01">
             <person-id>frechette-myles-robert-rene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1671,8 +1610,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1998-kamm-01</id>
+        <chief id="co-1998-kamm-01">
             <person-id>kamman-curtis-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1698,8 +1636,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-2000-patt-01</id>
+        <chief id="co-2000-patt-01">
             <person-id>patterson-anne-woods</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1725,8 +1662,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>co-2003-wood-01</id>
+        <chief id="co-2003-wood-01">
             <person-id>wood-william-braucher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1752,8 +1688,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief>
-            <id>co-2007-brow-01</id>
+        <chief id="co-2007-brow-01">
             <person-id>brownfield-william-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1779,8 +1714,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
-        <chief>
-            <id>co-2010-mcki-01</id>
+        <chief id="co-2010-mcki-01">
             <person-id>mckinley-peter-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1806,8 +1740,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>co-2014-whit-01</id>
+        <chief id="co-2014-whit-01">
             <person-id>whitaker-kevin-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1833,8 +1766,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-08-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-2019-gold-01</id>
+        <chief id="co-2019-gold-01">
             <person-id>goldberg-philip-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1861,9 +1793,8 @@
             <last-modified-date>2019-09-25</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>co--kerr-01</id>
+    <other-nomines>
+        <chief id="co--kerr-01">
             <person-id>kerr-john-bozman</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1889,8 +1820,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1854-gree-01</id>
+        <chief id="co-1854-gree-01">
             <person-id>green-james-stephen</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1916,8 +1846,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co--bowl-01</id>
+        <chief id="co--bowl-01">
             <person-id>bowlin-james-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1943,8 +1872,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1861-burt-01</id>
+        <chief id="co-1861-burt-01">
             <person-id>burton-allan-a</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1971,8 +1899,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co--john-01</id>
+        <chief id="co--john-01">
             <person-id>johnson-james</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -1998,8 +1925,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1866-camp-01</id>
+        <chief id="co-1866-camp-01">
             <person-id>campbell-james-hepburn</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -2025,8 +1951,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co-1935-brad-01</id>
+        <chief id="co-1935-brad-01">
             <person-id>braden-spruille</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -2052,8 +1977,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>co--macm-01</id>
+        <chief id="co--macm-01">
             <person-id>macmanus-joseph-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>colombia</contemporary-territory-id>
@@ -2079,5 +2003,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

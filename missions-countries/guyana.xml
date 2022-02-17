@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>guyana</territory-id>
     <chiefs>
-        <chief>
-            <id>gy-1966-carl-01</id>
+        <chief id="gy-1966-carl-01">
             <person-id>carlson-delmar-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1969-king-01</id>
+        <chief id="gy-1969-king-01">
             <person-id>king-spencer-mathews</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1974-kreb-01</id>
+        <chief id="gy-1974-kreb-01">
             <person-id>krebs-max-vance</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1977-burk-01</id>
+        <chief id="gy-1977-burk-01">
             <person-id>burke-john-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1979-robe-01</id>
+        <chief id="gy-1979-robe-01">
             <person-id>roberts-george-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1982-thom-01</id>
+        <chief id="gy-1982-thom-01">
             <person-id>thomas-gerald-eustis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1984-laud-01</id>
+        <chief id="gy-1984-laud-01">
             <person-id>lauderdale-clint-arlen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1987-tull-01</id>
+        <chief id="gy-1987-tull-01">
             <person-id>tull-theresa-anne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1990-hays-01</id>
+        <chief id="gy-1990-hays-01">
             <person-id>hays-dennis-k</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -246,8 +237,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1992-jone-01</id>
+        <chief id="gy-1992-jone-01">
             <person-id>jones-george-fleming</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -273,8 +263,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-10</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1995-hobb-01</id>
+        <chief id="gy-1995-hobb-01">
             <person-id>hobbs-david-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -300,8 +289,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1996-simo-01</id>
+        <chief id="gy-1996-simo-01">
             <person-id>simon-hugh-v</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -327,8 +315,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-1997-mack-01</id>
+        <chief id="gy-1997-mack-01">
             <person-id>mack-james-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -354,8 +341,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-2001-goda-01</id>
+        <chief id="gy-2001-goda-01">
             <person-id>godard-ronald-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -381,8 +367,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-12-02</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-2003-bull-01</id>
+        <chief id="gy-2003-bull-01">
             <person-id>bullen-roland-wentworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -408,8 +393,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-2006-robi-01</id>
+        <chief id="gy-2006-robi-01">
             <person-id>robinson-david-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -435,8 +419,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-2008-jone-01</id>
+        <chief id="gy-2008-jone-01">
             <person-id>jones-john-melvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -462,8 +445,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-2011-hard-01</id>
+        <chief id="gy-2011-hard-01">
             <person-id>hardt-d-brent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -489,8 +471,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-2015-holl-01</id>
+        <chief id="gy-2015-holl-01">
             <person-id>holloway-perry-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -516,8 +497,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>gy-2019-lync-01</id>
+        <chief id="gy-2019-lync-01">
             <person-id>lynch-sarah-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -544,9 +524,8 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>gy--magu-01</id>
+    <other-nomines>
+        <chief id="gy--magu-01">
             <person-id>maguire-william-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>guyana</contemporary-territory-id>
@@ -572,5 +551,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>korea</territory-id>
     <chiefs>
-        <chief>
-            <id>xb-1883-foot-01</id>
+        <chief id="xb-1883-foot-01">
             <person-id>foote-lucius-harwood</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1886-park-01</id>
+        <chief id="xb-1886-park-01">
             <person-id>parker-william-harwar</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1887-dins-01</id>
+        <chief id="xb-1887-dins-01">
             <person-id>dinsmore-hugh-anderson</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1890-hear-01</id>
+        <chief id="xb-1890-hear-01">
             <person-id>heard-augustine</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1894-sill-01</id>
+        <chief id="xb-1894-sill-01">
             <person-id>sill-john-mahelm-berry</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1897-alle-01</id>
+        <chief id="xb-1897-alle-01">
             <person-id>allen-horace-newton</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1901-alle-01</id>
+        <chief id="xb-1901-alle-01">
             <person-id>allen-horace-newton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1905-morg-01</id>
+        <chief id="xb-1905-morg-01">
             <person-id>morgan-edwin-vernon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1949-mucc-01</id>
+        <chief id="xb-1949-mucc-01">
             <person-id>muccio-john-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1952-brig-01</id>
+        <chief id="xb-1952-brig-01">
             <person-id>briggs-ellis-ormsbee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -275,8 +265,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1955-lacy-01</id>
+        <chief id="xb-1955-lacy-01">
             <person-id>lacy-william-sterling-byrd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -302,8 +291,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1956-dowl-01</id>
+        <chief id="xb-1956-dowl-01">
             <person-id>dowling-walter-cecil</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -329,8 +317,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1959-mcco-01</id>
+        <chief id="xb-1959-mcco-01">
             <person-id>mcconaughy-walter-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -357,8 +344,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1961-berg-01</id>
+        <chief id="xb-1961-berg-01">
             <person-id>berger-samuel-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -384,8 +370,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1964-brow-01</id>
+        <chief id="xb-1964-brow-01">
             <person-id>brown-winthrop-gilman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -411,8 +396,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1967-port-01</id>
+        <chief id="xb-1967-port-01">
             <person-id>porter-william-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -438,8 +422,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1971-habi-01</id>
+        <chief id="xb-1971-habi-01">
             <person-id>habib-philip-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -465,8 +448,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1974-snei-01</id>
+        <chief id="xb-1974-snei-01">
             <person-id>sneider-richard-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -492,8 +474,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1978-gley-01</id>
+        <chief id="xb-1978-gley-01">
             <person-id>gleysteen-william-henry-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -519,8 +500,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-09</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1981-walk-01</id>
+        <chief id="xb-1981-walk-01">
             <person-id>walker-richard-louis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -546,8 +526,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1986-lill-01</id>
+        <chief id="xb-1986-lill-01">
             <person-id>lilley-james-roderick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -573,8 +552,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1989-greg-01</id>
+        <chief id="xb-1989-greg-01">
             <person-id>gregg-donald-phinney</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -600,8 +578,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1993-lane-01</id>
+        <chief id="xb-1993-lane-01">
             <person-id>laney-james-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -627,8 +604,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1996-chri-01</id>
+        <chief id="xb-1996-chri-01">
             <person-id>christenson-richard-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -654,8 +630,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-13</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1997-bosw-01</id>
+        <chief id="xb-1997-bosw-01">
             <person-id>bosworth-stephen-warren</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -681,8 +656,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-2001-hubb-01</id>
+        <chief id="xb-2001-hubb-01">
             <person-id>hubbard-thomas-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -708,8 +682,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-2004-hill-01</id>
+        <chief id="xb-2004-hill-01">
             <person-id>hill-christopher-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -735,8 +708,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-2005-vers-01</id>
+        <chief id="xb-2005-vers-01">
             <person-id>vershbow-alexander-russel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -762,8 +734,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-2008-step-01</id>
+        <chief id="xb-2008-step-01">
             <person-id>stephens-doris-kathleen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -789,8 +760,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-2011-kim-01</id>
+        <chief id="xb-2011-kim-01">
             <person-id>kim-sung-y</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -816,8 +786,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-2014-lipp-01</id>
+        <chief id="xb-2014-lipp-01">
             <person-id>lippert-mark-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -843,8 +812,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-2017-knap-01</id>
+        <chief id="xb-2017-knap-01">
             <person-id>knapper-marc-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -870,8 +838,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-2018-harr-01</id>
+        <chief id="xb-2018-harr-01">
             <person-id>harris-harry-b-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>korea</contemporary-territory-id>
@@ -898,9 +865,8 @@
             <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>xb-1884-foot-01</id>
+    <other-nomines>
+        <chief id="xb-1884-foot-01">
             <person-id>foote-lucius-harwood</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -928,8 +894,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>xb-1889-brad-01</id>
+        <chief id="xb-1889-brad-01">
             <person-id>bradley-william-oconnell</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>joseon-dynasty-1910</contemporary-territory-id>
@@ -955,5 +920,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

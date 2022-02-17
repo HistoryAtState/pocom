@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>morocco</territory-id>
     <chiefs>
-        <chief>
-            <id>ma-1906-gumm-01</id>
+        <chief id="ma-1906-gumm-01">
             <person-id>gummere-samuel-rene</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1909-dodg-01</id>
+        <chief id="ma-1909-dodg-01">
             <person-id>dodge-henry-percival</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1910-carp-01</id>
+        <chief id="ma-1910-carp-01">
             <person-id>carpenter-fred-warner</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1912-blak-01</id>
+        <chief id="ma-1912-blak-01">
             <person-id>blake-maxwell</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1917-blak-01</id>
+        <chief id="ma-1917-blak-01">
             <person-id>blake-maxwell</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1922-denn-01</id>
+        <chief id="ma-1922-denn-01">
             <person-id>denning-joseph-m</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1925-blak-01</id>
+        <chief id="ma-1925-blak-01">
             <person-id>blake-maxwell</person-id>
             <role-title-id>diplomatic-agent-consul-general</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1940-whit-01</id>
+        <chief id="ma-1940-whit-01">
             <person-id>white-john-campbell</person-id>
             <role-title-id>diplomatic-agent-consul-general</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1941-chil-01</id>
+        <chief id="ma-1941-chil-01">
             <person-id>childs-james-rives</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -246,8 +237,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1945-alli-01</id>
+        <chief id="ma-1945-alli-01">
             <person-id>alling-paul-humiston</person-id>
             <role-title-id>diplomatic-agent-consul-general</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -273,8 +263,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1947-plit-01</id>
+        <chief id="ma-1947-plit-01">
             <person-id>plitt-edwin-august</person-id>
             <role-title-id>diplomatic-agent-consul-general</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -300,8 +289,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1951-vinc-01</id>
+        <chief id="ma-1951-vinc-01">
             <person-id>vincent-john-carter</person-id>
             <role-title-id>diplomatic-agent-consul-general</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -327,8 +315,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1953-satt-01</id>
+        <chief id="ma-1953-satt-01">
             <person-id>satterthwaite-joseph-charles</person-id>
             <role-title-id>diplomatic-agent-consul-general</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -354,8 +341,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1955-holm-01</id>
+        <chief id="ma-1955-holm-01">
             <person-id>holmes-julius-cecil</person-id>
             <role-title-id>diplomatic-agent-consul-general</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -381,8 +367,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1956-cann-01</id>
+        <chief id="ma-1956-cann-01">
             <person-id>cannon-cavendish-wells</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -408,8 +393,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1958-yost-01</id>
+        <chief id="ma-1958-yost-01">
             <person-id>yost-charles-woodruff</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -435,8 +419,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1961-bons-01</id>
+        <chief id="ma-1961-bons-01">
             <person-id>bonsal-philip-wilson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -462,8 +445,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1962-ferg-01</id>
+        <chief id="ma-1962-ferg-01">
             <person-id>ferguson-john-haven</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -489,8 +471,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1965-tasc-01</id>
+        <chief id="ma-1965-tasc-01">
             <person-id>tasca-henry-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -516,8 +497,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1970-rock-01</id>
+        <chief id="ma-1970-rock-01">
             <person-id>rockwell-stuart-wesson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -543,8 +523,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1973-neum-01</id>
+        <chief id="ma-1973-neum-01">
             <person-id>neumann-robert-gerhard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -570,8 +549,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1976-ande-01</id>
+        <chief id="ma-1976-ande-01">
             <person-id>anderson-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -597,8 +575,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1978-park-01</id>
+        <chief id="ma-1978-park-01">
             <person-id>parker-richard-bordeaux</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -624,8 +601,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1979-duke-01</id>
+        <chief id="ma-1979-duke-01">
             <person-id>duke-angier-biddle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -651,8 +627,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1981-reed-01</id>
+        <chief id="ma-1981-reed-01">
             <person-id>reed-joseph-verner</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -678,8 +653,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1985-nass-01</id>
+        <chief id="ma-1985-nass-01">
             <person-id>nassif-thomas-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -705,8 +679,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1989-usse-01</id>
+        <chief id="ma-1989-usse-01">
             <person-id>ussery-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -733,8 +706,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1992-vree-01</id>
+        <chief id="ma-1992-vree-01">
             <person-id>vreeland-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -760,8 +732,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1994-gins-01</id>
+        <chief id="ma-1994-gins-01">
             <person-id>ginsberg-marc-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -787,8 +758,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1997-usre-01</id>
+        <chief id="ma-1997-usre-01">
             <person-id>usrey-gary-s</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -814,8 +784,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-1998-gabr-01</id>
+        <chief id="ma-1998-gabr-01">
             <person-id>gabriel-edward-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -841,8 +810,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-2001-tutw-01</id>
+        <chief id="ma-2001-tutw-01">
             <person-id>tutwiler-margaret-debardeleben</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -868,8 +836,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-2004-rile-01</id>
+        <chief id="ma-2004-rile-01">
             <person-id>riley-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -895,8 +862,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-2010-kapl-01</id>
+        <chief id="ma-2010-kapl-01">
             <person-id>kaplan-samuel-louis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -922,8 +888,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-23</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-2014-bush-01</id>
+        <chief id="ma-2014-bush-01">
             <person-id>bush-dwight-lamar-sr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -949,8 +914,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-2017-mile-01</id>
+        <chief id="ma-2017-mile-01">
             <person-id>miley-stephanie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -976,8 +940,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ma-2020-fisc-01</id>
+        <chief id="ma-2020-fisc-01">
             <person-id>fischer-david-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -1004,9 +967,8 @@
             <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ma--stra-01</id>
+    <other-nomines>
+        <chief id="ma--stra-01">
             <person-id>strausz-hupe-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -1032,8 +994,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ma--berg-01</id>
+        <chief id="ma--berg-01">
             <person-id>bergold-harry-earl-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>morocco</contemporary-territory-id>
@@ -1060,5 +1021,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

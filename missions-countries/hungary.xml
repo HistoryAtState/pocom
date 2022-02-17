@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>hungary</territory-id>
     <chiefs>
-        <chief>
-            <id>hu-1922-bren-01</id>
+        <chief id="hu-1922-bren-01">
             <person-id>brentano-theodore</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1927-wrig-01</id>
+        <chief id="hu-1927-wrig-01">
             <person-id>wright-joshua-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1930-roos-01</id>
+        <chief id="hu-1930-roos-01">
             <person-id>roosevelt-nicholas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1933-mont-01</id>
+        <chief id="hu-1933-mont-01">
             <person-id>montgomery-john-flournoy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1941-pell-01</id>
+        <chief id="hu-1941-pell-01">
             <person-id>pell-herbert-claiborne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1946-scho-01</id>
+        <chief id="hu-1946-scho-01">
             <person-id>schoenfeld-hans-frederick-arthur</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1947-chap-01</id>
+        <chief id="hu-1947-chap-01">
             <person-id>chapin-selden</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1949-davi-01</id>
+        <chief id="hu-1949-davi-01">
             <person-id>davis-nathaniel-penistone</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1952-ravn-01</id>
+        <chief id="hu-1952-ravn-01">
             <person-id>ravndal-christian-magelssen</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1957-acke-01</id>
+        <chief id="hu-1957-acke-01">
             <person-id>ackerson-garret-g</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1961-torb-01</id>
+        <chief id="hu-1961-torb-01">
             <person-id>torbert-horace-gates</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1962-jone-01</id>
+        <chief id="hu-1962-jone-01">
             <person-id>jones-owen-thomas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1964-osha-01</id>
+        <chief id="hu-1964-osha-01">
             <person-id>oshaunessy-elim</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1966-tims-01</id>
+        <chief id="hu-1966-tims-01">
             <person-id>tims-richard-womser</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -383,8 +369,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1967-hill-01</id>
+        <chief id="hu-1967-hill-01">
             <person-id>hillenbrand-martin-joseph-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -410,8 +395,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1969-puha-01</id>
+        <chief id="hu-1969-puha-01">
             <person-id>puhan-alfred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -437,8 +421,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1973-pede-01</id>
+        <chief id="hu-1973-pede-01">
             <person-id>pedersen-richard-foote</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -464,8 +447,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1975-mcau-01</id>
+        <chief id="hu-1975-mcau-01">
             <person-id>mcauliffe-eugene-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -491,8 +473,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1977-kais-01</id>
+        <chief id="hu-1977-kais-01">
             <person-id>kaiser-philip-mayer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -518,8 +499,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-11</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1980-berg-01</id>
+        <chief id="hu-1980-berg-01">
             <person-id>bergold-harry-earl-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -545,8 +525,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-06-04</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1983-salg-01</id>
+        <chief id="hu-1983-salg-01">
             <person-id>salgo-nicolas-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -572,8 +551,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1986-palm-01</id>
+        <chief id="hu-1986-palm-01">
             <person-id>palmer-robie-marcus-hooker</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -599,8 +577,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1990-thom-01</id>
+        <chief id="hu-1990-thom-01">
             <person-id>thomas-charles-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -626,8 +603,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1994-blin-01</id>
+        <chief id="hu-1994-blin-01">
             <person-id>blinken-donald-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -653,8 +629,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-1997-tufo-01</id>
+        <chief id="hu-1997-tufo-01">
             <person-id>tufo-peter-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -680,8 +655,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-2001-brin-01</id>
+        <chief id="hu-2001-brin-01">
             <person-id>brinker-nancy-goodman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -707,8 +681,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-11-05</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-2003-walk-01</id>
+        <chief id="hu-2003-walk-01">
             <person-id>walker-george-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -734,8 +707,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-2006-fole-01</id>
+        <chief id="hu-2006-fole-01">
             <person-id>foley-april-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -761,8 +733,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-2010-koun-01</id>
+        <chief id="hu-2010-koun-01">
             <person-id>kounalakis-eleni-tsakopoulos</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -788,8 +759,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-2013-good-01</id>
+        <chief id="hu-2013-good-01">
             <person-id>goodfriend-mark-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -815,8 +785,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-2015-bell-01</id>
+        <chief id="hu-2015-bell-01">
             <person-id>bell-colleen-bradley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -842,8 +811,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-2017-kost-01</id>
+        <chief id="hu-2017-kost-01">
             <person-id>kostelancik-david</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -869,8 +837,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>hu-2018-corn-01</id>
+        <chief id="hu-2018-corn-01">
             <person-id>cornstein-david-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -897,9 +864,8 @@
             <last-modified-date>2020-10-30</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>hu-1956-wail-01</id>
+    <other-nomines>
+        <chief id="hu-1956-wail-01">
             <person-id>wailes-edward-thompson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>hungary</contemporary-territory-id>
@@ -926,5 +892,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

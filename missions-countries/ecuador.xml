@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>ecuador</territory-id>
     <chiefs>
-        <chief>
-            <id>ec-1848-livi-01</id>
+        <chief id="ec-1848-livi-01">
             <person-id>livingston-van-brugh</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1849-van-01</id>
+        <chief id="ec-1849-van-01">
             <person-id>van-alen-john-trumbull</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1851-cush-01</id>
+        <chief id="ec-1851-cush-01">
             <person-id>cushing-courtland</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1853-whit-01</id>
+        <chief id="ec-1853-whit-01">
             <person-id>white-philo</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1854-whit-01</id>
+        <chief id="ec-1854-whit-01">
             <person-id>white-philo</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1858-buck-01</id>
+        <chief id="ec-1858-buck-01">
             <person-id>buckalew-charles-rollin</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1861-hass-01</id>
+        <chief id="ec-1861-hass-01">
             <person-id>hassaurek-frederick-friedrich</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1866-cogg-01</id>
+        <chief id="ec-1866-cogg-01">
             <person-id>coggeshall-william-turner</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1870-wing-01</id>
+        <chief id="ec-1870-wing-01">
             <person-id>wing-edward-rumsey</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -248,8 +239,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1875-wull-01</id>
+        <chief id="ec-1875-wull-01">
             <person-id>wullweber-christian-friedrich-wilhelm-jurgen</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -276,8 +266,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1892-maha-01</id>
+        <chief id="ec-1892-maha-01">
             <person-id>mahany-rowland-blennerhassett</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -303,8 +292,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1894-stro-01</id>
+        <chief id="ec-1894-stro-01">
             <person-id>strobel-edward-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -330,8 +318,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1895-till-01</id>
+        <chief id="ec-1895-till-01">
             <person-id>tillman-james-davidson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -357,8 +344,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1897-samp-01</id>
+        <chief id="ec-1897-samp-01">
             <person-id>sampson-archibald-johnson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -385,8 +371,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1905-lee-01</id>
+        <chief id="ec-1905-lee-01">
             <person-id>lee-joseph-wilcox-jenkins</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -413,8 +398,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1907-fox-01</id>
+        <chief id="ec-1907-fox-01">
             <person-id>fox-williams-carlton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -440,8 +424,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1911-youn-01</id>
+        <chief id="ec-1911-youn-01">
             <person-id>young-evan-erastus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -467,8 +450,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1913-schu-01</id>
+        <chief id="ec-1913-schu-01">
             <person-id>schuyler-montgomery</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -494,8 +476,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1913-hart-01</id>
+        <chief id="ec-1913-hart-01">
             <person-id>hartman-charles-sampson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -521,8 +502,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1922-badi-01</id>
+        <chief id="ec-1922-badi-01">
             <person-id>bading-gerhard-adolph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -548,8 +528,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1930-daws-01</id>
+        <chief id="ec-1930-daws-01">
             <person-id>dawson-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -575,8 +554,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1935-gonz-01</id>
+        <chief id="ec-1935-gonz-01">
             <person-id>gonzalez-antonio-cornelius</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -603,8 +581,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1938-long-01</id>
+        <chief id="ec-1938-long-01">
             <person-id>long-boaz-walton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -630,8 +607,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1942-long-01</id>
+        <chief id="ec-1942-long-01">
             <person-id>long-boaz-walton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -657,8 +633,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1943-scot-01</id>
+        <chief id="ec-1943-scot-01">
             <person-id>scotten-robert-mcgregor</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -684,8 +659,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1947-simm-01</id>
+        <chief id="ec-1947-simm-01">
             <person-id>simmons-john-farr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -711,8 +685,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1951-dani-01</id>
+        <chief id="ec-1951-dani-01">
             <person-id>daniels-paul-clement</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -738,8 +711,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1954-mill-01</id>
+        <chief id="ec-1954-mill-01">
             <person-id>mills-sheldon-tibbetts</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -765,8 +737,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1956-ravn-01</id>
+        <chief id="ec-1956-ravn-01">
             <person-id>ravndal-christian-magelssen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -792,8 +763,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1960-bern-01</id>
+        <chief id="ec-1960-bern-01">
             <person-id>bernbaum-maurice-marshall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -820,8 +790,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1965-coer-01</id>
+        <chief id="ec-1965-coer-01">
             <person-id>coerr-wymberley-derenne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -847,8 +816,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1968-sess-01</id>
+        <chief id="ec-1968-sess-01">
             <person-id>sessions-edson-oliver</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -874,8 +842,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1970-burn-01</id>
+        <chief id="ec-1970-burn-01">
             <person-id>burns-findley-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -901,8 +868,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1973-brew-01</id>
+        <chief id="ec-1973-brew-01">
             <person-id>brewster-robert-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -928,8 +894,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1976-bloo-01</id>
+        <chief id="ec-1976-bloo-01">
             <person-id>bloomfield-richard-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -955,8 +920,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-13</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1978-gonz-01</id>
+        <chief id="ec-1978-gonz-01">
             <person-id>gonzalez-raymond-emmanuel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -982,8 +946,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1982-hart-01</id>
+        <chief id="ec-1982-hart-01">
             <person-id>hart-samuel-friedlander</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1009,8 +972,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1985-rond-01</id>
+        <chief id="ec-1985-rond-01">
             <person-id>rondon-fernando-enrique</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1036,8 +998,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1988-holw-01</id>
+        <chief id="ec-1988-holw-01">
             <person-id>holwill-richard-newton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1063,8 +1024,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1990-lamb-01</id>
+        <chief id="ec-1990-lamb-01">
             <person-id>lambert-paul-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1090,8 +1050,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1992-mack-01</id>
+        <chief id="ec-1992-mack-01">
             <person-id>mack-james-f</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1117,8 +1076,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1993-rome-01</id>
+        <chief id="ec-1993-rome-01">
             <person-id>romero-peter-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1144,8 +1102,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1996-alex-01</id>
+        <chief id="ec-1996-alex-01">
             <person-id>alexander-leslie-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1171,8 +1128,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1999-clar-01</id>
+        <chief id="ec-1999-clar-01">
             <person-id>clare-gwen-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1198,8 +1154,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-2002-kenn-01</id>
+        <chief id="ec-2002-kenn-01">
             <person-id>kenney-kristie-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1225,8 +1180,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-2005-jewe-01</id>
+        <chief id="ec-2005-jewe-01">
             <person-id>jewell-linda</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1252,8 +1206,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-2008-hodg-01</id>
+        <chief id="ec-2008-hodg-01">
             <person-id>hodges-heather-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1279,8 +1232,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-2012-namm-01</id>
+        <chief id="ec-2012-namm-01">
             <person-id>namm-adam-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1306,8 +1258,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-2016-chap-01</id>
+        <chief id="ec-2016-chap-01">
             <person-id>chapman-todd-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1333,8 +1284,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-06-10</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-2019-fitz-01</id>
+        <chief id="ec-2019-fitz-01">
             <person-id>fitzpatrick-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1361,9 +1311,8 @@
             <last-modified-date>2019-06-24</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ec--whit-01</id>
+    <other-nomines>
+        <chief id="ec--whit-01">
             <person-id>white-philo</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1389,8 +1338,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec--hubb-01</id>
+        <chief id="ec--hubb-01">
             <person-id>hubbell-james-randolph</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1416,8 +1364,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec--park-01</id>
+        <chief id="ec--park-01">
             <person-id>parker-george-h</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1443,8 +1390,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec--wate-01</id>
+        <chief id="ec--wate-01">
             <person-id>waters-shelah</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1470,8 +1416,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec--russ-01</id>
+        <chief id="ec--russ-01">
             <person-id>russell-alexander-l</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1497,8 +1442,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1869-nunn-01</id>
+        <chief id="ec-1869-nunn-01">
             <person-id>nunn-david-alexander</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1524,8 +1468,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ec--mane-01</id>
+        <chief id="ec--mane-01">
             <person-id>maney-george-earl</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1551,8 +1494,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1875-bidd-01</id>
+        <chief id="ec-1875-bidd-01">
             <person-id>biddle-thomas</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1578,8 +1520,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1930-gunt-01</id>
+        <chief id="ec-1930-gunt-01">
             <person-id>gunther-franklin-mott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1605,8 +1546,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ec-1960-karr-01</id>
+        <chief id="ec-1960-karr-01">
             <person-id>karrick-david-brewer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1633,8 +1573,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-31</last-modified-date>
         </chief>
-        <chief>
-            <id>ec--ligh-01</id>
+        <chief id="ec--ligh-01">
             <person-id>light-walter-scott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ecuador</contemporary-territory-id>
@@ -1660,5 +1599,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

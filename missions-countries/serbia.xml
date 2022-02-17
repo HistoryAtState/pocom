@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>serbia</territory-id>
     <chiefs>
-        <chief>
-            <id>rs-1882-schu-01</id>
+        <chief id="rs-1882-schu-01">
             <person-id>schuyler-eugene</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1885-fear-01</id>
+        <chief id="rs-1885-fear-01">
             <person-id>fearn-john-walker</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1889-snow-01</id>
+        <chief id="rs-1889-snow-01">
             <person-id>snowden-archibald-loudon</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1894-alex-01</id>
+        <chief id="rs-1894-alex-01">
             <person-id>alexander-eben</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1898-rock-01</id>
+        <chief id="rs-1898-rock-01">
             <person-id>rockhill-william-woodville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1898-rock-01</id>
+        <chief id="rs-1898-rock-02">
             <person-id>rockhill-william-woodville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1900-hard-01</id>
+        <chief id="rs-1900-hard-01">
             <person-id>hardy-arthur-sherburne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -194,8 +187,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1901-fran-01</id>
+        <chief id="rs-1901-fran-01">
             <person-id>francis-charles-spencer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -221,8 +213,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1906-ridd-01</id>
+        <chief id="rs-1906-ridd-01">
             <person-id>riddle-john-wallace</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -248,8 +239,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1907-know-01</id>
+        <chief id="rs-1907-know-01">
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -276,8 +266,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1910-cart-01</id>
+        <chief id="rs-1910-cart-01">
             <person-id>carter-john-ridgely</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -304,8 +293,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1910-cart-01</id>
+        <chief id="rs-1910-cart-02">
             <person-id>carter-john-ridgely</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -331,8 +319,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1912-jack-01</id>
+        <chief id="rs-1912-jack-01">
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -358,8 +345,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1913-vopi-01</id>
+        <chief id="rs-1913-vopi-01">
             <person-id>vopicka-charles-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -385,8 +371,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-2002-mont-01</id>
+        <chief id="rs-2002-mont-01">
             <person-id>montgomery-william-dale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -414,8 +399,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-2004-polt-01</id>
+        <chief id="rs-2004-polt-01">
             <person-id>polt-michael-christian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -443,8 +427,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-2007-munt-01</id>
+        <chief id="rs-2007-munt-01">
             <person-id>munter-cameron-phelps</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -470,8 +453,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-2010-warl-01</id>
+        <chief id="rs-2010-warl-01">
             <person-id>warlick-mary-burce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -497,8 +479,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-2012-kirb-01</id>
+        <chief id="rs-2012-kirb-01">
             <person-id>kirby-michael-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -524,8 +505,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-2016-scot-01</id>
+        <chief id="rs-2016-scot-01">
             <person-id>scott-kyle-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -551,8 +531,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-2019-godf-01</id>
+        <chief id="rs-2019-godf-01">
             <person-id>godfrey-anthony-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -579,9 +558,8 @@
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>rs-1891-snow-01</id>
+    <other-nomines>
+        <chief id="rs-1891-snow-01">
             <person-id>snowden-archibald-loudon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -609,8 +587,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1892-beal-01</id>
+        <chief id="rs-1892-beal-01">
             <person-id>beale-truxtun</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -636,8 +613,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1892-beal-01</id>
+        <chief id="rs-1892-beal-02">
             <person-id>beale-truxtun</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -663,8 +639,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1893-beal-01</id>
+        <chief id="rs-1893-beal-01">
             <person-id>beale-truxtun</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary-consul-general</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -690,8 +665,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1902-wils-01</id>
+        <chief id="rs-1902-wils-01">
             <person-id>wilson-henry-lane</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -717,8 +691,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1902-jack-01</id>
+        <chief id="rs-1902-jack-01">
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -746,8 +719,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1904-jack-01</id>
+        <chief id="rs-1904-jack-01">
             <person-id>jackson-john-brinkerhoff</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -774,8 +746,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1907-know-01</id>
+        <chief id="rs-1907-know-02">
             <person-id>knowles-horace-greeley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -801,8 +772,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1908-wils-01</id>
+        <chief id="rs-1908-wils-01">
             <person-id>wilson-francis-mairs-huntington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -828,8 +798,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-11-16</last-modified-date>
         </chief>
-        <chief>
-            <id>rs-1909-eddy-01</id>
+        <chief id="rs-1909-eddy-01">
             <person-id>eddy-spencer-fayette</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>serbia</contemporary-territory-id>
@@ -855,5 +824,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

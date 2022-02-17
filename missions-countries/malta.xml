@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>malta</territory-id>
     <chiefs>
-        <chief>
-            <id>mt-1964-lewi-01</id>
+        <chief id="mt-1964-lewi-01">
             <person-id>lewis-harrison</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1965-feld-01</id>
+        <chief id="mt-1965-feld-01">
             <person-id>feldman-george-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1967-smyt-01</id>
+        <chief id="mt-1967-smyt-01">
             <person-id>smythe-hugh-heyne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1969-prit-01</id>
+        <chief id="mt-1969-prit-01">
             <person-id>pritzlaff-john-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1972-getz-01</id>
+        <chief id="mt-1972-getz-01">
             <person-id>getz-john-ives</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1974-smit-01</id>
+        <chief id="mt-1974-smit-01">
             <person-id>smith-robert-powell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1977-lain-01</id>
+        <chief id="mt-1977-lain-01">
             <person-id>laingen-lowell-bruce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1979-clar-01</id>
+        <chief id="mt-1979-clar-01">
             <person-id>clark-joan-margaret</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1981-ward-01</id>
+        <chief id="mt-1981-ward-01">
             <person-id>wardlaw-frank-p</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -246,8 +237,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1982-rent-01</id>
+        <chief id="mt-1982-rent-01">
             <person-id>rentschler-james-malone</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -273,8 +263,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1985-matt-01</id>
+        <chief id="mt-1985-matt-01">
             <person-id>matthews-gary-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -300,8 +289,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1987-somm-01</id>
+        <chief id="mt-1987-somm-01">
             <person-id>sommer-peter-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -327,8 +315,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1989-nove-01</id>
+        <chief id="mt-1989-nove-01">
             <person-id>novetzke-sally-johnson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -354,8 +341,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1993-moff-01</id>
+        <chief id="mt-1993-moff-01">
             <person-id>moffitt-william-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -381,8 +367,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1994-paol-01</id>
+        <chief id="mt-1994-paol-01">
             <person-id>paolino-joseph-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -408,8 +393,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1996-patt-01</id>
+        <chief id="mt-1996-patt-01">
             <person-id>patterson-charles-n</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -435,8 +419,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-19</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-1998-prof-01</id>
+        <chief id="mt-1998-prof-01">
             <person-id>proffitt-kathryn-linda-haycock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -462,8 +445,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-2001-gioi-01</id>
+        <chief id="mt-2001-gioi-01">
             <person-id>gioia-anthony-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -489,8 +471,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-2005-bord-01</id>
+        <chief id="mt-2005-bord-01">
             <person-id>bordonaro-molly-hering</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -516,8 +497,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-2009-kmie-01</id>
+        <chief id="mt-2009-kmie-01">
             <person-id>kmiec-douglas-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -543,8 +523,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-2012-aber-01</id>
+        <chief id="mt-2012-aber-01">
             <person-id>abercrombie-winstanley-gina-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -570,8 +549,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-2016-hill-01</id>
+        <chief id="mt-2016-hill-01">
             <person-id>hill-g-kathleen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -597,8 +575,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>mt-2018-scha-01</id>
+        <chief id="mt-2018-scha-01">
             <person-id>schapiro-mark-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -625,9 +602,8 @@
             <last-modified-date>2020-09-10</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>mt--tore-01</id>
+    <other-nomines>
+        <chief id="mt--tore-01">
             <person-id>toretti-christine-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>malta</contemporary-territory-id>
@@ -653,5 +629,5 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>marshall-islands</territory-id>
     <chiefs>
-        <chief>
-            <id>mh-1987-thom-01</id>
+        <chief id="mh-1987-thom-01">
             <person-id>thomsen-samuel-b</person-id>
             <role-title-id>representative</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-1990-bodd-01</id>
+        <chief id="mh-1990-bodd-01">
             <person-id>bodde-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-1992-fiel-01</id>
+        <chief id="mh-1992-fiel-01">
             <person-id>fields-david-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-1996-plai-01</id>
+        <chief id="mh-1996-plai-01">
             <person-id>plaisted-joan-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-2001-senk-01</id>
+        <chief id="mh-2001-senk-01">
             <person-id>senko-michael-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-2003-morr-01</id>
+        <chief id="mh-2003-morr-01">
             <person-id>morris-greta-n</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-2006-bish-01</id>
+        <chief id="mh-2006-bish-01">
             <person-id>bishop-clyde</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-2009-camp-01</id>
+        <chief id="mh-2009-camp-01">
             <person-id>campbell-martha-larzelere</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-2012-armb-01</id>
+        <chief id="mh-2012-armb-01">
             <person-id>armbruster-thomas-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-2016-stew-01</id>
+        <chief id="mh-2016-stew-01">
             <person-id>stewart-karen-brevard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-01-28</last-modified-date>
         </chief>
-        <chief>
-            <id>mh-2020-cabr-01</id>
+        <chief id="mh-2020-cabr-01">
             <person-id>cabral-roxanne-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>marshall-islands</contemporary-territory-id>
@@ -300,5 +289,5 @@
             <last-modified-date>2020-02-07</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

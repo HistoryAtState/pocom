@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>russia</territory-id>
     <chiefs>
-        <chief>
-            <id>ru-1809-adam-01</id>
+        <chief id="ru-1809-adam-01">
             <person-id>adams-john-quincy</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1817-pink-01</id>
+        <chief id="ru-1817-pink-01">
             <person-id>pinkney-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1819-camp-01</id>
+        <chief id="ru-1819-camp-01">
             <person-id>campbell-george-washington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1821-midd-01</id>
+        <chief id="ru-1821-midd-01">
             <person-id>middleton-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1832-buch-01</id>
+        <chief id="ru-1832-buch-01">
             <person-id>buchanan-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1834-wilk-01</id>
+        <chief id="ru-1834-wilk-01">
             <person-id>wilkins-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1836-clay-01</id>
+        <chief id="ru-1836-clay-01">
             <person-id>clay-john-randolph</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1837-dall-01</id>
+        <chief id="ru-1837-dall-01">
             <person-id>dallas-george-mifflin</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1840-camb-01</id>
+        <chief id="ru-1840-camb-01">
             <person-id>cambreleng-churchill-caldom</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1841-todd-01</id>
+        <chief id="ru-1841-todd-01">
             <person-id>todd-charles-stewart</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1847-inge-01</id>
+        <chief id="ru-1847-inge-01">
             <person-id>ingersoll-ralph-isaacs</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -299,8 +288,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1849-bagb-01</id>
+        <chief id="ru-1849-bagb-01">
             <person-id>bagby-arthur-pendleton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -326,8 +314,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1850-brow-01</id>
+        <chief id="ru-1850-brow-01">
             <person-id>brown-neill-smith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -353,8 +340,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1854-seym-01</id>
+        <chief id="ru-1854-seym-01">
             <person-id>seymour-thomas-hart</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -381,8 +367,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1858-pick-01</id>
+        <chief id="ru-1858-pick-01">
             <person-id>pickens-francis-wilkinson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -408,8 +393,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1860-appl-01</id>
+        <chief id="ru-1860-appl-01">
             <person-id>appleton-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -435,8 +419,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1861-clay-01</id>
+        <chief id="ru-1861-clay-01">
             <person-id>clay-cassius-marcellus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -462,8 +445,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1862-came-01</id>
+        <chief id="ru-1862-came-01">
             <person-id>cameron-simon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -489,8 +471,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1863-clay-01</id>
+        <chief id="ru-1863-clay-01">
             <person-id>clay-cassius-marcellus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -516,8 +497,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1869-curt-01</id>
+        <chief id="ru-1869-curt-01">
             <person-id>curtin-andrew-gregg</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -543,8 +523,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1873-orr-01</id>
+        <chief id="ru-1873-orr-01">
             <person-id>orr-james-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -570,8 +549,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1873-jewe-01</id>
+        <chief id="ru-1873-jewe-01">
             <person-id>jewell-marshall</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -598,8 +576,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1875-boke-01</id>
+        <chief id="ru-1875-boke-01">
             <person-id>boker-george-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -625,8 +602,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1878-stou-01</id>
+        <chief id="ru-1878-stou-01">
             <person-id>stoughton-edwin-wallace</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -652,8 +628,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1880-fost-01</id>
+        <chief id="ru-1880-fost-01">
             <person-id>foster-john-watson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -679,8 +654,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1882-hunt-01</id>
+        <chief id="ru-1882-hunt-01">
             <person-id>hunt-william-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -706,8 +680,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1884-taft-01</id>
+        <chief id="ru-1884-taft-01">
             <person-id>taft-alphonso</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -733,8 +706,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1885-loth-01</id>
+        <chief id="ru-1885-loth-01">
             <person-id>lothrop-george-van-ness</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -761,8 +733,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1889-tree-01</id>
+        <chief id="ru-1889-tree-01">
             <person-id>tree-lambert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -788,8 +759,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1890-smit-01</id>
+        <chief id="ru-1890-smit-01">
             <person-id>smith-charles-emory</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -815,8 +785,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1892-whit-01</id>
+        <chief id="ru-1892-whit-01">
             <person-id>white-andrew-dickson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -842,8 +811,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1894-brec-01</id>
+        <chief id="ru-1894-brec-01">
             <person-id>breckinridge-clifton-rodes</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -869,8 +837,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1897-hitc-01</id>
+        <chief id="ru-1897-hitc-01">
             <person-id>hitchcock-ethan-allen</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -897,8 +864,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1898-hitc-01</id>
+        <chief id="ru-1898-hitc-01">
             <person-id>hitchcock-ethan-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -924,8 +890,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1899-towe-01</id>
+        <chief id="ru-1899-towe-01">
             <person-id>tower-charlemagne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -951,8 +916,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1903-mcco-01</id>
+        <chief id="ru-1903-mcco-01">
             <person-id>mccormick-robert-sanderson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -979,8 +943,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1905-meye-01</id>
+        <chief id="ru-1905-meye-01">
             <person-id>meyer-george-von-lengerke</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1006,8 +969,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1907-ridd-01</id>
+        <chief id="ru-1907-ridd-01">
             <person-id>riddle-john-wallace</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1033,8 +995,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1910-rock-01</id>
+        <chief id="ru-1910-rock-01">
             <person-id>rockhill-william-woodville</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1060,8 +1021,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1911-guil-01</id>
+        <chief id="ru-1911-guil-01">
             <person-id>guild-curtis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1087,8 +1047,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1914-mary-01</id>
+        <chief id="ru-1914-mary-01">
             <person-id>marye-george-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1114,8 +1073,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1916-fran-01</id>
+        <chief id="ru-1916-fran-01">
             <person-id>francis-david-rowland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1142,8 +1100,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1919-09-14-cole-01</id>
+        <chief id="ru-1919-09-14-cole-01">
             <person-id>cole-felix</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1169,8 +1126,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1933-bull-01</id>
+        <chief id="ru-1933-bull-01">
             <person-id>bullitt-william-christian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1197,8 +1153,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1937-davi-01</id>
+        <chief id="ru-1937-davi-01">
             <person-id>davies-joseph-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1225,8 +1180,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1939-stei-01</id>
+        <chief id="ru-1939-stei-01">
             <person-id>steinhardt-laurence-adolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1252,8 +1206,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1942-stan-01</id>
+        <chief id="ru-1942-stan-01">
             <person-id>standley-william-harrison</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1279,8 +1232,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1943-harr-01</id>
+        <chief id="ru-1943-harr-01">
             <person-id>harriman-william-averell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1306,8 +1258,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1946-smit-01</id>
+        <chief id="ru-1946-smit-01">
             <person-id>smith-walter-bedell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1333,8 +1284,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1949-kirk-01</id>
+        <chief id="ru-1949-kirk-01">
             <person-id>kirk-alan-goodrich</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1360,8 +1310,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1952-kenn-01</id>
+        <chief id="ru-1952-kenn-01">
             <person-id>kennan-george-frost</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1389,8 +1338,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1953-bohl-01</id>
+        <chief id="ru-1953-bohl-01">
             <person-id>bohlen-charles-eustis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1416,8 +1364,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1957-thom-01</id>
+        <chief id="ru-1957-thom-01">
             <person-id>thompson-llewellyn-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1443,8 +1390,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1962-kohl-01</id>
+        <chief id="ru-1962-kohl-01">
             <person-id>kohler-foy-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1470,8 +1416,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1967-thom-01</id>
+        <chief id="ru-1967-thom-01">
             <person-id>thompson-llewellyn-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1497,8 +1442,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1969-beam-01</id>
+        <chief id="ru-1969-beam-01">
             <person-id>beam-jacob-dyneley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1524,8 +1468,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1973-dubs-01</id>
+        <chief id="ru-1973-dubs-01">
             <person-id>dubs-adolph</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1551,8 +1494,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1974-stoe-01</id>
+        <chief id="ru-1974-stoe-01">
             <person-id>stoessel-walter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1578,8 +1520,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1977-toon-01</id>
+        <chief id="ru-1977-toon-01">
             <person-id>toon-malcolm</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1606,8 +1547,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1979-wats-01</id>
+        <chief id="ru-1979-wats-01">
             <person-id>watson-thomas-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1633,8 +1573,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1981-hart-01</id>
+        <chief id="ru-1981-hart-01">
             <person-id>hartman-arthur-adair</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1660,8 +1599,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1987-matl-01</id>
+        <chief id="ru-1987-matl-01">
             <person-id>matlock-jack-foust</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1687,8 +1625,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1991-stra-01</id>
+        <chief id="ru-1991-stra-01">
             <person-id>strauss-robert-schwarz</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1716,8 +1653,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1993-pick-01</id>
+        <chief id="ru-1993-pick-01">
             <person-id>pickering-thomas-reeve</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1743,8 +1679,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1998-coll-01</id>
+        <chief id="ru-1998-coll-01">
             <person-id>collins-james-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1770,8 +1705,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-2001-vers-01</id>
+        <chief id="ru-2001-vers-01">
             <person-id>vershbow-alexander-russel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1797,8 +1731,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-2005-burn-01</id>
+        <chief id="ru-2005-burn-01">
             <person-id>burns-william-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1824,8 +1757,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-2008-beyr-01</id>
+        <chief id="ru-2008-beyr-01">
             <person-id>beyrle-john-ross</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1851,8 +1783,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-2012-mcfa-01</id>
+        <chief id="ru-2012-mcfa-01">
             <person-id>mcfaul-michael-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1878,8 +1809,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-2014-teff-01</id>
+        <chief id="ru-2014-teff-01">
             <person-id>tefft-john-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1905,8 +1835,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-2017-hunt-01</id>
+        <chief id="ru-2017-hunt-01">
             <person-id>huntsman-jon-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1932,8 +1861,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-2020-sull-01</id>
+        <chief id="ru-2020-sull-01">
             <person-id>sullivan-john-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1960,9 +1888,8 @@
             <last-modified-date>2020-01-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ru-1780-dana-01</id>
+    <other-nomines>
+        <chief id="ru-1780-dana-01">
             <person-id>dana-francis</person-id>
             <role-title-id>minister</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -1989,8 +1916,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1808-shor-01</id>
+        <chief id="ru-1808-shor-01">
             <person-id>short-william</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2017,8 +1943,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1815-baya-01</id>
+        <chief id="ru-1815-baya-01">
             <person-id>bayard-james-asheton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2044,8 +1969,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1830-rand-01</id>
+        <chief id="ru-1830-rand-01">
             <person-id>randolph-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2072,8 +1996,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1834-dick-01</id>
+        <chief id="ru-1834-dick-01">
             <person-id>dickerson-mahlon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2099,8 +2022,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru--daws-01</id>
+        <chief id="ru--daws-01">
             <person-id>dawson-john-littleton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2126,8 +2048,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru--smyt-01</id>
+        <chief id="ru--smyt-01">
             <person-id>smythe-henry-a</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2153,8 +2074,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru--sarg-01</id>
+        <chief id="ru--sarg-01">
             <person-id>sargent-aaron-augustus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2180,8 +2100,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru--lawt-01</id>
+        <chief id="ru--lawt-01">
             <person-id>lawton-alexander-robert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2207,8 +2126,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1889-rice-01</id>
+        <chief id="ru-1889-rice-01">
             <person-id>rice-charles-allen-thorndike</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2235,8 +2153,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ru-1914-pind-01</id>
+        <chief id="ru-1914-pind-01">
             <person-id>pindell-henry-means</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>russia</contemporary-territory-id>
@@ -2262,5 +2179,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>san-marino</territory-id>
     <chiefs>
-        <chief>
-            <id>sm-2007-spog-01</id>
+        <chief id="sm-2007-spog-01">
             <person-id>spogli-ronald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>san-marino</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sm-2009-thor-01</id>
+        <chief id="sm-2009-thor-01">
             <person-id>thorne-david-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>san-marino</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>sm-2014-phil-01</id>
+        <chief id="sm-2014-phil-01">
             <person-id>phillips-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>san-marino</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>sm-2017-eise-01</id>
+        <chief id="sm-2017-eise-01">
             <person-id>eisenberg-lewis-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>san-marino</contemporary-territory-id>
@@ -111,5 +107,5 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

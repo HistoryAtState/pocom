@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>madagascar</territory-id>
     <chiefs>
-        <chief>
-            <id>mg-1960-jaco-01</id>
+        <chief id="mg-1960-jaco-01">
             <person-id>jacobs-john-roland</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1960-bart-01</id>
+        <chief id="mg-1960-bart-01">
             <person-id>bartlett-frederic-pearson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1963-ferg-01</id>
+        <chief id="mg-1963-ferg-01">
             <person-id>ferguson-charles-vaughan-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1967-king-01</id>
+        <chief id="mg-1967-king-01">
             <person-id>king-david-sjodahl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1970-mars-01</id>
+        <chief id="mg-1970-mars-01">
             <person-id>marshall-anthony-dryden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1972-mend-01</id>
+        <chief id="mg-1972-mend-01">
             <person-id>mendenhall-joseph-abraham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1975-shei-01</id>
+        <chief id="mg-1975-shei-01">
             <person-id>sheinbaum-gilbert-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1977-barr-01</id>
+        <chief id="mg-1977-barr-01">
             <person-id>barrett-robert-south</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1980-rond-01</id>
+        <chief id="mg-1980-rond-01">
             <person-id>rondon-fernando-enrique</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1983-keat-01</id>
+        <chief id="mg-1983-keat-01">
             <person-id>keating-robert-brendon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1986-lync-01</id>
+        <chief id="mg-1986-lync-01">
             <person-id>lynch-patricia-gates</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1989-walk-01</id>
+        <chief id="mg-1989-walk-01">
             <person-id>walker-howard-kent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1992-barr-01</id>
+        <chief id="mg-1992-barr-01">
             <person-id>barrett-dennis-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1995-hudd-01</id>
+        <chief id="mg-1995-hudd-01">
             <person-id>huddleston-vicki-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1997-perl-01</id>
+        <chief id="mg-1997-perl-01">
             <person-id>perlow-howard-t</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -409,8 +394,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-1998-barn-01</id>
+        <chief id="mg-1998-barn-01">
             <person-id>barnes-shirley-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -436,8 +420,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-2002-nesb-01</id>
+        <chief id="mg-2002-nesb-01">
             <person-id>nesbitt-wanda-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -463,8 +446,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-10</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-2004-mcge-01</id>
+        <chief id="mg-2004-mcge-01">
             <person-id>mcgee-james-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -490,8 +472,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-2007-marq-01</id>
+        <chief id="mg-2007-marq-01">
             <person-id>marquardt-r-niels</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -517,8 +498,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-2010-stro-01</id>
+        <chief id="mg-2010-stro-01">
             <person-id>stromayer-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -544,8 +524,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-2011-wong-01</id>
+        <chief id="mg-2011-wong-01">
             <person-id>wong-eric</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -571,8 +550,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-2015-yama-01</id>
+        <chief id="mg-2015-yama-01">
             <person-id>yamate-robert-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -598,8 +576,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>mg-2019-pell-01</id>
+        <chief id="mg-2019-pell-01">
             <person-id>pelletier-michael-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>madagascar</contemporary-territory-id>
@@ -626,5 +603,5 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

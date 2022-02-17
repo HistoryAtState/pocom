@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>south-africa</territory-id>
     <chiefs>
-        <chief>
-            <id>za-1930-tott-01</id>
+        <chief id="za-1930-tott-01">
             <person-id>totten-ralph-james</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1930-tott-01</id>
+        <chief id="za-1930-tott-02">
             <person-id>totten-ralph-james</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1937-keen-01</id>
+        <chief id="za-1937-keen-01">
             <person-id>keena-leo-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1942-macv-01</id>
+        <chief id="za-1942-macv-01">
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1944-holc-01</id>
+        <chief id="za-1944-holc-01">
             <person-id>holcomb-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1948-wins-01</id>
+        <chief id="za-1948-wins-01">
             <person-id>winship-north</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1949-wins-01</id>
+        <chief id="za-1949-wins-01">
             <person-id>winship-north</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1950-erha-01</id>
+        <chief id="za-1950-erha-01">
             <person-id>erhardt-john-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1951-gall-01</id>
+        <chief id="za-1951-gall-01">
             <person-id>gallman-waldemar-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1954-wail-01</id>
+        <chief id="za-1954-wail-01">
             <person-id>wailes-edward-thompson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -273,8 +263,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1956-byro-01</id>
+        <chief id="za-1956-byro-01">
             <person-id>byroade-henry-alfred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -300,8 +289,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1959-crow-01</id>
+        <chief id="za-1959-crow-01">
             <person-id>crowe-philip-kingsland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -327,8 +315,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1961-satt-01</id>
+        <chief id="za-1961-satt-01">
             <person-id>satterthwaite-joseph-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -356,8 +343,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1966-roun-01</id>
+        <chief id="za-1966-roun-01">
             <person-id>rountree-william-manning</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -383,8 +369,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1970-hurd-01</id>
+        <chief id="za-1970-hurd-01">
             <person-id>hurd-john-gavin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -410,8 +395,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1975-bowd-01</id>
+        <chief id="za-1975-bowd-01">
             <person-id>bowdler-william-garton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -437,8 +421,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1978-edmo-01</id>
+        <chief id="za-1978-edmo-01">
             <person-id>edmondson-william-brockway</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -464,8 +447,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1982-nick-01</id>
+        <chief id="za-1982-nick-01">
             <person-id>nickel-herman-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -491,8 +473,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1986-perk-01</id>
+        <chief id="za-1986-perk-01">
             <person-id>perkins-edward-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -518,8 +499,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1989-swin-01</id>
+        <chief id="za-1989-swin-01">
             <person-id>swing-william-lacy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -545,8 +525,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1992-lyma-01</id>
+        <chief id="za-1992-lyma-01">
             <person-id>lyman-princeton-nathan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -572,8 +551,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-08</last-modified-date>
         </chief>
-        <chief>
-            <id>za-1996-jose-01</id>
+        <chief id="za-1996-jose-01">
             <person-id>joseph-james-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -599,8 +577,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-2000-lewi-01</id>
+        <chief id="za-2000-lewi-01">
             <person-id>lewis-delano-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -626,8 +603,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>za-2001-hume-01</id>
+        <chief id="za-2001-hume-01">
             <person-id>hume-cameron-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -653,8 +629,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>za-2004-fraz-01</id>
+        <chief id="za-2004-fraz-01">
             <person-id>frazer-jendayi-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -680,8 +655,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-02-22</last-modified-date>
         </chief>
-        <chief>
-            <id>za-2006-bost-01</id>
+        <chief id="za-2006-bost-01">
             <person-id>bost-eric-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -707,8 +681,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief>
-            <id>za-2009-gips-01</id>
+        <chief id="za-2009-gips-01">
             <person-id>gips-donald-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -734,8 +707,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>za-2013-gasp-01</id>
+        <chief id="za-2013-gasp-01">
             <person-id>gaspard-patrick-hubert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -761,8 +733,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>za-2016-lape-01</id>
+        <chief id="za-2016-lape-01">
             <person-id>lapenn-jessica</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -788,8 +759,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-09-18</last-modified-date>
         </chief>
-        <chief>
-            <id>za-2019-mark-01</id>
+        <chief id="za-2019-mark-01">
             <person-id>marks-lana-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-africa</contemporary-territory-id>
@@ -816,5 +786,5 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

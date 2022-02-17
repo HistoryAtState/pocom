@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>ukraine</territory-id>
     <chiefs>
-        <chief>
-            <id>ua-1992-gund-01</id>
+        <chief id="ua-1992-gund-01">
             <person-id>gundersen-jon</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ua-1992-popa-01</id>
+        <chief id="ua-1992-popa-01">
             <person-id>popadiuk-roman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ua-1993-mill-01</id>
+        <chief id="ua-1993-mill-01">
             <person-id>miller-william-green</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ua-1998-pife-01</id>
+        <chief id="ua-1998-pife-01">
             <person-id>pifer-steven-karl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-02-24</last-modified-date>
         </chief>
-        <chief>
-            <id>ua-2000-pasc-01</id>
+        <chief id="ua-2000-pasc-01">
             <person-id>pascual-carlos</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-15</last-modified-date>
         </chief>
-        <chief>
-            <id>ua-2003-herb-01</id>
+        <chief id="ua-2003-herb-01">
             <person-id>herbst-john-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ua-2006-tayl-01</id>
+        <chief id="ua-2006-tayl-01">
             <person-id>taylor-william-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ua-2009-teff-01</id>
+        <chief id="ua-2009-teff-01">
             <person-id>tefft-john-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ua-2013-pyat-01</id>
+        <chief id="ua-2013-pyat-01">
             <person-id>pyatt-geoffrey-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>ua-2016-yova-01</id>
+        <chief id="ua-2016-yova-01">
             <person-id>yovanovitch-marie-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -273,9 +263,8 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ua--dayt-01</id>
+    <other-nomines>
+        <chief id="ua--dayt-01">
             <person-id>dayton-keith-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ukraine</contemporary-territory-id>
@@ -301,5 +290,5 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

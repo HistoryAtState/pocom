@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>libya</territory-id>
     <chiefs>
-        <chief>
-            <id>ly-1951-lync-01</id>
+        <chief id="ly-1951-lync-01">
             <person-id>lynch-andrew-green</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1952-vill-01</id>
+        <chief id="ly-1952-vill-01">
             <person-id>villard-henry-serrano</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1954-tapp-01</id>
+        <chief id="ly-1954-tapp-01">
             <person-id>tappin-john-lindsley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1958-jone-01</id>
+        <chief id="ly-1958-jone-01">
             <person-id>jones-john-wesley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1963-ligh-01</id>
+        <chief id="ly-1963-ligh-01">
             <person-id>lightner-edwin-allan-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1965-news-01</id>
+        <chief id="ly-1965-news-01">
             <person-id>newsom-david-dunlap</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1969-palm-01</id>
+        <chief id="ly-1969-palm-01">
             <person-id>palmer-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1972-josi-01</id>
+        <chief id="ly-1972-josi-01">
             <person-id>josif-harold-george</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1973-stei-01</id>
+        <chief id="ly-1973-stei-01">
             <person-id>stein-robert-andrew</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -246,8 +237,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1975-carl-01</id>
+        <chief id="ly-1975-carl-01">
             <person-id>carle-robert-j</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -273,8 +263,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-1978-eagl-01</id>
+        <chief id="ly-1978-eagl-01">
             <person-id>eagleton-william-lester-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -312,8 +301,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </mission-note>
-        <chief>
-            <id>ly-2004-berr-01</id>
+        <chief id="ly-2004-berr-01">
             <person-id>berry-gregory-l</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -339,8 +327,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-2006-berr-01</id>
+        <chief id="ly-2006-berr-01">
             <person-id>berry-gregory-l</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -366,8 +353,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-2009-cret-01</id>
+        <chief id="ly-2009-cret-01">
             <person-id>cretz-gene-allan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -393,8 +379,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-2012-stev-01</id>
+        <chief id="ly-2012-stev-01">
             <person-id>stevens-john-christopher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -420,8 +405,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-13</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-2013-jone-01</id>
+        <chief id="ly-2013-jone-01">
             <person-id>jones-deborah-kay</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -461,8 +445,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-08-07</last-modified-date>
         </mission-note>
-        <chief>
-            <id>ly-2016-bodd-01</id>
+        <chief id="ly-2016-bodd-01">
             <person-id>bodde-peter-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -488,8 +471,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ly-2020-norl-01</id>
+        <chief id="ly-2020-norl-01">
             <person-id>norland-richard-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>libya</contemporary-territory-id>
@@ -516,5 +498,5 @@
             <last-modified-date>2020-06-23</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>australia</territory-id>
     <chiefs>
-        <chief>
-            <id>au-1940-gaus-01</id>
+        <chief id="au-1940-gaus-01">
             <person-id>gauss-clarence-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1941-john-01</id>
+        <chief id="au-1941-john-01">
             <person-id>johnson-nelson-trusler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au--mint-01</id>
+        <chief id="au--mint-01">
             <person-id>minter-john-russell</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1946-butl-01</id>
+        <chief id="au-1946-butl-01">
             <person-id>butler-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1948-cowe-01</id>
+        <chief id="au-1948-cowe-01">
             <person-id>cowen-myron-melvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1949-jarm-01</id>
+        <chief id="au-1949-jarm-01">
             <person-id>jarman-pete</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1953-peas-01</id>
+        <chief id="au-1953-peas-01">
             <person-id>peaslee-amos-jenkins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1956-moff-01</id>
+        <chief id="au-1956-moff-01">
             <person-id>moffat-douglas-maxwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1957-seba-01</id>
+        <chief id="au-1957-seba-01">
             <person-id>sebald-william-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1962-batt-01</id>
+        <chief id="au-1962-batt-01">
             <person-id>battle-william-cullen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1965-clar-01</id>
+        <chief id="au-1965-clar-01">
             <person-id>clark-edward-aubrey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1968-croo-01</id>
+        <chief id="au-1968-croo-01">
             <person-id>crook-william-herbert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1969-rice-01</id>
+        <chief id="au-1969-rice-01">
             <person-id>rice-walter-lyman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1973-gree-01</id>
+        <chief id="au-1973-gree-01">
             <person-id>green-marshall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1976-harg-01</id>
+        <chief id="au-1976-harg-01">
             <person-id>hargrove-james-ward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -409,8 +394,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1977-alst-01</id>
+        <chief id="au-1977-alst-01">
             <person-id>alston-philip-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -436,8 +420,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1981-nese-01</id>
+        <chief id="au-1981-nese-01">
             <person-id>nesen-robert-dean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -463,8 +446,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1986-lane-01</id>
+        <chief id="au-1986-lane-01">
             <person-id>lane-laurence-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -490,8 +472,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1989-semb-01</id>
+        <chief id="au-1989-semb-01">
             <person-id>sembler-melvin-floyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -517,8 +498,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1993-perk-01</id>
+        <chief id="au-1993-perk-01">
             <person-id>perkins-edward-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -544,8 +524,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief>
-            <id>au-1997-holm-01</id>
+        <chief id="au-1997-holm-01">
             <person-id>holmes-genta-hawkins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -571,8 +550,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>au-2000-gneh-01</id>
+        <chief id="au-2000-gneh-01">
             <person-id>gnehm-edward-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -598,8 +576,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>au-2001-schi-01</id>
+        <chief id="au-2001-schi-01">
             <person-id>schieffer-john-thomas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -625,8 +602,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-27</last-modified-date>
         </chief>
-        <chief>
-            <id>au-2005-stan-01</id>
+        <chief id="au-2005-stan-01">
             <person-id>stanton-william-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -652,8 +628,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-27</last-modified-date>
         </chief>
-        <chief>
-            <id>au-2006-mcca-01</id>
+        <chief id="au-2006-mcca-01">
             <person-id>mccallum-robert-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -679,8 +654,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>au-2009-blei-01</id>
+        <chief id="au-2009-blei-01">
             <person-id>bleich-jeffrey-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -706,8 +680,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au-2013-berr-01</id>
+        <chief id="au-2013-berr-01">
             <person-id>berry-morrell-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -733,8 +706,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au-2016-caro-01</id>
+        <chief id="au-2016-caro-01">
             <person-id>carouso-james-a</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -760,8 +732,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>au-2019-culv-01</id>
+        <chief id="au-2019-culv-01">
             <person-id>culvahouse-arthur-b-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -788,9 +759,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>au--flyn-01</id>
+    <other-nomines>
+        <chief id="au--flyn-01">
             <person-id>flynn-edward-joseph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -816,8 +786,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>au--harr-01</id>
+        <chief id="au--harr-01">
             <person-id>harris-harry-b-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>australia</contemporary-territory-id>
@@ -843,5 +812,5 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

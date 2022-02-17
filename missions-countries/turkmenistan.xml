@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>turkmenistan</territory-id>
     <chiefs>
-        <chief>
-            <id>tm-1992-whit-01</id>
+        <chief id="tm-1992-whit-01">
             <person-id>white-jeffrey</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-1992-huli-01</id>
+        <chief id="tm-1992-huli-01">
             <person-id>hulings-joseph-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-1995-cott-01</id>
+        <chief id="tm-1995-cott-01">
             <person-id>cotter-michael-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-1998-mann-01</id>
+        <chief id="tm-1998-mann-01">
             <person-id>mann-steven-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-2001-kenn-01</id>
+        <chief id="tm-2001-kenn-01">
             <person-id>kennedy-laura-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-2003-jaco-01</id>
+        <chief id="tm-2003-jaco-01">
             <person-id>jacobson-tracey-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-2006-brus-01</id>
+        <chief id="tm-2006-brus-01">
             <person-id>brush-jennifer-leigh</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-2007-hoag-01</id>
+        <chief id="tm-2007-hoag-01">
             <person-id>hoagland-richard-eugene</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-2011-patt-01</id>
+        <chief id="tm-2011-patt-01">
             <person-id>patterson-robert-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-09</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-2015-must-01</id>
+        <chief id="tm-2015-must-01">
             <person-id>mustard-allan-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-06-24</last-modified-date>
         </chief>
-        <chief>
-            <id>tm-2019-klim-01</id>
+        <chief id="tm-2019-klim-01">
             <person-id>klimow-matthew-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -300,9 +289,8 @@
             <last-modified-date>2019-06-27</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>tm--krol-01</id>
+    <other-nomines>
+        <chief id="tm--krol-01">
             <person-id>krol-george-albert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>turkmenistan</contemporary-territory-id>
@@ -328,5 +316,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

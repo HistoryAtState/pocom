@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>spain</territory-id>
     <chiefs>
-        <chief>
-            <id>es-1790-carm-01</id>
+        <chief id="es-1790-carm-01">
             <person-id>carmichael-william-jr</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -32,8 +31,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-05-25</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1794-shor-01</id>
+        <chief id="es-1794-shor-01">
             <person-id>short-william</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -59,8 +57,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1797-hump-01</id>
+        <chief id="es-1797-hump-01">
             <person-id>humphreys-david</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -86,8 +83,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1802-pinc-01</id>
+        <chief id="es-1802-pinc-01">
             <person-id>pinckney-charles</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -114,8 +110,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1805-ervi-01</id>
+        <chief id="es-1805-ervi-01">
             <person-id>erving-george-william</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -141,8 +136,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1816-ervi-01</id>
+        <chief id="es-1816-ervi-01">
             <person-id>erving-george-william</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -169,8 +163,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1819-fors-01</id>
+        <chief id="es-1819-fors-01">
             <person-id>forsyth-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -196,8 +189,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1823-nels-01</id>
+        <chief id="es-1823-nels-01">
             <person-id>nelson-hugh</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -223,8 +215,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1825-ever-01</id>
+        <chief id="es-1825-ever-01">
             <person-id>everett-alexander-hill</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -250,8 +241,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1829-van-01</id>
+        <chief id="es-1829-van-01">
             <person-id>van-ness-cornelius-peter</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -278,8 +268,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1836-eato-01</id>
+        <chief id="es-1836-eato-01">
             <person-id>eaton-john-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -306,8 +295,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1840-vail-01</id>
+        <chief id="es-1840-vail-01">
             <person-id>vail-aaron</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -333,8 +321,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1842-irvi-01</id>
+        <chief id="es-1842-irvi-01">
             <person-id>irving-washington</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -360,8 +347,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1846-saun-01</id>
+        <chief id="es-1846-saun-01">
             <person-id>saunders-romulus-mitchell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -387,8 +373,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1849-barr-01</id>
+        <chief id="es-1849-barr-01">
             <person-id>barringer-daniel-moreau</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -415,8 +400,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1853-soul-01</id>
+        <chief id="es-1853-soul-01">
             <person-id>soule-pierre</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -442,8 +426,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1855-dodg-01</id>
+        <chief id="es-1855-dodg-01">
             <person-id>dodge-augustus-caesar</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -469,8 +452,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1859-pres-01</id>
+        <chief id="es-1859-pres-01">
             <person-id>preston-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -496,8 +478,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1861-schu-01</id>
+        <chief id="es-1861-schu-01">
             <person-id>schurz-carl</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -523,8 +504,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1862-koer-01</id>
+        <chief id="es-1862-koer-01">
             <person-id>koerner-gustavus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -550,8 +530,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1865-hale-01</id>
+        <chief id="es-1865-hale-01">
             <person-id>hale-john-parker</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -577,8 +556,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1869-sick-01</id>
+        <chief id="es-1869-sick-01">
             <person-id>sickles-daniel-edgar</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -606,8 +584,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1874-cush-01</id>
+        <chief id="es-1874-cush-01">
             <person-id>cushing-caleb</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -634,8 +611,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1877-lowe-01</id>
+        <chief id="es-1877-lowe-01">
             <person-id>lowell-james-russell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -662,8 +638,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1880-fair-01</id>
+        <chief id="es-1880-fair-01">
             <person-id>fairchild-lucius</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -689,8 +664,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1881-haml-01</id>
+        <chief id="es-1881-haml-01">
             <person-id>hamlin-hannibal</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -717,8 +691,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1883-fost-01</id>
+        <chief id="es-1883-fost-01">
             <person-id>foster-john-watson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -744,8 +717,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1885-curr-01</id>
+        <chief id="es-1885-curr-01">
             <person-id>curry-jabez-lamar-monroe</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -772,8 +744,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1889-belm-01</id>
+        <chief id="es-1889-belm-01">
             <person-id>belmont-perry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -800,8 +771,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1889-palm-01</id>
+        <chief id="es-1889-palm-01">
             <person-id>palmer-thomas-witherell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -827,8 +797,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1890-grub-01</id>
+        <chief id="es-1890-grub-01">
             <person-id>grubb-edward-burd</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -854,8 +823,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1892-snow-01</id>
+        <chief id="es-1892-snow-01">
             <person-id>snowden-archibald-loudon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -881,8 +849,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1893-tayl-01</id>
+        <chief id="es-1893-tayl-01">
             <person-id>taylor-hannis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -908,8 +875,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1897-wood-01</id>
+        <chief id="es-1897-wood-01">
             <person-id>woodford-stewart-lyndon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -936,8 +902,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-28</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1899-stor-01</id>
+        <chief id="es-1899-stor-01">
             <person-id>storer-bellamy</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -964,8 +929,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1903-hard-01</id>
+        <chief id="es-1903-hard-01">
             <person-id>hardy-arthur-sherburne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -992,8 +956,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1905-coll-01</id>
+        <chief id="es-1905-coll-01">
             <person-id>collier-william-miller</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1019,8 +982,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1909-ide-01</id>
+        <chief id="es-1909-ide-01">
             <person-id>ide-henry-clay</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1046,8 +1008,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1913-will-01</id>
+        <chief id="es-1913-will-01">
             <person-id>willard-joseph-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1073,8 +1034,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1921-wood-01</id>
+        <chief id="es-1921-wood-01">
             <person-id>woods-cyrus-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1100,8 +1060,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1923-moor-01</id>
+        <chief id="es-1923-moor-01">
             <person-id>moore-alexander-pollock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1127,8 +1086,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1926-hamm-01</id>
+        <chief id="es-1926-hamm-01">
             <person-id>hammond-ogden-haggerty</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1154,8 +1112,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1929-laug-01</id>
+        <chief id="es-1929-laug-01">
             <person-id>laughlin-irwin-boyle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1181,8 +1138,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1933-bowe-01</id>
+        <chief id="es-1933-bowe-01">
             <person-id>bowers-claude-gernade</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1210,8 +1166,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1939-matt-01</id>
+        <chief id="es-1939-matt-01">
             <person-id>matthews-harrison-freeman</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1237,8 +1192,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1939-wedd-01</id>
+        <chief id="es-1939-wedd-01">
             <person-id>weddell-alexander-wilbourne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1264,8 +1218,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1942-haye-01</id>
+        <chief id="es-1942-haye-01">
             <person-id>hayes-carlton-joseph-huntley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1291,8 +1244,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1945-armo-01</id>
+        <chief id="es-1945-armo-01">
             <person-id>armour-norman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1318,8 +1270,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1946-bons-01</id>
+        <chief id="es-1946-bons-01">
             <person-id>bonsal-philip-wilson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1345,8 +1296,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1947-culb-01</id>
+        <chief id="es-1947-culb-01">
             <person-id>culbertson-paul-trauger</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1372,8 +1322,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1951-grif-01</id>
+        <chief id="es-1951-grif-01">
             <person-id>griffis-stanton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1399,8 +1348,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1952-macv-01</id>
+        <chief id="es-1952-macv-01">
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1426,8 +1374,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1953-dunn-01</id>
+        <chief id="es-1953-dunn-01">
             <person-id>dunn-james-clement</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1453,8 +1400,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1955-lodg-01</id>
+        <chief id="es-1955-lodg-01">
             <person-id>lodge-john-davis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1480,8 +1426,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1961-bidd-01</id>
+        <chief id="es-1961-bidd-01">
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1507,8 +1452,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1962-wood-01</id>
+        <chief id="es-1962-wood-01">
             <person-id>woodward-robert-forbes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1534,8 +1478,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1965-duke-01</id>
+        <chief id="es-1965-duke-01">
             <person-id>duke-angier-biddle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1561,8 +1504,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1968-wagn-01</id>
+        <chief id="es-1968-wagn-01">
             <person-id>wagner-robert-ferdinand</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1588,8 +1530,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1969-hill-01</id>
+        <chief id="es-1969-hill-01">
             <person-id>hill-robert-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1615,8 +1556,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1972-rive-01</id>
+        <chief id="es-1972-rive-01">
             <person-id>rivero-horacio</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1642,8 +1582,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1975-stab-01</id>
+        <chief id="es-1975-stab-01">
             <person-id>stabler-wells</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1669,8 +1608,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-30</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1978-todm-01</id>
+        <chief id="es-1978-todm-01">
             <person-id>todman-terence-alphonso</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1696,8 +1634,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-09-08</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1983-ende-01</id>
+        <chief id="es-1983-ende-01">
             <person-id>enders-thomas-ostrom</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1723,8 +1660,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1986-bart-01</id>
+        <chief id="es-1986-bart-01">
             <person-id>bartholomew-reginald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1750,8 +1686,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1989-zapp-01</id>
+        <chief id="es-1989-zapp-01">
             <person-id>zappala-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1777,8 +1712,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1992-cape-01</id>
+        <chief id="es-1992-cape-01">
             <person-id>capen-richard-goodwin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1804,8 +1738,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1993-gard-01</id>
+        <chief id="es-1993-gard-01">
             <person-id>gardner-richard-newton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1831,8 +1764,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1998-rome-01</id>
+        <chief id="es-1998-rome-01">
             <person-id>romero-edward-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1858,8 +1790,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-06-10</last-modified-date>
         </chief>
-        <chief>
-            <id>es-2001-argy-01</id>
+        <chief id="es-2001-argy-01">
             <person-id>argyros-george-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1885,8 +1816,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-06-10</last-modified-date>
         </chief>
-        <chief>
-            <id>es-2005-agui-01</id>
+        <chief id="es-2005-agui-01">
             <person-id>aguirre-eduardo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1912,8 +1842,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-06-10</last-modified-date>
         </chief>
-        <chief>
-            <id>es-2010-solo-01</id>
+        <chief id="es-2010-solo-01">
             <person-id>solomont-alan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1939,8 +1868,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-06-10</last-modified-date>
         </chief>
-        <chief>
-            <id>es-2013-cost-01</id>
+        <chief id="es-2013-cost-01">
             <person-id>costos-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1966,8 +1894,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>es-2018-buch-01</id>
+        <chief id="es-2018-buch-01">
             <person-id>buchan-richard-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -1994,9 +1921,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>es-1779-jay-01</id>
+    <other-nomines>
+        <chief id="es-1779-jay-01">
             <person-id>jay-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2023,8 +1949,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1804-bowd-01</id>
+        <chief id="es-1804-bowd-01">
             <person-id>bowdoin-james</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2050,8 +1975,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1835-barr-01</id>
+        <chief id="es-1835-barr-01">
             <person-id>barry-william-taylor</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2078,8 +2002,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1855-brec-01</id>
+        <chief id="es-1855-brec-01">
             <person-id>breckinridge-john-cabell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2105,8 +2028,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1861-clay-01</id>
+        <chief id="es-1861-clay-01">
             <person-id>clay-cassius-marcellus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2132,8 +2054,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es--rose-01</id>
+        <chief id="es--rose-01">
             <person-id>rosecrans-william-starke</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2159,8 +2080,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es--sanf-01</id>
+        <chief id="es--sanf-01">
             <person-id>sanford-henry-shelton</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2186,8 +2106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1913-will-01</id>
+        <chief id="es-1913-will-02">
             <person-id>willard-joseph-edward</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2213,8 +2132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es--brig-01</id>
+        <chief id="es--brig-01">
             <person-id>briggs-ellis-ormsbee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2240,8 +2158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>es-1968-mcki-01</id>
+        <chief id="es-1968-mcki-01">
             <person-id>mckinney-frank-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2267,8 +2184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>es--flan-01</id>
+        <chief id="es--flan-01">
             <person-id>flanigan-peter-magnus</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>spain</contemporary-territory-id>
@@ -2295,5 +2211,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>qatar</territory-id>
     <chiefs>
-        <chief>
-            <id>qa-1972-stol-01</id>
+        <chief id="qa-1972-stol-01">
             <person-id>stoltzfus-william-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-1974-paga-01</id>
+        <chief id="qa-1974-paga-01">
             <person-id>paganelli-robert-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-1977-kill-01</id>
+        <chief id="qa-1977-kill-01">
             <person-id>killgore-andrew-ivy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-1980-mart-01</id>
+        <chief id="qa-1980-mart-01">
             <person-id>marthinsen-charles-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-1983-dunb-01</id>
+        <chief id="qa-1983-dunb-01">
             <person-id>dunbar-charles-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-25</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-1985-ghou-01</id>
+        <chief id="qa-1985-ghou-01">
             <person-id>ghougassian-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-1989-hamb-01</id>
+        <chief id="qa-1989-hamb-01">
             <person-id>hambley-mark-gregory</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-1992-keit-01</id>
+        <chief id="qa-1992-keit-01">
             <person-id>keith-kenton-wesley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-1995-ther-01</id>
+        <chief id="qa-1995-ther-01">
             <person-id>theros-patrick-nickolas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -246,8 +237,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-1998-mcku-01</id>
+        <chief id="qa-1998-mcku-01">
             <person-id>mckune-elizabeth-davenport</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -273,8 +263,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-2001-quin-01</id>
+        <chief id="qa-2001-quin-01">
             <person-id>quinn-maureen-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -300,8 +289,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-2004-unte-01</id>
+        <chief id="qa-2004-unte-01">
             <person-id>untermeyer-chase</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -327,8 +315,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-2008-leba-01</id>
+        <chief id="qa-2008-leba-01">
             <person-id>lebaron-joseph-evan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -354,8 +341,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-2011-ziad-01</id>
+        <chief id="qa-2011-ziad-01">
             <person-id>ziadeh-susan-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -381,8 +367,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-2014-smit-01</id>
+        <chief id="qa-2014-smit-01">
             <person-id>smith-dana-shell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -408,8 +393,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>qa-2018-gran-01</id>
+        <chief id="qa-2018-gran-01">
             <person-id>grant-william</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -436,9 +420,8 @@
             <last-modified-date>2020-03-06</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>qa--phee-01</id>
+    <other-nomines>
+        <chief id="qa--phee-01">
             <person-id>phee-mary-catherine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -464,8 +447,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief>
-            <id>qa--wend-01</id>
+        <chief id="qa--wend-01">
             <person-id>wendt-eric-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>qatar</contemporary-territory-id>
@@ -491,5 +473,5 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

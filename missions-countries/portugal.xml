@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>portugal</territory-id>
     <chiefs>
-        <chief>
-            <id>pt-1791-hump-01</id>
+        <chief id="pt-1791-hump-01">
             <person-id>humphreys-david</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1797-smit-01</id>
+        <chief id="pt-1797-smit-01">
             <person-id>smith-william-loughton</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1810-sumt-01</id>
+        <chief id="pt-1810-sumt-01">
             <person-id>sumter-thomas</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1819-grah-01</id>
+        <chief id="pt-1819-grah-01">
             <person-id>graham-john</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1820-appl-01</id>
+        <chief id="pt-1820-appl-01">
             <person-id>appleton-john-james</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1822-dear-01</id>
+        <chief id="pt-1822-dear-01">
             <person-id>dearborn-henry-sr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1825-bren-01</id>
+        <chief id="pt-1825-bren-01">
             <person-id>brent-thomas-ludwell-lee</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1835-kava-01</id>
+        <chief id="pt-1835-kava-01">
             <person-id>kavanagh-edward</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1841-barr-01</id>
+        <chief id="pt-1841-barr-01">
             <person-id>barrow-washington</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1844-renc-01</id>
+        <chief id="pt-1844-renc-01">
             <person-id>rencher-abraham</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -275,8 +265,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1847-hopk-01</id>
+        <chief id="pt-1847-hopk-01">
             <person-id>hopkins-george-washington</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -302,8 +291,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1849-clay-01</id>
+        <chief id="pt-1849-clay-01">
             <person-id>clay-james-brown</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -330,8 +318,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1851-hadd-01</id>
+        <chief id="pt-1851-hadd-01">
             <person-id>haddock-charles-brickett</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -357,8 +344,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1854-osul-01</id>
+        <chief id="pt-1854-osul-01">
             <person-id>osullivan-john-louis</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -385,8 +371,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-28</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1854-osul-01</id>
+        <chief id="pt-1854-osul-02">
             <person-id>osullivan-john-louis</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -412,8 +397,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1858-morg-01</id>
+        <chief id="pt-1858-morg-01">
             <person-id>morgan-george-washington</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -439,8 +423,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1861-harv-01</id>
+        <chief id="pt-1861-harv-01">
             <person-id>harvey-james-e</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -466,8 +449,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1869-shel-01</id>
+        <chief id="pt-1869-shel-01">
             <person-id>shellabarger-samuel</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -493,8 +475,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1870-lewi-01</id>
+        <chief id="pt-1870-lewi-01">
             <person-id>lewis-charles-hance</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -520,8 +501,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1875-mora-01</id>
+        <chief id="pt-1875-mora-01">
             <person-id>moran-benjamin</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -547,8 +527,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1876-mora-01</id>
+        <chief id="pt-1876-mora-01">
             <person-id>moran-benjamin</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -574,8 +553,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1882-fran-01</id>
+        <chief id="pt-1882-fran-01">
             <person-id>francis-john-morgan</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -601,8 +579,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1884-rich-01</id>
+        <chief id="pt-1884-rich-01">
             <person-id>richmond-lewis</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -628,8 +605,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1885-lewi-01</id>
+        <chief id="pt-1885-lewi-01">
             <person-id>lewis-edward-parke-custis</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -655,8 +631,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1889-lori-01</id>
+        <chief id="pt-1889-lori-01">
             <person-id>loring-george-bailey</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -682,8 +657,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1890-batc-01</id>
+        <chief id="pt-1890-batc-01">
             <person-id>batcheller-george-sherman</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -709,8 +683,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1893-pier-01</id>
+        <chief id="pt-1893-pier-01">
             <person-id>pierce-gilbert-ashville</person-id>
             <role-title-id>minister-resident-consul-general</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -736,8 +709,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1893-caru-01</id>
+        <chief id="pt-1893-caru-01">
             <person-id>caruth-george-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -764,8 +736,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1897-town-01</id>
+        <chief id="pt-1897-town-01">
             <person-id>townsend-lawrence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -791,8 +762,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1899-irwi-01</id>
+        <chief id="pt-1899-irwi-01">
             <person-id>irwin-john-nichol</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -819,8 +789,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1901-loom-01</id>
+        <chief id="pt-1901-loom-01">
             <person-id>loomis-francis-butler</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -847,8 +816,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1903-brya-01</id>
+        <chief id="pt-1903-brya-01">
             <person-id>bryan-charles-page</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -874,8 +842,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1910-gage-01</id>
+        <chief id="pt-1910-gage-01">
             <person-id>gage-henry-tifft</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -902,8 +869,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-28</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1911-morg-01</id>
+        <chief id="pt-1911-morg-01">
             <person-id>morgan-edwin-vernon</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -929,8 +895,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-09</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1912-wood-01</id>
+        <chief id="pt-1912-wood-01">
             <person-id>woods-cyrus-e</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -956,8 +921,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1913-birc-01</id>
+        <chief id="pt-1913-birc-01">
             <person-id>birch-thomas-howard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -983,8 +947,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1922-dear-01</id>
+        <chief id="pt-1922-dear-01">
             <person-id>dearing-fred-morris</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1010,8 +973,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1930-sout-01</id>
+        <chief id="pt-1930-sout-01">
             <person-id>south-john-glover</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1037,8 +999,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1933-cald-01</id>
+        <chief id="pt-1933-cald-01">
             <person-id>caldwell-robert-granville</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1064,8 +1025,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1937-pell-01</id>
+        <chief id="pt-1937-pell-01">
             <person-id>pell-herbert-claiborne</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1091,8 +1051,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1941-fish-01</id>
+        <chief id="pt-1941-fish-01">
             <person-id>fish-bert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1118,8 +1077,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1943-norw-01</id>
+        <chief id="pt-1943-norw-01">
             <person-id>norweb-raymond-henry</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1145,8 +1103,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1944-norw-01</id>
+        <chief id="pt-1944-norw-01">
             <person-id>norweb-raymond-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1172,8 +1129,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1945-baru-01</id>
+        <chief id="pt-1945-baru-01">
             <person-id>baruch-herman-benjamin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1199,8 +1155,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1947-wile-01</id>
+        <chief id="pt-1947-wile-01">
             <person-id>wiley-john-cooper</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1226,8 +1181,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1948-macv-01</id>
+        <chief id="pt-1948-macv-01">
             <person-id>macveagh-lincoln</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1253,8 +1207,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1952-cann-01</id>
+        <chief id="pt-1952-cann-01">
             <person-id>cannon-cavendish-wells</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1280,8 +1233,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1953-gugg-01</id>
+        <chief id="pt-1953-gugg-01">
             <person-id>guggenheim-m-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1307,8 +1259,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-18</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1955-bonb-01</id>
+        <chief id="pt-1955-bonb-01">
             <person-id>bonbright-james-cowles-hart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1334,8 +1285,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1959-elbr-01</id>
+        <chief id="pt-1959-elbr-01">
             <person-id>elbrick-charles-burke</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1362,8 +1312,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1963-ande-01</id>
+        <chief id="pt-1963-ande-01">
             <person-id>anderson-george-whelan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1389,8 +1338,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1966-benn-01</id>
+        <chief id="pt-1966-benn-01">
             <person-id>bennett-william-tapley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1416,8 +1364,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1969-knig-01</id>
+        <chief id="pt-1969-knig-01">
             <person-id>knight-ridgway-brewster</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1443,8 +1390,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1974-scot-01</id>
+        <chief id="pt-1974-scot-01">
             <person-id>scott-stuart-nash</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1470,8 +1416,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1975-carl-01</id>
+        <chief id="pt-1975-carl-01">
             <person-id>carlucci-frank-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1497,8 +1442,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1978-bloo-01</id>
+        <chief id="pt-1978-bloo-01">
             <person-id>bloomfield-richard-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1524,8 +1468,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-13</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1982-holm-01</id>
+        <chief id="pt-1982-holm-01">
             <person-id>holmes-henry-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1551,8 +1494,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1985-shak-01</id>
+        <chief id="pt-1985-shak-01">
             <person-id>shakespeare-frank-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1578,8 +1520,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1988-rowe-01</id>
+        <chief id="pt-1988-rowe-01">
             <person-id>rowell-edward-morgan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1606,8 +1547,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1990-brig-01</id>
+        <chief id="pt-1990-brig-01">
             <person-id>briggs-everett-ellis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1633,8 +1573,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1993-wilk-01</id>
+        <chief id="pt-1993-wilk-01">
             <person-id>wilkinson-sharon-p</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1660,8 +1599,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1994-bagl-01</id>
+        <chief id="pt-1994-bagl-01">
             <person-id>bagley-elizabeth-frawley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1687,8 +1625,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1998-mcgo-01</id>
+        <chief id="pt-1998-mcgo-01">
             <person-id>mcgowan-gerald-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1714,8 +1651,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-2001-palm-01</id>
+        <chief id="pt-2001-palm-01">
             <person-id>palmer-john-n</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1741,8 +1677,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-2005-hoff-01</id>
+        <chief id="pt-2005-hoff-01">
             <person-id>hoffman-alfred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1768,8 +1703,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-2008-step-01</id>
+        <chief id="pt-2008-step-01">
             <person-id>stephenson-thomas-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1795,8 +1729,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-2010-katz-01</id>
+        <chief id="pt-2010-katz-01">
             <person-id>katz-allan-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1822,8 +1755,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-2014-sher-01</id>
+        <chief id="pt-2014-sher-01">
             <person-id>sherman-robert-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1849,8 +1781,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-2017-glas-01</id>
+        <chief id="pt-2017-glas-01">
             <person-id>glass-george-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1877,9 +1808,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>pt-1796-adam-01</id>
+    <other-nomines>
+        <chief id="pt-1796-adam-01">
             <person-id>adams-john-quincy</person-id>
             <role-title-id>minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1905,8 +1835,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt--appl-01</id>
+        <chief id="pt--appl-01">
             <person-id>appleton-john-james</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1933,8 +1862,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt--osul-01</id>
+        <chief id="pt--osul-01">
             <person-id>osullivan-john-louis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1960,8 +1888,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1870-cumb-01</id>
+        <chief id="pt-1870-cumb-01">
             <person-id>cumback-william</person-id>
             <role-title-id>minister-resident</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -1987,8 +1914,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1882-fran-01</id>
+        <chief id="pt-1882-fran-02">
             <person-id>francis-john-morgan</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -2015,8 +1941,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt-1911-bout-01</id>
+        <chief id="pt-1911-bout-01">
             <person-id>boutell-henry-sherman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -2042,8 +1967,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt--nich-01</id>
+        <chief id="pt--nich-01">
             <person-id>nicholson-meredith</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -2069,8 +1993,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pt--viet-01</id>
+        <chief id="pt--viet-01">
             <person-id>viets-richard-noyes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>portugal</contemporary-territory-id>
@@ -2096,5 +2019,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

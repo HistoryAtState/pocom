@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>kenya</territory-id>
     <chiefs>
-        <chief>
-            <id>ke-1963-vass-01</id>
+        <chief id="ke-1963-vass-01">
             <person-id>vass-laurence-coolidge</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1964-attw-01</id>
+        <chief id="ke-1964-attw-01">
             <person-id>attwood-william-hollingsworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1966-ferg-01</id>
+        <chief id="ke-1966-ferg-01">
             <person-id>ferguson-glenn-walker</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1969-mcil-01</id>
+        <chief id="ke-1969-mcil-01">
             <person-id>mcilvaine-robinson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1974-mars-01</id>
+        <chief id="ke-1974-mars-01">
             <person-id>marshall-anthony-dryden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1977-leme-01</id>
+        <chief id="ke-1977-leme-01">
             <person-id>lemelle-wilbert-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1980-harr-01</id>
+        <chief id="ke-1980-harr-01">
             <person-id>harrop-william-caldwell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1983-thom-01</id>
+        <chief id="ke-1983-thom-01">
             <person-id>thomas-gerald-eustis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1986-cons-01</id>
+        <chief id="ke-1986-cons-01">
             <person-id>constable-elinor-greer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -246,8 +237,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1989-hemp-01</id>
+        <chief id="ke-1989-hemp-01">
             <person-id>hempstone-smith</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -273,8 +263,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1993-braz-01</id>
+        <chief id="ke-1993-braz-01">
             <person-id>brazeal-aurelia-erskine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -300,8 +289,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1996-bush-01</id>
+        <chief id="ke-1996-bush-01">
             <person-id>bushnell-prudence</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -327,8 +315,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-1999-cars-01</id>
+        <chief id="ke-1999-cars-01">
             <person-id>carson-johnnie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -354,8 +341,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-01</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-2003-bell-01</id>
+        <chief id="ke-2003-bell-01">
             <person-id>bellamy-william-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -381,8 +367,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-2006-rann-01</id>
+        <chief id="ke-2006-rann-01">
             <person-id>ranneberger-michael-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -408,8 +393,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-2011-grat-01</id>
+        <chief id="ke-2011-grat-01">
             <person-id>gration-jonathan-scott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -435,8 +419,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-2013-gode-01</id>
+        <chief id="ke-2013-gode-01">
             <person-id>godec-robert-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -462,8 +445,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ke-2019-mcca-01</id>
+        <chief id="ke-2019-mcca-01">
             <person-id>mccarter-kyle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>kenya</contemporary-territory-id>
@@ -490,5 +472,5 @@
             <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

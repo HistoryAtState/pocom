@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>tonga</territory-id>
     <chiefs>
-        <chief>
-            <id>to-1972-wood-01</id>
+        <chief id="to-1972-wood-01">
             <person-id>wood-chalmers-benedict</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1972-fran-01</id>
+        <chief id="to-1972-fran-01">
             <person-id>franzheim-kenneth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1974-seld-01</id>
+        <chief id="to-1974-seld-01">
             <person-id>selden-armistead-inge</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1979-cond-01</id>
+        <chief id="to-1979-cond-01">
             <person-id>condon-john-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1980-bodd-01</id>
+        <chief id="to-1980-bodd-01">
             <person-id>bodde-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1982-ecke-01</id>
+        <chief id="to-1982-ecke-01">
             <person-id>eckert-fred-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1985-dill-01</id>
+        <chief id="to-1985-dill-01">
             <person-id>dillery-carl-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1988-roch-01</id>
+        <chief id="to-1988-roch-01">
             <person-id>rochwarger-leonard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1990-teeg-01</id>
+        <chief id="to-1990-teeg-01">
             <person-id>teegan-evelyn-irene-hoopes</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1993-mari-01</id>
+        <chief id="to-1993-mari-01">
             <person-id>marine-michael-w</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1996-gevi-01</id>
+        <chief id="to-1996-gevi-01">
             <person-id>gevirtz-don-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -299,8 +288,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-1999-sidd-01</id>
+        <chief id="to-1999-sidd-01">
             <person-id>siddique-m-osman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -326,8 +314,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-2001-mcmu-01</id>
+        <chief id="to-2001-mcmu-01">
             <person-id>mcmullen-ronald-keith</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -353,8 +340,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-24</last-modified-date>
         </chief>
-        <chief>
-            <id>to-2003-lyon-01</id>
+        <chief id="to-2003-lyon-01">
             <person-id>lyon-david-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -380,8 +366,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-2005-ding-01</id>
+        <chief id="to-2005-ding-01">
             <person-id>dinger-larry-miles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -407,8 +392,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-2009-mcga-01</id>
+        <chief id="to-2009-mcga-01">
             <person-id>mcgann-c-steven</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -434,8 +418,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-2011-reed-01</id>
+        <chief id="to-2011-reed-01">
             <person-id>reed-frankie-annette</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -461,8 +444,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-2015-cefk-01</id>
+        <chief id="to-2015-cefk-01">
             <person-id>cefkin-judith-beth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -488,8 +470,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief>
-            <id>to-2018-gold-01</id>
+        <chief id="to-2018-gold-01">
             <person-id>goldman-michael-b</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -515,8 +496,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-19</last-modified-date>
         </chief>
-        <chief>
-            <id>to-2019-cell-01</id>
+        <chief id="to-2019-cell-01">
             <person-id>cella-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -543,9 +523,8 @@
             <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>to--farl-01</id>
+    <other-nomines>
+        <chief id="to--farl-01">
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>tonga</contemporary-territory-id>
@@ -572,5 +551,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

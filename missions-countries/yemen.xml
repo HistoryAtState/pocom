@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>yemen</territory-id>
     <chiefs>
-        <chief>
-            <id>ye-1946-chil-01</id>
+        <chief id="ye-1946-chil-01">
             <person-id>childs-james-rives</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1951-hare-01</id>
+        <chief id="ye-1951-hare-01">
             <person-id>hare-raymond-arthur</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1954-wads-01</id>
+        <chief id="ye-1954-wads-01">
             <person-id>wadsworth-george</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1959-hare-01</id>
+        <chief id="ye-1959-hare-01">
             <person-id>hare-raymond-arthur</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -114,8 +110,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1960-rein-01</id>
+        <chief id="ye-1960-rein-01">
             <person-id>reinhardt-george-frederick</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -141,8 +136,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1961-hart-01</id>
+        <chief id="ye-1961-hart-01">
             <person-id>hart-parker-thompson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -168,8 +162,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye--stoo-01</id>
+        <chief id="ye--stoo-01">
             <person-id>stookey-robert-wilson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -196,8 +189,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1963-cort-01</id>
+        <chief id="ye-1963-cort-01">
             <person-id>cortada-james-nicholas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -223,8 +215,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1964-clar-01</id>
+        <chief id="ye-1964-clar-01">
             <person-id>clark-harlan-bendell</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -250,8 +241,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1967-06-07-dins-01</id>
+        <chief id="ye-1967-06-07-dins-01">
             <person-id>dinsmore-lee-fries</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -278,8 +268,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1969-10-24-kell-01</id>
+        <chief id="ye-1969-10-24-kell-01">
             <person-id>keller-edward-eugene-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -306,8 +295,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1970-mccl-01</id>
+        <chief id="ye-1970-mccl-01">
             <person-id>mcclintock-david-w</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -341,8 +329,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </mission-note>
-        <chief>
-            <id>ye-1972-stei-01</id>
+        <chief id="ye-1972-stei-01">
             <person-id>stein-robert-andrew</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -368,8 +355,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1972-stei-01</id>
+        <chief id="ye-1972-stei-02">
             <person-id>stein-robert-andrew</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -395,8 +381,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1972-craw-01</id>
+        <chief id="ye-1972-craw-01">
             <person-id>crawford-william-rex</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -422,8 +407,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1975-scot-01</id>
+        <chief id="ye-1975-scot-01">
             <person-id>scotes-thomas-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -449,8 +433,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1978-lane-01</id>
+        <chief id="ye-1978-lane-01">
             <person-id>lane-george-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -476,8 +459,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1981-zwei-01</id>
+        <chief id="ye-1981-zwei-01">
             <person-id>zweifel-david-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -503,8 +485,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1984-rugh-01</id>
+        <chief id="ye-1984-rugh-01">
             <person-id>rugh-william-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -530,8 +511,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1987-katt-01</id>
+        <chief id="ye-1987-katt-01">
             <person-id>kattouf-theodore-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -557,8 +537,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1988-dunb-01</id>
+        <chief id="ye-1988-dunb-01">
             <person-id>dunbar-charles-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -584,8 +563,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1991-hugh-01</id>
+        <chief id="ye-1991-hugh-01">
             <person-id>hughes-arthur-hayden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -611,8 +589,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1995-newt-01</id>
+        <chief id="ye-1995-newt-01">
             <person-id>newton-david-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -638,8 +615,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-1997-bodi-01</id>
+        <chief id="ye-1997-bodi-01">
             <person-id>bodine-barbara-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -665,8 +641,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-2001-hull-01</id>
+        <chief id="ye-2001-hull-01">
             <person-id>hull-edmund-james</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -692,8 +667,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-2004-kraj-01</id>
+        <chief id="ye-2004-kraj-01">
             <person-id>krajeski-thomas-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -719,8 +693,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-02</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-2007-sech-01</id>
+        <chief id="ye-2007-sech-01">
             <person-id>seche-stephen-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -746,8 +719,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-09</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-2010-feie-01</id>
+        <chief id="ye-2010-feie-01">
             <person-id>feierstein-gerald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -773,8 +745,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ye-2014-tuel-01</id>
+        <chief id="ye-2014-tuel-01">
             <person-id>tueller-matthew-haywood</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -812,8 +783,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-08-07</last-modified-date>
         </mission-note>
-        <chief>
-            <id>ye-2019-henz-01</id>
+        <chief id="ye-2019-henz-01">
             <person-id>henzel-christopher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -840,9 +810,8 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ye-1957-heat-01</id>
+    <other-nomines>
+        <chief id="ye-1957-heat-01">
             <person-id>heath-donald-read</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -870,8 +839,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ye--rans-01</id>
+        <chief id="ye--rans-01">
             <person-id>ransom-marjorie-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>yemen</contemporary-territory-id>
@@ -897,5 +865,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

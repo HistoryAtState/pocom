@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>united-arab-emirates</territory-id>
     <chiefs>
-        <chief>
-            <id>ae-1972-stol-01</id>
+        <chief id="ae-1972-stol-01">
             <person-id>stoltzfus-william-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -31,8 +30,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-1974-ster-01</id>
+        <chief id="ae-1974-ster-01">
             <person-id>sterner-michael-edmund</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -58,8 +56,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-1976-dick-01</id>
+        <chief id="ae-1976-dick-01">
             <person-id>dickman-francois-moussiegt</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-1979-woll-01</id>
+        <chief id="ae-1979-woll-01">
             <person-id>wolle-william-down</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-1982-lums-01</id>
+        <chief id="ae-1982-lums-01">
             <person-id>lumsden-george-quincey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-1986-mack-01</id>
+        <chief id="ae-1986-mack-01">
             <person-id>mack-david-lyle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-1990-walk-01</id>
+        <chief id="ae-1990-walk-01">
             <person-id>walker-edward-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-1992-rugh-01</id>
+        <chief id="ae-1992-rugh-01">
             <person-id>rugh-william-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-1995-litt-01</id>
+        <chief id="ae-1995-litt-01">
             <person-id>litt-david-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-1999-katt-01</id>
+        <chief id="ae-1999-katt-01">
             <person-id>kattouf-theodore-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-2001-wahb-01</id>
+        <chief id="ae-2001-wahb-01">
             <person-id>wahba-marcelle-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-2005-siso-01</id>
+        <chief id="ae-2005-siso-01">
             <person-id>sison-michele-jeanne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-2008-olso-01</id>
+        <chief id="ae-2008-olso-01">
             <person-id>olson-richard-gustave</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-2011-corb-01</id>
+        <chief id="ae-2011-corb-01">
             <person-id>corbin-michael-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-2015-leaf-01</id>
+        <chief id="ae-2015-leaf-01">
             <person-id>leaf-barbara-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -409,8 +394,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief>
-            <id>ae-2019-rako-01</id>
+        <chief id="ae-2019-rako-01">
             <person-id>rakolta-john-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>united-arab-emirates</contemporary-territory-id>
@@ -437,5 +421,5 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

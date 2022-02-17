@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>nepal</territory-id>
     <chiefs>
-        <chief>
-            <id>np-1948-grad-01</id>
+        <chief id="np-1948-grad-01">
             <person-id>grady-henry-francis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-27</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1948-hend-01</id>
+        <chief id="np-1948-hend-01">
             <person-id>henderson-loy-wesley</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-27</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1952-bowl-01</id>
+        <chief id="np-1952-bowl-01">
             <person-id>bowles-chester-bliss</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-27</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1953-alle-01</id>
+        <chief id="np-1953-alle-01">
             <person-id>allen-george-venable</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-27</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1955-coop-01</id>
+        <chief id="np-1955-coop-01">
             <person-id>cooper-john-sherman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-27</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1957-bunk-01</id>
+        <chief id="np-1957-bunk-01">
             <person-id>bunker-ellsworth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -168,8 +162,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-27</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1959-steb-01</id>
+        <chief id="np-1959-steb-01">
             <person-id>stebbins-henry-endicott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -195,8 +188,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1966-lais-01</id>
+        <chief id="np-1966-lais-01">
             <person-id>laise-caroline-clendening</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -222,8 +214,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1973-carg-01</id>
+        <chief id="np-1973-carg-01">
             <person-id>cargo-william-ira</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -249,8 +240,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1976-mayt-01</id>
+        <chief id="np-1976-mayt-01">
             <person-id>maytag-marquita-moseley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -276,8 +266,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1977-heck-01</id>
+        <chief id="np-1977-heck-01">
             <person-id>heck-louis-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -303,8 +292,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1980-trim-01</id>
+        <chief id="np-1980-trim-01">
             <person-id>trimble-philip-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -330,8 +318,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1981-coon-01</id>
+        <chief id="np-1981-coon-01">
             <person-id>coon-carleton-stevens-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -357,8 +344,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1984-weil-01</id>
+        <chief id="np-1984-weil-01">
             <person-id>weil-leon-jerome</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -384,8 +370,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-05-02</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1988-fran-01</id>
+        <chief id="np-1988-fran-01">
             <person-id>frank-milton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -411,8 +396,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1989-bloc-01</id>
+        <chief id="np-1989-bloc-01">
             <person-id>bloch-julia-chang</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -438,8 +422,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1994-voge-01</id>
+        <chief id="np-1994-voge-01">
             <person-id>vogelgesang-sandra-louise</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -465,8 +448,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-1997-fran-01</id>
+        <chief id="np-1997-fran-01">
             <person-id>frank-ralph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -492,8 +474,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-2001-mali-01</id>
+        <chief id="np-2001-mali-01">
             <person-id>malinowski-michael-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -519,8 +500,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>np-2004-mori-01</id>
+        <chief id="np-2004-mori-01">
             <person-id>moriarty-james-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -546,8 +526,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>np-2007-powe-01</id>
+        <chief id="np-2007-powe-01">
             <person-id>powell-nancy-jo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -573,8 +552,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-27</last-modified-date>
         </chief>
-        <chief>
-            <id>np-2010-deli-01</id>
+        <chief id="np-2010-deli-01">
             <person-id>delisi-scott-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -600,8 +578,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>np-2012-bodd-01</id>
+        <chief id="np-2012-bodd-01">
             <person-id>bodde-peter-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -627,8 +604,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>np-2015-tepl-01</id>
+        <chief id="np-2015-tepl-01">
             <person-id>teplitz-alaina-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -654,8 +630,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief>
-            <id>np-2018-berr-01</id>
+        <chief id="np-2018-berr-01">
             <person-id>berry-randy-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nepal</contemporary-territory-id>
@@ -682,5 +657,5 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

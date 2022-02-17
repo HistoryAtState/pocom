@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>djibouti</territory-id>
     <chiefs>
-        <chief>
-            <id>dj-1977-clar-01</id>
+        <chief id="dj-1977-clar-01">
             <person-id>clarke-walter-sheldon</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-1980-nort-01</id>
+        <chief id="dj-1980-nort-01">
             <person-id>north-jerrold-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-1983-adam-01</id>
+        <chief id="dj-1983-adam-01">
             <person-id>adams-alvin-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-1985-ferr-01</id>
+        <chief id="dj-1985-ferr-01">
             <person-id>ferriter-john-pierce</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-1987-mcat-01</id>
+        <chief id="dj-1987-mcat-01">
             <person-id>mcateer-john-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-1988-barr-01</id>
+        <chief id="dj-1988-barr-01">
             <person-id>barrett-robert-south</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-1991-baqu-01</id>
+        <chief id="dj-1991-baqu-01">
             <person-id>baquet-charles-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-1994-ches-01</id>
+        <chief id="dj-1994-ches-01">
             <person-id>cheshes-martin-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-1996-robl-01</id>
+        <chief id="dj-1996-robl-01">
             <person-id>robl-terri-louise</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-1998-sche-01</id>
+        <chief id="dj-1998-sche-01">
             <person-id>schermerhorn-lange</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-2000-yama-01</id>
+        <chief id="dj-2000-yama-01">
             <person-id>yamamoto-donald-y</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -299,8 +288,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-2004-rags-01</id>
+        <chief id="dj-2004-rags-01">
             <person-id>ragsdale-marguerita-dianne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -326,8 +314,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-2006-symi-01</id>
+        <chief id="dj-2006-symi-01">
             <person-id>symington-w-stuart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -353,8 +340,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-2008-swan-01</id>
+        <chief id="dj-2008-swan-01">
             <person-id>swan-james-christopher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -380,8 +366,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-2011-pasi-01</id>
+        <chief id="dj-2011-pasi-01">
             <person-id>pasi-geeta</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -407,8 +392,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-13</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-2014-kell-01</id>
+        <chief id="dj-2014-kell-01">
             <person-id>kelly-thomas-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -434,8 +418,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-2018-andr-01</id>
+        <chief id="dj-2018-andr-01">
             <person-id>andre-larry-edward-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -461,8 +444,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
-        <chief>
-            <id>dj-2021-prat-01</id>
+        <chief id="dj-2021-prat-01">
             <person-id>pratt-jonathan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -489,9 +471,8 @@
             <last-modified-date>2021-05-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>dj--schr-01</id>
+    <other-nomines>
+        <chief id="dj--schr-01">
             <person-id>schrager-stanley-n</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>djibouti</contemporary-territory-id>
@@ -517,5 +498,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-30</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

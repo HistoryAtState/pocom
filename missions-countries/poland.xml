@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>poland</territory-id>
     <chiefs>
-        <chief>
-            <id>pl-1919-gibs-01</id>
+        <chief id="pl-1919-gibs-01">
             <person-id>gibson-hugh-simons</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -31,8 +30,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1924-pear-01</id>
+        <chief id="pl-1924-pear-01">
             <person-id>pearson-alfred-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -58,8 +56,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1925-stet-01</id>
+        <chief id="pl-1925-stet-01">
             <person-id>stetson-john-batterson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -86,8 +83,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1930-will-01</id>
+        <chief id="pl-1930-will-01">
             <person-id>willys-john-north</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -113,8 +109,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1932-beli-01</id>
+        <chief id="pl-1932-beli-01">
             <person-id>belin-ferdinand-lammot</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -140,8 +135,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1933-cuda-01</id>
+        <chief id="pl-1933-cuda-01">
             <person-id>cudahy-john-clarence</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -167,8 +161,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1937-bidd-01</id>
+        <chief id="pl-1937-bidd-01">
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -198,8 +191,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1945-07-05-scho-01</id>
+        <chief id="pl-1945-07-05-scho-01">
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -225,8 +217,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1945-lane-01</id>
+        <chief id="pl-1945-lane-01">
             <person-id>lane-arthur-bliss</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -253,8 +244,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1947-grif-01</id>
+        <chief id="pl-1947-grif-01">
             <person-id>griffis-stanton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -280,8 +270,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1948-gall-01</id>
+        <chief id="pl-1948-gall-01">
             <person-id>gallman-waldemar-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -308,8 +297,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1950-flac-01</id>
+        <chief id="pl-1950-flac-01">
             <person-id>flack-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -335,8 +323,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1955-jaco-01</id>
+        <chief id="pl-1955-jaco-01">
             <person-id>jacobs-joseph-earle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -362,8 +349,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1957-beam-01</id>
+        <chief id="pl-1957-beam-01">
             <person-id>beam-jacob-dyneley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -389,8 +375,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1962-cabo-01</id>
+        <chief id="pl-1962-cabo-01">
             <person-id>cabot-john-moors</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -416,8 +401,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1965-gron-01</id>
+        <chief id="pl-1965-gron-01">
             <person-id>gronouski-john-austin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -443,8 +427,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1968-stoe-01</id>
+        <chief id="pl-1968-stoe-01">
             <person-id>stoessel-walter-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -470,8 +453,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1973-davi-01</id>
+        <chief id="pl-1973-davi-01">
             <person-id>davies-richard-townsend</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -498,8 +480,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1978-scha-01</id>
+        <chief id="pl-1978-scha-01">
             <person-id>schaufele-william-everett</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -525,8 +506,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1980-meeh-01</id>
+        <chief id="pl-1980-meeh-01">
             <person-id>meehan-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -552,8 +532,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1983-davi-01</id>
+        <chief id="pl-1983-davi-01">
             <person-id>davis-john-roger</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -579,8 +558,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1987-davi-01</id>
+        <chief id="pl-1987-davi-01">
             <person-id>davis-john-roger</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -606,8 +584,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1988-davi-01</id>
+        <chief id="pl-1988-davi-01">
             <person-id>davis-john-roger</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -633,8 +610,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1990-simo-01</id>
+        <chief id="pl-1990-simo-01">
             <person-id>simons-thomas-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -660,8 +636,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1993-rey-01</id>
+        <chief id="pl-1993-rey-01">
             <person-id>rey-nicholas-andrew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -687,8 +662,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-29</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-1997-frie-01</id>
+        <chief id="pl-1997-frie-01">
             <person-id>fried-daniel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -714,8 +688,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-11-05</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-2000-hill-01</id>
+        <chief id="pl-2000-hill-01">
             <person-id>hill-christopher-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -741,8 +714,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-2004-ashe-01</id>
+        <chief id="pl-2004-ashe-01">
             <person-id>ashe-victor-henderson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -768,8 +740,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-2009-fein-01</id>
+        <chief id="pl-2009-fein-01">
             <person-id>feinstein-lee-andrew</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -795,8 +766,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-2012-mull-01</id>
+        <chief id="pl-2012-mull-01">
             <person-id>mull-stephen-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -822,8 +792,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-2015-jone-01</id>
+        <chief id="pl-2015-jone-01">
             <person-id>jones-paul-wayne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -849,8 +818,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief>
-            <id>pl-2018-mosb-01</id>
+        <chief id="pl-2018-mosb-01">
             <person-id>mosbacher-georgette</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -877,9 +845,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>pl-1930-moor-01</id>
+    <other-nomines>
+        <chief id="pl-1930-moor-01">
             <person-id>moore-alexander-pollock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -905,8 +872,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pl--curl-01</id>
+        <chief id="pl--curl-01">
             <person-id>curley-james-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>poland</contemporary-territory-id>
@@ -932,5 +898,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

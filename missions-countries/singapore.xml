@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>singapore</territory-id>
     <chiefs>
-        <chief>
-            <id>sg-1966-dona-01</id>
+        <chief id="sg-1966-dona-01">
             <person-id>donald-richard-hempstead</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1966-galb-01</id>
+        <chief id="sg-1966-galb-01">
             <person-id>galbraith-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1969-cros-01</id>
+        <chief id="sg-1969-cros-01">
             <person-id>cross-charles-tenney</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-01</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1972-cron-01</id>
+        <chief id="sg-1972-cron-01">
             <person-id>cronk-edwin-monroe</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1975-hold-01</id>
+        <chief id="sg-1975-hold-01">
             <person-id>holdridge-john-herbert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1978-knei-01</id>
+        <chief id="sg-1978-knei-01">
             <person-id>kneip-richard-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1980-thay-01</id>
+        <chief id="sg-1980-thay-01">
             <person-id>thayer-harry-e-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1984-roy-01</id>
+        <chief id="sg-1984-roy-01">
             <person-id>roy-j-stapleton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1987-arno-01</id>
+        <chief id="sg-1987-arno-01">
             <person-id>arnold-daryl</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1989-orr-01</id>
+        <chief id="sg-1989-orr-01">
             <person-id>orr-robert-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1992-hunt-01</id>
+        <chief id="sg-1992-hunt-01">
             <person-id>huntsman-jon-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -299,8 +288,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1993-boyc-01</id>
+        <chief id="sg-1993-boyc-01">
             <person-id>boyce-ralph-leo</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -326,8 +314,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-21</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1994-chor-01</id>
+        <chief id="sg-1994-chor-01">
             <person-id>chorba-timothy-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -353,8 +340,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-1998-gree-01</id>
+        <chief id="sg-1998-gree-01">
             <person-id>green-steven-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -380,8 +366,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-2001-lavi-01</id>
+        <chief id="sg-2001-lavi-01">
             <person-id>lavin-franklin-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -407,8 +392,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-2005-herb-01</id>
+        <chief id="sg-2005-herb-01">
             <person-id>herbold-patricia-louise</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -434,8 +418,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-05</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-2010-adel-01</id>
+        <chief id="sg-2010-adel-01">
             <person-id>adelman-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -461,8 +444,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-2013-waga-01</id>
+        <chief id="sg-2013-waga-01">
             <person-id>wagar-kirk-w-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -488,8 +470,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-2017-sypt-01</id>
+        <chief id="sg-2017-sypt-01">
             <person-id>syptak-ramnath-stephanie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -515,8 +496,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-26</last-modified-date>
         </chief>
-        <chief>
-            <id>sg-2021-kapl-01</id>
+        <chief id="sg-2021-kapl-01">
             <person-id>kaplan-jonathan-eric</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -543,9 +523,8 @@
             <last-modified-date/>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>sg--mcfa-01</id>
+    <other-nomines>
+        <chief id="sg--mcfa-01">
             <person-id>mcfarland-kathleen-troia</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -571,8 +550,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief>
-            <id>sg--thor-01</id>
+        <chief id="sg--thor-01">
             <person-id>thornhill-barbara-hale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>singapore</contemporary-territory-id>
@@ -598,5 +576,5 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

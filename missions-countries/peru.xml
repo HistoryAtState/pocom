@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>peru</territory-id>
     <chiefs>
-        <chief>
-            <id>pe-1827-cool-01</id>
+        <chief id="pe-1827-cool-01">
             <person-id>cooley-james</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1829-larn-01</id>
+        <chief id="pe-1829-larn-01">
             <person-id>larned-samuel</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1837-thor-01</id>
+        <chief id="pe-1837-thor-01">
             <person-id>thornton-james-b</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -86,8 +83,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1840-pick-01</id>
+        <chief id="pe-1840-pick-01">
             <person-id>pickett-james-chamberlayne</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -114,8 +110,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1845-brya-01</id>
+        <chief id="pe-1845-brya-01">
             <person-id>bryan-john-alexander</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -141,8 +136,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1845-jewe-01</id>
+        <chief id="pe-1845-jewe-01">
             <person-id>jewett-albert-gallatin</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -169,8 +163,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1847-clay-01</id>
+        <chief id="pe-1847-clay-01">
             <person-id>clay-john-randolph</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -196,8 +189,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1853-clay-01</id>
+        <chief id="pe-1853-clay-01">
             <person-id>clay-john-randolph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -223,8 +215,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1862-robi-01</id>
+        <chief id="pe-1862-robi-01">
             <person-id>robinson-christopher</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -252,8 +243,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1866-hove-01</id>
+        <chief id="pe-1866-hove-01">
             <person-id>hovey-alvin-peterson</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -280,8 +270,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1871-sett-01</id>
+        <chief id="pe-1871-sett-01">
             <person-id>settle-thomas</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -307,8 +296,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1872-thom-01</id>
+        <chief id="pe-1872-thom-01">
             <person-id>thomas-francis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -334,8 +322,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1875-gibb-01</id>
+        <chief id="pe-1875-gibb-01">
             <person-id>gibbs-richard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -362,8 +349,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1879-chri-01</id>
+        <chief id="pe-1879-chri-01">
             <person-id>christiancy-isaac-peckham</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -389,8 +375,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1881-hurl-01</id>
+        <chief id="pe-1881-hurl-01">
             <person-id>hurlbut-stephen-augustus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -417,8 +402,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1884-phel-01</id>
+        <chief id="pe-1884-phel-01">
             <person-id>phelps-seth-ledyard</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -445,8 +429,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1885-buck-01</id>
+        <chief id="pe-1885-buck-01">
             <person-id>buck-charles-william</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -472,8 +455,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1889-hick-01</id>
+        <chief id="pe-1889-hick-01">
             <person-id>hicks-john</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -499,8 +481,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1893-mcke-01</id>
+        <chief id="pe-1893-mcke-01">
             <person-id>mckenzie-james-andrew</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -526,8 +507,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1897-dudl-01</id>
+        <chief id="pe-1897-dudl-01">
             <person-id>dudley-irving-bedell</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -553,8 +533,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1907-comb-01</id>
+        <chief id="pe-1907-comb-01">
             <person-id>combs-leslie</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -580,8 +559,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1911-howa-01</id>
+        <chief id="pe-1911-howa-01">
             <person-id>howard-henry-clay</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -607,8 +585,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1913-mcmi-01</id>
+        <chief id="pe-1913-mcmi-01">
             <person-id>mcmillin-benton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -634,8 +611,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1920-gonz-01</id>
+        <chief id="pe-1920-gonz-01">
             <person-id>gonzales-william-elliott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -661,8 +637,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1923-poin-01</id>
+        <chief id="pe-1923-poin-01">
             <person-id>poindexter-miles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -688,8 +663,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1928-moor-01</id>
+        <chief id="pe-1928-moor-01">
             <person-id>moore-alexander-pollock</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -715,8 +689,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1930-dear-01</id>
+        <chief id="pe-1930-dear-01">
             <person-id>dearing-fred-morris</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -742,8 +715,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1937-stei-01</id>
+        <chief id="pe-1937-stei-01">
             <person-id>steinhardt-laurence-adolph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -769,8 +741,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1940-norw-01</id>
+        <chief id="pe-1940-norw-01">
             <person-id>norweb-raymond-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -796,8 +767,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1944-whit-01</id>
+        <chief id="pe-1944-whit-01">
             <person-id>white-john-campbell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -823,8 +793,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1945-pawl-01</id>
+        <chief id="pe-1945-pawl-01">
             <person-id>pawley-william-douglas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -850,8 +819,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1946-coop-01</id>
+        <chief id="pe-1946-coop-01">
             <person-id>cooper-william-prentice</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -877,8 +845,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-01</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1948-titt-01</id>
+        <chief id="pe-1948-titt-01">
             <person-id>tittmann-harold-hilgard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -904,8 +871,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1955-brig-01</id>
+        <chief id="pe-1955-brig-01">
             <person-id>briggs-ellis-ormsbee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -931,8 +897,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1956-achi-01</id>
+        <chief id="pe-1956-achi-01">
             <person-id>achilles-theodore-carter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -958,8 +923,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1960-chap-01</id>
+        <chief id="pe-1960-chap-01">
             <person-id>chapin-selden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -985,8 +949,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1961-loeb-01</id>
+        <chief id="pe-1961-loeb-01">
             <person-id>loeb-james-isaac</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1013,8 +976,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1963-jone-01</id>
+        <chief id="pe-1963-jone-01">
             <person-id>jones-john-wesley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1040,8 +1002,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-05-24</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1969-belc-01</id>
+        <chief id="pe-1969-belc-01">
             <person-id>belcher-taylor-garrison</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1067,8 +1028,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1974-dean-01</id>
+        <chief id="pe-1974-dean-01">
             <person-id>dean-robert-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1094,8 +1054,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1977-shla-01</id>
+        <chief id="pe-1977-shla-01">
             <person-id>shlaudeman-harry-walter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1121,8 +1080,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1980-corr-01</id>
+        <chief id="pe-1980-corr-01">
             <person-id>corr-edwin-gharst</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1148,8 +1106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1981-orti-01</id>
+        <chief id="pe-1981-orti-01">
             <person-id>ortiz-francis-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1175,8 +1132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1984-jord-01</id>
+        <chief id="pe-1984-jord-01">
             <person-id>jordan-david-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1202,8 +1158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1986-wats-01</id>
+        <chief id="pe-1986-wats-01">
             <person-id>watson-alexander-fletcher</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1229,8 +1184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1989-quai-01</id>
+        <chief id="pe-1989-quai-01">
             <person-id>quainton-anthony-cecil-eden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1256,8 +1210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1992-bray-01</id>
+        <chief id="pe-1992-bray-01">
             <person-id>brayshaw-charles-h</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1283,8 +1236,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1993-adam-01</id>
+        <chief id="pe-1993-adam-01">
             <person-id>adams-alvin-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1310,8 +1262,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1996-jett-01</id>
+        <chief id="pe-1996-jett-01">
             <person-id>jett-dennis-coleman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1337,8 +1288,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1999-hami-01</id>
+        <chief id="pe-1999-hami-01">
             <person-id>hamilton-john-randle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1364,8 +1314,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-2002-daws-01</id>
+        <chief id="pe-2002-daws-01">
             <person-id>dawson-john-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1391,8 +1340,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-2004-stru-01</id>
+        <chief id="pe-2004-stru-01">
             <person-id>struble-james-curtis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1418,8 +1366,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-2007-mcki-01</id>
+        <chief id="pe-2007-mcki-01">
             <person-id>mckinley-peter-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1445,8 +1392,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-2010-liki-01</id>
+        <chief id="pe-2010-liki-01">
             <person-id>likins-rose-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1472,8 +1418,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-2014-nich-01</id>
+        <chief id="pe-2014-nich-01">
             <person-id>nichols-brian-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1499,8 +1444,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-2017-urs-01</id>
+        <chief id="pe-2017-urs-01">
             <person-id>urs-krishna-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1526,8 +1470,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-08-03</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-2021-kenn-01</id>
+        <chief id="pe-2021-kenn-01">
             <person-id>kenna-lisa-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1554,9 +1497,8 @@
             <last-modified-date>2021-05-17</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>pe--prev-01</id>
+    <other-nomines>
+        <chief id="pe--prev-01">
             <person-id>prevost-john-b</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1582,8 +1524,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1829-west-01</id>
+        <chief id="pe-1829-west-01">
             <person-id>west-emanuel-j</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1610,8 +1551,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-19</last-modified-date>
         </chief>
-        <chief>
-            <id>pe-1882-part-01</id>
+        <chief id="pe-1882-part-01">
             <person-id>partridge-james-rudolph</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>peru</contemporary-territory-id>
@@ -1638,5 +1578,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

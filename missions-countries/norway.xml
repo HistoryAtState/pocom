@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>norway</territory-id>
     <chiefs>
-        <chief>
-            <id>no-1905-grav-01</id>
+        <chief id="no-1905-grav-01">
             <person-id>graves-charles-hinman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -31,8 +30,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1906-peir-01</id>
+        <chief id="no-1906-peir-01">
             <person-id>peirce-herbert-henry-davis</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -58,8 +56,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1911-swen-01</id>
+        <chief id="no-1911-swen-01">
             <person-id>swenson-laurits-selmer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1913-schm-01</id>
+        <chief id="no-1913-schm-01">
             <person-id>schmedemann-albert-george</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1921-swen-01</id>
+        <chief id="no-1921-swen-01">
             <person-id>swenson-laurits-selmer</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1930-phil-01</id>
+        <chief id="no-1930-phil-01">
             <person-id>philip-hoffman</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -167,8 +161,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1935-bidd-01</id>
+        <chief id="no-1935-bidd-01">
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -194,8 +187,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1937-harr-01</id>
+        <chief id="no-1937-harr-01">
             <person-id>harriman-florence-jaffray-hurst</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -224,8 +216,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1940-07-15-cox-01</id>
+        <chief id="no-1940-07-15-cox-01">
             <person-id>cox-raymond-edwin</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -251,8 +242,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1940-scho-01</id>
+        <chief id="no-1940-scho-01">
             <person-id>schoenfeld-rudolf-emil</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -278,8 +268,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1941-bidd-01</id>
+        <chief id="no-1941-bidd-01">
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -305,8 +294,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1942-bidd-01</id>
+        <chief id="no-1942-bidd-01">
             <person-id>biddle-anthony-joseph-drexel-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -332,8 +320,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1944-osbo-01</id>
+        <chief id="no-1944-osbo-01">
             <person-id>osborne-lithgow</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -360,8 +347,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-05</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1946-bay-01</id>
+        <chief id="no-1946-bay-01">
             <person-id>bay-charles-ulrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -387,8 +373,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1953-stro-01</id>
+        <chief id="no-1953-stro-01">
             <person-id>strong-lester-corrin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -414,8 +399,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1957-will-01</id>
+        <chief id="no-1957-will-01">
             <person-id>willis-frances-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -441,8 +425,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1961-whar-01</id>
+        <chief id="no-1961-whar-01">
             <person-id>wharton-clifton-reginald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -468,8 +451,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1964-tibb-01</id>
+        <chief id="no-1964-tibb-01">
             <person-id>tibbetts-margaret-joy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -495,8 +477,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1969-crow-01</id>
+        <chief id="no-1969-crow-01">
             <person-id>crowe-philip-kingsland</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -522,8 +503,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1973-byrn-01</id>
+        <chief id="no-1973-byrn-01">
             <person-id>byrne-thomas-ryan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -549,8 +529,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1976-ande-01</id>
+        <chief id="no-1976-ande-01">
             <person-id>anders-william-allison</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -576,8 +555,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1977-lern-01</id>
+        <chief id="no-1977-lern-01">
             <person-id>lerner-louis-abraham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -603,8 +581,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1980-rand-01</id>
+        <chief id="no-1980-rand-01">
             <person-id>rand-sidney-anders</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -630,8 +607,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-25</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1982-aust-01</id>
+        <chief id="no-1982-aust-01">
             <person-id>austad-marcus-jacob-mark-evans</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -657,8 +633,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1984-stua-01</id>
+        <chief id="no-1984-stua-01">
             <person-id>stuart-robert-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -684,8 +659,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1989-rupp-01</id>
+        <chief id="no-1989-rupp-01">
             <person-id>ruppe-loret-miller</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -711,8 +685,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1993-loft-01</id>
+        <chief id="no-1993-loft-01">
             <person-id>loftus-thomas-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -738,8 +711,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-1998-herm-01</id>
+        <chief id="no-1998-herm-01">
             <person-id>hermelin-david-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -765,8 +737,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-2000-duke-01</id>
+        <chief id="no-2000-duke-01">
             <person-id>duke-robin-chandler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -792,8 +763,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief>
-            <id>no-2002-ong-01</id>
+        <chief id="no-2002-ong-01">
             <person-id>ong-john-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -819,8 +789,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>no-2006-whit-01</id>
+        <chief id="no-2006-whit-01">
             <person-id>whitney-benson-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -846,8 +815,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>no-2009-whit-01</id>
+        <chief id="no-2009-whit-01">
             <person-id>white-barry-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -873,8 +841,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>no-2013-furu-01</id>
+        <chief id="no-2013-furu-01">
             <person-id>furuta-toy-julia-ann</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -900,8 +867,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>no-2016-hein-01</id>
+        <chief id="no-2016-hein-01">
             <person-id>heins-samuel-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -927,8 +893,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>no-2018-brai-01</id>
+        <chief id="no-2018-brai-01">
             <person-id>braithwaite-kenneth-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -955,9 +920,8 @@
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>no--burk-01</id>
+    <other-nomines>
+        <chief id="no--burk-01">
             <person-id>burkhalter-j-mark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>norway</contemporary-territory-id>
@@ -983,5 +947,5 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>ireland</territory-id>
     <chiefs>
-        <chief>
-            <id>ie-1927-ster-01</id>
+        <chief id="ie-1927-ster-01">
             <person-id>sterling-frederick-augustine</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-04-17</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1934-mcdo-01</id>
+        <chief id="ie-1934-mcdo-01">
             <person-id>mcdowell-william-wallace</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1935-owsl-01</id>
+        <chief id="ie-1935-owsl-01">
             <person-id>owsley-alvin-mansfield</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1937-cuda-01</id>
+        <chief id="ie-1937-cuda-01">
             <person-id>cudahy-john-clarence</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1940-gray-01</id>
+        <chief id="ie-1940-gray-01">
             <person-id>gray-david-jr</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1947-garr-01</id>
+        <chief id="ie-1947-garr-01">
             <person-id>garrett-george-angus</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1950-garr-01</id>
+        <chief id="ie-1950-garr-01">
             <person-id>garrett-george-angus</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1951-matt-01</id>
+        <chief id="ie-1951-matt-01">
             <person-id>matthews-francis-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1953-taft-01</id>
+        <chief id="ie-1953-taft-01">
             <person-id>taft-william-howard-3</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1957-mcle-01</id>
+        <chief id="ie-1957-mcle-01">
             <person-id>mcleod-robert-walter-scott</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -272,8 +262,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1961-stoc-01</id>
+        <chief id="ie-1961-stoc-01">
             <person-id>stockdale-edward-grant</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -299,8 +288,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1962-mccl-01</id>
+        <chief id="ie-1962-mccl-01">
             <person-id>mccloskey-matthew-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -326,8 +314,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1965-gues-01</id>
+        <chief id="ie-1965-gues-01">
             <person-id>guest-raymond-richard</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -353,8 +340,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1968-sher-01</id>
+        <chief id="ie-1968-sher-01">
             <person-id>sheridan-leo-john</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -380,8 +366,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1969-moor-01</id>
+        <chief id="ie-1969-moor-01">
             <person-id>moore-john-denis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -407,8 +392,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1975-curl-01</id>
+        <chief id="ie-1975-curl-01">
             <person-id>curley-walter-joseph-patrick-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -434,8 +418,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1977-shan-01</id>
+        <chief id="ie-1977-shan-01">
             <person-id>shannon-william-vincent</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -461,8 +444,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1982-dail-01</id>
+        <chief id="ie-1982-dail-01">
             <person-id>dailey-peter-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -488,8 +470,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1984-kane-01</id>
+        <chief id="ie-1984-kane-01">
             <person-id>kane-robert-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -515,8 +496,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1986-heck-01</id>
+        <chief id="ie-1986-heck-01">
             <person-id>heckler-margaret-mary-oshaughnessy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -542,8 +522,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1989-moor-01</id>
+        <chief id="ie-1989-moor-01">
             <person-id>moore-richard-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -569,8 +548,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1992-fitz-01</id>
+        <chief id="ie-1992-fitz-01">
             <person-id>fitzgerald-william-henry-gerald</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -596,8 +574,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1993-smit-01</id>
+        <chief id="ie-1993-smit-01">
             <person-id>smith-jean-kennedy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -623,8 +600,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-1999-sull-01</id>
+        <chief id="ie-1999-sull-01">
             <person-id>sullivan-michael</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -650,8 +626,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-2001-egan-01</id>
+        <chief id="ie-2001-egan-01">
             <person-id>egan-richard-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -677,8 +652,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-2003-kenn-01</id>
+        <chief id="ie-2003-kenn-01">
             <person-id>kenny-james-casey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -704,8 +678,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-2006-fole-01</id>
+        <chief id="ie-2006-fole-01">
             <person-id>foley-thomas-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -731,8 +704,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-2009-roon-01</id>
+        <chief id="ie-2009-roon-01">
             <person-id>rooney-daniel-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -758,8 +730,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-2013-dwye-01</id>
+        <chief id="ie-2013-dwye-01">
             <person-id>dwyer-stuart-anderson</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -785,8 +756,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-2014-omal-01</id>
+        <chief id="ie-2014-omal-01">
             <person-id>omalley-kevin-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -812,8 +782,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-2017-smyt-01</id>
+        <chief id="ie-2017-smyt-01">
             <person-id>smyth-reece</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -839,8 +808,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-24</last-modified-date>
         </chief>
-        <chief>
-            <id>ie-2019-craw-01</id>
+        <chief id="ie-2019-craw-01">
             <person-id>crawford-edward-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -867,9 +835,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ie-1933-mcdo-01</id>
+    <other-nomines>
+        <chief id="ie-1933-mcdo-01">
             <person-id>mcdowell-william-wallace</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -896,8 +863,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ie--mcca-01</id>
+        <chief id="ie--mcca-01">
             <person-id>mccann-william-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
@@ -924,5 +890,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

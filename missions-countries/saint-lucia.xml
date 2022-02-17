@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>saint-lucia</territory-id>
     <chiefs>
-        <chief>
-            <id>lc-1979-shel-01</id>
+        <chief id="lc-1979-shel-01">
             <person-id>shelton-sally-angela</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-1981-bish-01</id>
+        <chief id="lc-1981-bish-01">
             <person-id>bish-milan-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-1984-ande-01</id>
+        <chief id="lc-1984-ande-01">
             <person-id>anderson-thomas-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-1986-russ-01</id>
+        <chief id="lc-1986-russ-01">
             <person-id>russo-paul-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -111,8 +107,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-1988-clar-01</id>
+        <chief id="lc-1988-clar-01">
             <person-id>clark-john-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -138,8 +133,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-18</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-1990-hugh-01</id>
+        <chief id="lc-1990-hugh-01">
             <person-id>hughes-g-philip</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -165,8 +159,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-1994-hyde-01</id>
+        <chief id="lc-1994-hyde-01">
             <person-id>hyde-jeanette-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -192,8 +185,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-1999-crot-01</id>
+        <chief id="lc-1999-crot-01">
             <person-id>crotty-e-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-2000-dale-01</id>
+        <chief id="lc-2000-dale-01">
             <person-id>daley-james-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-2002-phil-01</id>
+        <chief id="lc-2002-phil-01">
             <person-id>phillips-earl-norfleet</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-2004-kram-01</id>
+        <chief id="lc-2004-kram-01">
             <person-id>kramer-mary</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-2007-ouri-01</id>
+        <chief id="lc-2007-ouri-01">
             <person-id>ourisman-mary-martin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-2009-hard-01</id>
+        <chief id="lc-2009-hard-01">
             <person-id>hardt-d-brent</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-12</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-2012-palm-01</id>
+        <chief id="lc-2012-palm-01">
             <person-id>palmer-larry-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>lc-2015-tagl-01</id>
+        <chief id="lc-2015-tagl-01">
             <person-id>taglialatela-linda-swartz</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -410,9 +395,8 @@
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>lc--silv-01</id>
+    <other-nomines>
+        <chief id="lc--silv-01">
             <person-id>silverman-joy-a</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -438,8 +422,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>lc--rizz-01</id>
+        <chief id="lc--rizz-01">
             <person-id>rizzuto-leandro</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>saint-lucia</contemporary-territory-id>
@@ -465,5 +448,5 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

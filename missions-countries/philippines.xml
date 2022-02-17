@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>philippines</territory-id>
     <chiefs>
-        <chief>
-            <id>ph-1946-mcnu-01</id>
+        <chief id="ph-1946-mcnu-01">
             <person-id>mcnutt-paul-vories</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1947-onea-01</id>
+        <chief id="ph-1947-onea-01">
             <person-id>oneal-emmet</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1949-cowe-01</id>
+        <chief id="ph-1949-cowe-01">
             <person-id>cowen-myron-melvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1952-spru-01</id>
+        <chief id="ph-1952-spru-01">
             <person-id>spruance-raymond-ames</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1955-ferg-01</id>
+        <chief id="ph-1955-ferg-01">
             <person-id>ferguson-homer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1956-nufe-01</id>
+        <chief id="ph-1956-nufe-01">
             <person-id>nufer-albert-frank</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1957-bohl-01</id>
+        <chief id="ph-1957-bohl-01">
             <person-id>bohlen-charles-eustis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1960-hick-01</id>
+        <chief id="ph-1960-hick-01">
             <person-id>hickerson-john-dewey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1962-stev-01</id>
+        <chief id="ph-1962-stev-01">
             <person-id>stevenson-william-edwards</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1964-blai-01</id>
+        <chief id="ph-1964-blai-01">
             <person-id>blair-william-mccormick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1968-will-01</id>
+        <chief id="ph-1968-will-01">
             <person-id>williams-gerhard-mennen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1969-byro-01</id>
+        <chief id="ph-1969-byro-01">
             <person-id>byroade-henry-alfred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1973-sull-01</id>
+        <chief id="ph-1973-sull-01">
             <person-id>sullivan-william-healy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1977-news-01</id>
+        <chief id="ph-1977-news-01">
             <person-id>newsom-david-dunlap</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1978-murp-01</id>
+        <chief id="ph-1978-murp-01">
             <person-id>murphy-richard-william</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -409,8 +394,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1982-arma-01</id>
+        <chief id="ph-1982-arma-01">
             <person-id>armacost-michael-hayden</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -436,8 +420,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1984-bosw-01</id>
+        <chief id="ph-1984-bosw-01">
             <person-id>bosworth-stephen-warren</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -463,8 +446,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1987-plat-01</id>
+        <chief id="ph-1987-plat-01">
             <person-id>platt-nicholas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -490,8 +472,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1991-wisn-01</id>
+        <chief id="ph-1991-wisn-01">
             <person-id>wisner-frank-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -517,8 +498,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1992-solo-01</id>
+        <chief id="ph-1992-solo-01">
             <person-id>solomon-richard-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -544,8 +524,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1993-negr-01</id>
+        <chief id="ph-1993-negr-01">
             <person-id>negroponte-john-dimitri</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -571,8 +550,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-08-12</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-1996-hubb-01</id>
+        <chief id="ph-1996-hubb-01">
             <person-id>hubbard-thomas-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -598,8 +576,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-2000-mali-01</id>
+        <chief id="ph-2000-mali-01">
             <person-id>malinowski-michael-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -625,8 +602,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-2002-ricc-01</id>
+        <chief id="ph-2002-ricc-01">
             <person-id>ricciardone-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -652,8 +628,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-2006-kenn-01</id>
+        <chief id="ph-2006-kenn-01">
             <person-id>kenney-kristie-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -679,8 +654,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-02</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-2010-thom-01</id>
+        <chief id="ph-2010-thom-01">
             <person-id>thomas-harry-keels</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -706,8 +680,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-2013-gold-01</id>
+        <chief id="ph-2013-gold-01">
             <person-id>goldberg-philip-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -733,8 +706,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-23</last-modified-date>
         </chief>
-        <chief>
-            <id>ph-2016-kim-01</id>
+        <chief id="ph-2016-kim-01">
             <person-id>kim-sung-y</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -761,9 +733,8 @@
             <last-modified-date>2020-10-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ph--burl-01</id>
+    <other-nomines>
+        <chief id="ph--burl-01">
             <person-id>burleigh-albert-peter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>philippines</contemporary-territory-id>
@@ -789,5 +760,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-29</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

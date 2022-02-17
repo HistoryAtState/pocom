@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>egypt</territory-id>
     <chiefs>
-        <chief>
-            <id>eg-1849-mcca-01</id>
+        <chief id="eg-1849-mcca-01">
             <person-id>mccauley-daniel-smith</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1853-jone-01</id>
+        <chief id="eg-1853-jone-01">
             <person-id>jones-richard-b</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -58,8 +56,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1853-de-01</id>
+        <chief id="eg-1853-de-01">
             <person-id>de-leon-edwin</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -87,8 +84,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1861-thay-01</id>
+        <chief id="eg-1861-thay-01">
             <person-id>thayer-william-sydney</person-id>
             <role-title-id>consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -114,8 +110,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1864-hale-01</id>
+        <chief id="eg-1864-hale-01">
             <person-id>hale-charles</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -142,8 +137,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1870-butl-01</id>
+        <chief id="eg-1870-butl-01">
             <person-id>butler-george-h</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -170,8 +164,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-21</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1872-bear-01</id>
+        <chief id="eg-1872-bear-01">
             <person-id>beardsley-richard</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -198,8 +191,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1876-farm-01</id>
+        <chief id="eg-1876-farm-01">
             <person-id>farman-elbert-eli</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -225,8 +217,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1881-wolf-01</id>
+        <chief id="eg-1881-wolf-01">
             <person-id>wolf-simon</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -253,8 +244,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1882-pome-01</id>
+        <chief id="eg-1882-pome-01">
             <person-id>pomeroy-george-potwin</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -280,8 +270,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1886-card-01</id>
+        <chief id="eg-1886-card-01">
             <person-id>cardwell-john</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -308,8 +297,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1889-schu-01</id>
+        <chief id="eg-1889-schu-01">
             <person-id>schuyler-eugene</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -335,8 +323,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1891-ande-01</id>
+        <chief id="eg-1891-ande-01">
             <person-id>anderson-john-alexander</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -362,8 +349,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1893-litt-01</id>
+        <chief id="eg-1893-litt-01">
             <person-id>little-edward-campbell</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -390,8 +376,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1893-penf-01</id>
+        <chief id="eg-1893-penf-01">
             <person-id>penfield-frederic-courtland</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -418,8 +403,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1897-harr-01</id>
+        <chief id="eg-1897-harr-01">
             <person-id>harrison-thomas-skelton</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -445,8 +429,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1900-long-01</id>
+        <chief id="eg-1900-long-01">
             <person-id>long-john-g</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -473,8 +456,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1904-ridd-01</id>
+        <chief id="eg-1904-ridd-01">
             <person-id>riddle-john-wallace</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -501,8 +483,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1905-iddi-01</id>
+        <chief id="eg-1905-iddi-01">
             <person-id>iddings-lewis-morris</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -529,8 +510,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1910-jay-01</id>
+        <chief id="eg-1910-jay-01">
             <person-id>jay-peter-augustus</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -556,8 +536,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1914-arno-01</id>
+        <chief id="eg-1914-arno-01">
             <person-id>arnold-olney</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -583,8 +562,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1918-gary-01</id>
+        <chief id="eg-1918-gary-01">
             <person-id>gary-hampson</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -610,8 +588,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1920-spri-01</id>
+        <chief id="eg-1920-spri-01">
             <person-id>sprigg-carroll</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -637,8 +614,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1921-howe-01</id>
+        <chief id="eg-1921-howe-01">
             <person-id>howell-joseph-morton</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -665,8 +641,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1922-howe-01</id>
+        <chief id="eg-1922-howe-01">
             <person-id>howell-joseph-morton</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -692,8 +667,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1928-gunt-01</id>
+        <chief id="eg-1928-gunt-01">
             <person-id>gunther-franklin-mott</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -719,8 +693,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1930-jard-01</id>
+        <chief id="eg-1930-jard-01">
             <person-id>jardine-william-marion</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -746,8 +719,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1933-fish-01</id>
+        <chief id="eg-1933-fish-01">
             <person-id>fish-bert</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -774,8 +746,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1941-kirk-01</id>
+        <chief id="eg-1941-kirk-01">
             <person-id>kirk-alexander-comstock</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -801,8 +772,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1944-tuck-01</id>
+        <chief id="eg-1944-tuck-01">
             <person-id>tuck-somerville-pinkney</person-id>
             <role-title-id>envoy-extraordinary-minister-plenipotentiary</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -828,8 +798,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1946-tuck-01</id>
+        <chief id="eg-1946-tuck-01">
             <person-id>tuck-somerville-pinkney</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -856,8 +825,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1948-grif-01</id>
+        <chief id="eg-1948-grif-01">
             <person-id>griffis-stanton</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -884,8 +852,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1949-caff-01</id>
+        <chief id="eg-1949-caff-01">
             <person-id>caffery-jefferson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -911,8 +878,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1955-byro-01</id>
+        <chief id="eg-1955-byro-01">
             <person-id>byroade-henry-alfred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -938,8 +904,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1956-hare-01</id>
+        <chief id="eg-1956-hare-01">
             <person-id>hare-raymond-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -967,8 +932,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1958-hare-01</id>
+        <chief id="eg-1958-hare-01">
             <person-id>hare-raymond-arthur</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -994,8 +958,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1960-rein-01</id>
+        <chief id="eg-1960-rein-01">
             <person-id>reinhardt-george-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1021,8 +984,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1961-bade-01</id>
+        <chief id="eg-1961-bade-01">
             <person-id>badeau-john-stothoff</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1048,8 +1010,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-14</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1964-batt-01</id>
+        <chief id="eg-1964-batt-01">
             <person-id>battle-lucius-durham</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1075,8 +1036,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-03-18</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1967-06-06-nes-01</id>
+        <chief id="eg-1967-06-06-nes-01">
             <person-id>nes-david-gulick</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1110,8 +1070,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </mission-note>
-        <chief>
-            <id>eg-1967-berg-01</id>
+        <chief id="eg-1967-berg-01">
             <person-id>bergus-donald-c</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1137,8 +1096,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1972-gree-01</id>
+        <chief id="eg-1972-gree-01">
             <person-id>greene-joseph-nathaniel</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1164,8 +1122,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1973-eilt-01</id>
+        <chief id="eg-1973-eilt-01">
             <person-id>eilts-hermann-frederick</person-id>
             <role-title-id>principal-officer</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1200,8 +1157,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </mission-note>
-        <chief>
-            <id>eg-1974-eilt-01</id>
+        <chief id="eg-1974-eilt-01">
             <person-id>eilts-hermann-frederick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1227,8 +1183,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1979-athe-01</id>
+        <chief id="eg-1979-athe-01">
             <person-id>atherton-alfred-leroy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1254,8 +1209,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1983-veli-01</id>
+        <chief id="eg-1983-veli-01">
             <person-id>veliotes-nicholas-alexander</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1281,8 +1235,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1986-wisn-01</id>
+        <chief id="eg-1986-wisn-01">
             <person-id>wisner-frank-g</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1308,8 +1261,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1991-pell-01</id>
+        <chief id="eg-1991-pell-01">
             <person-id>pelletreau-robert-halsey</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1335,8 +1287,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1994-walk-01</id>
+        <chief id="eg-1994-walk-01">
             <person-id>walker-edward-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1362,8 +1313,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1998-kurt-01</id>
+        <chief id="eg-1998-kurt-01">
             <person-id>kurtzer-daniel-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1389,8 +1339,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-01-24</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-2001-welc-01</id>
+        <chief id="eg-2001-welc-01">
             <person-id>welch-c-david</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1416,8 +1365,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-2005-ricc-01</id>
+        <chief id="eg-2005-ricc-01">
             <person-id>ricciardone-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1443,8 +1391,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-2008-scob-01</id>
+        <chief id="eg-2008-scob-01">
             <person-id>scobey-margaret</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1470,8 +1417,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-2011-patt-01</id>
+        <chief id="eg-2011-patt-01">
             <person-id>patterson-anne-woods</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1497,8 +1443,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-2015-beec-01</id>
+        <chief id="eg-2015-beec-01">
             <person-id>beecroft-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1524,8 +1469,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-2017-gold-01</id>
+        <chief id="eg-2017-gold-01">
             <person-id>goldberger-thomas</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1551,8 +1495,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-11-05</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-2019-cohe-01</id>
+        <chief id="eg-2019-cohe-01">
             <person-id>cohen-jonathan-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1579,9 +1522,8 @@
             <last-modified-date>2019-12-12</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>eg-1876-morl-01</id>
+    <other-nomines>
+        <chief id="eg-1876-morl-01">
             <person-id>morley-frederick</person-id>
             <role-title-id>agent-consul-general</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1607,8 +1549,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>eg-1967-nolt-01</id>
+        <chief id="eg-1967-nolt-01">
             <person-id>nolte-richard-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>egypt</contemporary-territory-id>
@@ -1636,5 +1577,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-04</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

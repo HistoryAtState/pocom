@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>nigeria</territory-id>
     <chiefs>
-        <chief>
-            <id>ng-1960-palm-01</id>
+        <chief id="ng-1960-palm-01">
             <person-id>palmer-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -31,8 +30,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1964-math-01</id>
+        <chief id="ng-1964-math-01">
             <person-id>mathews-elbert-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -58,8 +56,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1969-true-01</id>
+        <chief id="ng-1969-true-01">
             <person-id>trueheart-william-clyde</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1971-rein-01</id>
+        <chief id="ng-1971-rein-01">
             <person-id>reinhardt-john-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1975-easu-01</id>
+        <chief id="ng-1975-easu-01">
             <person-id>easum-donald-boyd</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1979-low-01</id>
+        <chief id="ng-1979-low-01">
             <person-id>low-stephen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-12</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1981-pick-01</id>
+        <chief id="ng-1981-pick-01">
             <person-id>pickering-thomas-reeve</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-26</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1984-smit-01</id>
+        <chief id="ng-1984-smit-01">
             <person-id>smith-thomas-william-macauley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1986-lyma-01</id>
+        <chief id="ng-1986-lyma-01">
             <person-id>lyman-princeton-nathan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-11-08</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1989-walk-01</id>
+        <chief id="ng-1989-walk-01">
             <person-id>walker-lannon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1992-swin-01</id>
+        <chief id="ng-1992-swin-01">
             <person-id>swing-william-lacy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1993-carr-01</id>
+        <chief id="ng-1993-carr-01">
             <person-id>carrington-walter-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-1997-twad-01</id>
+        <chief id="ng-1997-twad-01">
             <person-id>twaddell-william-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-2001-jete-01</id>
+        <chief id="ng-2001-jete-01">
             <person-id>jeter-howard-franklin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-2004-camp-01</id>
+        <chief id="ng-2004-camp-01">
             <person-id>campbell-john-allen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -409,8 +394,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-2007-sand-01</id>
+        <chief id="ng-2007-sand-01">
             <person-id>sanders-robin-renee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -436,8 +420,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-2010-mccu-01</id>
+        <chief id="ng-2010-mccu-01">
             <person-id>mcculley-terence-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -463,8 +446,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-2013-entw-01</id>
+        <chief id="ng-2013-entw-01">
             <person-id>entwistle-james-f</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -490,8 +472,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2017-08-22</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-2016-symi-01</id>
+        <chief id="ng-2016-symi-01">
             <person-id>symington-w-stuart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -517,8 +498,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-09-03</last-modified-date>
         </chief>
-        <chief>
-            <id>ng-2019-leon-01</id>
+        <chief id="ng-2019-leon-01">
             <person-id>leonard-mary-beth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -545,9 +525,8 @@
             <last-modified-date>2020-10-06</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>ng--stei-01</id>
+    <other-nomines>
+        <chief id="ng--stei-01">
             <person-id>steinberg-donald-k</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>nigeria</contemporary-territory-id>
@@ -573,5 +552,5 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2013-02-21</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

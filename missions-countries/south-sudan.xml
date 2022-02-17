@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>south-sudan</territory-id>
     <chiefs>
-        <chief>
-            <id>ss-2011-walk-01</id>
+        <chief id="ss-2011-walk-01">
             <person-id>walkley-r-barrie</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>south-sudan</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-12-18</last-modified-date>
         </chief>
-        <chief>
-            <id>ss-2011-page-01</id>
+        <chief id="ss-2011-page-01">
             <person-id>page-susan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-sudan</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <chief>
-            <id>ss-2015-phee-01</id>
+        <chief id="ss-2015-phee-01">
             <person-id>phee-mary-catherine</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-sudan</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
-        <chief>
-            <id>ss-2018-hush-01</id>
+        <chief id="ss-2018-hush-01">
             <person-id>hushek-thomas-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>south-sudan</contemporary-territory-id>
@@ -111,5 +107,5 @@
             <last-modified-date>2020-07-20</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

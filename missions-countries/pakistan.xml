@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>pakistan</territory-id>
     <chiefs>
-        <chief>
-            <id>pk-1947-lewi-01</id>
+        <chief id="pk-1947-lewi-01">
             <person-id>lewis-charles-william</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1948-alli-01</id>
+        <chief id="pk-1948-alli-01">
             <person-id>alling-paul-humiston</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1950-warr-01</id>
+        <chief id="pk-1950-warr-01">
             <person-id>warren-avra-milvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -84,8 +81,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1953-hild-01</id>
+        <chief id="pk-1953-hild-01">
             <person-id>hildreth-horace-augustus</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -112,8 +108,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1957-lang-01</id>
+        <chief id="pk-1957-lang-01">
             <person-id>langley-james-mclellan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -139,8 +134,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1959-roun-01</id>
+        <chief id="pk-1959-roun-01">
             <person-id>rountree-william-manning</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -166,8 +160,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1962-mcco-01</id>
+        <chief id="pk-1962-mcco-01">
             <person-id>mcconaughy-walter-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -193,8 +186,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1966-lock-01</id>
+        <chief id="pk-1966-lock-01">
             <person-id>locke-eugene-murphy</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -220,8 +212,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1967-oehl-01</id>
+        <chief id="pk-1967-oehl-01">
             <person-id>oehlert-benjamin-hilborn</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -247,8 +238,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1969-farl-01</id>
+        <chief id="pk-1969-farl-01">
             <person-id>farland-joseph-simpson</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -274,8 +264,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1972-sobe-01</id>
+        <chief id="pk-1972-sobe-01">
             <person-id>sober-sidney</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -301,8 +290,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1973-byro-01</id>
+        <chief id="pk-1973-byro-01">
             <person-id>byroade-henry-alfred</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -328,8 +316,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1977-humm-01</id>
+        <chief id="pk-1977-humm-01">
             <person-id>hummel-arthur-william-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -355,8 +342,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1981-spie-01</id>
+        <chief id="pk-1981-spie-01">
             <person-id>spiers-ronald-ian</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -382,8 +368,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-30</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1983-hint-01</id>
+        <chief id="pk-1983-hint-01">
             <person-id>hinton-deane-roesch</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -409,8 +394,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2011-05-24</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1987-raph-01</id>
+        <chief id="pk-1987-raph-01">
             <person-id>raphel-arnold-lewis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -436,8 +420,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1988-oakl-01</id>
+        <chief id="pk-1988-oakl-01">
             <person-id>oakley-robert-bigger</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -464,8 +447,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1991-plat-01</id>
+        <chief id="pk-1991-plat-01">
             <person-id>platt-nicholas</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -491,8 +473,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1992-monj-01</id>
+        <chief id="pk-1992-monj-01">
             <person-id>monjo-john-cameron</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -518,8 +499,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1996-simo-01</id>
+        <chief id="pk-1996-simo-01">
             <person-id>simons-thomas-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -545,8 +525,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1998-mila-01</id>
+        <chief id="pk-1998-mila-01">
             <person-id>milam-william-b</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -572,8 +551,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-2001-cham-01</id>
+        <chief id="pk-2001-cham-01">
             <person-id>chamberlin-wendy-jean</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -599,8 +577,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-2002-powe-01</id>
+        <chief id="pk-2002-powe-01">
             <person-id>powell-nancy-jo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -626,8 +603,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-2004-croc-01</id>
+        <chief id="pk-2004-croc-01">
             <person-id>crocker-ryan-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -653,8 +629,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-2007-patt-01</id>
+        <chief id="pk-2007-patt-01">
             <person-id>patterson-anne-woods</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -680,8 +655,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-21</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-2010-munt-01</id>
+        <chief id="pk-2010-munt-01">
             <person-id>munter-cameron-phelps</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -707,8 +681,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-2012-olso-01</id>
+        <chief id="pk-2012-olso-01">
             <person-id>olson-richard-gustave</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -734,8 +707,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-2015-hale-01</id>
+        <chief id="pk-2015-hale-01">
             <person-id>hale-david-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -761,8 +733,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-22</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-2018-jone-01</id>
+        <chief id="pk-2018-jone-01">
             <person-id>jones-paul-wayne</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -789,9 +760,8 @@
             <last-modified-date>2020-09-10</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>pk-1949-coch-01</id>
+    <other-nomines>
+        <chief id="pk-1949-coch-01">
             <person-id>cochran-horace-merle</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -817,8 +787,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1949-warr-01</id>
+        <chief id="pk-1949-warr-01">
             <person-id>warren-avra-milvin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -845,8 +814,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk-1952-cabo-01</id>
+        <chief id="pk-1952-cabo-01">
             <person-id>cabot-john-moors</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -873,8 +841,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>pk--vest-01</id>
+        <chief id="pk--vest-01">
             <person-id>vest-george-southall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -900,8 +867,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>pk--todd-01</id>
+        <chief id="pk--todd-01">
             <person-id>todd-william-edward</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>pakistan</contemporary-territory-id>
@@ -927,5 +893,5 @@
             <last-modified-by/>
             <last-modified-date/>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

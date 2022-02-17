@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>ghana</territory-id>
     <chiefs>
-        <chief>
-            <id>gh-1957-lamm-01</id>
+        <chief id="gh-1957-lamm-01">
             <person-id>lamm-donald-wakeham</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -30,8 +29,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1957-rutt-01</id>
+        <chief id="gh-1957-rutt-01">
             <person-id>rutter-peter</person-id>
             <role-title-id>charge-daffaires</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -57,8 +55,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1957-flak-01</id>
+        <chief id="gh-1957-flak-01">
             <person-id>flake-wilson-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -85,8 +82,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1961-russ-01</id>
+        <chief id="gh-1961-russ-01">
             <person-id>russell-francis-henry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -113,8 +109,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1962-maho-01</id>
+        <chief id="gh-1962-maho-01">
             <person-id>mahoney-william-patrick</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -140,8 +135,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1966-will-01</id>
+        <chief id="gh-1966-will-01">
             <person-id>williams-franklin-hall</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -168,8 +162,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1968-mcel-01</id>
+        <chief id="gh-1968-mcel-01">
             <person-id>mcelhiney-thomas-watkins</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -195,8 +188,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-25</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1971-hads-01</id>
+        <chief id="gh-1971-hads-01">
             <person-id>hadsel-fred-latimer</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -222,8 +214,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-10</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1974-blac-01</id>
+        <chief id="gh-1974-blac-01">
             <person-id>black-shirley-jane-temple</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -249,8 +240,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-02-11</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1976-smit-01</id>
+        <chief id="gh-1976-smit-01">
             <person-id>smith-robert-powell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -276,8 +266,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1979-smit-01</id>
+        <chief id="gh-1979-smit-01">
             <person-id>smith-thomas-william-macauley</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -303,8 +292,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1983-frit-01</id>
+        <chief id="gh-1983-frit-01">
             <person-id>fritts-robert-eugene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -330,8 +318,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1987-lyne-01</id>
+        <chief id="gh-1987-lyne-01">
             <person-id>lyne-stephen-r</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -357,8 +344,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-12</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1989-ewin-01</id>
+        <chief id="gh-1989-ewin-01">
             <person-id>ewing-raymond-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -384,8 +370,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1992-brow-01</id>
+        <chief id="gh-1992-brow-01">
             <person-id>brown-kenneth-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -411,8 +396,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-03-05</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1995-bryn-01</id>
+        <chief id="gh-1995-bryn-01">
             <person-id>brynn-edward-p</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -438,8 +422,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-1998-robi-01</id>
+        <chief id="gh-1998-robi-01">
             <person-id>robinson-kathryn-dee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -465,8 +448,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-2001-powe-01</id>
+        <chief id="gh-2001-powe-01">
             <person-id>powell-nancy-jo</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -492,8 +474,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-09-24</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-2003-yate-01</id>
+        <chief id="gh-2003-yate-01">
             <person-id>yates-mary-carlin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -519,8 +500,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2014-07-22</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-2005-brid-01</id>
+        <chief id="gh-2005-brid-01">
             <person-id>bridgewater-awkward-pamela-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -546,8 +526,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-07</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-2008-teit-01</id>
+        <chief id="gh-2008-teit-01">
             <person-id>teitelbaum-donald-gene</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -573,8 +552,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-27</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-2012-cret-01</id>
+        <chief id="gh-2012-cret-01">
             <person-id>cretz-gene-allan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -600,8 +578,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-08-24</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-2016-jack-01</id>
+        <chief id="gh-2016-jack-01">
             <person-id>jackson-robert-porter</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -627,8 +604,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>gh-2019-sull-01</id>
+        <chief id="gh-2019-sull-01">
             <person-id>sullivan-stephanie-sanders</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ghana</contemporary-territory-id>
@@ -655,5 +631,5 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

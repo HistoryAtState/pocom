@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>german-democratic-republic</territory-id>
     <chiefs>
-        <chief>
-            <id>xf-1974-grov-01</id>
+        <chief id="xf-1974-grov-01">
             <person-id>grove-brandon-hambright-jr</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>xf-1974-coop-01</id>
+        <chief id="xf-1974-coop-01">
             <person-id>cooper-john-sherman</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-11</last-modified-date>
         </chief>
-        <chief>
-            <id>xf-1977-bole-01</id>
+        <chief id="xf-1977-bole-01">
             <person-id>bolen-david-benjamin</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xf-1980-okun-01</id>
+        <chief id="xf-1980-okun-01">
             <person-id>okun-herbert-stuart</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
-        <chief>
-            <id>xf-1983-ridg-01</id>
+        <chief id="xf-1983-ridg-01">
             <person-id>ridgway-rozanne-lejeanne</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xf-1985-meeh-01</id>
+        <chief id="xf-1985-meeh-01">
             <person-id>meehan-francis-joseph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>xf-1988-bark-01</id>
+        <chief id="xf-1988-bark-01">
             <person-id>barkley-richard-clark</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>german-democratic-republic</contemporary-territory-id>
@@ -192,5 +185,5 @@
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>

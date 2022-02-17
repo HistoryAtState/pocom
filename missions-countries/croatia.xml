@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>croatia</territory-id>
     <chiefs>
-        <chief>
-            <id>hr-1992-niet-01</id>
+        <chief id="hr-1992-niet-01">
             <person-id>nietzke-ronald</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
-        <chief>
-            <id>hr-1993-galb-01</id>
+        <chief id="hr-1993-galb-01">
             <person-id>galbraith-peter-w</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hr-1998-mont-01</id>
+        <chief id="hr-1998-mont-01">
             <person-id>montgomery-william-dale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>hr-2001-ross-01</id>
+        <chief id="hr-2001-ross-01">
             <person-id>rossin-lawrence-george</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hr-2003-fran-01</id>
+        <chief id="hr-2003-fran-01">
             <person-id>frank-ralph</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>hr-2006-brad-01</id>
+        <chief id="hr-2006-brad-01">
             <person-id>bradtke-robert-anthony</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2012-04-03</last-modified-date>
         </chief>
-        <chief>
-            <id>hr-2009-fole-01</id>
+        <chief id="hr-2009-fole-01">
             <person-id>foley-james-brendan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-09-26</last-modified-date>
         </chief>
-        <chief>
-            <id>hr-2012-mert-01</id>
+        <chief id="hr-2012-mert-01">
             <person-id>merten-kenneth-h</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -218,8 +210,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>hr-2015-noye-01</id>
+        <chief id="hr-2015-noye-01">
             <person-id>noyes-julieta-valls</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -245,8 +236,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-03-20</last-modified-date>
         </chief>
-        <chief>
-            <id>hr-2018-koho-01</id>
+        <chief id="hr-2018-koho-01">
             <person-id>kohorst-w-robert</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -273,9 +263,8 @@
             <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>hr--leti-01</id>
+    <other-nomines>
+        <chief id="hr--leti-01">
             <person-id>leticia-mara-m</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>croatia</contemporary-territory-id>
@@ -301,5 +290,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-12-22</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>azerbaijan</territory-id>
     <chiefs>
-        <chief>
-            <id>az-1992-mile-01</id>
+        <chief id="az-1992-mile-01">
             <person-id>miles-richard-monroe</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-02-11</last-modified-date>
         </chief>
-        <chief>
-            <id>az-1994-kauz-01</id>
+        <chief id="az-1994-kauz-01">
             <person-id>kauzlarich-richard-dale</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -56,8 +54,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>az-1997-escu-01</id>
+        <chief id="az-1997-escu-01">
             <person-id>escudero-stanley-tuemler</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -83,8 +80,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>az-2000-wils-01</id>
+        <chief id="az-2000-wils-01">
             <person-id>wilson-ross-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -110,8 +106,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>az-2003-harn-01</id>
+        <chief id="az-2003-harn-01">
             <person-id>harnish-reno-leon</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -137,8 +132,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>az-2006-ders-01</id>
+        <chief id="az-2006-ders-01">
             <person-id>derse-anne-e</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -164,8 +158,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
-        <chief>
-            <id>az-2009-lu-01</id>
+        <chief id="az-2009-lu-01">
             <person-id>lu-donald</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -191,8 +184,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-26</last-modified-date>
         </chief>
-        <chief>
-            <id>az-2011-bryz-01</id>
+        <chief id="az-2011-bryz-01">
             <person-id>bryza-matthew-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -219,8 +211,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-09-14</last-modified-date>
         </chief>
-        <chief>
-            <id>az-2012-morn-01</id>
+        <chief id="az-2012-morn-01">
             <person-id>morningstar-richard-l</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -246,8 +237,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-07-09</last-modified-date>
         </chief>
-        <chief>
-            <id>az-2015-ceku-01</id>
+        <chief id="az-2015-ceku-01">
             <person-id>cekuta-robert-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -273,8 +263,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>az-2019-litz-01</id>
+        <chief id="az-2019-litz-01">
             <person-id>litzenberger-earle-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -301,9 +290,8 @@
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees>
-        <chief>
-            <id>az--bryz-01</id>
+    <other-nomines>
+        <chief id="az--bryz-01">
             <person-id>bryza-matthew-j</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>azerbaijan</contemporary-territory-id>
@@ -329,5 +317,5 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-08-26</last-modified-date>
         </chief>
-    </other-nominees>
+    </other-nomines>
 </country-mission>

@@ -2,8 +2,7 @@
 <country-mission>
     <territory-id>gabon</territory-id>
     <chiefs>
-        <chief>
-            <id>ga-1960-luke-01</id>
+        <chief id="ga-1960-luke-01">
             <person-id>lukens-alan-wood</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -29,8 +28,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1961-blan-01</id>
+        <chief id="ga-1961-blan-01">
             <person-id>blancke-wilton-wendell</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -59,8 +57,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1961-darl-01</id>
+        <chief id="ga-1961-darl-01">
             <person-id>darlington-charles-francis</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -86,8 +83,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1965-bane-01</id>
+        <chief id="ga-1965-bane-01">
             <person-id>bane-david-morgan</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -113,8 +109,7 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1969-funk-01</id>
+        <chief id="ga-1969-funk-01">
             <person-id>funkhouser-richard-edgar</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -140,8 +135,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-08</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1971-mcke-01</id>
+        <chief id="ga-1971-mcke-01">
             <person-id>mckesson-john-alexander</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -167,8 +161,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-04-15</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1975-stei-01</id>
+        <chief id="ga-1975-stei-01">
             <person-id>steigman-andrew-lee</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -194,8 +187,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1978-tien-01</id>
+        <chief id="ga-1978-tien-01">
             <person-id>tienken-arthur-t</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -221,8 +213,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1982-mcna-01</id>
+        <chief id="ga-1982-mcna-01">
             <person-id>mcnamara-francis-terry</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -248,8 +239,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1984-will-01</id>
+        <chief id="ga-1984-will-01">
             <person-id>williamson-larry-c</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -275,8 +265,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1987-clar-01</id>
+        <chief id="ga-1987-clar-01">
             <person-id>clark-warren-jr</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -302,8 +291,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1989-wauc-01</id>
+        <chief id="ga-1989-wauc-01">
             <person-id>wauchope-keith-leveret</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -329,8 +317,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1992-wils-01</id>
+        <chief id="ga-1992-wils-01">
             <person-id>wilson-joseph-charles</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -356,8 +343,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1995-rasp-01</id>
+        <chief id="ga-1995-rasp-01">
             <person-id>raspolic-elizabeth</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -383,8 +369,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-1998-lede-01</id>
+        <chief id="ga-1998-lede-01">
             <person-id>ledesma-james-vela</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -410,8 +395,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-10</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-2001-daug-01</id>
+        <chief id="ga-2001-daug-01">
             <person-id>daughton-thomas-frederick</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -437,8 +421,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-2002-moor-01</id>
+        <chief id="ga-2002-moor-01">
             <person-id>moorefield-kenneth-price</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -464,8 +447,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-2004-walk-01</id>
+        <chief id="ga-2004-walk-01">
             <person-id>walkley-r-barrie</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -491,8 +473,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-2007-redd-01</id>
+        <chief id="ga-2007-redd-01">
             <person-id>reddick-eunice-s</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -518,8 +499,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-2010-benj-01</id>
+        <chief id="ga-2010-benj-01">
             <person-id>benjaminson-eric-d</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -545,8 +525,7 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-2014-akue-01</id>
+        <chief id="ga-2014-akue-01">
             <person-id>akuetteh-cynthia-helen</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -572,8 +551,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-2018-dani-01</id>
+        <chief id="ga-2018-dani-01">
             <person-id>danies-joel</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -599,8 +577,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-2019-whit-01</id>
+        <chief id="ga-2019-whit-01">
             <person-id>whitehead-robert-e</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -626,8 +603,7 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-10-06</last-modified-date>
         </chief>
-        <chief>
-            <id>ga-2020-wats-01</id>
+        <chief id="ga-2020-wats-01">
             <person-id>watson-samuel-robert</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
             <contemporary-territory-id>gabon</contemporary-territory-id>
@@ -654,5 +630,5 @@
             <last-modified-date>2020-10-05</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/>
+    <other-nomines/>
 </country-mission>
