@@ -299,32 +299,6 @@
             <last-modified-date>2019-05-23</last-modified-date>
         </chief>
         <chief>
-            <id>unaf-2019-tom</id>
-            <person-id>tom-kip</person-id>
-            <role-title-id>representative-to-unafa</role-title-id>
-            <appointed>
-                <date>2019-04-16</date>
-                <note/>
-            </appointed>
-            <arrived>
-                <date>2019-05-12</date>
-                <note/>
-            </arrived>
-            <started>
-                <date/>
-                <note/>
-            </started>
-            <ended>
-                <date>2021-01-19</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>bottsjd</created-by>
-            <created-date>2019-05-23</created-date>
-            <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2021-02-05</last-modified-date>
-        </chief>
-        <chief>
             <id>uneo-2017-alle</id>
             <person-id>allegra-theodore</person-id>
             <role-title-id>charge-daffaires-ad-interim</role-title-id>
@@ -349,6 +323,32 @@
             <created-date>2014-07-15</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-10-25</last-modified-date>
+        </chief>
+        <chief>
+            <id>unaf-2019-tom</id>
+            <person-id>tom-kip</person-id>
+            <role-title-id>representative-to-unafa</role-title-id>
+            <appointed>
+                <date>2019-04-16</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2019-05-12</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>2021-01-19</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-05-23</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
         <chief>
             <id>unaf-2021-mcca-01</id>
