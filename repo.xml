@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<meta xmlns="http://exist-db.org/xquery/repo" commit-id="61bec335e6e51c4804b3fc960164445fb33f7772" commit-time="1659362592">
+<meta commit-id="61bec335e6e51c4804b3fc960164445fb33f7772" commit-time="1659362592"
+    xmlns="http://exist-db.org/xquery/repo">
     <description>Principal Officers &amp; Chiefs of Mission (data)</description>
     <author>Office of the Historian</author>
     <website>https://history.state.gov</website>
@@ -10,5 +11,5 @@
     <target>pocom</target>
     <prepare>pre-install.xql</prepare>
     <finish/>
-    <permissions password="" user="hsg" group="hsg" mode="rw-rw-r--"/>
+    <permissions group="hsg" mode="rw-rw-r--" password="" user="hsg"/>
 </meta>
