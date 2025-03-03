@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <id>blinken-antony</id>
+    <id>blinken-antony-j</id>
+    <old-ids>
+        <old-id>blinken-antony</old-id>
+    </old-ids>
     <persName>
         <surname>Blinken</surname>
-        <forename>Antony</forename>
+        <forename>Antony John</forename>
     </persName>
     <birth>1962</birth>
     <death/>
@@ -13,6 +16,6 @@
     </residence>
     <created-by>marrsaw</created-by>
     <created-date>2015-05-05</created-date>
-    <last-modified-by>marrsaw</last-modified-by>
-    <last-modified-date>2016-12-14</last-modified-date>
+    <last-modified-by>bottsjd</last-modified-by>
+    <last-modified-date>2025-02-20</last-modified-date>
 </person>
