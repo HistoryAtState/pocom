@@ -8,7 +8,7 @@
                 <!-- start required facets and fields -->
                 <facet dimension="hsg-category" expression="'department'"/>
                 <facet dimension="hsg-publication" expression="'pocom'"/>
-                <field name="hsg-fulltext"/>
+                <field name="hsg-fulltext" store="no"/>
                 <field expression="'/departmenthistory/people/' || parent::person/id" name="hsg-url"/>
                 <!-- end required facets and fields -->
             </text>
